@@ -1,0 +1,95 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt8290502/fullcredits/",
+    "title": "Levi's: Crazy Legs (Video 2002)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Jonze",
+                    "link": "https://www.imdb.com/name/nm0005069/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Chuck McBride",
+                    "link": "https://www.imdb.com/name/nm9701057/?ref_=ttfc_fc_wr1",
+                    "credit": "(copywriter)",
+                    "normalized_credit": [
+                        "copywriter"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Billy Beckett",
+                    "link": "https://www.imdb.com/name/nm9777691/?ref_=ttfc_fc_cr",
+                    "credit": "assistant producer",
+                    "normalized_credit": [
+                        "assistant producer"
+                    ]
+                },
+                {
+                    "name": "Jennifer Golub",
+                    "link": "https://www.imdb.com/name/nm8205378/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Vincent Landay",
+                    "link": "https://www.imdb.com/name/nm0484504/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Haines Hall",
+                    "link": "https://www.imdb.com/name/nm0355629/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Jon Soto",
+                    "link": "https://www.imdb.com/name/nm9777692/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Chuck McBride",
+                    "link": "https://www.imdb.com/name/nm9701057/?ref_=ttfc_fc_cr",
+                    "credit": "creative director",
+                    "normalized_credit": [
+                        "creative director"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

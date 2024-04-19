@@ -1,0 +1,62 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt7975708/fullcredits/",
+    "title": "Red Hot Chili Peppers: Desecration Smile (Music Video 2007)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Gus Van Sant",
+                    "link": "https://www.imdb.com/name/nm0001814/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "David Allen Cress",
+                    "link": "https://www.imdb.com/name/nm1140084/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Neil Kopp",
+                    "link": "https://www.imdb.com/name/nm1965828/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Devin Sarno",
+                    "link": "https://www.imdb.com/name/nm1074952/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Harris Savides",
+                    "link": "https://www.imdb.com/name/nm0767647/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        }
+    ],
+    "imdb_details": {}
+}

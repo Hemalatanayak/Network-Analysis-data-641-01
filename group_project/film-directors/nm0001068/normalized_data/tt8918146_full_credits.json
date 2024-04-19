@@ -1,0 +1,54 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt8918146/fullcredits/",
+    "title": "Dior: Miss Dior Cherie (Video 2009)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Sofia Coppola",
+                    "link": "https://www.imdb.com/name/nm0001068/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Harris Savides",
+                    "link": "https://www.imdb.com/name/nm0767647/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Boris Abaza",
+                    "link": "https://www.imdb.com/name/nm1135039/?ref_=ttfc_fc_cr",
+                    "credit": "cinematographer: 2nd unit",
+                    "normalized_credit": [
+                        "cinematographer"
+                    ]
+                },
+                {
+                    "name": "H\u00e9l\u00e8ne Degrandcourt",
+                    "link": "https://www.imdb.com/name/nm2169662/?ref_=ttfc_fc_cr",
+                    "credit": "2nd unit",
+                    "normalized_credit": [
+                        "2nd unit"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,142 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt20722724/fullcredits/",
+    "title": "Nike: Seen It All (Video 2022)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Lee",
+                    "link": "https://www.imdb.com/name/nm0000490/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Antonio Burnett",
+                    "link": "https://www.imdb.com/name/nm10854053/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Jason Sokoloff",
+                    "link": "https://www.imdb.com/name/nm2571166/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Robert Duffy",
+                    "link": "https://www.imdb.com/name/nm0240609/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Matt Blum",
+                    "link": "https://www.imdb.com/name/nm13713381/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Ryan O'Rourke",
+                    "link": "https://www.imdb.com/name/nm9745108/?ref_=ttfc_fc_cr",
+                    "credit": "creative director",
+                    "normalized_credit": [
+                        "creative director"
+                    ]
+                },
+                {
+                    "name": "Alberto Ponte",
+                    "link": "https://www.imdb.com/name/nm13713380/?ref_=ttfc_fc_cr",
+                    "credit": "creative director",
+                    "normalized_credit": [
+                        "creative director"
+                    ]
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Naomi Spiro",
+                    "link": "https://www.imdb.com/name/nm2512547/?ref_=ttfc_fc_cr",
+                    "credit": "post-production supervisor",
+                    "normalized_credit": [
+                        "post-production supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Philip Stockton",
+                    "link": "https://www.imdb.com/name/nm0830958/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Mario Stipinovich",
+                    "link": "https://www.imdb.com/name/nm7374660/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects supervisor",
+                    "normalized_credit": [
+                        "visual effects supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Alexandra Torterotot",
+                    "link": "https://www.imdb.com/name/nm2035464/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,67 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt11661420/fullcredits/",
+    "title": "Fine Line (1984)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Ang Lee",
+                    "link": "https://www.imdb.com/name/nm0000487/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Ang Lee",
+                    "link": "https://www.imdb.com/name/nm0000487/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Daniel Joseph Dee",
+                    "link": "https://www.imdb.com/name/nm1705904/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Bobby Bukowski",
+                    "link": "https://www.imdb.com/name/nm0119785/?ref_=ttfc_fc_cr",
+                    "credit": "(as Bob Bukowski)"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Ang Lee",
+                    "link": "https://www.imdb.com/name/nm0000487/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        }
+    ],
+    "imdb_details": {}
+}

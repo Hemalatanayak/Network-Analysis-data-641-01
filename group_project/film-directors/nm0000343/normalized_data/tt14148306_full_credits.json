@@ -1,0 +1,106 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt14148306/fullcredits/",
+    "title": "At the Suicide of the Last Jew in the World in the Last Cinema in the World (2007)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Cronenberg",
+                    "link": "https://www.imdb.com/name/nm0000343/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "David Cronenberg",
+                    "link": "https://www.imdb.com/name/nm0000343/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Gilles Jacob",
+                    "link": "https://www.imdb.com/name/nm0414201/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Chris Wallace",
+                    "link": "https://www.imdb.com/name/nm0908565/?ref_=ttfc_fc_cr",
+                    "credit": "Colorist",
+                    "normalized_credit": [
+                        "colorist"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "John Bannister",
+                    "link": "https://www.imdb.com/name/nm13718432/?ref_=ttfc_fc_cr",
+                    "credit": "collaborator",
+                    "normalized_credit": [
+                        "collaborator"
+                    ]
+                },
+                {
+                    "name": "Deirdre Bowen",
+                    "link": "https://www.imdb.com/name/nm0100831/?ref_=ttfc_fc_cr",
+                    "credit": "collaborator",
+                    "normalized_credit": [
+                        "collaborator"
+                    ]
+                },
+                {
+                    "name": "Brandon Cronenberg",
+                    "link": "https://www.imdb.com/name/nm0188722/?ref_=ttfc_fc_cr",
+                    "credit": "collaborator",
+                    "normalized_credit": [
+                        "collaborator"
+                    ]
+                },
+                {
+                    "name": "Howard Shore",
+                    "link": "https://www.imdb.com/name/nm0006290/?ref_=ttfc_fc_cr",
+                    "credit": "collaborator",
+                    "normalized_credit": [
+                        "collaborator"
+                    ]
+                },
+                {
+                    "name": "Carolyn Zeifman",
+                    "link": "https://www.imdb.com/name/nm13718431/?ref_=ttfc_fc_cr",
+                    "credit": "collaborator",
+                    "normalized_credit": [
+                        "collaborator"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

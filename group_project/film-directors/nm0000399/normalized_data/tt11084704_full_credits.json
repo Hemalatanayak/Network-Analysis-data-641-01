@@ -1,0 +1,88 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt11084704/fullcredits/",
+    "title": "Beer Run (2005)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Fincher",
+                    "link": "https://www.imdb.com/name/nm0000399/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Claudio Miranda",
+                    "link": "https://www.imdb.com/name/nm0592073/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Bob Wagner",
+                    "link": "https://www.imdb.com/name/nm0905810/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Richard Bennett",
+                    "link": "https://www.imdb.com/name/nm1635540/?ref_=ttfc_fc_cr",
+                    "credit": "storyboard artist",
+                    "normalized_credit": [
+                        "storyboard artist"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Ed Ulbrich",
+                    "link": "https://www.imdb.com/name/nm1261724/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects executive producer",
+                    "normalized_credit": [
+                        "visual effects executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Harold Skinner",
+                    "link": "https://www.imdb.com/name/nm0804256/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

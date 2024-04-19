@@ -1,0 +1,74 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt5365006/fullcredits/",
+    "title": "Paula Abdul: Cold Hearted (Music Video 1989)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Fincher",
+                    "link": "https://www.imdb.com/name/nm0000399/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Steve Golin",
+                    "link": "https://www.imdb.com/name/nm0326512/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Elliot Wolff",
+                    "link": "https://www.imdb.com/name/nm4134705/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Edie Robinette-Petrachi",
+                    "link": "https://www.imdb.com/name/nm2259048/?ref_=ttfc_fc_cr",
+                    "credit": "foley artist: footsteps - open and dancers",
+                    "normalized_credit": [
+                        "foley artist"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Jack Edward Sawyers",
+                    "link": "https://www.imdb.com/name/nm0768172/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant (as Jack Sawyers)",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,56 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6810052/fullcredits/",
+    "title": "Weezer: Undone",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Jonze",
+                    "link": "https://www.imdb.com/name/nm0005069/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Rivers Cuomo",
+                    "link": "https://www.imdb.com/name/nm1220530/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Nicola Pecorini",
+                    "link": "https://www.imdb.com/name/nm0669797/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Patty Gannon",
+                    "link": "https://www.imdb.com/name/nm1389459/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Haines Hall",
+                    "link": "https://www.imdb.com/name/nm0355629/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        }
+    ],
+    "imdb_details": {}
+}

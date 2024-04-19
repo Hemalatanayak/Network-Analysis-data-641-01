@@ -1,0 +1,98 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0167030/fullcredits/",
+    "title": "Beastie Boys: Sabotage (Music Video 1994)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Jonze",
+                    "link": "https://www.imdb.com/name/nm0005069/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Adam Horovitz",
+                    "link": "https://www.imdb.com/name/nm0395259/?ref_=ttfc_fc_wr1"
+                },
+                {
+                    "name": "Spike Jonze",
+                    "link": "https://www.imdb.com/name/nm0005069/?ref_=ttfc_fc_wr2"
+                },
+                {
+                    "name": "Adam Yauch",
+                    "link": "https://www.imdb.com/name/nm0946888/?ref_=ttfc_fc_wr3"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "David H. Barash",
+                    "link": "https://www.imdb.com/name/nm2172050/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Beastie Boys",
+                    "link": "https://www.imdb.com/name/nm1561997/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Arturo Smith",
+                    "link": "https://www.imdb.com/name/nm0807375/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Haines Hall",
+                    "link": "https://www.imdb.com/name/nm0355629/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Ren Rohling",
+                    "link": "https://www.imdb.com/name/nm3695296/?ref_=ttfc_fc_cr",
+                    "credit": "key makeup artist",
+                    "normalized_credit": [
+                        "key makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        }
+    ],
+    "imdb_details": {}
+}

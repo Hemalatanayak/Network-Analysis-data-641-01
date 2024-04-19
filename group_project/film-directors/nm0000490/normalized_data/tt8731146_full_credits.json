@@ -1,0 +1,46 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt8731146/fullcredits/",
+    "title": "Tracy Chapman: Born to Fight (Music Video 1990)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Lee",
+                    "link": "https://www.imdb.com/name/nm0000490/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Tracy Chapman",
+                    "link": "https://www.imdb.com/name/nm1102495/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Jonathan Burkhart",
+                    "link": "https://www.imdb.com/name/nm0122007/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

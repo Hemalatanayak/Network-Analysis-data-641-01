@@ -1,0 +1,152 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0244706/fullcredits/",
+    "title": "The Passion of Martin (1991)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Alexander Payne",
+                    "link": "https://www.imdb.com/name/nm0668247/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Alexander Payne",
+                    "link": "https://www.imdb.com/name/nm0668247/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                },
+                {
+                    "name": "Ernesto S\u00e1bato",
+                    "link": "https://www.imdb.com/name/nm0844531/?ref_=ttfc_fc_wr2",
+                    "credit": "(novel)",
+                    "normalized_credit": [
+                        "novel"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Evelyn Nussenbaum",
+                    "link": "https://www.imdb.com/name/nm1803443/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Alexander Payne",
+                    "link": "https://www.imdb.com/name/nm0668247/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "John O'Kennedy",
+                    "link": "https://www.imdb.com/name/nm0641543/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "David Rudd",
+                    "link": "https://www.imdb.com/name/nm0748606/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Alexander Payne",
+                    "link": "https://www.imdb.com/name/nm0668247/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Marla Mitchnick",
+                    "link": "https://www.imdb.com/name/nm3922337/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Tessa Posnansky",
+                    "link": "https://www.imdb.com/name/nm0692705/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Samuel Braslau",
+                    "link": "https://www.imdb.com/name/nm0105418/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Alexander Payne",
+                    "link": "https://www.imdb.com/name/nm0668247/?ref_=ttfc_fc_cr",
+                    "credit": "sound editor",
+                    "normalized_credit": [
+                        "sound editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Leslie Erganian",
+                    "link": "https://www.imdb.com/name/nm0258872/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer: Martin's photograph of age and lost beauty",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

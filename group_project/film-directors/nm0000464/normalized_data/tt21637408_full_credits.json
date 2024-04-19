@@ -1,0 +1,64 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt21637408/fullcredits/",
+    "title": "Cat Power: A Pair of Brown Eyes (Music Video 2022)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Jim Jarmusch",
+                    "link": "https://www.imdb.com/name/nm0000464/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Carter Logan",
+                    "link": "https://www.imdb.com/name/nm2123941/?ref_=ttfc_fc_cr",
+                    "credit": "producer (produced by)",
+                    "normalized_credit": [
+                        "producer produced by"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Frederick Elmes",
+                    "link": "https://www.imdb.com/name/nm0005695/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Affonso Gon\u00e7alves",
+                    "link": "https://www.imdb.com/name/nm0328557/?ref_=ttfc_fc_cr",
+                    "credit": "(edited by)",
+                    "normalized_credit": [
+                        "edited by"
+                    ]
+                }
+            ],
+            "normalized role": "Editing by"
+        }
+    ],
+    "imdb_details": {}
+}

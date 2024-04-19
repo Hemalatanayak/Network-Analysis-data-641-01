@@ -1,0 +1,92 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0468950/fullcredits/",
+    "title": "Usher Live (Video 1999)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Antoine Fuqua",
+                    "link": "https://www.imdb.com/name/nm0298807/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Jack Gulick",
+                    "link": "https://www.imdb.com/name/nm1065367/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Jennifer Lebeau",
+                    "link": "https://www.imdb.com/name/nm1057632/?ref_=ttfc_fc_cr",
+                    "credit": "documentary producer",
+                    "normalized_credit": [
+                        "documentary producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Daniel Pearl",
+                    "link": "https://www.imdb.com/name/nm0669050/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Chris Lovett",
+                    "link": "https://www.imdb.com/name/nm0522656/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Jason Scianno",
+                    "link": "https://www.imdb.com/name/nm1294750/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Shoshana Horowitz",
+                    "link": "https://www.imdb.com/name/nm1189663/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

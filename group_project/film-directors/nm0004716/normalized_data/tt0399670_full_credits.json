@@ -1,0 +1,128 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0399670/fullcredits/",
+    "title": "Soldier Boyz (Video Game 1997)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Jed Weintrob",
+                    "link": "https://www.imdb.com/name/nm0918554/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Darren Aronofsky",
+                    "link": "https://www.imdb.com/name/nm0004716/?ref_=ttfc_fc_dr2",
+                    "credit": "(video segments)",
+                    "normalized_credit": [
+                        "video segments"
+                    ]
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Andrew Osborne",
+                    "link": "https://www.imdb.com/name/nm0651608/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Goyo Aranaga",
+                    "link": "https://www.imdb.com/name/nm0032964/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer (as Gregory Aranaga)",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Jeannette Draper",
+                    "link": "https://www.imdb.com/name/nm0237146/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "Brad Krevoy",
+                    "link": "https://www.imdb.com/name/nm0471097/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Steven Stabler",
+                    "link": "https://www.imdb.com/name/nm0820925/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Richard D. Titus",
+                    "link": "https://www.imdb.com/name/nm0864566/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Jed Weintrob",
+                    "link": "https://www.imdb.com/name/nm0918554/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Matthew Libatique",
+                    "link": "https://www.imdb.com/name/nm0508732/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "John Wolfenden",
+                    "link": "https://www.imdb.com/name/nm0938175/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Jackson Hamiter",
+                    "link": "https://www.imdb.com/name/nm8247239/?ref_=ttfc_fc_cr",
+                    "credit": "external quality assurance",
+                    "normalized_credit": [
+                        "external quality assurance"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

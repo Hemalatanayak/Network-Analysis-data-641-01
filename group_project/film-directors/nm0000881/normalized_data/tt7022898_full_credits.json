@@ -1,0 +1,70 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt7022898/fullcredits/",
+    "title": "Colin James: Keep on Lovin Me Baby (Music Video 1990)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Michael Bay",
+                    "link": "https://www.imdb.com/name/nm0000881/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Michael Bay",
+                    "link": "https://www.imdb.com/name/nm0000881/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Eric Barrett",
+                    "link": "https://www.imdb.com/name/nm0057126/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Otis Rush",
+                    "link": "https://www.imdb.com/name/nm1510857/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Daniel Camhi",
+                    "link": "https://www.imdb.com/name/nm0131772/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        }
+    ],
+    "imdb_details": {}
+}

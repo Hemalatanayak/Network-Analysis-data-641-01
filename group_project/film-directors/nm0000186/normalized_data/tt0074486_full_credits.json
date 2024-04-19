@@ -1,0 +1,488 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0074486/fullcredits/",
+    "title": "Eraserhead (1977)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) verified as complete",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Fred Baker",
+                    "link": "https://www.imdb.com/name/nm0048452/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer (uncredited)",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr",
+                    "credit": "producer (produced by)",
+                    "normalized_credit": [
+                        "producer produced by"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Herbert Cardwell",
+                    "link": "https://www.imdb.com/name/nm0136754/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Frederick Elmes",
+                    "link": "https://www.imdb.com/name/nm0005695/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Doreen G. Small",
+                    "link": "https://www.imdb.com/name/nm0806443/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Catherine E. Coulson",
+                    "link": "https://www.imdb.com/name/nm0183466/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to the director (as Catherine Coulson)",
+                    "normalized_credit": [
+                        "assistant to the director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects",
+                    "normalized_credit": [
+                        "sound effects"
+                    ]
+                },
+                {
+                    "name": "Alan Splet",
+                    "link": "https://www.imdb.com/name/nm0819263/?ref_=ttfc_fc_cr",
+                    "credit": "location sound (as Alan R. Splet) / sound editor (as Alan R. Splet) / sound effects (as Alan R. Splet)",
+                    "normalized_credit": [
+                        "location sound",
+                        "sound editor",
+                        "sound effects"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Frederick Elmes",
+                    "link": "https://www.imdb.com/name/nm0005695/?ref_=ttfc_fc_cr",
+                    "credit": "special photographic effects",
+                    "normalized_credit": [
+                        "special photographic effects"
+                    ]
+                },
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr",
+                    "credit": "special effects",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Herbert Cardwell",
+                    "link": "https://www.imdb.com/name/nm0136754/?ref_=ttfc_fc_cr",
+                    "credit": "lighting",
+                    "normalized_credit": [
+                        "lighting"
+                    ]
+                },
+                {
+                    "name": "Catherine E. Coulson",
+                    "link": "https://www.imdb.com/name/nm0183466/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                },
+                {
+                    "name": "Frederick Elmes",
+                    "link": "https://www.imdb.com/name/nm0005695/?ref_=ttfc_fc_cr",
+                    "credit": "lighting",
+                    "normalized_credit": [
+                        "lighting"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Jeanne Field",
+                    "link": "https://www.imdb.com/name/nm0275963/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "Michael Grody",
+                    "link": "https://www.imdb.com/name/nm0342853/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "Stephen Grody",
+                    "link": "https://www.imdb.com/name/nm0342854/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "Toby Keeler",
+                    "link": "https://www.imdb.com/name/nm0444530/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "Roger Lundy",
+                    "link": "https://www.imdb.com/name/nm0526660/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "John Lynch",
+                    "link": "https://www.imdb.com/name/nm1930413/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "Dennis Nance-Kivell",
+                    "link": "https://www.imdb.com/name/nm0620752/?ref_=ttfc_fc_cr",
+                    "credit": "crew (as Dennis Nance)",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "Anatol Pacanowsky",
+                    "link": "https://www.imdb.com/name/nm0655084/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "Carol Schreder",
+                    "link": "https://www.imdb.com/name/nm0775194/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Ron Barth",
+                    "link": "https://www.imdb.com/name/nm0058567/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Mars F. Baumgardt",
+                    "link": "https://www.imdb.com/name/nm0062318/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Ron Culbertson",
+                    "link": "https://www.imdb.com/name/nm0191359/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Frantisek Daniel",
+                    "link": "https://www.imdb.com/name/nm0199629/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Frank Daniel)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Richard Einfeld",
+                    "link": "https://www.imdb.com/name/nm0251831/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Jack Fisk",
+                    "link": "https://www.imdb.com/name/nm0279926/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Mary Fisk",
+                    "link": "https://www.imdb.com/name/nm0279933/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Kenneth E. Fix",
+                    "link": "https://www.imdb.com/name/nm0280703/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Ken Fix)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Marvin Goodwin",
+                    "link": "https://www.imdb.com/name/nm0329513/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Andre R. Guttfreund",
+                    "link": "https://www.imdb.com/name/nm0349722/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Andre Guttfreund)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Randy Hart",
+                    "link": "https://www.imdb.com/name/nm0366485/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Roman Harte",
+                    "link": "https://www.imdb.com/name/nm0366632/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "George T. Hutchison",
+                    "link": "https://www.imdb.com/name/nm0404443/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "David Khasky",
+                    "link": "https://www.imdb.com/name/nm0451493/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Jim King",
+                    "link": "https://www.imdb.com/name/nm0454863/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Margit Fellegi Laszlo",
+                    "link": "https://www.imdb.com/name/nm0271461/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Paul Leimbach",
+                    "link": "https://www.imdb.com/name/nm0500430/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "David Lunney",
+                    "link": "https://www.imdb.com/name/nm0526770/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Donald Lynch",
+                    "link": "https://www.imdb.com/name/nm9846782/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Mr. D.W. Lynch)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Edwina Lynch",
+                    "link": "https://www.imdb.com/name/nm9846781/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Mrs. D.W. Lynch)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Sarah Pillsbury",
+                    "link": "https://www.imdb.com/name/nm0683579/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Peggy Reavey",
+                    "link": "https://www.imdb.com/name/nm0528424/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Peggy Lynch)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Sidney P. Solow",
+                    "link": "https://www.imdb.com/name/nm0813558/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Sissy Spacek",
+                    "link": "https://www.imdb.com/name/nm0000651/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "George Stevens Jr.",
+                    "link": "https://www.imdb.com/name/nm0828211/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Antonio Vellani",
+                    "link": "https://www.imdb.com/name/nm0892599/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

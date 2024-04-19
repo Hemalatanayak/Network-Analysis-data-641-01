@@ -1,0 +1,44 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0240936/fullcredits/",
+    "title": "Stitches (1991)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Gina Prince-Bythewood",
+                    "link": "https://www.imdb.com/name/nm0697656/?ref_=ttfc_fc_dr1",
+                    "credit": "(as Gina Prince)"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Gina Prince-Bythewood",
+                    "link": "https://www.imdb.com/name/nm0697656/?ref_=ttfc_fc_wr1",
+                    "credit": "(as Gina Prince)"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Douglas Mazell",
+                    "link": "https://www.imdb.com/name/nm0563230/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        }
+    ],
+    "imdb_details": {}
+}

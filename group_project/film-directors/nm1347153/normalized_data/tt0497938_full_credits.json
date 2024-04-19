@@ -1,0 +1,163 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0497938/fullcredits/",
+    "title": "Meet the Browns (Video 2004)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Tyler Perry",
+                    "link": "https://www.imdb.com/name/nm1347153/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Tyler Perry",
+                    "link": "https://www.imdb.com/name/nm1347153/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Tyler Perry",
+                    "link": "https://www.imdb.com/name/nm1347153/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Karrieann Heisner Sillay",
+                    "link": "https://www.imdb.com/name/nm1058501/?ref_=ttfc_fc_cr",
+                    "credit": "makeup artist (as Karrieann Heisner)",
+                    "normalized_credit": [
+                        "makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Casting Department",
+            "crew": [
+                {
+                    "name": "Cach\u00e9t Johnson",
+                    "link": "https://www.imdb.com/name/nm2707698/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting assistant (as Cache't Ricks)",
+                    "normalized_credit": [
+                        "extras casting assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Casting Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Peter Ritter",
+                    "link": "https://www.imdb.com/name/nm1108152/?ref_=ttfc_fc_cr",
+                    "credit": "colorist",
+                    "normalized_credit": [
+                        "colorist"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Karen Marie Mason",
+                    "link": "https://www.imdb.com/name/nm3135389/?ref_=ttfc_fc_cr",
+                    "credit": "assistant location manager",
+                    "normalized_credit": [
+                        "assistant location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Rafael E. Gomez",
+                    "link": "https://www.imdb.com/name/nm11850352/?ref_=ttfc_fc_cr",
+                    "credit": "music assistant",
+                    "normalized_credit": [
+                        "music assistant"
+                    ]
+                },
+                {
+                    "name": "Joel C. High",
+                    "link": "https://www.imdb.com/name/nm0383573/?ref_=ttfc_fc_cr",
+                    "credit": "music supervisor",
+                    "normalized_credit": [
+                        "music supervisor"
+                    ]
+                },
+                {
+                    "name": "Ricky Holman",
+                    "link": "https://www.imdb.com/name/nm9597326/?ref_=ttfc_fc_cr",
+                    "credit": "music consultant",
+                    "normalized_credit": [
+                        "music consultant"
+                    ]
+                },
+                {
+                    "name": "Sami Posner",
+                    "link": "https://www.imdb.com/name/nm10981386/?ref_=ttfc_fc_cr",
+                    "credit": "music coordinator",
+                    "normalized_credit": [
+                        "music coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Katrina Adams",
+                    "link": "https://www.imdb.com/name/nm12117229/?ref_=ttfc_fc_cr",
+                    "credit": "merchandise/aj productions",
+                    "normalized_credit": [
+                        "merchise",
+                        "aj productions"
+                    ]
+                },
+                {
+                    "name": "Grace Baine",
+                    "link": "https://www.imdb.com/name/nm1140761/?ref_=ttfc_fc_cr",
+                    "credit": "stand-in",
+                    "normalized_credit": [
+                        "st-in"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,114 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt14610636/fullcredits/",
+    "title": "New York City Ballet (2021)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Sofia Coppola",
+                    "link": "https://www.imdb.com/name/nm0001068/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Sofia Coppola",
+                    "link": "https://www.imdb.com/name/nm0001068/?ref_=ttfc_fc_wr1",
+                    "credit": "(concept by)",
+                    "normalized_credit": [
+                        "concept by"
+                    ]
+                },
+                {
+                    "name": "Justin Peck",
+                    "link": "https://www.imdb.com/name/nm5968383/?ref_=ttfc_fc_wr2",
+                    "credit": "(concept by)",
+                    "normalized_credit": [
+                        "concept by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Rebekka Bjornsdottir",
+                    "link": "https://www.imdb.com/name/nm5124673/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Laura Snow",
+                    "link": "https://www.imdb.com/name/nm4405038/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Philippe Le Sourd",
+                    "link": "https://www.imdb.com/name/nm0494628/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Chad Sipkin",
+                    "link": "https://www.imdb.com/name/nm0802645/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Iusaset Bakr",
+                    "link": "https://www.imdb.com/name/nm11024051/?ref_=ttfc_fc_cr",
+                    "credit": "costumer",
+                    "normalized_credit": [
+                        "costumer"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Justin Peck",
+                    "link": "https://www.imdb.com/name/nm5968383/?ref_=ttfc_fc_cr",
+                    "credit": "choreographer",
+                    "normalized_credit": [
+                        "choreographer"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

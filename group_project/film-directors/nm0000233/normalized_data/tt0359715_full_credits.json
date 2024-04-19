@@ -1,0 +1,134 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0359715/fullcredits/",
+    "title": "My Best Friend's Birthday (1987)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Quentin Tarantino",
+                    "link": "https://www.imdb.com/name/nm0000233/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Craig Hamann",
+                    "link": "https://www.imdb.com/name/nm0357326/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                },
+                {
+                    "name": "Quentin Tarantino",
+                    "link": "https://www.imdb.com/name/nm0000233/?ref_=ttfc_fc_wr2",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Craig Hamann",
+                    "link": "https://www.imdb.com/name/nm0357326/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Quentin Tarantino",
+                    "link": "https://www.imdb.com/name/nm0000233/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Rand Vossler",
+                    "link": "https://www.imdb.com/name/nm0903745/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Roger Avary",
+                    "link": "https://www.imdb.com/name/nm0000812/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Scott Magill",
+                    "link": "https://www.imdb.com/name/nm0536087/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Roberto A. Quezada",
+                    "link": "https://www.imdb.com/name/nm0703410/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Rand Vossler",
+                    "link": "https://www.imdb.com/name/nm0903745/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Quentin Tarantino",
+                    "link": "https://www.imdb.com/name/nm0000233/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Dov Schwarz",
+                    "link": "https://www.imdb.com/name/nm0777557/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Fred Olen Ray",
+                    "link": "https://www.imdb.com/name/nm0676248/?ref_=ttfc_fc_cr",
+                    "credit": "camera provider",
+                    "normalized_credit": [
+                        "camera provider"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

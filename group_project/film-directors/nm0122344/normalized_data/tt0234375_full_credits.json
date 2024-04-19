@@ -1,0 +1,104 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0234375/fullcredits/",
+    "title": "Olivia's Story (2000)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Charles Burnett",
+                    "link": "https://www.imdb.com/name/nm0122344/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Dai Sil Kim-Gibson",
+                    "link": "https://www.imdb.com/name/nm0453766/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Dai Sil Kim-Gibson",
+                    "link": "https://www.imdb.com/name/nm0453766/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Stephen James Taylor",
+                    "link": "https://www.imdb.com/name/nm0853200/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Steve Schecter",
+                    "link": "https://www.imdb.com/name/nm0770398/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Charles Burnett",
+                    "link": "https://www.imdb.com/name/nm0122344/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Marcia Cooks",
+                    "link": "https://www.imdb.com/name/nm0177525/?ref_=ttfc_fc_cr",
+                    "credit": "makeup artist",
+                    "normalized_credit": [
+                        "makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Jon Oh",
+                    "link": "https://www.imdb.com/name/nm0644889/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        }
+    ],
+    "imdb_details": {}
+}

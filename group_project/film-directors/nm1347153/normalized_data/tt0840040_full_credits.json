@@ -1,0 +1,144 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0840040/fullcredits/",
+    "title": "Why Did I Get Married? (Video 2006)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Tyler Perry",
+                    "link": "https://www.imdb.com/name/nm1347153/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Tyler Perry",
+                    "link": "https://www.imdb.com/name/nm1347153/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Amy Bolton-Curley",
+                    "link": "https://www.imdb.com/name/nm2354912/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Tyler Perry",
+                    "link": "https://www.imdb.com/name/nm1347153/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Eddie Evans",
+                    "link": "https://www.imdb.com/name/nm0262724/?ref_=ttfc_fc_cr",
+                    "credit": "rigging key grip",
+                    "normalized_credit": [
+                        "rigging key grip"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Will Tolbert",
+                    "link": "https://www.imdb.com/name/nm4230931/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "William 'Worm' Blount Jr.",
+                    "link": "https://www.imdb.com/name/nm13089174/?ref_=ttfc_fc_cr",
+                    "credit": "musical director",
+                    "normalized_credit": [
+                        "musical director"
+                    ]
+                },
+                {
+                    "name": "Rafael E. Gomez",
+                    "link": "https://www.imdb.com/name/nm11850352/?ref_=ttfc_fc_cr",
+                    "credit": "music assistant",
+                    "normalized_credit": [
+                        "music assistant"
+                    ]
+                },
+                {
+                    "name": "Joel C. High",
+                    "link": "https://www.imdb.com/name/nm0383573/?ref_=ttfc_fc_cr",
+                    "credit": "music supervisor",
+                    "normalized_credit": [
+                        "music supervisor"
+                    ]
+                },
+                {
+                    "name": "Ricky Holman",
+                    "link": "https://www.imdb.com/name/nm9597326/?ref_=ttfc_fc_cr",
+                    "credit": "music consultant",
+                    "normalized_credit": [
+                        "music consultant"
+                    ]
+                },
+                {
+                    "name": "Sami Posner",
+                    "link": "https://www.imdb.com/name/nm10981386/?ref_=ttfc_fc_cr",
+                    "credit": "music coordinator",
+                    "normalized_credit": [
+                        "music coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Mike Sansom",
+                    "link": "https://www.imdb.com/name/nm3395490/?ref_=ttfc_fc_cr",
+                    "credit": "electrician/stagehand/house crew",
+                    "normalized_credit": [
+                        "electrician",
+                        "stageh",
+                        "house crew"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

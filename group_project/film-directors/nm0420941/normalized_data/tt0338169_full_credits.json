@@ -1,0 +1,66 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0338169/fullcredits/",
+    "title": "Just Drive (2001)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Patty Jenkins",
+                    "link": "https://www.imdb.com/name/nm0420941/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Patty Jenkins",
+                    "link": "https://www.imdb.com/name/nm0420941/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Reyna Rosenshein",
+                    "link": "https://www.imdb.com/name/nm0742680/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Guy Livneh",
+                    "link": "https://www.imdb.com/name/nm0515355/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Lisa Cage",
+                    "link": "https://www.imdb.com/name/nm0128510/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,189 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0122710/fullcredits/",
+    "title": "Shopping for Fangs (1997)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Quentin Lee",
+                    "link": "https://www.imdb.com/name/nm0004250/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Justin Lin",
+                    "link": "https://www.imdb.com/name/nm0510912/?ref_=ttfc_fc_dr2"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Dan Alvarado",
+                    "link": "https://www.imdb.com/name/nm0023141/?ref_=ttfc_fc_wr1"
+                },
+                {
+                    "name": "Quentin Lee",
+                    "link": "https://www.imdb.com/name/nm0004250/?ref_=ttfc_fc_wr2"
+                },
+                {
+                    "name": "Justin Lin",
+                    "link": "https://www.imdb.com/name/nm0510912/?ref_=ttfc_fc_wr3"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) complete, awaiting verification",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Quentin Lee",
+                    "link": "https://www.imdb.com/name/nm0004250/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Stanley Yung",
+                    "link": "https://www.imdb.com/name/nm0950956/?ref_=ttfc_fc_cr",
+                    "credit": "line producer",
+                    "normalized_credit": [
+                        "line producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Steven Pranoto",
+                    "link": "https://www.imdb.com/name/nm0695233/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Lisa Wiegand",
+                    "link": "https://www.imdb.com/name/nm0927332/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Quentin Lee",
+                    "link": "https://www.imdb.com/name/nm0004250/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Justin Lin",
+                    "link": "https://www.imdb.com/name/nm0510912/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Suan Toon Yeo",
+                    "link": "https://www.imdb.com/name/nm0947510/?ref_=ttfc_fc_cr",
+                    "credit": "(as Sean Yeo)"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Deeya Loram",
+                    "link": "https://www.imdb.com/name/nm0520324/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Markus Innocenti",
+                    "link": "https://www.imdb.com/name/nm0409212/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "David Colclasure",
+                    "link": "https://www.imdb.com/name/nm1265488/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                },
+                {
+                    "name": "Joel Juarez",
+                    "link": "https://www.imdb.com/name/nm1266124/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "Darren Paletz",
+                    "link": "https://www.imdb.com/name/nm2276875/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer (as Darren J. Paletz)",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                },
+                {
+                    "name": "Brian Pomerantz",
+                    "link": "https://www.imdb.com/name/nm2414396/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Quentin Lee",
+                    "link": "https://www.imdb.com/name/nm0004250/?ref_=ttfc_fc_cr",
+                    "credit": "body double: \"Phil\"",
+                    "normalized_credit": [
+                        "body double"
+                    ]
+                },
+                {
+                    "name": "Asia Leone",
+                    "link": "https://www.imdb.com/name/nm1526577/?ref_=ttfc_fc_cr",
+                    "credit": "body double: \"Sammi\"",
+                    "normalized_credit": [
+                        "body double"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

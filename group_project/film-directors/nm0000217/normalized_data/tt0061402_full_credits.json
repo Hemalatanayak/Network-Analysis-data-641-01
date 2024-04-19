@@ -1,0 +1,98 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0061402/fullcredits/",
+    "title": "The Big Shave (1967)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Martin Scorsese",
+                    "link": "https://www.imdb.com/name/nm0000217/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Martin Scorsese",
+                    "link": "https://www.imdb.com/name/nm0000217/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Martin Scorsese",
+                    "link": "https://www.imdb.com/name/nm0000217/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Ares Demertzis",
+                    "link": "https://www.imdb.com/name/nm0578608/?ref_=ttfc_fc_cr",
+                    "credit": "(camera)",
+                    "normalized_credit": [
+                        "camera"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Martin Scorsese",
+                    "link": "https://www.imdb.com/name/nm0000217/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Ken Gaulin",
+                    "link": "https://www.imdb.com/name/nm0310076/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Eli F. Bleich",
+                    "link": "https://www.imdb.com/name/nm0088182/?ref_=ttfc_fc_cr",
+                    "credit": "special effects (as Eli Bleich)",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        }
+    ],
+    "imdb_details": {}
+}

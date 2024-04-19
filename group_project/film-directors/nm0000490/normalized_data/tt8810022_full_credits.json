@@ -1,0 +1,98 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt8810022/fullcredits/",
+    "title": "Seu Jorge: Arena Brasileira (Music Video 2013)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Lee",
+                    "link": "https://www.imdb.com/name/nm0000490/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Douglas Costa",
+                    "link": "https://www.imdb.com/name/nm10022192/?ref_=ttfc_fc_cr",
+                    "credit": "producer (produced by)",
+                    "normalized_credit": [
+                        "producer produced by"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Lula Carvalho",
+                    "link": "https://www.imdb.com/name/nm0142464/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Vinicius Prado Martins",
+                    "link": "https://www.imdb.com/name/nm2804325/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Fernanda Neves",
+                    "link": "https://www.imdb.com/name/nm3473843/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Felipe Machado",
+                    "link": "https://www.imdb.com/name/nm3188804/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Lucas Assun\u00e7\u00e3o",
+                    "link": "https://www.imdb.com/name/nm6714756/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

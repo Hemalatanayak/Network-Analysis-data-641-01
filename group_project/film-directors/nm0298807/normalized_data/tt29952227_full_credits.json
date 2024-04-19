@@ -1,0 +1,106 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt29952227/fullcredits/",
+    "title": "Untitled Denzel Washington Project",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Antoine Fuqua",
+                    "link": "https://www.imdb.com/name/nm0298807/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "John Logan",
+                    "link": "https://www.imdb.com/name/nm0517589/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Antoine Fuqua",
+                    "link": "https://www.imdb.com/name/nm0298807/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Adam Goldworm",
+                    "link": "https://www.imdb.com/name/nm0326411/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Jeremy Lott",
+                    "link": "https://www.imdb.com/name/nm3134774/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Frank Rodriguez Moll",
+                    "link": "https://www.imdb.com/name/nm5423061/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Erik Olsen",
+                    "link": "https://www.imdb.com/name/nm1752591/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Denzel Washington",
+                    "link": "https://www.imdb.com/name/nm0000243/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Robert Richardson",
+                    "link": "https://www.imdb.com/name/nm0724744/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Conrad Buff IV",
+                    "link": "https://www.imdb.com/name/nm0119322/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        }
+    ],
+    "imdb_details": {}
+}

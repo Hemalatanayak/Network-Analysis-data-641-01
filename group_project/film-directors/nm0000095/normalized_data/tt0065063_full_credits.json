@@ -1,0 +1,544 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0065063/fullcredits/",
+    "title": "Take the Money and Run (1969)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Woody Allen",
+                    "link": "https://www.imdb.com/name/nm0000095/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Woody Allen",
+                    "link": "https://www.imdb.com/name/nm0000095/?ref_=ttfc_fc_wr1",
+                    "credit": "(original screenplay) and",
+                    "normalized_credit": [
+                        "original screenplay"
+                    ]
+                },
+                {
+                    "name": "Mickey Rose",
+                    "link": "https://www.imdb.com/name/nm0741582/?ref_=ttfc_fc_wr2",
+                    "credit": "(original screenplay)",
+                    "normalized_credit": [
+                        "original screenplay"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) verified as complete",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Sidney Glazier",
+                    "link": "https://www.imdb.com/name/nm0322263/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Jack Grossberg",
+                    "link": "https://www.imdb.com/name/nm0343532/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Charles H. Joffe",
+                    "link": "https://www.imdb.com/name/nm0423618/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Jack Rollins",
+                    "link": "https://www.imdb.com/name/nm0738435/?ref_=ttfc_fc_cr",
+                    "credit": "producer (uncredited)",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Edgar J. Scherick",
+                    "link": "https://www.imdb.com/name/nm0771062/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer (uncredited)",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Marvin Hamlisch",
+                    "link": "https://www.imdb.com/name/nm0006121/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Lester Shorr",
+                    "link": "https://www.imdb.com/name/nm0795012/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                },
+                {
+                    "name": "Fouad Said",
+                    "link": "https://www.imdb.com/name/nm0756431/?ref_=ttfc_fc_cr",
+                    "credit": "(uncredited)"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Paul Jordan",
+                    "link": "https://www.imdb.com/name/nm0430131/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Ron Kalish",
+                    "link": "https://www.imdb.com/name/nm0435894/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Marvin Paige",
+                    "link": "https://www.imdb.com/name/nm0656731/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Fred Harpman",
+                    "link": "https://www.imdb.com/name/nm0364010/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Set Decoration by",
+            "crew": [
+                {
+                    "name": "Marvin March",
+                    "link": "https://www.imdb.com/name/nm0545322/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Set Decoration by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Stanley R. Dufford",
+                    "link": "https://www.imdb.com/name/nm0240480/?ref_=ttfc_fc_cr",
+                    "credit": "makeup artist",
+                    "normalized_credit": [
+                        "makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Fred T. Gallo",
+                    "link": "https://www.imdb.com/name/nm0303031/?ref_=ttfc_fc_cr",
+                    "credit": "unit manager",
+                    "normalized_credit": [
+                        "unit manager"
+                    ]
+                },
+                {
+                    "name": "Jack Grossberg",
+                    "link": "https://www.imdb.com/name/nm0343532/?ref_=ttfc_fc_cr",
+                    "credit": "unit production manager",
+                    "normalized_credit": [
+                        "unit production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Walter Hill",
+                    "link": "https://www.imdb.com/name/nm0001353/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant director",
+                    "normalized_credit": [
+                        "second assistant director"
+                    ]
+                },
+                {
+                    "name": "Louis A. Stroller",
+                    "link": "https://www.imdb.com/name/nm0834870/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                },
+                {
+                    "name": "Stanley Ackerman",
+                    "link": "https://www.imdb.com/name/nm0010015/?ref_=ttfc_fc_cr",
+                    "credit": "second second assistant director (uncredited)",
+                    "normalized_credit": [
+                        "second second assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Ted Moehnke",
+                    "link": "https://www.imdb.com/name/nm0595414/?ref_=ttfc_fc_cr",
+                    "credit": "construction supervisor (as Theodore Moehnke)",
+                    "normalized_credit": [
+                        "construction supervisor"
+                    ]
+                },
+                {
+                    "name": "Ken Phelps",
+                    "link": "https://www.imdb.com/name/nm0679812/?ref_=ttfc_fc_cr",
+                    "credit": "set propertyman",
+                    "normalized_credit": [
+                        "set propertyman"
+                    ]
+                },
+                {
+                    "name": "Chardin W. Smith",
+                    "link": "https://www.imdb.com/name/nm1091297/?ref_=ttfc_fc_cr",
+                    "credit": "chargeman painter",
+                    "normalized_credit": [
+                        "chargeman painter"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Bud Alper",
+                    "link": "https://www.imdb.com/name/nm0022356/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                },
+                {
+                    "name": "Sanford Rackow",
+                    "link": "https://www.imdb.com/name/nm0705242/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "John Strauss",
+                    "link": "https://www.imdb.com/name/nm0833824/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Dick Vorisek",
+                    "link": "https://www.imdb.com/name/nm0903459/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording engineer (as Richard Vorisek)",
+                    "normalized_credit": [
+                        "re-recording engineer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "A.D. Flowers",
+                    "link": "https://www.imdb.com/name/nm0283166/?ref_=ttfc_fc_cr",
+                    "credit": "special effects",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Carol Daniels",
+                    "link": "https://www.imdb.com/name/nm0199859/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Til Gabani",
+                    "link": "https://www.imdb.com/name/nm0299933/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator (as Till Gabbani)",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Morton Gorowitz",
+                    "link": "https://www.imdb.com/name/nm0331264/?ref_=ttfc_fc_cr",
+                    "credit": "lighting supervisor",
+                    "normalized_credit": [
+                        "lighting supervisor"
+                    ]
+                },
+                {
+                    "name": "Fred Hoffman",
+                    "link": "https://www.imdb.com/name/nm1088781/?ref_=ttfc_fc_cr",
+                    "credit": "photographer: second unit",
+                    "normalized_credit": [
+                        "photographer"
+                    ]
+                },
+                {
+                    "name": "Harry Stern",
+                    "link": "https://www.imdb.com/name/nm0827708/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Jack H. Wilson",
+                    "link": "https://www.imdb.com/name/nm0933539/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                },
+                {
+                    "name": "Bruce Catlin",
+                    "link": "https://www.imdb.com/name/nm0146190/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera (uncredited)",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                },
+                {
+                    "name": "William Mendenhall",
+                    "link": "https://www.imdb.com/name/nm0578914/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator (uncredited)",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Erick M. Hjemik",
+                    "link": "https://www.imdb.com/name/nm0387056/?ref_=ttfc_fc_cr",
+                    "credit": "wardrobe supervisor",
+                    "normalized_credit": [
+                        "wardrobe supervisor"
+                    ]
+                },
+                {
+                    "name": "Bob Wolfe",
+                    "link": "https://www.imdb.com/name/nm0938001/?ref_=ttfc_fc_cr",
+                    "credit": "set wardrobe",
+                    "normalized_credit": [
+                        "set wardrobe"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "James T. Heckert",
+                    "link": "https://www.imdb.com/name/nm0373048/?ref_=ttfc_fc_cr",
+                    "credit": "supervising editor",
+                    "normalized_credit": [
+                        "supervising editor"
+                    ]
+                },
+                {
+                    "name": "Ralph Rosenblum",
+                    "link": "https://www.imdb.com/name/nm0742471/?ref_=ttfc_fc_cr",
+                    "credit": "editorial consultant",
+                    "normalized_credit": [
+                        "editorial consultant"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Fouad Said",
+                    "link": "https://www.imdb.com/name/nm0756431/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Felix Giglio",
+                    "link": "https://www.imdb.com/name/nm0317633/?ref_=ttfc_fc_cr",
+                    "credit": "music supervisor",
+                    "normalized_credit": [
+                        "music supervisor"
+                    ]
+                },
+                {
+                    "name": "Frank Kulaga",
+                    "link": "https://www.imdb.com/name/nm0474414/?ref_=ttfc_fc_cr",
+                    "credit": "music recordist",
+                    "normalized_credit": [
+                        "music recordist"
+                    ]
+                },
+                {
+                    "name": "Kermit Levinsky",
+                    "link": "https://www.imdb.com/name/nm0506007/?ref_=ttfc_fc_cr",
+                    "credit": "conductor / orchestrator",
+                    "normalized_credit": [
+                        "conductor",
+                        "orchestrator"
+                    ]
+                },
+                {
+                    "name": "Sanford Rackow",
+                    "link": "https://www.imdb.com/name/nm0705242/?ref_=ttfc_fc_cr",
+                    "credit": "music editor",
+                    "normalized_credit": [
+                        "music editor"
+                    ]
+                },
+                {
+                    "name": "John Strauss",
+                    "link": "https://www.imdb.com/name/nm0833824/?ref_=ttfc_fc_cr",
+                    "credit": "music editor",
+                    "normalized_credit": [
+                        "music editor"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Jeanetta L. Hoyle",
+                    "link": "https://www.imdb.com/name/nm0398382/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor (as Jeanetta Lewis)",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Don Boutyette",
+                    "link": "https://www.imdb.com/name/nm1089210/?ref_=ttfc_fc_cr",
+                    "credit": "unit publicist",
+                    "normalized_credit": [
+                        "unit publicist"
+                    ]
+                },
+                {
+                    "name": "Henry Polonsky",
+                    "link": "https://www.imdb.com/name/nm0689804/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant (as Hank Polonsky)",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Bert Schneiderman",
+                    "link": "https://www.imdb.com/name/nm0774083/?ref_=ttfc_fc_cr",
+                    "credit": "production auditor",
+                    "normalized_credit": [
+                        "production auditor"
+                    ]
+                },
+                {
+                    "name": "Lynn Vogel",
+                    "link": "https://www.imdb.com/name/nm1093435/?ref_=ttfc_fc_cr",
+                    "credit": "production secretary",
+                    "normalized_credit": [
+                        "production secretary"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

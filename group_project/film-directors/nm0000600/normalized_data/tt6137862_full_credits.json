@@ -1,0 +1,74 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6137862/fullcredits/",
+    "title": "Iggy Pop: Cold Metal (Music Video 1988)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "JoAnne Sellar",
+                    "link": "https://www.imdb.com/name/nm0783280/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Iggy Pop",
+                    "link": "https://www.imdb.com/name/nm0006563/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Graham Humphreys",
+                    "link": "https://www.imdb.com/name/nm0401993/?ref_=ttfc_fc_cr",
+                    "credit": "conceptual artist",
+                    "normalized_credit": [
+                        "conceptual artist"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Bill Laswell",
+                    "link": "https://www.imdb.com/name/nm0489960/?ref_=ttfc_fc_cr",
+                    "credit": "music producer",
+                    "normalized_credit": [
+                        "music producer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

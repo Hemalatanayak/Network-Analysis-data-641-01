@@ -1,0 +1,134 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0815901/fullcredits/",
+    "title": "Saturday Night Life (2006)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Ava DuVernay",
+                    "link": "https://www.imdb.com/name/nm1148550/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Ava DuVernay",
+                    "link": "https://www.imdb.com/name/nm1148550/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Sherri James",
+                    "link": "https://www.imdb.com/name/nm1144195/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Ellene Miles",
+                    "link": "https://www.imdb.com/name/nm1652846/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Rob Lewis",
+                    "link": "https://www.imdb.com/name/nm3643321/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Carl Bartels",
+                    "link": "https://www.imdb.com/name/nm0058458/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Shawn Marcus Taylor",
+                    "link": "https://www.imdb.com/name/nm1918166/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Kilyoung Baek",
+                    "link": "https://www.imdb.com/name/nm1247181/?ref_=ttfc_fc_cr",
+                    "credit": "sound editor",
+                    "normalized_credit": [
+                        "sound editor"
+                    ]
+                },
+                {
+                    "name": "Eric Chase",
+                    "link": "https://www.imdb.com/name/nm0153754/?ref_=ttfc_fc_cr",
+                    "credit": "sound editor",
+                    "normalized_credit": [
+                        "sound editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Eric Chase",
+                    "link": "https://www.imdb.com/name/nm0153754/?ref_=ttfc_fc_cr",
+                    "credit": "colorist",
+                    "normalized_credit": [
+                        "colorist"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Vincent A. Villanueva",
+                    "link": "https://www.imdb.com/name/nm0995044/?ref_=ttfc_fc_cr",
+                    "credit": "music clearance supervisor (as Vincent Villanueva)",
+                    "normalized_credit": [
+                        "music clearance supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

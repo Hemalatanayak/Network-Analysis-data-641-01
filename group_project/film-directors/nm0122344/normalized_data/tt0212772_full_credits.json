@@ -1,0 +1,560 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0212772/fullcredits/",
+    "title": "The Annihilation of Fish (1999)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Charles Burnett",
+                    "link": "https://www.imdb.com/name/nm0122344/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (WGA)",
+            "crew": [
+                {
+                    "name": "Anthony C. Winkler",
+                    "link": "https://www.imdb.com/name/nm0935194/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Arlene Albertson",
+                    "link": "https://www.imdb.com/name/nm0016768/?ref_=ttfc_fc_cr",
+                    "credit": "line producer",
+                    "normalized_credit": [
+                        "line producer"
+                    ]
+                },
+                {
+                    "name": "Kris Dodge",
+                    "link": "https://www.imdb.com/name/nm0230215/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Paul M. Heller",
+                    "link": "https://www.imdb.com/name/nm0375370/?ref_=ttfc_fc_cr",
+                    "credit": "producer (as Paul Heller)",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "William Lawrence Fabrizio",
+                    "link": "https://www.imdb.com/name/nm0492600/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Eric Mitchell",
+                    "link": "https://www.imdb.com/name/nm0593319/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Trevor Pressman",
+                    "link": "https://www.imdb.com/name/nm1041244/?ref_=ttfc_fc_cr",
+                    "credit": "assistant producer",
+                    "normalized_credit": [
+                        "assistant producer"
+                    ]
+                },
+                {
+                    "name": "John Remark",
+                    "link": "https://www.imdb.com/name/nm0718870/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Laura Karpman",
+                    "link": "https://www.imdb.com/name/nm0440017/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "John L. Demps Jr.",
+                    "link": "https://www.imdb.com/name/nm0003686/?ref_=ttfc_fc_cr",
+                    "credit": "(as John Ndiaga Demps)"
+                },
+                {
+                    "name": "Rick Robinson",
+                    "link": "https://www.imdb.com/name/nm0733013/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Nancy Richardson",
+                    "link": "https://www.imdb.com/name/nm0724706/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Nina Ruscio",
+                    "link": "https://www.imdb.com/name/nm0750602/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Set Decoration by",
+            "crew": [
+                {
+                    "name": "Matt Callahan",
+                    "link": "https://www.imdb.com/name/nm0130230/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Set Decoration by"
+        },
+        {
+            "role": "Costume Design by",
+            "crew": [
+                {
+                    "name": "Christine Peters",
+                    "link": "https://www.imdb.com/name/nm0676367/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Steve Ratliff",
+                    "link": "https://www.imdb.com/name/nm0711827/?ref_=ttfc_fc_cr",
+                    "credit": "makeup department head",
+                    "normalized_credit": [
+                        "makeup department head"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Kris Krengel",
+                    "link": "https://www.imdb.com/name/nm0470839/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                },
+                {
+                    "name": "Woody Schultz",
+                    "link": "https://www.imdb.com/name/nm0776376/?ref_=ttfc_fc_cr",
+                    "credit": "second second assistant director",
+                    "normalized_credit": [
+                        "second second assistant director"
+                    ]
+                },
+                {
+                    "name": "Jody Spilkoman",
+                    "link": "https://www.imdb.com/name/nm0818753/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant director",
+                    "normalized_credit": [
+                        "second assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Beat Frutiger",
+                    "link": "https://www.imdb.com/name/nm0296708/?ref_=ttfc_fc_cr",
+                    "credit": "assistant art director",
+                    "normalized_credit": [
+                        "assistant art director"
+                    ]
+                },
+                {
+                    "name": "King Orba",
+                    "link": "https://www.imdb.com/name/nm0908769/?ref_=ttfc_fc_cr",
+                    "credit": "property master (as Mark Wallace)",
+                    "normalized_credit": [
+                        "property master"
+                    ]
+                },
+                {
+                    "name": "Anya Rudnick",
+                    "link": "https://www.imdb.com/name/nm0748859/?ref_=ttfc_fc_cr",
+                    "credit": "art department coordinator",
+                    "normalized_credit": [
+                        "art department coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Erik Aadahl",
+                    "link": "https://www.imdb.com/name/nm0007321/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "Patrick Bietz",
+                    "link": "https://www.imdb.com/name/nm0081662/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "Veda Campbell",
+                    "link": "https://www.imdb.com/name/nm0132910/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                },
+                {
+                    "name": "Pete Elia",
+                    "link": "https://www.imdb.com/name/nm0253424/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Stephen Fitzmaurice",
+                    "link": "https://www.imdb.com/name/nm0280471/?ref_=ttfc_fc_cr",
+                    "credit": "adr mixer",
+                    "normalized_credit": [
+                        "adr mixer"
+                    ]
+                },
+                {
+                    "name": "Bruce Tanis",
+                    "link": "https://www.imdb.com/name/nm0849498/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Christopher Dusendschon",
+                    "link": "https://www.imdb.com/name/nm1076458/?ref_=ttfc_fc_cr",
+                    "credit": "hazeltine optical element timing: THDX (uncredited) / in-show optical compositor: THDX (uncredited)",
+                    "normalized_credit": [
+                        "hazeltine optical element timing",
+                        "in-show optical compositor"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Karen Dean",
+                    "link": "https://www.imdb.com/name/nm0212829/?ref_=ttfc_fc_cr",
+                    "credit": "stunts",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Bufort McClerkins",
+                    "link": "https://www.imdb.com/name/nm0565845/?ref_=ttfc_fc_cr",
+                    "credit": "stunt coordinator",
+                    "normalized_credit": [
+                        "stunt coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Davie Carothers",
+                    "link": "https://www.imdb.com/name/nm0139225/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera (as David Carothers)",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Wayne 'Woody' Cone",
+                    "link": "https://www.imdb.com/name/nm0174486/?ref_=ttfc_fc_cr",
+                    "credit": "key grip",
+                    "normalized_credit": [
+                        "key grip"
+                    ]
+                },
+                {
+                    "name": "Tom Jedrzejcyk",
+                    "link": "https://www.imdb.com/name/nm0849787/?ref_=ttfc_fc_cr",
+                    "credit": "grip (as Tanqueray)",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Joey Lastrappe",
+                    "link": "https://www.imdb.com/name/nm0489942/?ref_=ttfc_fc_cr",
+                    "credit": "electrician",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Rick Robinson",
+                    "link": "https://www.imdb.com/name/nm0733013/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Casting Department",
+            "crew": [
+                {
+                    "name": "Tana Roller",
+                    "link": "https://www.imdb.com/name/nm0738374/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting",
+                    "normalized_credit": [
+                        "extras casting"
+                    ]
+                }
+            ],
+            "normalized role": "Casting Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Samuel Bowling",
+                    "link": "https://www.imdb.com/name/nm0101283/?ref_=ttfc_fc_cr",
+                    "credit": "set costumer",
+                    "normalized_credit": [
+                        "set costumer"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Sheila MacDowell",
+                    "link": "https://www.imdb.com/name/nm0532051/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant editor",
+                    "normalized_credit": [
+                        "first assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Chris Munday",
+                    "link": "https://www.imdb.com/name/nm0612698/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                },
+                {
+                    "name": "Matt Petras",
+                    "link": "https://www.imdb.com/name/nm0677789/?ref_=ttfc_fc_cr",
+                    "credit": "location manager: Los Angeles",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Lonnie Sill",
+                    "link": "https://www.imdb.com/name/nm0798055/?ref_=ttfc_fc_cr",
+                    "credit": "music supervisor",
+                    "normalized_credit": [
+                        "music supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Transportation Department",
+            "crew": [
+                {
+                    "name": "Samuel Bowling",
+                    "link": "https://www.imdb.com/name/nm0101283/?ref_=ttfc_fc_cr",
+                    "credit": "transportation: star car",
+                    "normalized_credit": [
+                        "transportation"
+                    ]
+                },
+                {
+                    "name": "Michael Dawes",
+                    "link": "https://www.imdb.com/name/nm0205946/?ref_=ttfc_fc_cr",
+                    "credit": "driver",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Bradley Sackin",
+                    "link": "https://www.imdb.com/name/nm0755268/?ref_=ttfc_fc_cr",
+                    "credit": "driver",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Greagrey Waldrop",
+                    "link": "https://www.imdb.com/name/nm0907332/?ref_=ttfc_fc_cr",
+                    "credit": "transportation (as a different name)",
+                    "normalized_credit": [
+                        "transportation"
+                    ]
+                }
+            ],
+            "normalized role": "Transportation Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Joan Eisenberg",
+                    "link": "https://www.imdb.com/name/nm0251987/?ref_=ttfc_fc_cr",
+                    "credit": "unit publicist",
+                    "normalized_credit": [
+                        "unit publicist"
+                    ]
+                },
+                {
+                    "name": "Bonnie Foley",
+                    "link": "https://www.imdb.com/name/nm0284104/?ref_=ttfc_fc_cr",
+                    "credit": "assistant production coordinator",
+                    "normalized_credit": [
+                        "assistant production coordinator"
+                    ]
+                },
+                {
+                    "name": "Amy Hansen",
+                    "link": "https://www.imdb.com/name/nm0279858/?ref_=ttfc_fc_cr",
+                    "credit": "production accountant (as Amy Fishman)",
+                    "normalized_credit": [
+                        "production accountant"
+                    ]
+                },
+                {
+                    "name": "Debra J. Kleid",
+                    "link": "https://www.imdb.com/name/nm0458599/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator (as Debbie Kleid)",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                },
+                {
+                    "name": "Katherine Lambert",
+                    "link": "https://www.imdb.com/name/nm0483205/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Jenna McFeely",
+                    "link": "https://www.imdb.com/name/nm0568851/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Thell Reed",
+                    "link": "https://www.imdb.com/name/nm0715715/?ref_=ttfc_fc_cr",
+                    "credit": "armorer",
+                    "normalized_credit": [
+                        "armorer"
+                    ]
+                },
+                {
+                    "name": "James Ent",
+                    "link": "https://www.imdb.com/name/nm0258151/?ref_=ttfc_fc_cr",
+                    "credit": "caterer (uncredited)",
+                    "normalized_credit": [
+                        "caterer"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

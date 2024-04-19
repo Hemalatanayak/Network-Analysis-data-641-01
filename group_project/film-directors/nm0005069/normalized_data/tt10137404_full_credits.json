@@ -1,0 +1,132 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt10137404/fullcredits/",
+    "title": "Squarespace: Dream It (2019)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Jonze",
+                    "link": "https://www.imdb.com/name/nm0005069/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Amanda Adelson",
+                    "link": "https://www.imdb.com/name/nm5287325/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "Laurie Boccaccio",
+                    "link": "https://www.imdb.com/name/nm2629711/?ref_=ttfc_fc_cr",
+                    "credit": "line producer",
+                    "normalized_credit": [
+                        "line producer"
+                    ]
+                },
+                {
+                    "name": "Laura Klein",
+                    "link": "https://www.imdb.com/name/nm10119953/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "James Laxton",
+                    "link": "https://www.imdb.com/name/nm0493439/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Thomas Patrick Smith",
+                    "link": "https://www.imdb.com/name/nm0810155/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director (as Thomas Smith)",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Rachel A. Mariscal",
+                    "link": "https://www.imdb.com/name/nm3020177/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects producer",
+                    "normalized_credit": [
+                        "visual effects producer"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Xavier Lake",
+                    "link": "https://www.imdb.com/name/nm9816831/?ref_=ttfc_fc_cr",
+                    "credit": "stunt double: Idris Elba",
+                    "normalized_credit": [
+                        "stunt double"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Tim Allan",
+                    "link": "https://www.imdb.com/name/nm1439401/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Suzy Paradise",
+                    "link": "https://www.imdb.com/name/nm4597551/?ref_=ttfc_fc_cr",
+                    "credit": "cast assistant",
+                    "normalized_credit": [
+                        "cast assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

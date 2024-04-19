@@ -1,0 +1,74 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt8796784/fullcredits/",
+    "title": "Parisienne People by Joel & Ethan Coen (Video 2003)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Ethan Coen",
+                    "link": "https://www.imdb.com/name/nm0001053/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Joel Coen",
+                    "link": "https://www.imdb.com/name/nm0001054/?ref_=ttfc_fc_dr2"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Marc Ob\u00e9ron",
+                    "link": "https://www.imdb.com/name/nm1183758/?ref_=ttfc_fc_cr",
+                    "credit": "producer (as Marc Oberon)",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Daniel Hainey",
+                    "link": "https://www.imdb.com/name/nm0354321/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Tricia Cooke",
+                    "link": "https://www.imdb.com/name/nm0177504/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Chris Robertson",
+                    "link": "https://www.imdb.com/name/nm1025789/?ref_=ttfc_fc_cr",
+                    "credit": "music clearance",
+                    "normalized_credit": [
+                        "music clearance"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

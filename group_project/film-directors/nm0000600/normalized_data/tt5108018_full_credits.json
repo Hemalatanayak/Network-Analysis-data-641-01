@@ -1,0 +1,46 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt5108018/fullcredits/",
+    "title": "Out West (1972)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        }
+    ],
+    "imdb_details": {}
+}

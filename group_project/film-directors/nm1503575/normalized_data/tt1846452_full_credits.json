@@ -1,0 +1,80 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt1846452/fullcredits/",
+    "title": "A Young Couple (2009)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Barry Jenkins",
+                    "link": "https://www.imdb.com/name/nm1503575/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Barry Jenkins",
+                    "link": "https://www.imdb.com/name/nm1503575/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Justin Barber",
+                    "link": "https://www.imdb.com/name/nm1479854/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "James Laxton",
+                    "link": "https://www.imdb.com/name/nm0493439/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Barry Jenkins",
+                    "link": "https://www.imdb.com/name/nm1503575/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "David Bornfriend",
+                    "link": "https://www.imdb.com/name/nm2916389/?ref_=ttfc_fc_cr",
+                    "credit": "stills",
+                    "normalized_credit": [
+                        "stills"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

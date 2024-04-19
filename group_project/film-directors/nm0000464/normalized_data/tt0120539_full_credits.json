@@ -1,0 +1,221 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0120539/fullcredits/",
+    "title": "Year of the Horse (1997)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Jim Jarmusch",
+                    "link": "https://www.imdb.com/name/nm0000464/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Marcy Gensic",
+                    "link": "https://www.imdb.com/name/nm0313002/?ref_=ttfc_fc_cr",
+                    "credit": "line producer (as Marcy Gensix)",
+                    "normalized_credit": [
+                        "line producer"
+                    ]
+                },
+                {
+                    "name": "L.A. Johnson",
+                    "link": "https://www.imdb.com/name/nm0425588/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Elliot Rabinowitz",
+                    "link": "https://www.imdb.com/name/nm0704944/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Neil Young",
+                    "link": "https://www.imdb.com/name/nm0949918/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer (as Bernard Shakey)",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Neil Young",
+                    "link": "https://www.imdb.com/name/nm0949918/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Jim Jarmusch",
+                    "link": "https://www.imdb.com/name/nm0000464/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "L.A. Johnson",
+                    "link": "https://www.imdb.com/name/nm0425588/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Steve Onuska",
+                    "link": "https://www.imdb.com/name/nm0648935/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Arthur Rosato",
+                    "link": "https://www.imdb.com/name/nm0741136/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Jay Rabinowitz",
+                    "link": "https://www.imdb.com/name/nm0704950/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Gary Coppola",
+                    "link": "https://www.imdb.com/name/nm0178884/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Ned Hall",
+                    "link": "https://www.imdb.com/name/nm0355948/?ref_=ttfc_fc_cr",
+                    "credit": "location sound mixer",
+                    "normalized_credit": [
+                        "location sound mixer"
+                    ]
+                },
+                {
+                    "name": "John Hausmann",
+                    "link": "https://www.imdb.com/name/nm0369606/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Fr\u00e9d\u00e9ric Dugad",
+                    "link": "https://www.imdb.com/name/nm1720376/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                },
+                {
+                    "name": "Marc Falchier",
+                    "link": "https://www.imdb.com/name/nm2748036/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Ron Barr",
+                    "link": "https://www.imdb.com/name/nm0056564/?ref_=ttfc_fc_cr",
+                    "credit": "on-line editor",
+                    "normalized_credit": [
+                        "on-line editor"
+                    ]
+                },
+                {
+                    "name": "Michael Alan Dennis",
+                    "link": "https://www.imdb.com/name/nm0219522/?ref_=ttfc_fc_cr",
+                    "credit": "additional editor",
+                    "normalized_credit": [
+                        "additional editor"
+                    ]
+                },
+                {
+                    "name": "Joel Heller",
+                    "link": "https://www.imdb.com/name/nm0375336/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                },
+                {
+                    "name": "Andy Lichtstein",
+                    "link": "https://www.imdb.com/name/nm0509096/?ref_=ttfc_fc_cr",
+                    "credit": "digital intermediate colorist / final colorist",
+                    "normalized_credit": [
+                        "digital intermediate colorist",
+                        "final colorist"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Tim Mulligan",
+                    "link": "https://www.imdb.com/name/nm0612331/?ref_=ttfc_fc_cr",
+                    "credit": "music mixer",
+                    "normalized_credit": [
+                        "music mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Randall Balsmeyer",
+                    "link": "https://www.imdb.com/name/nm0051157/?ref_=ttfc_fc_cr",
+                    "credit": "title designer",
+                    "normalized_credit": [
+                        "title designer"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

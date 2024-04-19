@@ -1,0 +1,70 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0293711/fullcredits/",
+    "title": "Winston (1987)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Steven Soderbergh",
+                    "link": "https://www.imdb.com/name/nm0001752/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Steven Soderbergh",
+                    "link": "https://www.imdb.com/name/nm0001752/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Paul Ledford",
+                    "link": "https://www.imdb.com/name/nm0496563/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Paul Ledford",
+                    "link": "https://www.imdb.com/name/nm0496563/?ref_=ttfc_fc_cr",
+                    "credit": "production sound mixer",
+                    "normalized_credit": [
+                        "production sound mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Omar Godinez",
+                    "link": "https://www.imdb.com/name/nm2376235/?ref_=ttfc_fc_cr",
+                    "credit": "telecine colorist",
+                    "normalized_credit": [
+                        "telecine colorist"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        }
+    ],
+    "imdb_details": {}
+}

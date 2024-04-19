@@ -1,0 +1,58 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6058386/fullcredits/",
+    "title": "Coolio feat. L.V.: Gangsta's Paradise (Music Video 1995)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Antoine Fuqua",
+                    "link": "https://www.imdb.com/name/nm0298807/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Artis Ivey",
+                    "link": "https://www.imdb.com/name/nm3172165/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "L.V.",
+                    "link": "https://www.imdb.com/name/nm0478355/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Doug Rasheed",
+                    "link": "https://www.imdb.com/name/nm10364055/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Stevie Wonder",
+                    "link": "https://www.imdb.com/name/nm0005567/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Doug Rasheed",
+                    "link": "https://www.imdb.com/name/nm10364055/?ref_=ttfc_fc_cr",
+                    "credit": "record producer",
+                    "normalized_credit": [
+                        "record producer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

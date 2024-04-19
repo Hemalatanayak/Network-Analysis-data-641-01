@@ -1,0 +1,242 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0085872/fullcredits/",
+    "title": "The Loveless (1981)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Kathryn Bigelow",
+                    "link": "https://www.imdb.com/name/nm0000941/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Monty Montgomery",
+                    "link": "https://www.imdb.com/name/nm0599863/?ref_=ttfc_fc_dr2"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Kathryn Bigelow",
+                    "link": "https://www.imdb.com/name/nm0000941/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by) and",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                },
+                {
+                    "name": "Monty Montgomery",
+                    "link": "https://www.imdb.com/name/nm0599863/?ref_=ttfc_fc_wr2",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) complete, awaiting verification",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "A. Kitman Ho",
+                    "link": "https://www.imdb.com/name/nm0457715/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Grafton Nunes",
+                    "link": "https://www.imdb.com/name/nm0637957/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Robert Gordon",
+                    "link": "https://www.imdb.com/name/nm0330561/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Doyle Smith",
+                    "link": "https://www.imdb.com/name/nm0003122/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Nancy Kanter",
+                    "link": "https://www.imdb.com/name/nm0437917/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Lilly Kilvert",
+                    "link": "https://www.imdb.com/name/nm0453344/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Michael Tyler",
+                    "link": "https://www.imdb.com/name/nm1419084/?ref_=ttfc_fc_cr",
+                    "credit": "key hair stylist",
+                    "normalized_credit": [
+                        "key hair stylist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Jack Gill",
+                    "link": "https://www.imdb.com/name/nm0318678/?ref_=ttfc_fc_cr",
+                    "credit": "stunt consultant",
+                    "normalized_credit": [
+                        "stunt consultant"
+                    ]
+                },
+                {
+                    "name": "Vern Hyde",
+                    "link": "https://www.imdb.com/name/nm0405029/?ref_=ttfc_fc_cr",
+                    "credit": "stunt coordinator",
+                    "normalized_credit": [
+                        "stunt coordinator"
+                    ]
+                },
+                {
+                    "name": "Jerry Sommer",
+                    "link": "https://www.imdb.com/name/nm12049170/?ref_=ttfc_fc_cr",
+                    "credit": "stunt consultant",
+                    "normalized_credit": [
+                        "stunt consultant"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Tony Kupersmith",
+                    "link": "https://www.imdb.com/name/nm0475453/?ref_=ttfc_fc_cr",
+                    "credit": "key grip",
+                    "normalized_credit": [
+                        "key grip"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Clayton Townsend",
+                    "link": "https://www.imdb.com/name/nm0870106/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Robert Gordon",
+                    "link": "https://www.imdb.com/name/nm0330561/?ref_=ttfc_fc_cr",
+                    "credit": "music soundtrack producer",
+                    "normalized_credit": [
+                        "music soundtrack producer"
+                    ]
+                },
+                {
+                    "name": "Artie Kaplan",
+                    "link": "https://www.imdb.com/name/nm0438194/?ref_=ttfc_fc_cr",
+                    "credit": "music coordinator",
+                    "normalized_credit": [
+                        "music coordinator"
+                    ]
+                },
+                {
+                    "name": "John Lurie",
+                    "link": "https://www.imdb.com/name/nm0527099/?ref_=ttfc_fc_cr",
+                    "credit": "composer: additional music",
+                    "normalized_credit": [
+                        "composer"
+                    ]
+                },
+                {
+                    "name": "Tim Wisner",
+                    "link": "https://www.imdb.com/name/nm2475819/?ref_=ttfc_fc_cr",
+                    "credit": "music arranger",
+                    "normalized_credit": [
+                        "music arranger"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Jonathan Dana",
+                    "link": "https://www.imdb.com/name/nm0199066/?ref_=ttfc_fc_cr",
+                    "credit": "studio executive (uncredited)",
+                    "normalized_credit": [
+                        "studio executive"
+                    ]
+                },
+                {
+                    "name": "Mac Gordon",
+                    "link": "https://www.imdb.com/name/nm0329949/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant (uncredited)",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

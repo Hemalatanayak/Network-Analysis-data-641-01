@@ -1,0 +1,100 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt2918390/fullcredits/",
+    "title": "Armani (2012)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Mary Harron",
+                    "link": "https://www.imdb.com/name/nm0366004/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Mary Harron",
+                    "link": "https://www.imdb.com/name/nm0366004/?ref_=ttfc_fc_wr1",
+                    "credit": "(scenario)",
+                    "normalized_credit": [
+                        "scenario"
+                    ]
+                },
+                {
+                    "name": "John Walsh",
+                    "link": "https://www.imdb.com/name/nm0909699/?ref_=ttfc_fc_wr2",
+                    "credit": "(scenario)",
+                    "normalized_credit": [
+                        "scenario"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Kubilay Uner",
+                    "link": "https://www.imdb.com/name/nm0881069/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Eric Gautier",
+                    "link": "https://www.imdb.com/name/nm0310341/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Miguel Lombardi",
+                    "link": "https://www.imdb.com/name/nm2888630/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Roberto Mule",
+                    "link": "https://www.imdb.com/name/nm1604390/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Luca Prandoni",
+                    "link": "https://www.imdb.com/name/nm8810343/?ref_=ttfc_fc_cr",
+                    "credit": "video assist operator",
+                    "normalized_credit": [
+                        "video assist operator"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

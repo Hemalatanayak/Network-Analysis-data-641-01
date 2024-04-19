@@ -1,0 +1,46 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt28259927/fullcredits/",
+    "title": "Asteroid City Location Featurette (Video 2023)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Wes Anderson",
+                    "link": "https://www.imdb.com/name/nm0027572/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Wes Anderson",
+                    "link": "https://www.imdb.com/name/nm0027572/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Cameron Smither",
+                    "link": "https://www.imdb.com/name/nm1991903/?ref_=ttfc_fc_cr",
+                    "credit": "compositing supervisor",
+                    "normalized_credit": [
+                        "compositing supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        }
+    ],
+    "imdb_details": {}
+}

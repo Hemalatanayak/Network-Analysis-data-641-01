@@ -1,0 +1,89 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt21071898/fullcredits/",
+    "title": "Tip",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Wes Anderson",
+                    "link": "https://www.imdb.com/name/nm0027572/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Christophe",
+                    "link": "https://www.imdb.com/name/nm1206143/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by) (as Daniel Georges Jacq Bevilacqua)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Octavia Peissel",
+                    "link": "https://www.imdb.com/name/nm3529746/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Animation Department",
+            "crew": [
+                {
+                    "name": "Javi Aznarez",
+                    "link": "https://www.imdb.com/name/nm11342683/?ref_=ttfc_fc_cr",
+                    "credit": "animator",
+                    "normalized_credit": [
+                        "animator"
+                    ]
+                },
+                {
+                    "name": "\u00c0lex Roca",
+                    "link": "https://www.imdb.com/name/nm7602785/?ref_=ttfc_fc_cr",
+                    "credit": "animator",
+                    "normalized_credit": [
+                        "animator"
+                    ]
+                }
+            ],
+            "normalized role": "Animation Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Christophe",
+                    "link": "https://www.imdb.com/name/nm1206143/?ref_=ttfc_fc_cr",
+                    "credit": "musician: lyrics",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Jarvis Cocker",
+                    "link": "https://www.imdb.com/name/nm1006741/?ref_=ttfc_fc_cr",
+                    "credit": "musician: singer",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

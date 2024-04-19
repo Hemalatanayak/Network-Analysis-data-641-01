@@ -1,0 +1,105 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0343746/fullcredits/",
+    "title": "Great White: My... My... My... the Video Collection (Video 1991)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Nigel Dick",
+                    "link": "https://www.imdb.com/name/nm0225279/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Michael Bay",
+                    "link": "https://www.imdb.com/name/nm0000881/?ref_=ttfc_fc_dr2",
+                    "credit": "(video \"Call It Rock N' Roll\")"
+                },
+                {
+                    "name": "Wayne Isham",
+                    "link": "https://www.imdb.com/name/nm0410864/?ref_=ttfc_fc_dr3",
+                    "credit": "(videos \"Desert Moon\", \"Lovin' Kind\")"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Alastair Bates",
+                    "link": "https://www.imdb.com/name/nm0060835/?ref_=ttfc_fc_cr",
+                    "credit": "producer (video \"Rock Me\")"
+                },
+                {
+                    "name": "Kim Dempster",
+                    "link": "https://www.imdb.com/name/nm1171915/?ref_=ttfc_fc_cr",
+                    "credit": "producer (video \"Lady Red Light\")"
+                },
+                {
+                    "name": "Lisa Hollingshead",
+                    "link": "https://www.imdb.com/name/nm0391123/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Curt Marvis",
+                    "link": "https://www.imdb.com/name/nm0555556/?ref_=ttfc_fc_cr",
+                    "credit": "producer (videos \"Desert Moon\", \"Lovin' Kind\")"
+                },
+                {
+                    "name": "Joseph Plewa",
+                    "link": "https://www.imdb.com/name/nm0687270/?ref_=ttfc_fc_cr",
+                    "credit": "producer (as Joey Plewa) (music video)",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Howard Woffinden",
+                    "link": "https://www.imdb.com/name/nm0937360/?ref_=ttfc_fc_cr",
+                    "credit": "producer (as Howard Woofinden) (\"Call It Rock N' Roll\")",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Jalal Pashandi",
+                    "link": "https://www.imdb.com/name/nm0664533/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Ian Hunter",
+                    "link": "https://www.imdb.com/name/nm0402845/?ref_=ttfc_fc_cr",
+                    "credit": "composer: song \"Once Bitten Twice Shy\"",
+                    "normalized_credit": [
+                        "composer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

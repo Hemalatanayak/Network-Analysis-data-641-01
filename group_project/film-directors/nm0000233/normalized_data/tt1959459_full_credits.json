@@ -1,0 +1,68 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt1959459/fullcredits/",
+    "title": "Love Birds in Bondage (1983)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Scott Magill",
+                    "link": "https://www.imdb.com/name/nm0536087/?ref_=ttfc_fc_dr1",
+                    "credit": "(unfinished)",
+                    "normalized_credit": [
+                        "unfinished"
+                    ]
+                },
+                {
+                    "name": "Quentin Tarantino",
+                    "link": "https://www.imdb.com/name/nm0000233/?ref_=ttfc_fc_dr2",
+                    "credit": "(unfinished)",
+                    "normalized_credit": [
+                        "unfinished"
+                    ]
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Scott Magill",
+                    "link": "https://www.imdb.com/name/nm0536087/?ref_=ttfc_fc_wr1"
+                },
+                {
+                    "name": "Quentin Tarantino",
+                    "link": "https://www.imdb.com/name/nm0000233/?ref_=ttfc_fc_wr2"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Scott Magill",
+                    "link": "https://www.imdb.com/name/nm0536087/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Scott Magill",
+                    "link": "https://www.imdb.com/name/nm0536087/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        }
+    ],
+    "imdb_details": {}
+}

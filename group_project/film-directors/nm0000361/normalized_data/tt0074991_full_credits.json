@@ -1,0 +1,416 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0074991/fullcredits/",
+    "title": "Obsession (1976)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Brian De Palma",
+                    "link": "https://www.imdb.com/name/nm0000361/?ref_=ttfc_fc_dr1",
+                    "credit": "(directed by)",
+                    "normalized_credit": [
+                        "directed by"
+                    ]
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Brian De Palma",
+                    "link": "https://www.imdb.com/name/nm0000361/?ref_=ttfc_fc_wr1",
+                    "credit": "(story by) and",
+                    "normalized_credit": [
+                        "story by"
+                    ]
+                },
+                {
+                    "name": "Paul Schrader",
+                    "link": "https://www.imdb.com/name/nm0001707/?ref_=ttfc_fc_wr2",
+                    "credit": "(story by)",
+                    "normalized_credit": [
+                        "story by"
+                    ]
+                },
+                {
+                    "name": "Paul Schrader",
+                    "link": "https://www.imdb.com/name/nm0001707/?ref_=ttfc_fc_wr3",
+                    "credit": "(screenplay by)",
+                    "normalized_credit": [
+                        "screenplay by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Harry N. Blum",
+                    "link": "https://www.imdb.com/name/nm0089652/?ref_=ttfc_fc_cr",
+                    "credit": "producer (produced by)",
+                    "normalized_credit": [
+                        "producer produced by"
+                    ]
+                },
+                {
+                    "name": "Robert S. Bremson",
+                    "link": "https://www.imdb.com/name/nm0107125/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "George Litto",
+                    "link": "https://www.imdb.com/name/nm0514788/?ref_=ttfc_fc_cr",
+                    "credit": "producer (produced by)",
+                    "normalized_credit": [
+                        "producer produced by"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Bernard Herrmann",
+                    "link": "https://www.imdb.com/name/nm0002136/?ref_=ttfc_fc_cr",
+                    "credit": "(music)",
+                    "normalized_credit": [
+                        "music"
+                    ]
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Vilmos Zsigmond",
+                    "link": "https://www.imdb.com/name/nm0005936/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Paul Hirsch",
+                    "link": "https://www.imdb.com/name/nm0386532/?ref_=ttfc_fc_cr",
+                    "credit": "(edited by)",
+                    "normalized_credit": [
+                        "edited by"
+                    ]
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Jack Senter",
+                    "link": "https://www.imdb.com/name/nm0784511/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Set Decoration by",
+            "crew": [
+                {
+                    "name": "Jerry Wunderlich",
+                    "link": "https://www.imdb.com/name/nm0943332/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Set Decoration by"
+        },
+        {
+            "role": "Costume Design by",
+            "crew": [
+                {
+                    "name": "Frank Balchus",
+                    "link": "https://www.imdb.com/name/nm0049593/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Frank Beetson",
+                    "link": "https://www.imdb.com/name/nm0066634/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Bob Bender",
+                    "link": "https://www.imdb.com/name/nm0070445/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                },
+                {
+                    "name": "Wiliam Pool",
+                    "link": "https://www.imdb.com/name/nm0690801/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Jerry Wunderlich",
+                    "link": "https://www.imdb.com/name/nm0943332/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Frank L. Brown",
+                    "link": "https://www.imdb.com/name/nm0113575/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser (uncredited)",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Robert Tanenbaum",
+                    "link": "https://www.imdb.com/name/nm9964930/?ref_=ttfc_fc_cr",
+                    "credit": "movie poster artist (uncredited)",
+                    "normalized_credit": [
+                        "movie poster artist"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "David M. Ronne",
+                    "link": "https://www.imdb.com/name/nm0740122/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer (as David Ronne)",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                },
+                {
+                    "name": "Dan Sable",
+                    "link": "https://www.imdb.com/name/nm0754797/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Joe Lombardi",
+                    "link": "https://www.imdb.com/name/nm0518375/?ref_=ttfc_fc_cr",
+                    "credit": "special effects",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Bob Herron",
+                    "link": "https://www.imdb.com/name/nm0380787/?ref_=ttfc_fc_cr",
+                    "credit": "stunt coordinator",
+                    "normalized_credit": [
+                        "stunt coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Nick McLean",
+                    "link": "https://www.imdb.com/name/nm0572622/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera (uncredited)",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Deborah Boldt",
+                    "link": "https://www.imdb.com/name/nm3730336/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                },
+                {
+                    "name": "Candace Cruzd",
+                    "link": "https://www.imdb.com/name/nm7904091/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Paul B. Clay",
+                    "link": "https://www.imdb.com/name/nm0165560/?ref_=ttfc_fc_cr",
+                    "credit": "music editor",
+                    "normalized_credit": [
+                        "music editor"
+                    ]
+                },
+                {
+                    "name": "National Philharmonic Orchestra",
+                    "link": "https://www.imdb.com/name/nm3350595/?ref_=ttfc_fc_cr",
+                    "credit": "music performed by (as The National Philharmonic Orchestra)",
+                    "normalized_credit": [
+                        "music performed by"
+                    ]
+                },
+                {
+                    "name": "Bob Auger",
+                    "link": "https://www.imdb.com/name/nm8390390/?ref_=ttfc_fc_cr",
+                    "credit": "music engineer (uncredited)",
+                    "normalized_credit": [
+                        "music engineer"
+                    ]
+                },
+                {
+                    "name": "Louis Halsey",
+                    "link": "https://www.imdb.com/name/nm2108975/?ref_=ttfc_fc_cr",
+                    "credit": "choral director (uncredited)",
+                    "normalized_credit": [
+                        "choral director"
+                    ]
+                },
+                {
+                    "name": "Bernard Herrmann",
+                    "link": "https://www.imdb.com/name/nm0002136/?ref_=ttfc_fc_cr",
+                    "credit": "conductor (uncredited)",
+                    "normalized_credit": [
+                        "conductor"
+                    ]
+                },
+                {
+                    "name": "Laurie Johnson",
+                    "link": "https://www.imdb.com/name/nm0006145/?ref_=ttfc_fc_cr",
+                    "credit": "conductor: finale (uncredited)",
+                    "normalized_credit": [
+                        "conductor"
+                    ]
+                },
+                {
+                    "name": "Christopher Palmer",
+                    "link": "https://www.imdb.com/name/nm0658169/?ref_=ttfc_fc_cr",
+                    "credit": "orchestrator (uncredited)",
+                    "normalized_credit": [
+                        "orchestrator"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Rachel Griffiths",
+                    "link": "https://www.imdb.com/name/nm0341738/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                },
+                {
+                    "name": "Hannah Scheel",
+                    "link": "https://www.imdb.com/name/nm0770422/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Anne Pritchard",
+                    "link": "https://www.imdb.com/name/nm0698008/?ref_=ttfc_fc_cr",
+                    "credit": "consultant",
+                    "normalized_credit": [
+                        "consultant"
+                    ]
+                },
+                {
+                    "name": "Rachel Ticotin",
+                    "link": "https://www.imdb.com/name/nm0001797/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

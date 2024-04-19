@@ -1,0 +1,80 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0283445/fullcredits/",
+    "title": "Lanton Mills (1969)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Terrence Malick",
+                    "link": "https://www.imdb.com/name/nm0000517/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Terrence Malick",
+                    "link": "https://www.imdb.com/name/nm0000517/?ref_=ttfc_fc_wr1",
+                    "credit": "(writer)",
+                    "normalized_credit": [
+                        "writer"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "John Roper",
+                    "link": "https://www.imdb.com/name/nm3026767/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Terrence Malick",
+                    "link": "https://www.imdb.com/name/nm0000517/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Caleb Deschanel",
+                    "link": "https://www.imdb.com/name/nm0221042/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "John Palmer",
+                    "link": "https://www.imdb.com/name/nm3026802/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        }
+    ],
+    "imdb_details": {}
+}

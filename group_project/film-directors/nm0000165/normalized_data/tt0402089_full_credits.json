@@ -1,0 +1,36 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0402089/fullcredits/",
+    "title": "Cards, Cads, Guns, Gore and Death (1969)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Ron Howard",
+                    "link": "https://www.imdb.com/name/nm0000165/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Scott Greene",
+                    "link": "https://www.imdb.com/name/nm11580059/?ref_=ttfc_fc_cr",
+                    "credit": "special effects",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        }
+    ],
+    "imdb_details": {}
+}

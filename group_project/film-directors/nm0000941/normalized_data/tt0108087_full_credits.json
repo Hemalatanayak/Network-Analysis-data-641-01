@@ -1,0 +1,46 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0108087/fullcredits/",
+    "title": "The Set",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Kathryn Bigelow",
+                    "link": "https://www.imdb.com/name/nm0000941/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Ed Bowes",
+                    "link": "https://www.imdb.com/name/nm0101130/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Neal Marshad",
+                    "link": "https://www.imdb.com/name/nm1757190/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        }
+    ],
+    "imdb_details": {}
+}

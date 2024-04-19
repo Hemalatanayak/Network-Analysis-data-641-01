@@ -1,0 +1,1219 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0112471/fullcredits/",
+    "title": "Before Sunrise (1995)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Richard Linklater",
+                    "link": "https://www.imdb.com/name/nm0000500/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (WGA)",
+            "crew": [
+                {
+                    "name": "Richard Linklater",
+                    "link": "https://www.imdb.com/name/nm0000500/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by) &",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                },
+                {
+                    "name": "Kim Krizan",
+                    "link": "https://www.imdb.com/name/nm0471811/?ref_=ttfc_fc_wr2",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) verified as complete",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Gregory Jacobs",
+                    "link": "https://www.imdb.com/name/nm0414423/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Wolfgang Ramml",
+                    "link": "https://www.imdb.com/name/nm0708444/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "Gernot Schaffler",
+                    "link": "https://www.imdb.com/name/nm0769869/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "John Sloss",
+                    "link": "https://www.imdb.com/name/nm0806189/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Anne Walker-McBay",
+                    "link": "https://www.imdb.com/name/nm0908323/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Ellen Winn Wendl",
+                    "link": "https://www.imdb.com/name/nm0920865/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Fred Frith",
+                    "link": "https://www.imdb.com/name/nm0295947/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Lee Daniel",
+                    "link": "https://www.imdb.com/name/nm0199679/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Sandra Adair",
+                    "link": "https://www.imdb.com/name/nm0010471/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Alycia Aumuller",
+                    "link": "https://www.imdb.com/name/nm0042107/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Judy Henderson",
+                    "link": "https://www.imdb.com/name/nm0376497/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Lisa Pantone",
+                    "link": "https://www.imdb.com/name/nm0659880/?ref_=ttfc_fc_cr",
+                    "credit": "(casting by)",
+                    "normalized_credit": [
+                        "casting by"
+                    ]
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Florian Reichmann",
+                    "link": "https://www.imdb.com/name/nm0717123/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Costume Design by",
+            "crew": [
+                {
+                    "name": "Florentina Welley",
+                    "link": "https://www.imdb.com/name/nm0919973/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Karen Dunst",
+                    "link": "https://www.imdb.com/name/nm0243036/?ref_=ttfc_fc_cr",
+                    "credit": "hair stylist (as Karin Dunst) / makeup artist (as Karin Dunst)",
+                    "normalized_credit": [
+                        "hair stylist",
+                        "makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Bernhard Schmatz",
+                    "link": "https://www.imdb.com/name/nm0772582/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "John Buche",
+                    "link": "https://www.imdb.com/name/nm0118121/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant director",
+                    "normalized_credit": [
+                        "second assistant director"
+                    ]
+                },
+                {
+                    "name": "E. Otto Sperl",
+                    "link": "https://www.imdb.com/name/nm0818291/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Maria Bluemel",
+                    "link": "https://www.imdb.com/name/nm0089561/?ref_=ttfc_fc_cr",
+                    "credit": "stand-by props (as Maria Bl\u00fcmel)",
+                    "normalized_credit": [
+                        "st-by props"
+                    ]
+                },
+                {
+                    "name": "Max Parovsky",
+                    "link": "https://www.imdb.com/name/nm1385627/?ref_=ttfc_fc_cr",
+                    "credit": "art department assistant (as Maximilian Jezo-Parovsky)",
+                    "normalized_credit": [
+                        "art department assistant"
+                    ]
+                },
+                {
+                    "name": "Michael Suchy",
+                    "link": "https://www.imdb.com/name/nm0837091/?ref_=ttfc_fc_cr",
+                    "credit": "property master",
+                    "normalized_credit": [
+                        "property master"
+                    ]
+                },
+                {
+                    "name": "Mark Lambert Bristol",
+                    "link": "https://www.imdb.com/name/nm0002988/?ref_=ttfc_fc_cr",
+                    "credit": "storyboard artist (uncredited)",
+                    "normalized_credit": [
+                        "storyboard artist"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Wayne Bell",
+                    "link": "https://www.imdb.com/name/nm0068580/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Stan Ginsel",
+                    "link": "https://www.imdb.com/name/nm0320157/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor (as Stanley Ginsel)",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "Douglas Greenfield",
+                    "link": "https://www.imdb.com/name/nm0338992/?ref_=ttfc_fc_cr",
+                    "credit": "stereo consultant: Dolby",
+                    "normalized_credit": [
+                        "stereo consultant"
+                    ]
+                },
+                {
+                    "name": "Tom Hammond",
+                    "link": "https://www.imdb.com/name/nm0358783/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "Steve Jaszkowiak",
+                    "link": "https://www.imdb.com/name/nm0419370/?ref_=ttfc_fc_cr",
+                    "credit": "foley mixer",
+                    "normalized_credit": [
+                        "foley mixer"
+                    ]
+                },
+                {
+                    "name": "Ossama Khuluki",
+                    "link": "https://www.imdb.com/name/nm0452007/?ref_=ttfc_fc_cr",
+                    "credit": "foley artist",
+                    "normalized_credit": [
+                        "foley artist"
+                    ]
+                },
+                {
+                    "name": "Paul Koronkiewicz",
+                    "link": "https://www.imdb.com/name/nm0466585/?ref_=ttfc_fc_cr",
+                    "credit": "boom operator (as Paul Koronkiewiecz)",
+                    "normalized_credit": [
+                        "boom operator"
+                    ]
+                },
+                {
+                    "name": "Christopher Moriana",
+                    "link": "https://www.imdb.com/name/nm0605319/?ref_=ttfc_fc_cr",
+                    "credit": "foley artist (as Chris Moriana)",
+                    "normalized_credit": [
+                        "foley artist"
+                    ]
+                },
+                {
+                    "name": "Charles W. Ritter",
+                    "link": "https://www.imdb.com/name/nm0728726/?ref_=ttfc_fc_cr",
+                    "credit": "dialogue editor (as Chip Ritter)",
+                    "normalized_credit": [
+                        "dialogue editor"
+                    ]
+                },
+                {
+                    "name": "Larry Seyer",
+                    "link": "https://www.imdb.com/name/nm0786744/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Russ Smith",
+                    "link": "https://www.imdb.com/name/nm1593119/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "Reilly Steele",
+                    "link": "https://www.imdb.com/name/nm0824455/?ref_=ttfc_fc_cr",
+                    "credit": "adr mixer",
+                    "normalized_credit": [
+                        "adr mixer"
+                    ]
+                },
+                {
+                    "name": "Thomas Szabolcs",
+                    "link": "https://www.imdb.com/name/nm0843612/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                },
+                {
+                    "name": "Todd Toon",
+                    "link": "https://www.imdb.com/name/nm0002477/?ref_=ttfc_fc_cr",
+                    "credit": "foley editor",
+                    "normalized_credit": [
+                        "foley editor"
+                    ]
+                },
+                {
+                    "name": "Patrick Giraudi",
+                    "link": "https://www.imdb.com/name/nm0320816/?ref_=ttfc_fc_cr",
+                    "credit": "foley editor (uncredited)",
+                    "normalized_credit": [
+                        "foley editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Paul Alexander",
+                    "link": "https://www.imdb.com/name/nm0018660/?ref_=ttfc_fc_cr",
+                    "credit": "steadicam operator",
+                    "normalized_credit": [
+                        "steadicam operator"
+                    ]
+                },
+                {
+                    "name": "Walter Bednarik",
+                    "link": "https://www.imdb.com/name/nm0066123/?ref_=ttfc_fc_cr",
+                    "credit": "dolly grip",
+                    "normalized_credit": [
+                        "dolly grip"
+                    ]
+                },
+                {
+                    "name": "Gabriela Brandenstein",
+                    "link": "https://www.imdb.com/name/nm0104602/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                },
+                {
+                    "name": "Philipp Grausam",
+                    "link": "https://www.imdb.com/name/nm0336155/?ref_=ttfc_fc_cr",
+                    "credit": "electrician (as Phillip Grausam)",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Matthias Grunsky",
+                    "link": "https://www.imdb.com/name/nm0003442/?ref_=ttfc_fc_cr",
+                    "credit": "clapper loader (as Mathias Grunsky)",
+                    "normalized_credit": [
+                        "clapper loader"
+                    ]
+                },
+                {
+                    "name": "Susanne Habitzel",
+                    "link": "https://www.imdb.com/name/nm0352292/?ref_=ttfc_fc_cr",
+                    "credit": "best girl electric",
+                    "normalized_credit": [
+                        "best girl electric"
+                    ]
+                },
+                {
+                    "name": "Roland Heinrich",
+                    "link": "https://www.imdb.com/name/nm0374499/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Thomas Horv\u00e1th",
+                    "link": "https://www.imdb.com/name/nm0395820/?ref_=ttfc_fc_cr",
+                    "credit": "second electric (as Thomas Horvath)",
+                    "normalized_credit": [
+                        "second electric"
+                    ]
+                },
+                {
+                    "name": "Gero Lasnig",
+                    "link": "https://www.imdb.com/name/nm0489734/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                },
+                {
+                    "name": "Francesco Lorusso",
+                    "link": "https://www.imdb.com/name/nm0521201/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Heinz Menschik",
+                    "link": "https://www.imdb.com/name/nm0579805/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Bernd Pfingstmann",
+                    "link": "https://www.imdb.com/name/nm0679479/?ref_=ttfc_fc_cr",
+                    "credit": "third electric",
+                    "normalized_credit": [
+                        "third electric"
+                    ]
+                },
+                {
+                    "name": "Clark Walker",
+                    "link": "https://www.imdb.com/name/nm0907635/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "Thomas \u00d6hl",
+                    "link": "https://www.imdb.com/name/nm0960068/?ref_=ttfc_fc_cr",
+                    "credit": "electrician",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Casting Department",
+            "crew": [
+                {
+                    "name": "Chloe Ernst",
+                    "link": "https://www.imdb.com/name/nm1570736/?ref_=ttfc_fc_cr",
+                    "credit": "casting associate: New York",
+                    "normalized_credit": [
+                        "casting associate"
+                    ]
+                },
+                {
+                    "name": "Robyn Levinson",
+                    "link": "https://www.imdb.com/name/nm0506089/?ref_=ttfc_fc_cr",
+                    "credit": "casting assistant",
+                    "normalized_credit": [
+                        "casting assistant"
+                    ]
+                },
+                {
+                    "name": "James Pantone",
+                    "link": "https://www.imdb.com/name/nm0659879/?ref_=ttfc_fc_cr",
+                    "credit": "casting associate: Los Angeles",
+                    "normalized_credit": [
+                        "casting associate"
+                    ]
+                },
+                {
+                    "name": "Lisa Pantone",
+                    "link": "https://www.imdb.com/name/nm0659880/?ref_=ttfc_fc_cr",
+                    "credit": "casting associate: Los Angeles",
+                    "normalized_credit": [
+                        "casting associate"
+                    ]
+                },
+                {
+                    "name": "Regina Schlagnitweit",
+                    "link": "https://www.imdb.com/name/nm1575608/?ref_=ttfc_fc_cr",
+                    "credit": "casting: Austria",
+                    "normalized_credit": [
+                        "casting"
+                    ]
+                },
+                {
+                    "name": "Birgit Sturm",
+                    "link": "https://www.imdb.com/name/nm1604741/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting: Vienna People",
+                    "normalized_credit": [
+                        "extras casting"
+                    ]
+                }
+            ],
+            "normalized role": "Casting Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Barbara Albert",
+                    "link": "https://www.imdb.com/name/nm0016475/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                },
+                {
+                    "name": "Peter Fahrngruber",
+                    "link": "https://www.imdb.com/name/nm1570795/?ref_=ttfc_fc_cr",
+                    "credit": "avid consultant",
+                    "normalized_credit": [
+                        "avid consultant"
+                    ]
+                },
+                {
+                    "name": "Sheri Galloway",
+                    "link": "https://www.imdb.com/name/nm0303215/?ref_=ttfc_fc_cr",
+                    "credit": "second editor",
+                    "normalized_credit": [
+                        "second editor"
+                    ]
+                },
+                {
+                    "name": "Mo Henry",
+                    "link": "https://www.imdb.com/name/nm0377948/?ref_=ttfc_fc_cr",
+                    "credit": "negative cutter",
+                    "normalized_credit": [
+                        "negative cutter"
+                    ]
+                },
+                {
+                    "name": "Bob Kaiser",
+                    "link": "https://www.imdb.com/name/nm0435131/?ref_=ttfc_fc_cr",
+                    "credit": "color timer",
+                    "normalized_credit": [
+                        "color timer"
+                    ]
+                },
+                {
+                    "name": "Eric A. Lewy",
+                    "link": "https://www.imdb.com/name/nm0507935/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant editor",
+                    "normalized_credit": [
+                        "first assistant editor"
+                    ]
+                },
+                {
+                    "name": "Christine Radovanov",
+                    "link": "https://www.imdb.com/name/nm1568777/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Philipp Kaiser",
+                    "link": "https://www.imdb.com/name/nm0435202/?ref_=ttfc_fc_cr",
+                    "credit": "location assistant",
+                    "normalized_credit": [
+                        "location assistant"
+                    ]
+                },
+                {
+                    "name": "Kurt Werner Krusche",
+                    "link": "https://www.imdb.com/name/nm0472813/?ref_=ttfc_fc_cr",
+                    "credit": "location manager (as Kurt 'Mingo' Krusche)",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                },
+                {
+                    "name": "Axl Newrkla",
+                    "link": "https://www.imdb.com/name/nm0628383/?ref_=ttfc_fc_cr",
+                    "credit": "set location manager",
+                    "normalized_credit": [
+                        "set location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Arlene Fishbach",
+                    "link": "https://www.imdb.com/name/nm0279315/?ref_=ttfc_fc_cr",
+                    "credit": "music consultant",
+                    "normalized_credit": [
+                        "music consultant"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Monika Petrillo",
+                    "link": "https://www.imdb.com/name/nm0902667/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor (as Monika von Manteuffel)",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Transportation Department",
+            "crew": [
+                {
+                    "name": "Michael Hopfgartner",
+                    "link": "https://www.imdb.com/name/nm1571938/?ref_=ttfc_fc_cr",
+                    "credit": "transportation captain",
+                    "normalized_credit": [
+                        "transportation captain"
+                    ]
+                },
+                {
+                    "name": "Stegan Stein",
+                    "link": "https://www.imdb.com/name/nm0825635/?ref_=ttfc_fc_cr",
+                    "credit": "driver: trailer (as Stefan Stein)",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                }
+            ],
+            "normalized role": "Transportation Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Catherine Bauer",
+                    "link": "https://www.imdb.com/name/nm1602672/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Dennis Davidson",
+                    "link": "https://www.imdb.com/name/nm0203293/?ref_=ttfc_fc_cr",
+                    "credit": "unit publicist",
+                    "normalized_credit": [
+                        "unit publicist"
+                    ]
+                },
+                {
+                    "name": "Bob Dillon",
+                    "link": "https://www.imdb.com/name/nm13983599/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Uli Halbritter",
+                    "link": "https://www.imdb.com/name/nm0354762/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                },
+                {
+                    "name": "Jeff Hill",
+                    "link": "https://www.imdb.com/name/nm0384364/?ref_=ttfc_fc_cr",
+                    "credit": "publicity: Clein+White",
+                    "normalized_credit": [
+                        "publicity"
+                    ]
+                },
+                {
+                    "name": "J\u00e9r\u00f4me Jouneaux",
+                    "link": "https://www.imdb.com/name/nm0431109/?ref_=ttfc_fc_cr",
+                    "credit": "press attache: France",
+                    "normalized_credit": [
+                        "press attache"
+                    ]
+                },
+                {
+                    "name": "Alexander Kleinszig",
+                    "link": "https://www.imdb.com/name/nm1572603/?ref_=ttfc_fc_cr",
+                    "credit": "key production assistant",
+                    "normalized_credit": [
+                        "key production assistant"
+                    ]
+                },
+                {
+                    "name": "Avi Levy",
+                    "link": "https://www.imdb.com/name/nm0506342/?ref_=ttfc_fc_cr",
+                    "credit": "production accountant",
+                    "normalized_credit": [
+                        "production accountant"
+                    ]
+                },
+                {
+                    "name": "Karol Martesko",
+                    "link": "https://www.imdb.com/name/nm0551724/?ref_=ttfc_fc_cr",
+                    "credit": "co-production liaison",
+                    "normalized_credit": [
+                        "co-production liaison"
+                    ]
+                },
+                {
+                    "name": "Morgan Miles",
+                    "link": "https://www.imdb.com/name/nm0587203/?ref_=ttfc_fc_cr",
+                    "credit": "assistant production accountant",
+                    "normalized_credit": [
+                        "assistant production accountant"
+                    ]
+                },
+                {
+                    "name": "Andrea Nunner",
+                    "link": "https://www.imdb.com/name/nm1604434/?ref_=ttfc_fc_cr",
+                    "credit": "accountant: Austria",
+                    "normalized_credit": [
+                        "accountant"
+                    ]
+                },
+                {
+                    "name": "Chris Paton",
+                    "link": "https://www.imdb.com/name/nm0665716/?ref_=ttfc_fc_cr",
+                    "credit": "unit publicist: DDA London",
+                    "normalized_credit": [
+                        "unit publicist"
+                    ]
+                },
+                {
+                    "name": "Regina Schlagnitweit",
+                    "link": "https://www.imdb.com/name/nm1575608/?ref_=ttfc_fc_cr",
+                    "credit": "set production assistant",
+                    "normalized_credit": [
+                        "set production assistant"
+                    ]
+                },
+                {
+                    "name": "Hans Weingartner",
+                    "link": "https://www.imdb.com/name/nm0918326/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Reini Weissensteiner",
+                    "link": "https://www.imdb.com/name/nm1382039/?ref_=ttfc_fc_cr",
+                    "credit": "set production assistant (as Reinhard Wei\u00dfensteiner)",
+                    "normalized_credit": [
+                        "set production assistant"
+                    ]
+                },
+                {
+                    "name": "Susanne Wouk",
+                    "link": "https://www.imdb.com/name/nm1604872/?ref_=ttfc_fc_cr",
+                    "credit": "set production assistant",
+                    "normalized_credit": [
+                        "set production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Wolfgang Ainberger",
+                    "link": "https://www.imdb.com/name/nm0014666/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Karen Arikian",
+                    "link": "https://www.imdb.com/name/nm0034827/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank (as Karin Arikian)",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Manfred Bartunek",
+                    "link": "https://www.imdb.com/name/nm1131886/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Ivan Bigley",
+                    "link": "https://www.imdb.com/name/nm0081900/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Arie Bohrer",
+                    "link": "https://www.imdb.com/name/nm0092173/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Laura Duda",
+                    "link": "https://www.imdb.com/name/nm2460357/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Courtney Eldridge",
+                    "link": "https://www.imdb.com/name/nm3247397/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "J\u00fcrgen Forster",
+                    "link": "https://www.imdb.com/name/nm3247469/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Walter Galosch",
+                    "link": "https://www.imdb.com/name/nm3271181/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Leonhard Gm\u00fcr",
+                    "link": "https://www.imdb.com/name/nm0323443/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Robyn Gray",
+                    "link": "https://www.imdb.com/name/nm3247498/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Stefan Grissemann",
+                    "link": "https://www.imdb.com/name/nm1891259/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Ada Harmon",
+                    "link": "https://www.imdb.com/name/nm10955665/?ref_=ttfc_fc_cr",
+                    "credit": "in memory of: my grandparents",
+                    "normalized_credit": [
+                        "in memory of"
+                    ]
+                },
+                {
+                    "name": "Cecil Harmon",
+                    "link": "https://www.imdb.com/name/nm10955666/?ref_=ttfc_fc_cr",
+                    "credit": "in memory of: my grandparents",
+                    "normalized_credit": [
+                        "in memory of"
+                    ]
+                },
+                {
+                    "name": "Alexander Horwath",
+                    "link": "https://www.imdb.com/name/nm1891478/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "John Hunt",
+                    "link": "https://www.imdb.com/name/nm3271322/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Heather McGrath Jacobs",
+                    "link": "https://www.imdb.com/name/nm0414429/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "David Jewell",
+                    "link": "https://www.imdb.com/name/nm5193233/?ref_=ttfc_fc_cr",
+                    "credit": "acknowledgment: poem \"Delusion Angel\" written by",
+                    "normalized_credit": [
+                        "acknowledgment"
+                    ]
+                },
+                {
+                    "name": "Alan Jones",
+                    "link": "https://www.imdb.com/name/nm3271092/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Gudrun Kampl",
+                    "link": "https://www.imdb.com/name/nm3272196/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Constanze Kargl",
+                    "link": "https://www.imdb.com/name/nm3271806/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Lynn Keller",
+                    "link": "https://www.imdb.com/name/nm3247476/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Kurt Kren",
+                    "link": "https://www.imdb.com/name/nm0470825/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Charles Krieger",
+                    "link": "https://www.imdb.com/name/nm2048032/?ref_=ttfc_fc_cr",
+                    "credit": "in memory of: my grandparents",
+                    "normalized_credit": [
+                        "in memory of"
+                    ]
+                },
+                {
+                    "name": "Thelma Krieger",
+                    "link": "https://www.imdb.com/name/nm10955664/?ref_=ttfc_fc_cr",
+                    "credit": "in memory of: my grandparents",
+                    "normalized_credit": [
+                        "in memory of"
+                    ]
+                },
+                {
+                    "name": "Doris Krumpl",
+                    "link": "https://www.imdb.com/name/nm3271191/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Charles Linklater",
+                    "link": "https://www.imdb.com/name/nm1926540/?ref_=ttfc_fc_cr",
+                    "credit": "in memory of: my grandparents",
+                    "normalized_credit": [
+                        "in memory of"
+                    ]
+                },
+                {
+                    "name": "Shirley Linklater",
+                    "link": "https://www.imdb.com/name/nm3271299/?ref_=ttfc_fc_cr",
+                    "credit": "in memory of: my grandparents",
+                    "normalized_credit": [
+                        "in memory of"
+                    ]
+                },
+                {
+                    "name": "Amy Lowrey",
+                    "link": "https://www.imdb.com/name/nm0523279/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Peter Muhr",
+                    "link": "https://www.imdb.com/name/nm0611303/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Vesna Muhr",
+                    "link": "https://www.imdb.com/name/nm3271394/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Jim Osborne",
+                    "link": "https://www.imdb.com/name/nm2220724/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Katharina Pirker",
+                    "link": "https://www.imdb.com/name/nm3271440/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Bernhard Praschl",
+                    "link": "https://www.imdb.com/name/nm3271315/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Ulla Rapp",
+                    "link": "https://www.imdb.com/name/nm2044671/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Christa Reeh",
+                    "link": "https://www.imdb.com/name/nm0715826/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Stefan Ruul",
+                    "link": "https://www.imdb.com/name/nm3271751/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "M\u00e1ria Schmidt",
+                    "link": "https://www.imdb.com/name/nm3247408/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank (as Maria Schmidt)",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Franz Schwartz",
+                    "link": "https://www.imdb.com/name/nm3247497/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Heinz Skala",
+                    "link": "https://www.imdb.com/name/nm2747834/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Philipp Teuchtler",
+                    "link": "https://www.imdb.com/name/nm3271426/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "I.D. Lila von Schwarzenberg",
+                    "link": "https://www.imdb.com/name/nm3271967/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Dagmar Wagner",
+                    "link": "https://www.imdb.com/name/nm0905849/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Fritz Wagner",
+                    "link": "https://www.imdb.com/name/nm3272049/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Peter Wallner",
+                    "link": "https://www.imdb.com/name/nm1932519/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Heinz Wendl",
+                    "link": "https://www.imdb.com/name/nm3271474/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                },
+                {
+                    "name": "Cornelia Zweigert",
+                    "link": "https://www.imdb.com/name/nm3271864/?ref_=ttfc_fc_cr",
+                    "credit": "we wish to thank",
+                    "normalized_credit": [
+                        "we wish to thank"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

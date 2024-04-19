@@ -1,0 +1,193 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt4532536/fullcredits/",
+    "title": "Last Days (2014)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Kathryn Bigelow",
+                    "link": "https://www.imdb.com/name/nm0000941/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Scott Z. Burns",
+                    "link": "https://www.imdb.com/name/nm1994243/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Kathryn Bigelow",
+                    "link": "https://www.imdb.com/name/nm0000941/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Matthew Budman",
+                    "link": "https://www.imdb.com/name/nm3040960/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Howard G. Buffett",
+                    "link": "https://www.imdb.com/name/nm5417735/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Megan Ellison",
+                    "link": "https://www.imdb.com/name/nm2691892/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Sandra Rabins",
+                    "link": "https://www.imdb.com/name/nm0704968/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Mike Andrews",
+                    "link": "https://www.imdb.com/name/nm7198651/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "James Ryan",
+                    "link": "https://www.imdb.com/name/nm1121631/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Sam Michlap",
+                    "link": "https://www.imdb.com/name/nm1901029/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Tommy Kim",
+                    "link": "https://www.imdb.com/name/nm7360849/?ref_=ttfc_fc_cr",
+                    "credit": "painter",
+                    "normalized_credit": [
+                        "painter"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Paul N.J. Ottosson",
+                    "link": "https://www.imdb.com/name/nm0653338/?ref_=ttfc_fc_cr",
+                    "credit": "sound designer",
+                    "normalized_credit": [
+                        "sound designer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Jacquelyn Karambelas",
+                    "link": "https://www.imdb.com/name/nm1961889/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                },
+                {
+                    "name": "Erika Scopelli",
+                    "link": "https://www.imdb.com/name/nm4948932/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Oscar Garcia",
+                    "link": "https://www.imdb.com/name/nm3145353/?ref_=ttfc_fc_cr",
+                    "credit": "motion graphics designer",
+                    "normalized_credit": [
+                        "motion graphics designer"
+                    ]
+                },
+                {
+                    "name": "Amy Hwang",
+                    "link": "https://www.imdb.com/name/nm6413510/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer: titles",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Janelle Ricci",
+                    "link": "https://www.imdb.com/name/nm9180080/?ref_=ttfc_fc_cr",
+                    "credit": "motion graphics designer",
+                    "normalized_credit": [
+                        "motion graphics designer"
+                    ]
+                },
+                {
+                    "name": "Paul Rollens",
+                    "link": "https://www.imdb.com/name/nm6413509/?ref_=ttfc_fc_cr",
+                    "credit": "producer: titles",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Christopher Salamat",
+                    "link": "https://www.imdb.com/name/nm4784021/?ref_=ttfc_fc_cr",
+                    "credit": "art director: titles",
+                    "normalized_credit": [
+                        "art director"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

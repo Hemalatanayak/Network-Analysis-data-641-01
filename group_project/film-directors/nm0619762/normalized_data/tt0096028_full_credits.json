@@ -1,0 +1,571 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0096028/fullcredits/",
+    "title": "Salaam Bombay! (1988)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Mira Nair",
+                    "link": "https://www.imdb.com/name/nm0619762/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Mira Nair",
+                    "link": "https://www.imdb.com/name/nm0619762/?ref_=ttfc_fc_wr1",
+                    "credit": "(story by) &",
+                    "normalized_credit": [
+                        "story by"
+                    ]
+                },
+                {
+                    "name": "Sooni Taraporevala",
+                    "link": "https://www.imdb.com/name/nm0850247/?ref_=ttfc_fc_wr2",
+                    "credit": "(story by)",
+                    "normalized_credit": [
+                        "story by"
+                    ]
+                },
+                {
+                    "name": "Sooni Taraporevala",
+                    "link": "https://www.imdb.com/name/nm0850247/?ref_=ttfc_fc_wr3",
+                    "credit": "(screenplay by)",
+                    "normalized_credit": [
+                        "screenplay by"
+                    ]
+                },
+                {
+                    "name": "Hriday Lani",
+                    "link": "https://www.imdb.com/name/nm1195250/?ref_=ttfc_fc_wr4",
+                    "credit": "(dialogue)",
+                    "normalized_credit": [
+                        "dialogue"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) verified as complete",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Gabriel Auer",
+                    "link": "https://www.imdb.com/name/nm0041671/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer: France",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Jane Balfour",
+                    "link": "https://www.imdb.com/name/nm2647956/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Mitch Epstein",
+                    "link": "https://www.imdb.com/name/nm0258517/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "Mira Nair",
+                    "link": "https://www.imdb.com/name/nm0619762/?ref_=ttfc_fc_cr",
+                    "credit": "producer (produced by)",
+                    "normalized_credit": [
+                        "producer produced by"
+                    ]
+                },
+                {
+                    "name": "Michael Nozik",
+                    "link": "https://www.imdb.com/name/nm0637602/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer: U.S.A",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Cherie Rodgers",
+                    "link": "https://www.imdb.com/name/nm0734683/?ref_=ttfc_fc_cr",
+                    "credit": "co-executive producer",
+                    "normalized_credit": [
+                        "co-executive producer"
+                    ]
+                },
+                {
+                    "name": "Anil Tejani",
+                    "link": "https://www.imdb.com/name/nm0854187/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer: India",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "L. Subramaniam",
+                    "link": "https://www.imdb.com/name/nm0836996/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Sandi Sissel",
+                    "link": "https://www.imdb.com/name/nm0005876/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Barry Alexander Brown",
+                    "link": "https://www.imdb.com/name/nm0113084/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Hassan Kutty",
+                    "link": "https://www.imdb.com/name/nm0476575/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Mitch Epstein",
+                    "link": "https://www.imdb.com/name/nm0258517/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Nitin Chandrakant Desai",
+                    "link": "https://www.imdb.com/name/nm0220834/?ref_=ttfc_fc_cr",
+                    "credit": "(as Nitin Desai)"
+                },
+                {
+                    "name": "Nitish Roy",
+                    "link": "https://www.imdb.com/name/nm0747132/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Hassan Kutty",
+                    "link": "https://www.imdb.com/name/nm0476575/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                },
+                {
+                    "name": "Dinaz Stafford",
+                    "link": "https://www.imdb.com/name/nm0821267/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                },
+                {
+                    "name": "Nilita Vachani",
+                    "link": "https://www.imdb.com/name/nm0882893/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant director",
+                    "normalized_credit": [
+                        "second assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Rosemary Abitabile",
+                    "link": "https://www.imdb.com/name/nm3735580/?ref_=ttfc_fc_cr",
+                    "credit": "apprentice sound editor",
+                    "normalized_credit": [
+                        "apprentice sound editor"
+                    ]
+                },
+                {
+                    "name": "Margaret Crimmins",
+                    "link": "https://www.imdb.com/name/nm0187866/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "Dominique Dalmasso",
+                    "link": "https://www.imdb.com/name/nm0198147/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Neal Gettinger",
+                    "link": "https://www.imdb.com/name/nm0315249/?ref_=ttfc_fc_cr",
+                    "credit": "boom operator (as Neil Gettinger)",
+                    "normalized_credit": [
+                        "boom operator"
+                    ]
+                },
+                {
+                    "name": "Jonathan Liebling",
+                    "link": "https://www.imdb.com/name/nm0509487/?ref_=ttfc_fc_cr",
+                    "credit": "foley artist",
+                    "normalized_credit": [
+                        "foley artist"
+                    ]
+                },
+                {
+                    "name": "Mary Ellen Porto",
+                    "link": "https://www.imdb.com/name/nm0692497/?ref_=ttfc_fc_cr",
+                    "credit": "sound editor",
+                    "normalized_credit": [
+                        "sound editor"
+                    ]
+                },
+                {
+                    "name": "Laure Sullivan",
+                    "link": "https://www.imdb.com/name/nm0838207/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "B.N. Tiwari",
+                    "link": "https://www.imdb.com/name/nm1211999/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Imtiaz Ansari",
+                    "link": "https://www.imdb.com/name/nm1231375/?ref_=ttfc_fc_cr",
+                    "credit": "electrician",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Mulchand Dedhia",
+                    "link": "https://www.imdb.com/name/nm0214095/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                },
+                {
+                    "name": "Mitch Epstein",
+                    "link": "https://www.imdb.com/name/nm0258517/?ref_=ttfc_fc_cr",
+                    "credit": "second unit photography",
+                    "normalized_credit": [
+                        "second unit photography"
+                    ]
+                },
+                {
+                    "name": "Vangelis Kalambakas",
+                    "link": "https://www.imdb.com/name/nm0435489/?ref_=ttfc_fc_cr",
+                    "credit": "dolly grip",
+                    "normalized_credit": [
+                        "dolly grip"
+                    ]
+                },
+                {
+                    "name": "Hiroo Keswani",
+                    "link": "https://www.imdb.com/name/nm1656570/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "Lee Anthony Macnamara",
+                    "link": "https://www.imdb.com/name/nm3735626/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Kamlesh Sadrani",
+                    "link": "https://www.imdb.com/name/nm0755659/?ref_=ttfc_fc_cr",
+                    "credit": "generator operator",
+                    "normalized_credit": [
+                        "generator operator"
+                    ]
+                },
+                {
+                    "name": "Ramesh Sadrani",
+                    "link": "https://www.imdb.com/name/nm0755660/?ref_=ttfc_fc_cr",
+                    "credit": "generator operator",
+                    "normalized_credit": [
+                        "generator operator"
+                    ]
+                },
+                {
+                    "name": "Sooni Taraporevala",
+                    "link": "https://www.imdb.com/name/nm0850247/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Deepa Kakkar",
+                    "link": "https://www.imdb.com/name/nm3735635/?ref_=ttfc_fc_cr",
+                    "credit": "costumer",
+                    "normalized_credit": [
+                        "costumer"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Tula Goenka",
+                    "link": "https://www.imdb.com/name/nm0324412/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Shyam Kane",
+                    "link": "https://www.imdb.com/name/nm5268276/?ref_=ttfc_fc_cr",
+                    "credit": "musician: tabla",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Mark Massey",
+                    "link": "https://www.imdb.com/name/nm5268234/?ref_=ttfc_fc_cr",
+                    "credit": "musician: keyboards",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Emil Richards",
+                    "link": "https://www.imdb.com/name/nm0724079/?ref_=ttfc_fc_cr",
+                    "credit": "musician: percussion",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "P. Srinavasan",
+                    "link": "https://www.imdb.com/name/nm5268215/?ref_=ttfc_fc_cr",
+                    "credit": "musician: mridangam and ghatam",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "George Struntz",
+                    "link": "https://www.imdb.com/name/nm5268186/?ref_=ttfc_fc_cr",
+                    "credit": "musician: acoustic guitar",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "L. Subramaniam",
+                    "link": "https://www.imdb.com/name/nm0836996/?ref_=ttfc_fc_cr",
+                    "credit": "conductor / music arranger / musician: violin",
+                    "normalized_credit": [
+                        "conductor",
+                        "music arranger",
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Vijayshree Subramaniam",
+                    "link": "https://www.imdb.com/name/nm5268283/?ref_=ttfc_fc_cr",
+                    "credit": "musician: voice",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Ron Wagner",
+                    "link": "https://www.imdb.com/name/nm5268178/?ref_=ttfc_fc_cr",
+                    "credit": "musician: drums",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Jerry Watts Jr.",
+                    "link": "https://www.imdb.com/name/nm0915095/?ref_=ttfc_fc_cr",
+                    "credit": "musician: bass",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Ernie Watts",
+                    "link": "https://www.imdb.com/name/nm0915139/?ref_=ttfc_fc_cr",
+                    "credit": "musician: horns",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Nilita Vachani",
+                    "link": "https://www.imdb.com/name/nm0882893/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Joyce Barneto",
+                    "link": "https://www.imdb.com/name/nm0055838/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator: Bombay",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                },
+                {
+                    "name": "Shiladitya Bora",
+                    "link": "https://www.imdb.com/name/nm4880115/?ref_=ttfc_fc_cr",
+                    "credit": "distribution: re-release",
+                    "normalized_credit": [
+                        "distribution"
+                    ]
+                },
+                {
+                    "name": "Gloria Bremer",
+                    "link": "https://www.imdb.com/name/nm0107074/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator: New York",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                },
+                {
+                    "name": "Gis\u00e8le Grellet-Bouquet",
+                    "link": "https://www.imdb.com/name/nm0340148/?ref_=ttfc_fc_cr",
+                    "credit": "production accountant",
+                    "normalized_credit": [
+                        "production accountant"
+                    ]
+                },
+                {
+                    "name": "Mark R. Lindsay",
+                    "link": "https://www.imdb.com/name/nm5072862/?ref_=ttfc_fc_cr",
+                    "credit": "sales representative (as Mark Lindsay)",
+                    "normalized_credit": [
+                        "sales representative"
+                    ]
+                },
+                {
+                    "name": "Ambrish Manilal",
+                    "link": "https://www.imdb.com/name/nm3735687/?ref_=ttfc_fc_cr",
+                    "credit": "production accountant",
+                    "normalized_credit": [
+                        "production accountant"
+                    ]
+                },
+                {
+                    "name": "Vincent R. Nebrida",
+                    "link": "https://www.imdb.com/name/nm1086194/?ref_=ttfc_fc_cr",
+                    "credit": "marketing coordinator (uncredited)",
+                    "normalized_credit": [
+                        "marketing coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Jehangir Choudhary",
+                    "link": "https://www.imdb.com/name/nm0159325/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

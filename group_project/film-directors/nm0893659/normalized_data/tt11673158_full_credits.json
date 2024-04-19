@@ -1,0 +1,89 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt11673158/fullcredits/",
+    "title": "Budweiser: Frogs (Video 1995)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Gore Verbinski",
+                    "link": "https://www.imdb.com/name/nm0893659/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Dave Swaine",
+                    "link": "https://www.imdb.com/name/nm11301273/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Chan Hatcher",
+                    "link": "https://www.imdb.com/name/nm0368764/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Marty Weiss",
+                    "link": "https://www.imdb.com/name/nm4612980/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Craig Wood",
+                    "link": "https://www.imdb.com/name/nm0939623/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Michael Smith",
+                    "link": "https://www.imdb.com/name/nm11301274/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Brian Steckler",
+                    "link": "https://www.imdb.com/name/nm0972137/?ref_=ttfc_fc_cr",
+                    "credit": "sound editor / sound mixer",
+                    "normalized_credit": [
+                        "sound editor",
+                        "sound mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        }
+    ],
+    "imdb_details": {}
+}

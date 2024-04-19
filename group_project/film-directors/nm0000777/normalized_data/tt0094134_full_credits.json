@@ -1,0 +1,80 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0094134/fullcredits/",
+    "title": "Three Bewildered People in the Night (1987)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Gregg Araki",
+                    "link": "https://www.imdb.com/name/nm0000777/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Gregg Araki",
+                    "link": "https://www.imdb.com/name/nm0000777/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Gregg Araki",
+                    "link": "https://www.imdb.com/name/nm0000777/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Gregg Araki",
+                    "link": "https://www.imdb.com/name/nm0000777/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Gregg Araki",
+                    "link": "https://www.imdb.com/name/nm0000777/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Casey Hansen",
+                    "link": "https://www.imdb.com/name/nm4409314/?ref_=ttfc_fc_cr",
+                    "credit": "sound editor",
+                    "normalized_credit": [
+                        "sound editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        }
+    ],
+    "imdb_details": {}
+}

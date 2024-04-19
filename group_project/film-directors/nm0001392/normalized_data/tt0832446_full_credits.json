@@ -1,0 +1,142 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0832446/fullcredits/",
+    "title": "The Lost Spider Pit Sequence (Video 2005)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Peter Jackson",
+                    "link": "https://www.imdb.com/name/nm0001392/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Merian C. Cooper",
+                    "link": "https://www.imdb.com/name/nm0178260/?ref_=ttfc_fc_wr1",
+                    "credit": "(characters)",
+                    "normalized_credit": [
+                        "characters"
+                    ]
+                },
+                {
+                    "name": "James Ashmore Creelman",
+                    "link": "https://www.imdb.com/name/nm0187256/?ref_=ttfc_fc_wr2",
+                    "credit": "(original film screenplay by)",
+                    "normalized_credit": [
+                        "original film screenplay by"
+                    ]
+                },
+                {
+                    "name": "Ruth Rose",
+                    "link": "https://www.imdb.com/name/nm0741656/?ref_=ttfc_fc_wr3",
+                    "credit": "(original film screenplay by)",
+                    "normalized_credit": [
+                        "original film screenplay by"
+                    ]
+                },
+                {
+                    "name": "Edgar Wallace",
+                    "link": "https://www.imdb.com/name/nm0908624/?ref_=ttfc_fc_wr4",
+                    "credit": "(characters)",
+                    "normalized_credit": [
+                        "characters"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Michael Pellerin",
+                    "link": "https://www.imdb.com/name/nm1212309/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Jabez Olssen",
+                    "link": "https://www.imdb.com/name/nm1288150/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Mary Connolly",
+                    "link": "https://www.imdb.com/name/nm1401849/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                },
+                {
+                    "name": "Pamela Harvey-White",
+                    "link": "https://www.imdb.com/name/nm2115401/?ref_=ttfc_fc_cr",
+                    "credit": "post-production supervisor",
+                    "normalized_credit": [
+                        "post-production supervisor"
+                    ]
+                },
+                {
+                    "name": "Carey Johnson",
+                    "link": "https://www.imdb.com/name/nm0424709/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Graham Binding",
+                    "link": "https://www.imdb.com/name/nm0082830/?ref_=ttfc_fc_cr",
+                    "credit": "animator",
+                    "normalized_credit": [
+                        "animator"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Garth Michael",
+                    "link": "https://www.imdb.com/name/nm1329349/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

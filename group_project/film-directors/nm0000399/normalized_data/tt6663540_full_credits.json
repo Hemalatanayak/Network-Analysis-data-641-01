@@ -1,0 +1,124 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6663540/fullcredits/",
+    "title": "Billy Idol: Cradle of Love (Music Video 1990)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Fincher",
+                    "link": "https://www.imdb.com/name/nm0000399/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Chris Steen Olsen",
+                    "link": "https://www.imdb.com/name/nm0824838/?ref_=ttfc_fc_cr",
+                    "credit": "technical producer",
+                    "normalized_credit": [
+                        "technical producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Billy Idol",
+                    "link": "https://www.imdb.com/name/nm0002150/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "David Werner",
+                    "link": "https://www.imdb.com/name/nm6811645/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Steven Ramsey",
+                    "link": "https://www.imdb.com/name/nm7858391/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Peter W. Moyer",
+                    "link": "https://www.imdb.com/name/nm0610453/?ref_=ttfc_fc_cr",
+                    "credit": "special effects",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Anthony Huljev",
+                    "link": "https://www.imdb.com/name/nm0401387/?ref_=ttfc_fc_cr",
+                    "credit": "best boy electric",
+                    "normalized_credit": [
+                        "best boy electric"
+                    ]
+                },
+                {
+                    "name": "Patrick Melly",
+                    "link": "https://www.imdb.com/name/nm0578156/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Keith Forsey",
+                    "link": "https://www.imdb.com/name/nm0286850/?ref_=ttfc_fc_cr",
+                    "credit": "record producer",
+                    "normalized_credit": [
+                        "record producer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Michael Rooney",
+                    "link": "https://www.imdb.com/name/nm0740341/?ref_=ttfc_fc_cr",
+                    "credit": "choreographer",
+                    "normalized_credit": [
+                        "choreographer"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

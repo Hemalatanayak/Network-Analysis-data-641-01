@@ -1,0 +1,613 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt1094249/fullcredits/",
+    "title": "Hotel Chevalier (2007)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Wes Anderson",
+                    "link": "https://www.imdb.com/name/nm0027572/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Wes Anderson",
+                    "link": "https://www.imdb.com/name/nm0027572/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) complete, awaiting verification",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Alice Bamford",
+                    "link": "https://www.imdb.com/name/nm2739159/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "Thierry Bettas-B\u00e9galin",
+                    "link": "https://www.imdb.com/name/nm1330104/?ref_=ttfc_fc_cr",
+                    "credit": "line producer (as Thierry Bettas-Begalin)",
+                    "normalized_credit": [
+                        "line producer"
+                    ]
+                },
+                {
+                    "name": "Pierre Cl\u00e9aud",
+                    "link": "https://www.imdb.com/name/nm2920410/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer (as Pierre Cleaud)",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Patrice Haddad",
+                    "link": "https://www.imdb.com/name/nm0352663/?ref_=ttfc_fc_cr",
+                    "credit": "producer: in association with",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Jerome Rucki",
+                    "link": "https://www.imdb.com/name/nm0748546/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Nicolas Saada",
+                    "link": "https://www.imdb.com/name/nm0754256/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Robert D. Yeoman",
+                    "link": "https://www.imdb.com/name/nm0005934/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography (as Robert Yeoman)",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Vincent Marchand",
+                    "link": "https://www.imdb.com/name/nm1464791/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Kris Moran",
+                    "link": "https://www.imdb.com/name/nm0602901/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Frances Hannon",
+                    "link": "https://www.imdb.com/name/nm0360470/?ref_=ttfc_fc_cr",
+                    "credit": "hair stylist / makeup artist",
+                    "normalized_credit": [
+                        "hair stylist",
+                        "makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Bastien Harispe",
+                    "link": "https://www.imdb.com/name/nm3086528/?ref_=ttfc_fc_cr",
+                    "credit": "post-production supervisor",
+                    "normalized_credit": [
+                        "post-production supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Emilie Cherpitel",
+                    "link": "https://www.imdb.com/name/nm1014584/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Eric Chase Anderson",
+                    "link": "https://www.imdb.com/name/nm0026682/?ref_=ttfc_fc_cr",
+                    "credit": "artist: suitcase wildlife drawings (as Eric Anderson)",
+                    "normalized_credit": [
+                        "artist"
+                    ]
+                },
+                {
+                    "name": "Krysten Childs",
+                    "link": "https://www.imdb.com/name/nm1942391/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Emmanuel Desmdryl",
+                    "link": "https://www.imdb.com/name/nm3087118/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineer",
+                    "normalized_credit": [
+                        "sound engineer"
+                    ]
+                },
+                {
+                    "name": "Gr\u00e9goire Galian",
+                    "link": "https://www.imdb.com/name/nm3086537/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                },
+                {
+                    "name": "Marc Parazon",
+                    "link": "https://www.imdb.com/name/nm2243155/?ref_=ttfc_fc_cr",
+                    "credit": "boom operator",
+                    "normalized_credit": [
+                        "boom operator"
+                    ]
+                },
+                {
+                    "name": "Sylvain Rety",
+                    "link": "https://www.imdb.com/name/nm3086696/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                },
+                {
+                    "name": "Matthieu Sibony",
+                    "link": "https://www.imdb.com/name/nm1916620/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                },
+                {
+                    "name": "Stuart Wilson",
+                    "link": "https://www.imdb.com/name/nm0934184/?ref_=ttfc_fc_cr",
+                    "credit": "production sound mixer",
+                    "normalized_credit": [
+                        "production sound mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Yann Masson",
+                    "link": "https://www.imdb.com/name/nm2684773/?ref_=ttfc_fc_cr",
+                    "credit": "flame artist",
+                    "normalized_credit": [
+                        "flame artist"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Joan Bansillon",
+                    "link": "https://www.imdb.com/name/nm2807284/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Thierry Baucheron",
+                    "link": "https://www.imdb.com/name/nm0061642/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                },
+                {
+                    "name": "Bruno Bimbard",
+                    "link": "https://www.imdb.com/name/nm0082717/?ref_=ttfc_fc_cr",
+                    "credit": "generator operator",
+                    "normalized_credit": [
+                        "generator operator"
+                    ]
+                },
+                {
+                    "name": "Roger Do Minh",
+                    "link": "https://www.imdb.com/name/nm1809342/?ref_=ttfc_fc_cr",
+                    "credit": "assistant electrician",
+                    "normalized_credit": [
+                        "assistant electrician"
+                    ]
+                },
+                {
+                    "name": "Jean-Christophe Duwez",
+                    "link": "https://www.imdb.com/name/nm1158844/?ref_=ttfc_fc_cr",
+                    "credit": "electrician (as Jean-Christophe Dumez)",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Alfonso Lopez de la Fuente",
+                    "link": "https://www.imdb.com/name/nm2268454/?ref_=ttfc_fc_cr",
+                    "credit": "grip (as Alfonso Lopez De La Fuente)",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Gary Pachany",
+                    "link": "https://www.imdb.com/name/nm1459741/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Mathieu Plainfoss\u00e9",
+                    "link": "https://www.imdb.com/name/nm1957201/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "F\u00e9lix Touret",
+                    "link": "https://www.imdb.com/name/nm0869632/?ref_=ttfc_fc_cr",
+                    "credit": "key grip (as Felix Touret)",
+                    "normalized_credit": [
+                        "key grip"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Fabien Turriziani",
+                    "link": "https://www.imdb.com/name/nm1941728/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor (as Fabien Turrizziani)",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                },
+                {
+                    "name": "Joe Gawler",
+                    "link": "https://www.imdb.com/name/nm0310695/?ref_=ttfc_fc_cr",
+                    "credit": "digital intermediate colorist (uncredited)",
+                    "normalized_credit": [
+                        "digital intermediate colorist"
+                    ]
+                },
+                {
+                    "name": "Michael P. Whipple",
+                    "link": "https://www.imdb.com/name/nm1599670/?ref_=ttfc_fc_cr",
+                    "credit": "digital intermediate engineer (uncredited)",
+                    "normalized_credit": [
+                        "digital intermediate engineer"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Henri Deneubourg",
+                    "link": "https://www.imdb.com/name/nm1871872/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Randall Poster",
+                    "link": "https://www.imdb.com/name/nm0692922/?ref_=ttfc_fc_cr",
+                    "credit": "music supervisor",
+                    "normalized_credit": [
+                        "music supervisor"
+                    ]
+                },
+                {
+                    "name": "Billy Warwick",
+                    "link": "https://www.imdb.com/name/nm11829346/?ref_=ttfc_fc_cr",
+                    "credit": "music producer",
+                    "normalized_credit": [
+                        "music producer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Damien Begbeder",
+                    "link": "https://www.imdb.com/name/nm3087158/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Julien Bonet",
+                    "link": "https://www.imdb.com/name/nm1957933/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Molly Cooper",
+                    "link": "https://www.imdb.com/name/nm1809172/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Libby Evans",
+                    "link": "https://www.imdb.com/name/nm3086281/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Jeremy Lindbergh",
+                    "link": "https://www.imdb.com/name/nm3086699/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Lionel Lorans",
+                    "link": "https://www.imdb.com/name/nm3086629/?ref_=ttfc_fc_cr",
+                    "credit": "concierge",
+                    "normalized_credit": [
+                        "concierge"
+                    ]
+                },
+                {
+                    "name": "Steve Makowski",
+                    "link": "https://www.imdb.com/name/nm2846224/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to director: U.S.",
+                    "normalized_credit": [
+                        "assistant to director"
+                    ]
+                },
+                {
+                    "name": "Thomas Moffett",
+                    "link": "https://www.imdb.com/name/nm2659289/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to director: U.S.",
+                    "normalized_credit": [
+                        "assistant to director"
+                    ]
+                },
+                {
+                    "name": "Julien Patry",
+                    "link": "https://www.imdb.com/name/nm3087123/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Sofian Rezzak",
+                    "link": "https://www.imdb.com/name/nm3087086/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Peria Tuccillo",
+                    "link": "https://www.imdb.com/name/nm0875711/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator (as Perla Tuccillo)",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Anthony Bamford",
+                    "link": "https://www.imdb.com/name/nm3154274/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Carole Bamford",
+                    "link": "https://www.imdb.com/name/nm3875997/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Martin Copping",
+                    "link": "https://www.imdb.com/name/nm0178840/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as a different name)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Mark Friedberg",
+                    "link": "https://www.imdb.com/name/nm0295004/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Norbert Henrot",
+                    "link": "https://www.imdb.com/name/nm3876739/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks: Hotel Rapha\u00ebl",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Robin Hurlstone",
+                    "link": "https://www.imdb.com/name/nm3153953/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Caroline Piel",
+                    "link": "https://www.imdb.com/name/nm3153804/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks: L'Hotel",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Scott Rudin",
+                    "link": "https://www.imdb.com/name/nm0748784/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Valentina Tortorella",
+                    "link": "https://www.imdb.com/name/nm3086546/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Keith 'Monkey' Warren",
+                    "link": "https://www.imdb.com/name/nm2571787/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Keith Warren)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Aleksandra Woroniecka",
+                    "link": "https://www.imdb.com/name/nm3154280/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Chika Yoshida",
+                    "link": "https://www.imdb.com/name/nm3877631/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks: Sony (as Mlle Yoshida)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Lili Fini Zanuck",
+                    "link": "https://www.imdb.com/name/nm0005572/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Lili Zanuck)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Richard D. Zanuck",
+                    "link": "https://www.imdb.com/name/nm0005573/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Richard Zanuck)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

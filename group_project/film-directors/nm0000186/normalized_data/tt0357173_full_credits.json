@@ -1,0 +1,60 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0357173/fullcredits/",
+    "title": "The Short Films of David Lynch (Video 2002)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Arash Ayrom",
+                    "link": "https://www.imdb.com/name/nm0044020/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Jon Merrifield",
+                    "link": "https://www.imdb.com/name/nm3994080/?ref_=ttfc_fc_cr",
+                    "credit": "on-line editor: uncredited, co-colorist",
+                    "normalized_credit": [
+                        "on-line editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        }
+    ],
+    "imdb_details": {}
+}

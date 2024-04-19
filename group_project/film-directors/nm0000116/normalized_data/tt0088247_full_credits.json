@@ -1,0 +1,1951 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0088247/fullcredits/",
+    "title": "The Terminator (1984)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "James Cameron",
+                    "link": "https://www.imdb.com/name/nm0000116/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "James Cameron",
+                    "link": "https://www.imdb.com/name/nm0000116/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by) and",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                },
+                {
+                    "name": "Gale Anne Hurd",
+                    "link": "https://www.imdb.com/name/nm0005036/?ref_=ttfc_fc_wr2",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                },
+                {
+                    "name": "William Wisher",
+                    "link": "https://www.imdb.com/name/nm0936537/?ref_=ttfc_fc_wr3",
+                    "credit": "(additional dialogue) (as William Wisher Jr.)",
+                    "normalized_credit": [
+                        "additional dialogue"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) verified as complete",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "John Daly",
+                    "link": "https://www.imdb.com/name/nm0198460/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Derek Gibson",
+                    "link": "https://www.imdb.com/name/nm0316938/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Gale Anne Hurd",
+                    "link": "https://www.imdb.com/name/nm0005036/?ref_=ttfc_fc_cr",
+                    "credit": "producer (produced by)",
+                    "normalized_credit": [
+                        "producer produced by"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Brad Fiedel",
+                    "link": "https://www.imdb.com/name/nm0006075/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Adam Greenberg",
+                    "link": "https://www.imdb.com/name/nm0004229/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Mark Goldblatt",
+                    "link": "https://www.imdb.com/name/nm0325358/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Stanzi Stokes",
+                    "link": "https://www.imdb.com/name/nm0288056/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Maria Caso",
+                    "link": "https://www.imdb.com/name/nm0143790/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Maria Caso",
+                    "link": "https://www.imdb.com/name/nm0143790/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "George Costello",
+                    "link": "https://www.imdb.com/name/nm0182551/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Set Decoration by",
+            "crew": [
+                {
+                    "name": "Maria Caso",
+                    "link": "https://www.imdb.com/name/nm0143790/?ref_=ttfc_fc_cr",
+                    "credit": "(as Maria Rebman Caso)"
+                }
+            ],
+            "normalized role": "Set Decoration by"
+        },
+        {
+            "role": "Costume Design by",
+            "crew": [
+                {
+                    "name": "Hilary Wright",
+                    "link": "https://www.imdb.com/name/nm0942435/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Jeff Dawn",
+                    "link": "https://www.imdb.com/name/nm0206015/?ref_=ttfc_fc_cr",
+                    "credit": "makeup department head (as Jefferson Dawn)",
+                    "normalized_credit": [
+                        "makeup department head"
+                    ]
+                },
+                {
+                    "name": "Kyle Sweet",
+                    "link": "https://www.imdb.com/name/nm0876071/?ref_=ttfc_fc_cr",
+                    "credit": "hair stylist: second unit (as Kyle Tucy) / makeup artist: second unit (as Kyle Tucy)",
+                    "normalized_credit": [
+                        "hair stylist",
+                        "makeup artist"
+                    ]
+                },
+                {
+                    "name": "Peter Tothpal",
+                    "link": "https://www.imdb.com/name/nm0006416/?ref_=ttfc_fc_cr",
+                    "credit": "hair stylist",
+                    "normalized_credit": [
+                        "hair stylist"
+                    ]
+                },
+                {
+                    "name": "Melissa Street",
+                    "link": "https://www.imdb.com/name/nm0834090/?ref_=ttfc_fc_cr",
+                    "credit": "assistant makeup artist (uncredited)",
+                    "normalized_credit": [
+                        "assistant makeup artist"
+                    ]
+                },
+                {
+                    "name": "Brian Wade",
+                    "link": "https://www.imdb.com/name/nm0905395/?ref_=ttfc_fc_cr",
+                    "credit": "special makeup effects artist: Stan Winston Studios (uncredited)",
+                    "normalized_credit": [
+                        "special makeup effects artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Bruce M. Kerner",
+                    "link": "https://www.imdb.com/name/nm0449534/?ref_=ttfc_fc_cr",
+                    "credit": "executive in charge of production",
+                    "normalized_credit": [
+                        "executive in charge of production"
+                    ]
+                },
+                {
+                    "name": "Donna Smith",
+                    "link": "https://www.imdb.com/name/nm0807998/?ref_=ttfc_fc_cr",
+                    "credit": "post-production supervisor / production manager",
+                    "normalized_credit": [
+                        "post-production supervisor",
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Thomas A. Irvine",
+                    "link": "https://www.imdb.com/name/nm0410226/?ref_=ttfc_fc_cr",
+                    "credit": "additional first assistant director (as Thomas Irvine)",
+                    "normalized_credit": [
+                        "additional first assistant director"
+                    ]
+                },
+                {
+                    "name": "Betsy Magruder",
+                    "link": "https://www.imdb.com/name/nm0536523/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                },
+                {
+                    "name": "Jean-Paul Ouellette",
+                    "link": "https://www.imdb.com/name/nm0653500/?ref_=ttfc_fc_cr",
+                    "credit": "second unit director: action",
+                    "normalized_credit": [
+                        "second unit director"
+                    ]
+                },
+                {
+                    "name": "Robert Roda",
+                    "link": "https://www.imdb.com/name/nm0462624/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant director",
+                    "normalized_credit": [
+                        "second assistant director"
+                    ]
+                },
+                {
+                    "name": "Stan Winston",
+                    "link": "https://www.imdb.com/name/nm0935644/?ref_=ttfc_fc_cr",
+                    "credit": "second unit director: effects",
+                    "normalized_credit": [
+                        "second unit director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Shay Austin",
+                    "link": "https://www.imdb.com/name/nm0042516/?ref_=ttfc_fc_cr",
+                    "credit": "assistant art director",
+                    "normalized_credit": [
+                        "assistant art director"
+                    ]
+                },
+                {
+                    "name": "John S. Curran",
+                    "link": "https://www.imdb.com/name/nm0192846/?ref_=ttfc_fc_cr",
+                    "credit": "construction supervisor (as John Curran)",
+                    "normalized_credit": [
+                        "construction supervisor"
+                    ]
+                },
+                {
+                    "name": "Tommy Estridge",
+                    "link": "https://www.imdb.com/name/nm0261912/?ref_=ttfc_fc_cr",
+                    "credit": "property master",
+                    "normalized_credit": [
+                        "property master"
+                    ]
+                },
+                {
+                    "name": "Mark Freedman",
+                    "link": "https://www.imdb.com/name/nm0293214/?ref_=ttfc_fc_cr",
+                    "credit": "carpenter",
+                    "normalized_credit": [
+                        "carpenter"
+                    ]
+                },
+                {
+                    "name": "Kerry Jennings",
+                    "link": "https://www.imdb.com/name/nm0421196/?ref_=ttfc_fc_cr",
+                    "credit": "assistant property master",
+                    "normalized_credit": [
+                        "assistant property master"
+                    ]
+                },
+                {
+                    "name": "Amy McGary",
+                    "link": "https://www.imdb.com/name/nm0568976/?ref_=ttfc_fc_cr",
+                    "credit": "scenic artist",
+                    "normalized_credit": [
+                        "scenic artist"
+                    ]
+                },
+                {
+                    "name": "Kristen McGary",
+                    "link": "https://www.imdb.com/name/nm0568978/?ref_=ttfc_fc_cr",
+                    "credit": "scenic artist",
+                    "normalized_credit": [
+                        "scenic artist"
+                    ]
+                },
+                {
+                    "name": "Kurt Meisenbach",
+                    "link": "https://www.imdb.com/name/nm0577037/?ref_=ttfc_fc_cr",
+                    "credit": "art assistant",
+                    "normalized_credit": [
+                        "art assistant"
+                    ]
+                },
+                {
+                    "name": "Jewel Myrow",
+                    "link": "https://www.imdb.com/name/nm0617154/?ref_=ttfc_fc_cr",
+                    "credit": "art assistant",
+                    "normalized_credit": [
+                        "art assistant"
+                    ]
+                },
+                {
+                    "name": "Joe Rainey",
+                    "link": "https://www.imdb.com/name/nm0707085/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to the art director",
+                    "normalized_credit": [
+                        "assistant to the art director"
+                    ]
+                },
+                {
+                    "name": "Cynthia C. Rebman",
+                    "link": "https://www.imdb.com/name/nm0714334/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser (as Cindy Rebman)",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "David Reece",
+                    "link": "https://www.imdb.com/name/nm0715242/?ref_=ttfc_fc_cr",
+                    "credit": "carpenter",
+                    "normalized_credit": [
+                        "carpenter"
+                    ]
+                },
+                {
+                    "name": "Stephen Reece",
+                    "link": "https://www.imdb.com/name/nm0715263/?ref_=ttfc_fc_cr",
+                    "credit": "carpenter",
+                    "normalized_credit": [
+                        "carpenter"
+                    ]
+                },
+                {
+                    "name": "Stephen Rinehart",
+                    "link": "https://www.imdb.com/name/nm0727499/?ref_=ttfc_fc_cr",
+                    "credit": "art assistant",
+                    "normalized_credit": [
+                        "art assistant"
+                    ]
+                },
+                {
+                    "name": "Jennie Ryan",
+                    "link": "https://www.imdb.com/name/nm0752602/?ref_=ttfc_fc_cr",
+                    "credit": "art assistant",
+                    "normalized_credit": [
+                        "art assistant"
+                    ]
+                },
+                {
+                    "name": "Gary Schoeneck",
+                    "link": "https://www.imdb.com/name/nm0774428/?ref_=ttfc_fc_cr",
+                    "credit": "lead man",
+                    "normalized_credit": [
+                        "lead man"
+                    ]
+                },
+                {
+                    "name": "Linda Schoeneck",
+                    "link": "https://www.imdb.com/name/nm0774429/?ref_=ttfc_fc_cr",
+                    "credit": "art assistant",
+                    "normalized_credit": [
+                        "art assistant"
+                    ]
+                },
+                {
+                    "name": "Gregory R. Wolf",
+                    "link": "https://www.imdb.com/name/nm0937764/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser (as Greg Wolf)",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Christopher Gilman",
+                    "link": "https://www.imdb.com/name/nm0319426/?ref_=ttfc_fc_cr",
+                    "credit": "property maker (uncredited)",
+                    "normalized_credit": [
+                        "property maker"
+                    ]
+                },
+                {
+                    "name": "Jay Koiwai",
+                    "link": "https://www.imdb.com/name/nm0463583/?ref_=ttfc_fc_cr",
+                    "credit": "painter (uncredited)",
+                    "normalized_credit": [
+                        "painter"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Jennifer Barin",
+                    "link": "https://www.imdb.com/name/nm0054683/?ref_=ttfc_fc_cr",
+                    "credit": "Re-Recordist: Audio Restoration and Re-Mixing",
+                    "normalized_credit": [
+                        "re-recordist"
+                    ]
+                },
+                {
+                    "name": "Elizabeth Barnard",
+                    "link": "https://www.imdb.com/name/nm0055389/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "Tom Bellfort",
+                    "link": "https://www.imdb.com/name/nm0068938/?ref_=ttfc_fc_cr",
+                    "credit": "sound supervisor / supervising sound editor: Audio Restoration and Re-Mixing",
+                    "normalized_credit": [
+                        "sound supervisor",
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "Ken Brocious",
+                    "link": "https://www.imdb.com/name/nm0110531/?ref_=ttfc_fc_cr",
+                    "credit": "boom operator (as Kenneth Brocious)",
+                    "normalized_credit": [
+                        "boom operator"
+                    ]
+                },
+                {
+                    "name": "David Campling",
+                    "link": "https://www.imdb.com/name/nm0133095/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "Gordon Daniel",
+                    "link": "https://www.imdb.com/name/nm0199635/?ref_=ttfc_fc_cr",
+                    "credit": "foley artist",
+                    "normalized_credit": [
+                        "foley artist"
+                    ]
+                },
+                {
+                    "name": "Greg Dillon",
+                    "link": "https://www.imdb.com/name/nm0226999/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "James Fritch",
+                    "link": "https://www.imdb.com/name/nm0295930/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor (as Jim Fritch)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Robert Garrett",
+                    "link": "https://www.imdb.com/name/nm0308191/?ref_=ttfc_fc_cr",
+                    "credit": "synthesized sound effects",
+                    "normalized_credit": [
+                        "synthesized sound effects"
+                    ]
+                },
+                {
+                    "name": "Gabriel Guy",
+                    "link": "https://www.imdb.com/name/nm0004208/?ref_=ttfc_fc_cr",
+                    "credit": "machine room operator: Audio Restoration and Re-Mixing",
+                    "normalized_credit": [
+                        "machine room operator"
+                    ]
+                },
+                {
+                    "name": "David J. Hudson",
+                    "link": "https://www.imdb.com/name/nm0399812/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Stephen Kearney",
+                    "link": "https://www.imdb.com/name/nm0002513/?ref_=ttfc_fc_cr",
+                    "credit": "sound editor: Audio Restoration and Re-Mixing",
+                    "normalized_credit": [
+                        "sound editor"
+                    ]
+                },
+                {
+                    "name": "James J. Klinger",
+                    "link": "https://www.imdb.com/name/nm0459763/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor (as Jim Klinger)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Mike Le Mare",
+                    "link": "https://www.imdb.com/name/nm0494420/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor (as Mike Le-Mare)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Richard Lightstone",
+                    "link": "https://www.imdb.com/name/nm0510035/?ref_=ttfc_fc_cr",
+                    "credit": "production sound mixer",
+                    "normalized_credit": [
+                        "production sound mixer"
+                    ]
+                },
+                {
+                    "name": "Horace Manzanares",
+                    "link": "https://www.imdb.com/name/nm0544393/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Gilbert D. Marchant",
+                    "link": "https://www.imdb.com/name/nm0545435/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor (as Gil Marchant)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Mel Metcalfe",
+                    "link": "https://www.imdb.com/name/nm0582467/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Rob Miller",
+                    "link": "https://www.imdb.com/name/nm0589207/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Michael Murphy",
+                    "link": "https://www.imdb.com/name/nm0614534/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "Terry Porter",
+                    "link": "https://www.imdb.com/name/nm0692310/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "John Post",
+                    "link": "https://www.imdb.com/name/nm0692836/?ref_=ttfc_fc_cr",
+                    "credit": "foley artist",
+                    "normalized_credit": [
+                        "foley artist"
+                    ]
+                },
+                {
+                    "name": "Gary A. Rizzo",
+                    "link": "https://www.imdb.com/name/nm0729886/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer: audio restoration",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Gary Rydstrom",
+                    "link": "https://www.imdb.com/name/nm0003977/?ref_=ttfc_fc_cr",
+                    "credit": "sound design consultant: Audio Restoration and Re-Mixing",
+                    "normalized_credit": [
+                        "sound design consultant"
+                    ]
+                },
+                {
+                    "name": "Tony Sereno",
+                    "link": "https://www.imdb.com/name/nm0784836/?ref_=ttfc_fc_cr",
+                    "credit": "digital mix technician: Audio Restoration and Re-Mixing",
+                    "normalized_credit": [
+                        "digital mix technician"
+                    ]
+                },
+                {
+                    "name": "Gary Shepherd",
+                    "link": "https://www.imdb.com/name/nm0791780/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Janelle Showalter",
+                    "link": "https://www.imdb.com/name/nm0795287/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "Karola Storr",
+                    "link": "https://www.imdb.com/name/nm0832673/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Gabriel Cubos",
+                    "link": "https://www.imdb.com/name/nm0190935/?ref_=ttfc_fc_cr",
+                    "credit": "sound utility (uncredited)",
+                    "normalized_credit": [
+                        "sound utility"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Jack Bricker",
+                    "link": "https://www.imdb.com/name/nm0108580/?ref_=ttfc_fc_cr",
+                    "credit": "terminator special effects",
+                    "normalized_credit": [
+                        "terminator special effects"
+                    ]
+                },
+                {
+                    "name": "Ellis Burman Jr.",
+                    "link": "https://www.imdb.com/name/nm0122174/?ref_=ttfc_fc_cr",
+                    "credit": "terminator mechanical effects",
+                    "normalized_credit": [
+                        "terminator mechanical effects"
+                    ]
+                },
+                {
+                    "name": "Frank DeMarco",
+                    "link": "https://www.imdb.com/name/nm0002151/?ref_=ttfc_fc_cr",
+                    "credit": "special effects",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                },
+                {
+                    "name": "Ernest Farino",
+                    "link": "https://www.imdb.com/name/nm0267495/?ref_=ttfc_fc_cr",
+                    "credit": "special effects coordinator (as Ernest D. Farino)",
+                    "normalized_credit": [
+                        "special effects coordinator"
+                    ]
+                },
+                {
+                    "name": "Roger George",
+                    "link": "https://www.imdb.com/name/nm0313596/?ref_=ttfc_fc_cr",
+                    "credit": "special effects",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                },
+                {
+                    "name": "Richard J. Landon",
+                    "link": "https://www.imdb.com/name/nm0484939/?ref_=ttfc_fc_cr",
+                    "credit": "terminator special effects (as Richard Landon)",
+                    "normalized_credit": [
+                        "terminator special effects"
+                    ]
+                },
+                {
+                    "name": "Ron MacInnes",
+                    "link": "https://www.imdb.com/name/nm0532826/?ref_=ttfc_fc_cr",
+                    "credit": "terminator mechanical effects assistant (as Ron Macinnes)",
+                    "normalized_credit": [
+                        "terminator mechanical effects assistant"
+                    ]
+                },
+                {
+                    "name": "Shane Mahan",
+                    "link": "https://www.imdb.com/name/nm0536752/?ref_=ttfc_fc_cr",
+                    "credit": "terminator special effects",
+                    "normalized_credit": [
+                        "terminator special effects"
+                    ]
+                },
+                {
+                    "name": "David B. Miller",
+                    "link": "https://www.imdb.com/name/nm0588198/?ref_=ttfc_fc_cr",
+                    "credit": "terminator special effects (as David Miller)",
+                    "normalized_credit": [
+                        "terminator special effects"
+                    ]
+                },
+                {
+                    "name": "John Rosengrant",
+                    "link": "https://www.imdb.com/name/nm0742603/?ref_=ttfc_fc_cr",
+                    "credit": "terminator special effects",
+                    "normalized_credit": [
+                        "terminator special effects"
+                    ]
+                },
+                {
+                    "name": "Brian Wade",
+                    "link": "https://www.imdb.com/name/nm0905395/?ref_=ttfc_fc_cr",
+                    "credit": "terminator special effects",
+                    "normalized_credit": [
+                        "terminator special effects"
+                    ]
+                },
+                {
+                    "name": "Bob Williams",
+                    "link": "https://www.imdb.com/name/nm0930131/?ref_=ttfc_fc_cr",
+                    "credit": "terminator mechanical effects",
+                    "normalized_credit": [
+                        "terminator mechanical effects"
+                    ]
+                },
+                {
+                    "name": "Stan Winston",
+                    "link": "https://www.imdb.com/name/nm0935644/?ref_=ttfc_fc_cr",
+                    "credit": "special terminator effects creator",
+                    "normalized_credit": [
+                        "special terminator effects creator"
+                    ]
+                },
+                {
+                    "name": "Tom Woodruff Jr.",
+                    "link": "https://www.imdb.com/name/nm0940430/?ref_=ttfc_fc_cr",
+                    "credit": "terminator special effects (as Tom Woodruff)",
+                    "normalized_credit": [
+                        "terminator special effects"
+                    ]
+                },
+                {
+                    "name": "Ellis Burman III",
+                    "link": "https://www.imdb.com/name/nm2073182/?ref_=ttfc_fc_cr",
+                    "credit": "Terminator electrical effects (uncredited)",
+                    "normalized_credit": [
+                        "terminator electrical effects"
+                    ]
+                },
+                {
+                    "name": "Roger Kelton",
+                    "link": "https://www.imdb.com/name/nm0447127/?ref_=ttfc_fc_cr",
+                    "credit": "special effects technician (uncredited)",
+                    "normalized_credit": [
+                        "special effects technician"
+                    ]
+                },
+                {
+                    "name": "R. Bruce Steinheimer",
+                    "link": "https://www.imdb.com/name/nm0826084/?ref_=ttfc_fc_cr",
+                    "credit": "special effects technician (uncredited)",
+                    "normalized_credit": [
+                        "special effects technician"
+                    ]
+                },
+                {
+                    "name": "Jefferson Zuma Jay Wagner",
+                    "link": "https://www.imdb.com/name/nm0419649/?ref_=ttfc_fc_cr",
+                    "credit": "special effects technician (uncredited)",
+                    "normalized_credit": [
+                        "special effects technician"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Doug Beswick",
+                    "link": "https://www.imdb.com/name/nm0079068/?ref_=ttfc_fc_cr",
+                    "credit": "stop motion terminator model: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "stop motion terminator model"
+                    ]
+                },
+                {
+                    "name": "Don Bland",
+                    "link": "https://www.imdb.com/name/nm0087363/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Steven Fagerquist",
+                    "link": "https://www.imdb.com/name/nm0265079/?ref_=ttfc_fc_cr",
+                    "credit": "technical assistant: process photography",
+                    "normalized_credit": [
+                        "technical assistant"
+                    ]
+                },
+                {
+                    "name": "Ernest Farino",
+                    "link": "https://www.imdb.com/name/nm0267495/?ref_=ttfc_fc_cr",
+                    "credit": "graphic animation effects (as Ernest D. Farino)",
+                    "normalized_credit": [
+                        "graphic animation effects"
+                    ]
+                },
+                {
+                    "name": "Phil Huff",
+                    "link": "https://www.imdb.com/name/nm0400225/?ref_=ttfc_fc_cr",
+                    "credit": "optical effects: Image 3",
+                    "normalized_credit": [
+                        "optical effects"
+                    ]
+                },
+                {
+                    "name": "John Huneck",
+                    "link": "https://www.imdb.com/name/nm0402165/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Leslie Huntley",
+                    "link": "https://www.imdb.com/name/nm0403161/?ref_=ttfc_fc_cr",
+                    "credit": "production supervisor: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "production supervisor"
+                    ]
+                },
+                {
+                    "name": "Michael Joyce",
+                    "link": "https://www.imdb.com/name/nm0431573/?ref_=ttfc_fc_cr",
+                    "credit": "model shop supervisor: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "model shop supervisor"
+                    ]
+                },
+                {
+                    "name": "Paul Kassler",
+                    "link": "https://www.imdb.com/name/nm0440900/?ref_=ttfc_fc_cr",
+                    "credit": "model maker: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "model maker"
+                    ]
+                },
+                {
+                    "name": "Pete Kleinow",
+                    "link": "https://www.imdb.com/name/nm0459136/?ref_=ttfc_fc_cr",
+                    "credit": "terminator stop motion: Fantasy II Film Effects (as Peter Kleinow)",
+                    "normalized_credit": [
+                        "terminator stop motion"
+                    ]
+                },
+                {
+                    "name": "Laurel Klick",
+                    "link": "https://www.imdb.com/name/nm0459424/?ref_=ttfc_fc_cr",
+                    "credit": "optical effects: Image 3",
+                    "normalized_credit": [
+                        "optical effects"
+                    ]
+                },
+                {
+                    "name": "Ken Marschall",
+                    "link": "https://www.imdb.com/name/nm0550408/?ref_=ttfc_fc_cr",
+                    "credit": "matte artist: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "matte artist"
+                    ]
+                },
+                {
+                    "name": "Gerald McClain",
+                    "link": "https://www.imdb.com/name/nm0565604/?ref_=ttfc_fc_cr",
+                    "credit": "rear screen projectionist: process photography",
+                    "normalized_credit": [
+                        "rear screen projectionist"
+                    ]
+                },
+                {
+                    "name": "Austin McKinney",
+                    "link": "https://www.imdb.com/name/nm0571849/?ref_=ttfc_fc_cr",
+                    "credit": "cinematographer: process photography",
+                    "normalized_credit": [
+                        "cinematographer"
+                    ]
+                },
+                {
+                    "name": "Jane A. Pahlman",
+                    "link": "https://www.imdb.com/name/nm0656633/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Eric Peterson",
+                    "link": "https://www.imdb.com/name/nm0677140/?ref_=ttfc_fc_cr",
+                    "credit": "camera assistant: process photography",
+                    "normalized_credit": [
+                        "camera assistant"
+                    ]
+                },
+                {
+                    "name": "Gary Rhodaback",
+                    "link": "https://www.imdb.com/name/nm0722348/?ref_=ttfc_fc_cr",
+                    "credit": "model maker: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "model maker"
+                    ]
+                },
+                {
+                    "name": "Mark Sawicki",
+                    "link": "https://www.imdb.com/name/nm0768105/?ref_=ttfc_fc_cr",
+                    "credit": "special optical consultant: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "special optical consultant"
+                    ]
+                },
+                {
+                    "name": "Joe Viskocil",
+                    "link": "https://www.imdb.com/name/nm0899670/?ref_=ttfc_fc_cr",
+                    "credit": "pyrotechnics and fire effects: Fantasy II Film Effects (as Joseph Viskocil)",
+                    "normalized_credit": [
+                        "pyrotechnics fire effects"
+                    ]
+                },
+                {
+                    "name": "Gene Warren Jr.",
+                    "link": "https://www.imdb.com/name/nm0912704/?ref_=ttfc_fc_cr",
+                    "credit": "special effects supervisor: Fantasy II Film Effects",
+                    "normalized_credit": [
+                        "special effects supervisor"
+                    ]
+                },
+                {
+                    "name": "Kris Brown",
+                    "link": "https://www.imdb.com/name/nm0114042/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects engineer (uncredited)",
+                    "normalized_credit": [
+                        "visual effects engineer"
+                    ]
+                },
+                {
+                    "name": "Sam Longoria",
+                    "link": "https://www.imdb.com/name/nm1836692/?ref_=ttfc_fc_cr",
+                    "credit": "stop-motion electronics (uncredited)",
+                    "normalized_credit": [
+                        "stop-motion electronics"
+                    ]
+                },
+                {
+                    "name": "Bret Mixon",
+                    "link": "https://www.imdb.com/name/nm0594300/?ref_=ttfc_fc_cr",
+                    "credit": "animation assistant (uncredited)",
+                    "normalized_credit": [
+                        "animation assistant"
+                    ]
+                },
+                {
+                    "name": "Ted Rae",
+                    "link": "https://www.imdb.com/name/nm0706069/?ref_=ttfc_fc_cr",
+                    "credit": "stop motion terminator model: Fantasy II Film Effects (uncredited)",
+                    "normalized_credit": [
+                        "stop motion terminator model"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Anthony Cecere",
+                    "link": "https://www.imdb.com/name/nm0147656/?ref_=ttfc_fc_cr",
+                    "credit": "stunts",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Jeff Dashnaw",
+                    "link": "https://www.imdb.com/name/nm11419557/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (as Jeff Dashnow)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Diamond Farnsworth",
+                    "link": "https://www.imdb.com/name/nm0267889/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (as Hill Farnsworth)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "J. Suzanne Fish",
+                    "link": "https://www.imdb.com/name/nm0279280/?ref_=ttfc_fc_cr",
+                    "credit": "stunts",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Ken Fritz",
+                    "link": "https://www.imdb.com/name/nm0296045/?ref_=ttfc_fc_cr",
+                    "credit": "stunt coordinator / stunt coordinator: second unit / stunt double: Arnold Schwarzenegger",
+                    "normalized_credit": [
+                        "stunt coordinator",
+                        "stunt coordinator",
+                        "stunt double"
+                    ]
+                },
+                {
+                    "name": "Marian Green",
+                    "link": "https://www.imdb.com/name/nm0338123/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (as Marion Green)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Tom Hart",
+                    "link": "https://www.imdb.com/name/nm0366559/?ref_=ttfc_fc_cr",
+                    "credit": "stunts",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Gene Hartline",
+                    "link": "https://www.imdb.com/name/nm0366905/?ref_=ttfc_fc_cr",
+                    "credit": "stunts",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Jean Malahni",
+                    "link": "https://www.imdb.com/name/nm0538870/?ref_=ttfc_fc_cr",
+                    "credit": "stunts",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Gary McLarty",
+                    "link": "https://www.imdb.com/name/nm0572255/?ref_=ttfc_fc_cr",
+                    "credit": "stunts",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Frank Orsatti",
+                    "link": "https://www.imdb.com/name/nm0650685/?ref_=ttfc_fc_cr",
+                    "credit": "stunts",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Jim Stern",
+                    "link": "https://www.imdb.com/name/nm0827738/?ref_=ttfc_fc_cr",
+                    "credit": "stunts",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Pete Turner",
+                    "link": "https://www.imdb.com/name/nm0877799/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (as Peter Turner)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Cynthia Brannon",
+                    "link": "https://www.imdb.com/name/nm0105174/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Eddy Donno",
+                    "link": "https://www.imdb.com/name/nm0232839/?ref_=ttfc_fc_cr",
+                    "credit": "stunt driver (uncredited)",
+                    "normalized_credit": [
+                        "stunt driver"
+                    ]
+                },
+                {
+                    "name": "Sue Fish",
+                    "link": "https://www.imdb.com/name/nm0279309/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Jeff Habberstad",
+                    "link": "https://www.imdb.com/name/nm0352130/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer (uncredited)",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "Monty Jordan",
+                    "link": "https://www.imdb.com/name/nm0430114/?ref_=ttfc_fc_cr",
+                    "credit": "stunt driver (uncredited)",
+                    "normalized_credit": [
+                        "stunt driver"
+                    ]
+                },
+                {
+                    "name": "Peter Kent",
+                    "link": "https://www.imdb.com/name/nm0448827/?ref_=ttfc_fc_cr",
+                    "credit": "stunt double: Arnold Schwarzenegger (uncredited)",
+                    "normalized_credit": [
+                        "stunt double"
+                    ]
+                },
+                {
+                    "name": "Rob King",
+                    "link": "https://www.imdb.com/name/nm0454505/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Jean Malahni",
+                    "link": "https://www.imdb.com/name/nm0538870/?ref_=ttfc_fc_cr",
+                    "credit": "stunt double: Linda Hamilton (uncredited)",
+                    "normalized_credit": [
+                        "stunt double"
+                    ]
+                },
+                {
+                    "name": "Greg Robbins",
+                    "link": "https://www.imdb.com/name/nm0730355/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Lee Waddell",
+                    "link": "https://www.imdb.com/name/nm0905317/?ref_=ttfc_fc_cr",
+                    "credit": "utility stunts (uncredited)",
+                    "normalized_credit": [
+                        "utility stunts"
+                    ]
+                },
+                {
+                    "name": "Glenn R. Wilder",
+                    "link": "https://www.imdb.com/name/nm0928580/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Bernard Auroux",
+                    "link": "https://www.imdb.com/name/nm0042209/?ref_=ttfc_fc_cr",
+                    "credit": "focus puller",
+                    "normalized_credit": [
+                        "focus puller"
+                    ]
+                },
+                {
+                    "name": "Dennis Bishop",
+                    "link": "https://www.imdb.com/name/nm0084036/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                },
+                {
+                    "name": "Bruce Byall",
+                    "link": "https://www.imdb.com/name/nm0125678/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Anne S. Coffey",
+                    "link": "https://www.imdb.com/name/nm0168840/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator: insert photography (as Anne Coffey)",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Chuck Colwell",
+                    "link": "https://www.imdb.com/name/nm0173455/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography: second unit",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                },
+                {
+                    "name": "Mario Davis",
+                    "link": "https://www.imdb.com/name/nm0205092/?ref_=ttfc_fc_cr",
+                    "credit": "grip and equipment: second unit",
+                    "normalized_credit": [
+                        "grip equipment"
+                    ]
+                },
+                {
+                    "name": "Mark Ellensohn",
+                    "link": "https://www.imdb.com/name/nm0254003/?ref_=ttfc_fc_cr",
+                    "credit": "best boy",
+                    "normalized_credit": [
+                        "best boy"
+                    ]
+                },
+                {
+                    "name": "Alec Hirschfeld",
+                    "link": "https://www.imdb.com/name/nm0386580/?ref_=ttfc_fc_cr",
+                    "credit": "additional camera operator",
+                    "normalized_credit": [
+                        "additional camera operator"
+                    ]
+                },
+                {
+                    "name": "Chris Magee",
+                    "link": "https://www.imdb.com/name/nm0535831/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera: additional focus puller",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Sean McLin",
+                    "link": "https://www.imdb.com/name/nm0572903/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator: second unit",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "David Michels",
+                    "link": "https://www.imdb.com/name/nm0584316/?ref_=ttfc_fc_cr",
+                    "credit": "dolly grip",
+                    "normalized_credit": [
+                        "dolly grip"
+                    ]
+                },
+                {
+                    "name": "Mark Morton",
+                    "link": "https://www.imdb.com/name/nm0608045/?ref_=ttfc_fc_cr",
+                    "credit": "electrician",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Tim Morton",
+                    "link": "https://www.imdb.com/name/nm0608099/?ref_=ttfc_fc_cr",
+                    "credit": "best boy electric",
+                    "normalized_credit": [
+                        "best boy electric"
+                    ]
+                },
+                {
+                    "name": "Elliot Nachbar",
+                    "link": "https://www.imdb.com/name/nm0618660/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Mark Peterson",
+                    "link": "https://www.imdb.com/name/nm0677301/?ref_=ttfc_fc_cr",
+                    "credit": "electrician",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Vance Piper",
+                    "link": "https://www.imdb.com/name/nm0684943/?ref_=ttfc_fc_cr",
+                    "credit": "camera assistant",
+                    "normalized_credit": [
+                        "camera assistant"
+                    ]
+                },
+                {
+                    "name": "Joyce Rudolph",
+                    "link": "https://www.imdb.com/name/nm0748959/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                },
+                {
+                    "name": "Roger Schweitzer",
+                    "link": "https://www.imdb.com/name/nm0777829/?ref_=ttfc_fc_cr",
+                    "credit": "video playback operator",
+                    "normalized_credit": [
+                        "video playback operator"
+                    ]
+                },
+                {
+                    "name": "Dylan Shephard",
+                    "link": "https://www.imdb.com/name/nm0791706/?ref_=ttfc_fc_cr",
+                    "credit": "key grip",
+                    "normalized_credit": [
+                        "key grip"
+                    ]
+                },
+                {
+                    "name": "Gary Wagner",
+                    "link": "https://www.imdb.com/name/nm0905903/?ref_=ttfc_fc_cr",
+                    "credit": "camera assistant: insert photography",
+                    "normalized_credit": [
+                        "camera assistant"
+                    ]
+                },
+                {
+                    "name": "Rick A. West",
+                    "link": "https://www.imdb.com/name/nm0922316/?ref_=ttfc_fc_cr",
+                    "credit": "electrician (as Rick West)",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Tim Collins",
+                    "link": "https://www.imdb.com/name/nm0172713/?ref_=ttfc_fc_cr",
+                    "credit": "grip (uncredited)",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Pascal Franchot",
+                    "link": "https://www.imdb.com/name/nm0289994/?ref_=ttfc_fc_cr",
+                    "credit": "grip (uncredited)",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Donald G. Jackson",
+                    "link": "https://www.imdb.com/name/nm0413459/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography: additional scenes (uncredited)",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                },
+                {
+                    "name": "John Janusek",
+                    "link": "https://www.imdb.com/name/nm0418384/?ref_=ttfc_fc_cr",
+                    "credit": "grip (uncredited)",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Kyle T. MacDowell",
+                    "link": "https://www.imdb.com/name/nm0532046/?ref_=ttfc_fc_cr",
+                    "credit": "electrician (uncredited)",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Tracy Neftzger",
+                    "link": "https://www.imdb.com/name/nm0624332/?ref_=ttfc_fc_cr",
+                    "credit": "grip (uncredited)",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Mehran Salamati",
+                    "link": "https://www.imdb.com/name/nm0757497/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera (uncredited)",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                },
+                {
+                    "name": "Barry Seybert",
+                    "link": "https://www.imdb.com/name/nm1086542/?ref_=ttfc_fc_cr",
+                    "credit": "electrician (uncredited)",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Mark A. Shelton",
+                    "link": "https://www.imdb.com/name/nm0791371/?ref_=ttfc_fc_cr",
+                    "credit": "electrician (uncredited)",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Philip Sloan",
+                    "link": "https://www.imdb.com/name/nm0806004/?ref_=ttfc_fc_cr",
+                    "credit": "best boy grip (uncredited)",
+                    "normalized_credit": [
+                        "best boy grip"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Casting Department",
+            "crew": [
+                {
+                    "name": "Greg Robbins",
+                    "link": "https://www.imdb.com/name/nm0730355/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting coordinator (as Gregory Robbins)",
+                    "normalized_credit": [
+                        "extras casting coordinator"
+                    ]
+                },
+                {
+                    "name": "Michael Thomas Slifkin",
+                    "link": "https://www.imdb.com/name/nm0805830/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting",
+                    "normalized_credit": [
+                        "extras casting"
+                    ]
+                }
+            ],
+            "normalized role": "Casting Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Deborah Everton",
+                    "link": "https://www.imdb.com/name/nm0263715/?ref_=ttfc_fc_cr",
+                    "credit": "costume supervisor",
+                    "normalized_credit": [
+                        "costume supervisor"
+                    ]
+                },
+                {
+                    "name": "Julia Gombert",
+                    "link": "https://www.imdb.com/name/nm0326815/?ref_=ttfc_fc_cr",
+                    "credit": "costumer: second unit",
+                    "normalized_credit": [
+                        "costumer"
+                    ]
+                },
+                {
+                    "name": "Virginia Hartman",
+                    "link": "https://www.imdb.com/name/nm0367039/?ref_=ttfc_fc_cr",
+                    "credit": "costume production assistant",
+                    "normalized_credit": [
+                        "costume production assistant"
+                    ]
+                },
+                {
+                    "name": "Darcee F. Olson",
+                    "link": "https://www.imdb.com/name/nm0295828/?ref_=ttfc_fc_cr",
+                    "credit": "wardrobe (uncredited)",
+                    "normalized_credit": [
+                        "wardrobe"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Lorna Anderson",
+                    "link": "https://www.imdb.com/name/nm0027101/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant editor",
+                    "normalized_credit": [
+                        "first assistant editor"
+                    ]
+                },
+                {
+                    "name": "Michael Bloecher",
+                    "link": "https://www.imdb.com/name/nm0088799/?ref_=ttfc_fc_cr",
+                    "credit": "associate editor",
+                    "normalized_credit": [
+                        "associate editor"
+                    ]
+                },
+                {
+                    "name": "Spike Allison Hooper",
+                    "link": "https://www.imdb.com/name/nm0393794/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                },
+                {
+                    "name": "Mary Nelson-Duerrstein",
+                    "link": "https://www.imdb.com/name/nm0625819/?ref_=ttfc_fc_cr",
+                    "credit": "negative cutter (as Mary Nelson)",
+                    "normalized_credit": [
+                        "negative cutter"
+                    ]
+                },
+                {
+                    "name": "Peter Silverman",
+                    "link": "https://www.imdb.com/name/nm0798962/?ref_=ttfc_fc_cr",
+                    "credit": "color consultant",
+                    "normalized_credit": [
+                        "color consultant"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Joseph A. Liuzzi",
+                    "link": "https://www.imdb.com/name/nm0515084/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                },
+                {
+                    "name": "Michael Thomas Slifkin",
+                    "link": "https://www.imdb.com/name/nm0805830/?ref_=ttfc_fc_cr",
+                    "credit": "locations",
+                    "normalized_credit": [
+                        "locations"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Budd Carr",
+                    "link": "https://www.imdb.com/name/nm0139623/?ref_=ttfc_fc_cr",
+                    "credit": "music consultant",
+                    "normalized_credit": [
+                        "music consultant"
+                    ]
+                },
+                {
+                    "name": "Ross Levinson",
+                    "link": "https://www.imdb.com/name/nm0506092/?ref_=ttfc_fc_cr",
+                    "credit": "musician: electric violin",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Tane McClure",
+                    "link": "https://www.imdb.com/name/nm0566044/?ref_=ttfc_fc_cr",
+                    "credit": "music (as Tahnee Cain and Tryanglz)",
+                    "normalized_credit": [
+                        "music"
+                    ]
+                },
+                {
+                    "name": "Robert Randles",
+                    "link": "https://www.imdb.com/name/nm0709841/?ref_=ttfc_fc_cr",
+                    "credit": "music post-production coordinator",
+                    "normalized_credit": [
+                        "music post-production coordinator"
+                    ]
+                },
+                {
+                    "name": "Emilie Robertson",
+                    "link": "https://www.imdb.com/name/nm0731829/?ref_=ttfc_fc_cr",
+                    "credit": "music editor",
+                    "normalized_credit": [
+                        "music editor"
+                    ]
+                },
+                {
+                    "name": "Brad Fiedel",
+                    "link": "https://www.imdb.com/name/nm0006075/?ref_=ttfc_fc_cr",
+                    "credit": "music performer (uncredited) / music producer (uncredited) / musician: synthesizer (uncredited)",
+                    "normalized_credit": [
+                        "music performer",
+                        "music producer",
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Renee Romerdahl",
+                    "link": "https://www.imdb.com/name/nm9468200/?ref_=ttfc_fc_cr",
+                    "credit": "playback singer (uncredited)",
+                    "normalized_credit": [
+                        "playback singer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Sharon Kirkpatrick",
+                    "link": "https://www.imdb.com/name/nm0456757/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor: second unit",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                },
+                {
+                    "name": "Brenda Weisman",
+                    "link": "https://www.imdb.com/name/nm0918060/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Transportation Department",
+            "crew": [
+                {
+                    "name": "Wayne Nelson",
+                    "link": "https://www.imdb.com/name/nm0625815/?ref_=ttfc_fc_cr",
+                    "credit": "transportation captain",
+                    "normalized_credit": [
+                        "transportation captain"
+                    ]
+                },
+                {
+                    "name": "Wayne Stone",
+                    "link": "https://www.imdb.com/name/nm0832220/?ref_=ttfc_fc_cr",
+                    "credit": "transportation coordinator",
+                    "normalized_credit": [
+                        "transportation coordinator"
+                    ]
+                },
+                {
+                    "name": "Ike Mizen",
+                    "link": "https://www.imdb.com/name/nm1176136/?ref_=ttfc_fc_cr",
+                    "credit": "transportation captain (uncredited)",
+                    "normalized_credit": [
+                        "transportation captain"
+                    ]
+                }
+            ],
+            "normalized role": "Transportation Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Polly Apostolof",
+                    "link": "https://www.imdb.com/name/nm0032153/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to producer",
+                    "normalized_credit": [
+                        "assistant to producer"
+                    ]
+                },
+                {
+                    "name": "Jo Barnett",
+                    "link": "https://www.imdb.com/name/nm0055919/?ref_=ttfc_fc_cr",
+                    "credit": "assistant production accountant",
+                    "normalized_credit": [
+                        "assistant production accountant"
+                    ]
+                },
+                {
+                    "name": "Terry Benedict",
+                    "link": "https://www.imdb.com/name/nm0070822/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant: second unit",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Kathy Breen",
+                    "link": "https://www.imdb.com/name/nm0106741/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                },
+                {
+                    "name": "Ernest Farino",
+                    "link": "https://www.imdb.com/name/nm0267495/?ref_=ttfc_fc_cr",
+                    "credit": "title designer (as Ernest D. Farino)",
+                    "normalized_credit": [
+                        "title designer"
+                    ]
+                },
+                {
+                    "name": "J. Randolph Harrison",
+                    "link": "https://www.imdb.com/name/nm0365634/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to producer (as Randy Harrison) / assistant to producer",
+                    "normalized_credit": [
+                        "assistant to producer",
+                        "assistant to producer"
+                    ]
+                },
+                {
+                    "name": "Deborah Hebert",
+                    "link": "https://www.imdb.com/name/nm0372861/?ref_=ttfc_fc_cr",
+                    "credit": "set production assistant (as Deborah A. Hebert)",
+                    "normalized_credit": [
+                        "set production assistant"
+                    ]
+                },
+                {
+                    "name": "Scott Javine",
+                    "link": "https://www.imdb.com/name/nm0419506/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "John J. Lee Jr.",
+                    "link": "https://www.imdb.com/name/nm10456196/?ref_=ttfc_fc_cr",
+                    "credit": "business services: mechanical special effects",
+                    "normalized_credit": [
+                        "business services"
+                    ]
+                },
+                {
+                    "name": "Andy Marx",
+                    "link": "https://www.imdb.com/name/nm0555583/?ref_=ttfc_fc_cr",
+                    "credit": "publicist (as Andrew Marx)",
+                    "normalized_credit": [
+                        "publicist"
+                    ]
+                },
+                {
+                    "name": "Pattison Newberry",
+                    "link": "https://www.imdb.com/name/nm0627643/?ref_=ttfc_fc_cr",
+                    "credit": "first aid",
+                    "normalized_credit": [
+                        "first aid"
+                    ]
+                },
+                {
+                    "name": "George Parra",
+                    "link": "https://www.imdb.com/name/nm0663384/?ref_=ttfc_fc_cr",
+                    "credit": "set production assistant",
+                    "normalized_credit": [
+                        "set production assistant"
+                    ]
+                },
+                {
+                    "name": "Kevin E. Patterson",
+                    "link": "https://www.imdb.com/name/nm0666297/?ref_=ttfc_fc_cr",
+                    "credit": "utility man (as Kevin Patterson)",
+                    "normalized_credit": [
+                        "utility man"
+                    ]
+                },
+                {
+                    "name": "Eric Rasmussen",
+                    "link": "https://www.imdb.com/name/nm0711315/?ref_=ttfc_fc_cr",
+                    "credit": "craft service",
+                    "normalized_credit": [
+                        "craft service"
+                    ]
+                },
+                {
+                    "name": "Michael Thomas Slifkin",
+                    "link": "https://www.imdb.com/name/nm0805830/?ref_=ttfc_fc_cr",
+                    "credit": "talent coordinator",
+                    "normalized_credit": [
+                        "talent coordinator"
+                    ]
+                },
+                {
+                    "name": "Lisa Sonne",
+                    "link": "https://www.imdb.com/name/nm0814377/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to producer (as T. Elizabeth Sonne)",
+                    "normalized_credit": [
+                        "assistant to producer"
+                    ]
+                },
+                {
+                    "name": "Anne St. Johns",
+                    "link": "https://www.imdb.com/name/nm0820702/?ref_=ttfc_fc_cr",
+                    "credit": "assistant production coordinator",
+                    "normalized_credit": [
+                        "assistant production coordinator"
+                    ]
+                },
+                {
+                    "name": "Marilyn Tasso",
+                    "link": "https://www.imdb.com/name/nm0851003/?ref_=ttfc_fc_cr",
+                    "credit": "production accountant",
+                    "normalized_credit": [
+                        "production accountant"
+                    ]
+                },
+                {
+                    "name": "J. David Williams",
+                    "link": "https://www.imdb.com/name/nm0930801/?ref_=ttfc_fc_cr",
+                    "credit": "financier",
+                    "normalized_credit": [
+                        "financier"
+                    ]
+                },
+                {
+                    "name": "Frans J. Afman",
+                    "link": "https://www.imdb.com/name/nm0012717/?ref_=ttfc_fc_cr",
+                    "credit": "financial services (uncredited)",
+                    "normalized_credit": [
+                        "financial services"
+                    ]
+                },
+                {
+                    "name": "Paula Cross",
+                    "link": "https://www.imdb.com/name/nm0189241/?ref_=ttfc_fc_cr",
+                    "credit": "photographic model: Sarah Ann Connor on crime scene photos (uncredited)",
+                    "normalized_credit": [
+                        "photographic model"
+                    ]
+                },
+                {
+                    "name": "Lisa S. Girolami",
+                    "link": "https://www.imdb.com/name/nm1389519/?ref_=ttfc_fc_cr",
+                    "credit": "extras wrangler (uncredited)",
+                    "normalized_credit": [
+                        "extras wrangler"
+                    ]
+                },
+                {
+                    "name": "Don LaFontaine",
+                    "link": "https://www.imdb.com/name/nm0480963/?ref_=ttfc_fc_cr",
+                    "credit": "trailer voice over (uncredited)",
+                    "normalized_credit": [
+                        "trailer voice over"
+                    ]
+                },
+                {
+                    "name": "Joe Woodward",
+                    "link": "https://www.imdb.com/name/nm1153891/?ref_=ttfc_fc_cr",
+                    "credit": "craft service (uncredited)",
+                    "normalized_credit": [
+                        "craft service"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Harlan Ellison",
+                    "link": "https://www.imdb.com/name/nm0255196/?ref_=ttfc_fc_cr",
+                    "credit": "acknowledgment to the works of",
+                    "normalized_credit": [
+                        "acknowledgment to the works of"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

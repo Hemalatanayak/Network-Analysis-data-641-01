@@ -1,0 +1,94 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0364480/fullcredits/",
+    "title": "Lion's Den (1988)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "John Ottman",
+                    "link": "https://www.imdb.com/name/nm0653211/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Bryan Singer",
+                    "link": "https://www.imdb.com/name/nm0001741/?ref_=ttfc_fc_dr2"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Bryan Singer",
+                    "link": "https://www.imdb.com/name/nm0001741/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Bryan Singer",
+                    "link": "https://www.imdb.com/name/nm0001741/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Trevor Rhodes",
+                    "link": "https://www.imdb.com/name/nm4453389/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "John B. Aronson",
+                    "link": "https://www.imdb.com/name/nm0036974/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "John Ottman",
+                    "link": "https://www.imdb.com/name/nm0653211/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "John Ottman",
+                    "link": "https://www.imdb.com/name/nm0653211/?ref_=ttfc_fc_cr",
+                    "credit": "sound designer",
+                    "normalized_credit": [
+                        "sound designer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        }
+    ],
+    "imdb_details": {}
+}

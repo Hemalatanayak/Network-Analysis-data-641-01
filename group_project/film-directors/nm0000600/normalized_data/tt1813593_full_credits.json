@@ -1,0 +1,519 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt1813593/fullcredits/",
+    "title": "Sam Raimi Early Shorts (Video 1985)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Josh Becker",
+                    "link": "https://www.imdb.com/name/nm0065471/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "John Cameron",
+                    "link": "https://www.imdb.com/name/nm0131625/?ref_=ttfc_fc_dr2"
+                },
+                {
+                    "name": "Andy Harries",
+                    "link": "https://www.imdb.com/name/nm0364170/?ref_=ttfc_fc_dr3"
+                },
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_dr4"
+                },
+                {
+                    "name": "Scott Spiegel",
+                    "link": "https://www.imdb.com/name/nm0818547/?ref_=ttfc_fc_dr5"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Josh Becker",
+                    "link": "https://www.imdb.com/name/nm0065471/?ref_=ttfc_fc_wr1",
+                    "credit": "(writer)",
+                    "normalized_credit": [
+                        "writer"
+                    ]
+                },
+                {
+                    "name": "John Cameron",
+                    "link": "https://www.imdb.com/name/nm0131625/?ref_=ttfc_fc_wr2",
+                    "credit": "(writer)",
+                    "normalized_credit": [
+                        "writer"
+                    ]
+                },
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_wr3",
+                    "credit": "(writer)",
+                    "normalized_credit": [
+                        "writer"
+                    ]
+                },
+                {
+                    "name": "Scott Spiegel",
+                    "link": "https://www.imdb.com/name/nm0818547/?ref_=ttfc_fc_wr4",
+                    "credit": "(writer)",
+                    "normalized_credit": [
+                        "writer"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Arnold Becker",
+                    "link": "https://www.imdb.com/name/nm0065346/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Jacob Becker",
+                    "link": "https://www.imdb.com/name/nm9587848/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Josh Becker",
+                    "link": "https://www.imdb.com/name/nm0065471/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "John Cameron",
+                    "link": "https://www.imdb.com/name/nm0131625/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Bruce Campbell",
+                    "link": "https://www.imdb.com/name/nm0132257/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer / executive producer / producer",
+                    "normalized_credit": [
+                        "associate producer",
+                        "executive producer",
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Chris Gregorich",
+                    "link": "https://www.imdb.com/name/nm2344434/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer / executive producer",
+                    "normalized_credit": [
+                        "associate producer",
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Gene Lemberg",
+                    "link": "https://www.imdb.com/name/nm9587846/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Daniel Lossia",
+                    "link": "https://www.imdb.com/name/nm9565734/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer / producer",
+                    "normalized_credit": [
+                        "executive producer",
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Mark Riley",
+                    "link": "https://www.imdb.com/name/nm2345178/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Scott Spiegel",
+                    "link": "https://www.imdb.com/name/nm0818547/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Steven Spiegel",
+                    "link": "https://www.imdb.com/name/nm8533896/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Rob Tapert",
+                    "link": "https://www.imdb.com/name/nm0849964/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer / producer",
+                    "normalized_credit": [
+                        "executive producer",
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Larry Yanitz",
+                    "link": "https://www.imdb.com/name/nm9587847/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Itzhak Zemach",
+                    "link": "https://www.imdb.com/name/nm9565771/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Josh Becker",
+                    "link": "https://www.imdb.com/name/nm0065471/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Bruce Campbell",
+                    "link": "https://www.imdb.com/name/nm0132257/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Mike Ditz",
+                    "link": "https://www.imdb.com/name/nm0228602/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Tim Philo",
+                    "link": "https://www.imdb.com/name/nm0680924/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Richard Smith",
+                    "link": "https://www.imdb.com/name/nm5119338/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Josh Becker",
+                    "link": "https://www.imdb.com/name/nm0065471/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Bruce Campbell",
+                    "link": "https://www.imdb.com/name/nm0132257/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Kurt Rauf",
+                    "link": "https://www.imdb.com/name/nm0712049/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Tom Sullivan",
+                    "link": "https://www.imdb.com/name/nm0838385/?ref_=ttfc_fc_cr",
+                    "credit": "special makeup effects artist",
+                    "normalized_credit": [
+                        "special makeup effects artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Bruce Campbell",
+                    "link": "https://www.imdb.com/name/nm0132257/?ref_=ttfc_fc_cr",
+                    "credit": "second unit director",
+                    "normalized_credit": [
+                        "second unit director"
+                    ]
+                },
+                {
+                    "name": "Scott Spiegel",
+                    "link": "https://www.imdb.com/name/nm0818547/?ref_=ttfc_fc_cr",
+                    "credit": "second unit director",
+                    "normalized_credit": [
+                        "second unit director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Tom Sullivan",
+                    "link": "https://www.imdb.com/name/nm0838385/?ref_=ttfc_fc_cr",
+                    "credit": "poster designer",
+                    "normalized_credit": [
+                        "poster designer"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                },
+                {
+                    "name": "Rob Tapert",
+                    "link": "https://www.imdb.com/name/nm0849964/?ref_=ttfc_fc_cr",
+                    "credit": "sound utility",
+                    "normalized_credit": [
+                        "sound utility"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Bart Pierce",
+                    "link": "https://www.imdb.com/name/nm0682291/?ref_=ttfc_fc_cr",
+                    "credit": "special effects",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                },
+                {
+                    "name": "Tom Sullivan",
+                    "link": "https://www.imdb.com/name/nm0838385/?ref_=ttfc_fc_cr",
+                    "credit": "special effects / special makeup effects artist",
+                    "normalized_credit": [
+                        "special effects",
+                        "special makeup effects artist"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Pat Madji",
+                    "link": "https://www.imdb.com/name/nm0535029/?ref_=ttfc_fc_cr",
+                    "credit": "titles",
+                    "normalized_credit": [
+                        "titles"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Josh Becker",
+                    "link": "https://www.imdb.com/name/nm0065471/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Mike Ditz",
+                    "link": "https://www.imdb.com/name/nm0228602/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                },
+                {
+                    "name": "Tim Philo",
+                    "link": "https://www.imdb.com/name/nm0680924/?ref_=ttfc_fc_cr",
+                    "credit": "lighting",
+                    "normalized_credit": [
+                        "lighting"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Animation Department",
+            "crew": [
+                {
+                    "name": "Bart Pierce",
+                    "link": "https://www.imdb.com/name/nm0682291/?ref_=ttfc_fc_cr",
+                    "credit": "animator",
+                    "normalized_credit": [
+                        "animator"
+                    ]
+                }
+            ],
+            "normalized role": "Animation Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "John Cameron",
+                    "link": "https://www.imdb.com/name/nm0131625/?ref_=ttfc_fc_cr",
+                    "credit": "film crew",
+                    "normalized_credit": [
+                        "film crew"
+                    ]
+                },
+                {
+                    "name": "Bruce Campbell",
+                    "link": "https://www.imdb.com/name/nm0132257/?ref_=ttfc_fc_cr",
+                    "credit": "film crew",
+                    "normalized_credit": [
+                        "film crew"
+                    ]
+                },
+                {
+                    "name": "Mike Ditz",
+                    "link": "https://www.imdb.com/name/nm0228602/?ref_=ttfc_fc_cr",
+                    "credit": "film crew",
+                    "normalized_credit": [
+                        "film crew"
+                    ]
+                },
+                {
+                    "name": "Tim Hunter",
+                    "link": "https://www.imdb.com/name/nm2824497/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "Bruce Jones",
+                    "link": "https://www.imdb.com/name/nm2757717/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "Ted Raimi",
+                    "link": "https://www.imdb.com/name/nm0001646/?ref_=ttfc_fc_cr",
+                    "credit": "crew / film crew",
+                    "normalized_credit": [
+                        "crew",
+                        "film crew"
+                    ]
+                },
+                {
+                    "name": "Kurt Rauf",
+                    "link": "https://www.imdb.com/name/nm0712049/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                },
+                {
+                    "name": "Doug Sills",
+                    "link": "https://www.imdb.com/name/nm2817327/?ref_=ttfc_fc_cr",
+                    "credit": "crew",
+                    "normalized_credit": [
+                        "crew"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Rick Merciez",
+                    "link": "https://www.imdb.com/name/nm2756278/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Ron Teachworth",
+                    "link": "https://www.imdb.com/name/nm0853515/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Chuck Wharton",
+                    "link": "https://www.imdb.com/name/nm2460331/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

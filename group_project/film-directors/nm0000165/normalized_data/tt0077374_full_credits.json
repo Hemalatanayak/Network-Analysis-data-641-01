@@ -1,0 +1,290 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0077374/fullcredits/",
+    "title": "Cotton Candy (TV Movie 1978)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Ron Howard",
+                    "link": "https://www.imdb.com/name/nm0000165/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Ron Howard",
+                    "link": "https://www.imdb.com/name/nm0000165/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by) and",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                },
+                {
+                    "name": "Clint Howard",
+                    "link": "https://www.imdb.com/name/nm0397212/?ref_=ttfc_fc_wr2",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) complete, awaiting verification",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Rance Howard",
+                    "link": "https://www.imdb.com/name/nm0397555/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "John Thomas Lenox",
+                    "link": "https://www.imdb.com/name/nm0502189/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Joe Renzetti",
+                    "link": "https://www.imdb.com/name/nm0006250/?ref_=ttfc_fc_cr",
+                    "credit": "(music composed by)",
+                    "normalized_credit": [
+                        "music composed by"
+                    ]
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Robert Jessup",
+                    "link": "https://www.imdb.com/name/nm0422271/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Robert James Kern",
+                    "link": "https://www.imdb.com/name/nm0449495/?ref_=ttfc_fc_cr",
+                    "credit": "(as Robert J. Kern Jr.)"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Barbara Hanley",
+                    "link": "https://www.imdb.com/name/nm0360058/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Cathy Henderson",
+                    "link": "https://www.imdb.com/name/nm0376365/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Cyndy Severson",
+                    "link": "https://www.imdb.com/name/nm0786389/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Norm Gray",
+                    "link": "https://www.imdb.com/name/nm1232565/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Jan R. Lloyd",
+                    "link": "https://www.imdb.com/name/nm0516024/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                },
+                {
+                    "name": "David Sosna",
+                    "link": "https://www.imdb.com/name/nm0815340/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant director",
+                    "normalized_credit": [
+                        "second assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Fred Stafford",
+                    "link": "https://www.imdb.com/name/nm0821276/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Bill Varney",
+                    "link": "https://www.imdb.com/name/nm0890106/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Robert Wald",
+                    "link": "https://www.imdb.com/name/nm0907016/?ref_=ttfc_fc_cr",
+                    "credit": "production sound mixer (as Bob Wald)",
+                    "normalized_credit": [
+                        "production sound mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Robert Driskell",
+                    "link": "https://www.imdb.com/name/nm0238082/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                },
+                {
+                    "name": "Ron Ferguson",
+                    "link": "https://www.imdb.com/name/nm0272593/?ref_=ttfc_fc_cr",
+                    "credit": "key grip",
+                    "normalized_credit": [
+                        "key grip"
+                    ]
+                },
+                {
+                    "name": "Lynn Lockwood",
+                    "link": "https://www.imdb.com/name/nm0516993/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Marshall Marker",
+                    "link": "https://www.imdb.com/name/nm0548361/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                },
+                {
+                    "name": "Neil Roach",
+                    "link": "https://www.imdb.com/name/nm0730051/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Philip Sloan",
+                    "link": "https://www.imdb.com/name/nm0806004/?ref_=ttfc_fc_cr",
+                    "credit": "dolly grip",
+                    "normalized_credit": [
+                        "dolly grip"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Daniel P. Hanley",
+                    "link": "https://www.imdb.com/name/nm0360067/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor (as Dan Hanley)",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                },
+                {
+                    "name": "Susan Heyer",
+                    "link": "https://www.imdb.com/name/nm0382211/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Joe Renzetti",
+                    "link": "https://www.imdb.com/name/nm0006250/?ref_=ttfc_fc_cr",
+                    "credit": "composer: songs / conductor",
+                    "normalized_credit": [
+                        "composer",
+                        "conductor"
+                    ]
+                },
+                {
+                    "name": "Charles Martin Smith",
+                    "link": "https://www.imdb.com/name/nm0001747/?ref_=ttfc_fc_cr",
+                    "credit": "composer: songs",
+                    "normalized_credit": [
+                        "composer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,84 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt9820834/fullcredits/",
+    "title": "The Mountain Goats: The Life of the World to Come (Video 2010)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Rian Johnson",
+                    "link": "https://www.imdb.com/name/nm0426059/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "The Mountain Goats",
+                    "link": "https://www.imdb.com/name/nm2068309/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Ram Bergman",
+                    "link": "https://www.imdb.com/name/nm0074851/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Todd Antonio Somodevilla",
+                    "link": "https://www.imdb.com/name/nm1032822/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Pawel Wdowczak",
+                    "link": "https://www.imdb.com/name/nm0915691/?ref_=ttfc_fc_cr",
+                    "credit": "sound recordist",
+                    "normalized_credit": [
+                        "sound recordist"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Chris Heinrich",
+                    "link": "https://www.imdb.com/name/nm0374460/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

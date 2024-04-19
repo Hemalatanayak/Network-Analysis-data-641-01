@@ -1,0 +1,110 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt27615257/fullcredits/",
+    "title": "Rita Ora: Praising You (feat. Fatboy Slim) (Music Video 2023)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Taika Waititi",
+                    "link": "https://www.imdb.com/name/nm0169806/?ref_=ttfc_fc_dr1",
+                    "credit": "(directed by)",
+                    "normalized_credit": [
+                        "directed by"
+                    ]
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Annie Ayres",
+                    "link": "https://www.imdb.com/name/nm6976814/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Abi Perl",
+                    "link": "https://www.imdb.com/name/nm11050318/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Matthew J. Lloyd",
+                    "link": "https://www.imdb.com/name/nm2028938/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Chan Hatcher",
+                    "link": "https://www.imdb.com/name/nm0368764/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Danny Pollack",
+                    "link": "https://www.imdb.com/name/nm5111803/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Niko Philipides",
+                    "link": "https://www.imdb.com/name/nm14255391/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Richy Jackson",
+                    "link": "https://www.imdb.com/name/nm1300069/?ref_=ttfc_fc_cr",
+                    "credit": "Choreographer",
+                    "normalized_credit": [
+                        "choreographer"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

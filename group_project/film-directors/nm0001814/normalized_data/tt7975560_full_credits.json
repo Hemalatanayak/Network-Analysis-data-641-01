@@ -1,0 +1,56 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt7975560/fullcredits/",
+    "title": "Deee",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Gus Van Sant",
+                    "link": "https://www.imdb.com/name/nm0001814/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Deee-Lite",
+                    "link": "https://www.imdb.com/name/nm6634113/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Missy Stewart",
+                    "link": "https://www.imdb.com/name/nm0829681/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Deee-Lite",
+                    "link": "https://www.imdb.com/name/nm6634113/?ref_=ttfc_fc_cr",
+                    "credit": "lyricist",
+                    "normalized_credit": [
+                        "lyricist"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

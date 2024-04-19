@@ -1,0 +1,2153 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0116404/fullcredits/",
+    "title": "Get on the Bus (1996)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Lee",
+                    "link": "https://www.imdb.com/name/nm0000490/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (WGA)",
+            "crew": [
+                {
+                    "name": "Reggie Rock Bythewood",
+                    "link": "https://www.imdb.com/name/nm0090066/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) verified as complete",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Bill Borden",
+                    "link": "https://www.imdb.com/name/nm0096115/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Reuben Cannon",
+                    "link": "https://www.imdb.com/name/nm0134253/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Spike Lee",
+                    "link": "https://www.imdb.com/name/nm0000490/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Barry Rosenbush",
+                    "link": "https://www.imdb.com/name/nm0742492/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Terence Blanchard",
+                    "link": "https://www.imdb.com/name/nm0005966/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Elliot Davis",
+                    "link": "https://www.imdb.com/name/nm0204567/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Leander T. Sales",
+                    "link": "https://www.imdb.com/name/nm0758120/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Reuben Cannon",
+                    "link": "https://www.imdb.com/name/nm0134253/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Ina Mayhew",
+                    "link": "https://www.imdb.com/name/nm0562671/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Costume Design by",
+            "crew": [
+                {
+                    "name": "Sandra Hernandez",
+                    "link": "https://www.imdb.com/name/nm0379708/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Lea Adams",
+                    "link": "https://www.imdb.com/name/nm0011139/?ref_=ttfc_fc_cr",
+                    "credit": "additional hair stylist: Virginia/D.C.",
+                    "normalized_credit": [
+                        "additional hair stylist",
+                        "d.c."
+                    ]
+                },
+                {
+                    "name": "Merc Arceneaux",
+                    "link": "https://www.imdb.com/name/nm0033567/?ref_=ttfc_fc_cr",
+                    "credit": "additional makeup artist: Los Angeles (as Merc Arcereaux)",
+                    "normalized_credit": [
+                        "additional makeup artist"
+                    ]
+                },
+                {
+                    "name": "Micheline Bowman",
+                    "link": "https://www.imdb.com/name/nm0101367/?ref_=ttfc_fc_cr",
+                    "credit": "additional makeup artist: Virginia/D.C.",
+                    "normalized_credit": [
+                        "additional makeup artist",
+                        "d.c."
+                    ]
+                },
+                {
+                    "name": "Garnett Burk",
+                    "link": "https://www.imdb.com/name/nm0121688/?ref_=ttfc_fc_cr",
+                    "credit": "additional makeup artist: Nashville (as Garrnett Burk)",
+                    "normalized_credit": [
+                        "additional makeup artist"
+                    ]
+                },
+                {
+                    "name": "Leonard Drake",
+                    "link": "https://www.imdb.com/name/nm0236955/?ref_=ttfc_fc_cr",
+                    "credit": "key hair stylist",
+                    "normalized_credit": [
+                        "key hair stylist"
+                    ]
+                },
+                {
+                    "name": "Lumas Hamilton Jr.",
+                    "link": "https://www.imdb.com/name/nm0357700/?ref_=ttfc_fc_cr",
+                    "credit": "assistant hair stylist: Los Angeles (as Lumos Hamilton)",
+                    "normalized_credit": [
+                        "assistant hair stylist"
+                    ]
+                },
+                {
+                    "name": "Anthony Miner",
+                    "link": "https://www.imdb.com/name/nm0591143/?ref_=ttfc_fc_cr",
+                    "credit": "assistant hair stylist: Los Angeles",
+                    "normalized_credit": [
+                        "assistant hair stylist"
+                    ]
+                },
+                {
+                    "name": "Judy Murdock",
+                    "link": "https://www.imdb.com/name/nm0613792/?ref_=ttfc_fc_cr",
+                    "credit": "key makeup artist",
+                    "normalized_credit": [
+                        "key makeup artist"
+                    ]
+                },
+                {
+                    "name": "Tomeka Rucker",
+                    "link": "https://www.imdb.com/name/nm0748538/?ref_=ttfc_fc_cr",
+                    "credit": "additional hair stylist: Nashville",
+                    "normalized_credit": [
+                        "additional hair stylist"
+                    ]
+                },
+                {
+                    "name": "Gina Selby",
+                    "link": "https://www.imdb.com/name/nm0782986/?ref_=ttfc_fc_cr",
+                    "credit": "additional hair stylist: Virginia/D.C.",
+                    "normalized_credit": [
+                        "additional hair stylist",
+                        "d.c."
+                    ]
+                },
+                {
+                    "name": "Laura Sligh",
+                    "link": "https://www.imdb.com/name/nm0805836/?ref_=ttfc_fc_cr",
+                    "credit": "additional makeup artist: Virginia/D.C.",
+                    "normalized_credit": [
+                        "additional makeup artist",
+                        "d.c."
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Debra D. Jeffreys",
+                    "link": "https://www.imdb.com/name/nm0420335/?ref_=ttfc_fc_cr",
+                    "credit": "post-production supervisor (as Debra Glass) / production supervisor",
+                    "normalized_credit": [
+                        "post-production supervisor",
+                        "production supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Mike Ellis",
+                    "link": "https://www.imdb.com/name/nm0254991/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director (as Michael Ellis)",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                },
+                {
+                    "name": "Tracey Hinds",
+                    "link": "https://www.imdb.com/name/nm0385598/?ref_=ttfc_fc_cr",
+                    "credit": "key second assistant director",
+                    "normalized_credit": [
+                        "key second assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Danny Bracht",
+                    "link": "https://www.imdb.com/name/nm0102757/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser: Los Angeles",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "David A. Burr",
+                    "link": "https://www.imdb.com/name/nm0123001/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser: Los Angeles",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Blaise DeLacroix",
+                    "link": "https://www.imdb.com/name/nm0209186/?ref_=ttfc_fc_cr",
+                    "credit": "property master (as Blaise Delacroix)",
+                    "normalized_credit": [
+                        "property master"
+                    ]
+                },
+                {
+                    "name": "Paul DeLeon",
+                    "link": "https://www.imdb.com/name/nm0216750/?ref_=ttfc_fc_cr",
+                    "credit": "prop assistant: Nashville",
+                    "normalized_credit": [
+                        "prop assistant"
+                    ]
+                },
+                {
+                    "name": "Mary E. Glynn",
+                    "link": "https://www.imdb.com/name/nm0323361/?ref_=ttfc_fc_cr",
+                    "credit": "art department coordinator / assistant to production designer",
+                    "normalized_credit": [
+                        "art department coordinator",
+                        "assistant to production designer"
+                    ]
+                },
+                {
+                    "name": "Daniel Hale",
+                    "link": "https://www.imdb.com/name/nm0354881/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser: Nashville",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Kristina Kilpe",
+                    "link": "https://www.imdb.com/name/nm0453313/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser: Virginia/D.C.",
+                    "normalized_credit": [
+                        "set dresser",
+                        "d.c."
+                    ]
+                },
+                {
+                    "name": "Rob McGraw",
+                    "link": "https://www.imdb.com/name/nm0569931/?ref_=ttfc_fc_cr",
+                    "credit": "lead man: Nashville",
+                    "normalized_credit": [
+                        "lead man"
+                    ]
+                },
+                {
+                    "name": "Nancy Miller",
+                    "link": "https://www.imdb.com/name/nm0589045/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser: Virginia/D.C.",
+                    "normalized_credit": [
+                        "set dresser",
+                        "d.c."
+                    ]
+                },
+                {
+                    "name": "Beryl Odette",
+                    "link": "https://www.imdb.com/name/nm0644053/?ref_=ttfc_fc_cr",
+                    "credit": "scenic artist: Los Angeles",
+                    "normalized_credit": [
+                        "scenic artist"
+                    ]
+                },
+                {
+                    "name": "Kelly Anne Ross",
+                    "link": "https://www.imdb.com/name/nm0743580/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser: Nashville (as Kelly Ross)",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Rob Sawyer",
+                    "link": "https://www.imdb.com/name/nm0768210/?ref_=ttfc_fc_cr",
+                    "credit": "prop assistant: Nashville",
+                    "normalized_credit": [
+                        "prop assistant"
+                    ]
+                },
+                {
+                    "name": "Armand M. Sears Jr.",
+                    "link": "https://www.imdb.com/name/nm0780736/?ref_=ttfc_fc_cr",
+                    "credit": "art production assistant: Los Angeles",
+                    "normalized_credit": [
+                        "art production assistant"
+                    ]
+                },
+                {
+                    "name": "Deborah Thomas",
+                    "link": "https://www.imdb.com/name/nm0858724/?ref_=ttfc_fc_cr",
+                    "credit": "lead man: Virginia/D.C.",
+                    "normalized_credit": [
+                        "lead man",
+                        "d.c."
+                    ]
+                },
+                {
+                    "name": "Karl Van Sickle",
+                    "link": "https://www.imdb.com/name/nm0887986/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser: Los Angeles",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Senon Williams",
+                    "link": "https://www.imdb.com/name/nm0931671/?ref_=ttfc_fc_cr",
+                    "credit": "prop assistant: Los Angeles",
+                    "normalized_credit": [
+                        "prop assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Gina Alfano",
+                    "link": "https://www.imdb.com/name/nm0019045/?ref_=ttfc_fc_cr",
+                    "credit": "adr editor",
+                    "normalized_credit": [
+                        "adr editor"
+                    ]
+                },
+                {
+                    "name": "Dana Austin",
+                    "link": "https://www.imdb.com/name/nm0692076/?ref_=ttfc_fc_cr",
+                    "credit": "adr recordist: Los Angeles (as Dana Porter)",
+                    "normalized_credit": [
+                        "adr recordist"
+                    ]
+                },
+                {
+                    "name": "Donna Barrett",
+                    "link": "https://www.imdb.com/name/nm0057117/?ref_=ttfc_fc_cr",
+                    "credit": "sound production assistant: Virginia/D.C.",
+                    "normalized_credit": [
+                        "sound production assistant",
+                        "d.c."
+                    ]
+                },
+                {
+                    "name": "David Boulton",
+                    "link": "https://www.imdb.com/name/nm0099597/?ref_=ttfc_fc_cr",
+                    "credit": "adr mixer: New York (as David Bolton)",
+                    "normalized_credit": [
+                        "adr mixer"
+                    ]
+                },
+                {
+                    "name": "Kam Chan",
+                    "link": "https://www.imdb.com/name/nm0150964/?ref_=ttfc_fc_cr",
+                    "credit": "foley editor",
+                    "normalized_credit": [
+                        "foley editor"
+                    ]
+                },
+                {
+                    "name": "Benjamin Cheah",
+                    "link": "https://www.imdb.com/name/nm0154738/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects recordist (as Ben Cheah)",
+                    "normalized_credit": [
+                        "sound effects recordist"
+                    ]
+                },
+                {
+                    "name": "Richard Clark",
+                    "link": "https://www.imdb.com/name/nm0164410/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound engineer",
+                    "normalized_credit": [
+                        "assistant sound engineer"
+                    ]
+                },
+                {
+                    "name": "Robert Deschaine",
+                    "link": "https://www.imdb.com/name/nm0220991/?ref_=ttfc_fc_cr",
+                    "credit": "adr mixer: Los Angeles (as Bob Deschaine)",
+                    "normalized_credit": [
+                        "adr mixer"
+                    ]
+                },
+                {
+                    "name": "Trey Eckels",
+                    "link": "https://www.imdb.com/name/nm0248550/?ref_=ttfc_fc_cr",
+                    "credit": "sound production assistant: Nashville",
+                    "normalized_credit": [
+                        "sound production assistant"
+                    ]
+                },
+                {
+                    "name": "Chris Fielder",
+                    "link": "https://www.imdb.com/name/nm0276088/?ref_=ttfc_fc_cr",
+                    "credit": "transfer assistant",
+                    "normalized_credit": [
+                        "transfer assistant"
+                    ]
+                },
+                {
+                    "name": "Tom Fleischman",
+                    "link": "https://www.imdb.com/name/nm0281530/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Donovan C. Howard",
+                    "link": "https://www.imdb.com/name/nm0397254/?ref_=ttfc_fc_cr",
+                    "credit": "apprentice sound editor (as Donovan Howard)",
+                    "normalized_credit": [
+                        "apprentice sound editor"
+                    ]
+                },
+                {
+                    "name": "Bobby Johanson",
+                    "link": "https://www.imdb.com/name/nm0423862/?ref_=ttfc_fc_cr",
+                    "credit": "adr recordist: New York",
+                    "normalized_credit": [
+                        "adr recordist"
+                    ]
+                },
+                {
+                    "name": "Frank Kern",
+                    "link": "https://www.imdb.com/name/nm0449450/?ref_=ttfc_fc_cr",
+                    "credit": "foley editor",
+                    "normalized_credit": [
+                        "foley editor"
+                    ]
+                },
+                {
+                    "name": "Kevin Lee",
+                    "link": "https://www.imdb.com/name/nm0497678/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "Hal Levinsohn",
+                    "link": "https://www.imdb.com/name/nm0506014/?ref_=ttfc_fc_cr",
+                    "credit": "supervising adr editor",
+                    "normalized_credit": [
+                        "supervising adr editor"
+                    ]
+                },
+                {
+                    "name": "Andy Malcolm",
+                    "link": "https://www.imdb.com/name/nm0539085/?ref_=ttfc_fc_cr",
+                    "credit": "foley artist",
+                    "normalized_credit": [
+                        "foley artist"
+                    ]
+                },
+                {
+                    "name": "Kimberly R. McCord-Wilson",
+                    "link": "https://www.imdb.com/name/nm0566383/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor (as Kimberly McCord)",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "Anthony M. McCovey",
+                    "link": "https://www.imdb.com/name/nm0566669/?ref_=ttfc_fc_cr",
+                    "credit": "boom operator (as Anthony McCovey)",
+                    "normalized_credit": [
+                        "boom operator"
+                    ]
+                },
+                {
+                    "name": "Walter McCovey",
+                    "link": "https://www.imdb.com/name/nm0566670/?ref_=ttfc_fc_cr",
+                    "credit": "sound production assistant: Los Angeles",
+                    "normalized_credit": [
+                        "sound production assistant"
+                    ]
+                },
+                {
+                    "name": "Karen McMullen",
+                    "link": "https://www.imdb.com/name/nm0573426/?ref_=ttfc_fc_cr",
+                    "credit": "dialogue editor",
+                    "normalized_credit": [
+                        "dialogue editor"
+                    ]
+                },
+                {
+                    "name": "Tom Miho",
+                    "link": "https://www.imdb.com/name/nm0586252/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound engineer",
+                    "normalized_credit": [
+                        "assistant sound engineer"
+                    ]
+                },
+                {
+                    "name": "Frank Morrone",
+                    "link": "https://www.imdb.com/name/nm0003035/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer: uncredited temp mix",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Oliver L. Moss",
+                    "link": "https://www.imdb.com/name/nm0609054/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer (as Oliver Moss)",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                },
+                {
+                    "name": "Glenfield Payne",
+                    "link": "https://www.imdb.com/name/nm0668334/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Harry Peck Bolles",
+                    "link": "https://www.imdb.com/name/nm0093115/?ref_=ttfc_fc_cr",
+                    "credit": "adr editor",
+                    "normalized_credit": [
+                        "adr editor"
+                    ]
+                },
+                {
+                    "name": "Bruce Pross",
+                    "link": "https://www.imdb.com/name/nm0698793/?ref_=ttfc_fc_cr",
+                    "credit": "foley supervisor",
+                    "normalized_credit": [
+                        "foley supervisor"
+                    ]
+                },
+                {
+                    "name": "Rick St. Hilaire",
+                    "link": "https://www.imdb.com/name/nm2149052/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineer",
+                    "normalized_credit": [
+                        "sound engineer"
+                    ]
+                },
+                {
+                    "name": "Dominick Tavella",
+                    "link": "https://www.imdb.com/name/nm0003838/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Mark Wilder",
+                    "link": "https://www.imdb.com/name/nm0928604/?ref_=ttfc_fc_cr",
+                    "credit": "sound recording engineer",
+                    "normalized_credit": [
+                        "sound recording engineer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Manny Siverio",
+                    "link": "https://www.imdb.com/name/nm0803371/?ref_=ttfc_fc_cr",
+                    "credit": "assistant stunt coordinator",
+                    "normalized_credit": [
+                        "assistant stunt coordinator"
+                    ]
+                },
+                {
+                    "name": "Jeff Ward",
+                    "link": "https://www.imdb.com/name/nm0911604/?ref_=ttfc_fc_cr",
+                    "credit": "stunt coordinator",
+                    "normalized_credit": [
+                        "stunt coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Bryant L. Allen",
+                    "link": "https://www.imdb.com/name/nm0020332/?ref_=ttfc_fc_cr",
+                    "credit": "additional grip: Nashville (as Bryant Allen Sr.)",
+                    "normalized_credit": [
+                        "additional grip"
+                    ]
+                },
+                {
+                    "name": "Alex Applefeld",
+                    "link": "https://www.imdb.com/name/nm0032381/?ref_=ttfc_fc_cr",
+                    "credit": "24 frame video operator: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "24 frame video operator"
+                    ]
+                },
+                {
+                    "name": "Lennon Bass Jr.",
+                    "link": "https://www.imdb.com/name/nm0060021/?ref_=ttfc_fc_cr",
+                    "credit": "electrician: Virginia and Washington D.C. (as Lennon Bass)",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Chris Bennet",
+                    "link": "https://www.imdb.com/name/nm1074735/?ref_=ttfc_fc_cr",
+                    "credit": "rigging grip: Nashville",
+                    "normalized_credit": [
+                        "rigging grip"
+                    ]
+                },
+                {
+                    "name": "Khris Bennett",
+                    "link": "https://www.imdb.com/name/nm0071872/?ref_=ttfc_fc_cr",
+                    "credit": "rigging grip",
+                    "normalized_credit": [
+                        "rigging grip"
+                    ]
+                },
+                {
+                    "name": "Ken Bernstein",
+                    "link": "https://www.imdb.com/name/nm0077083/?ref_=ttfc_fc_cr",
+                    "credit": "electrician: Nashville",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Michael Booker",
+                    "link": "https://www.imdb.com/name/nm1074746/?ref_=ttfc_fc_cr",
+                    "credit": "electrician: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Scott Brinson",
+                    "link": "https://www.imdb.com/name/nm1074755/?ref_=ttfc_fc_cr",
+                    "credit": "additional gaffer: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "additional gaffer"
+                    ]
+                },
+                {
+                    "name": "Samuel E. Brown",
+                    "link": "https://www.imdb.com/name/nm1074757/?ref_=ttfc_fc_cr",
+                    "credit": "electrician: Los Angeles",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Charles Broyles",
+                    "link": "https://www.imdb.com/name/nm1072653/?ref_=ttfc_fc_cr",
+                    "credit": "grip: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Charles J. Broyles",
+                    "link": "https://www.imdb.com/name/nm1072652/?ref_=ttfc_fc_cr",
+                    "credit": "dolly grip: Nashville",
+                    "normalized_credit": [
+                        "dolly grip"
+                    ]
+                },
+                {
+                    "name": "Katherine M. Butler",
+                    "link": "https://www.imdb.com/name/nm0124998/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera: \"a\" camera (as Kate Butler)",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Alan Caudillo",
+                    "link": "https://www.imdb.com/name/nm0146465/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera: \"b\" camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "John Corso",
+                    "link": "https://www.imdb.com/name/nm0181147/?ref_=ttfc_fc_cr",
+                    "credit": "steadicam operator: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "steadicam operator"
+                    ]
+                },
+                {
+                    "name": "Willie E. Dawkins",
+                    "link": "https://www.imdb.com/name/nm0205978/?ref_=ttfc_fc_cr",
+                    "credit": "lighting technician: Los Angeles",
+                    "normalized_credit": [
+                        "lighting technician"
+                    ]
+                },
+                {
+                    "name": "Kerwin DeVonish",
+                    "link": "https://www.imdb.com/name/nm0222886/?ref_=ttfc_fc_cr",
+                    "credit": "camera loader: Virginia and Washington D.C. (as Kerwin Devonich)",
+                    "normalized_credit": [
+                        "camera loader"
+                    ]
+                },
+                {
+                    "name": "Aaron J. Galang",
+                    "link": "https://www.imdb.com/name/nm0301598/?ref_=ttfc_fc_cr",
+                    "credit": "grip: Los Angeles (as Aaron Galang)",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Ben Gaskin",
+                    "link": "https://www.imdb.com/name/nm1072920/?ref_=ttfc_fc_cr",
+                    "credit": "best boy electric: Nashville",
+                    "normalized_credit": [
+                        "best boy electric"
+                    ]
+                },
+                {
+                    "name": "Rodrick S. Gaskin",
+                    "link": "https://www.imdb.com/name/nm1072921/?ref_=ttfc_fc_cr",
+                    "credit": "best boy electric: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "best boy electric"
+                    ]
+                },
+                {
+                    "name": "Michael Gerlock",
+                    "link": "https://www.imdb.com/name/nm1072930/?ref_=ttfc_fc_cr",
+                    "credit": "grip production assistant: Nashville",
+                    "normalized_credit": [
+                        "grip production assistant"
+                    ]
+                },
+                {
+                    "name": "Mike Haynes",
+                    "link": "https://www.imdb.com/name/nm1074831/?ref_=ttfc_fc_cr",
+                    "credit": "rigging electric: Nashville",
+                    "normalized_credit": [
+                        "rigging electric"
+                    ]
+                },
+                {
+                    "name": "Van Drey Herron",
+                    "link": "https://www.imdb.com/name/nm1073017/?ref_=ttfc_fc_cr",
+                    "credit": "best boy electric: Los Angeles",
+                    "normalized_credit": [
+                        "best boy electric"
+                    ]
+                },
+                {
+                    "name": "Beth Horton",
+                    "link": "https://www.imdb.com/name/nm0395566/?ref_=ttfc_fc_cr",
+                    "credit": "camera loader: Nashville (as S. Beth Horton)",
+                    "normalized_credit": [
+                        "camera loader"
+                    ]
+                },
+                {
+                    "name": "Randy Jeter",
+                    "link": "https://www.imdb.com/name/nm1074851/?ref_=ttfc_fc_cr",
+                    "credit": "grip production assistant: Nashville",
+                    "normalized_credit": [
+                        "grip production assistant"
+                    ]
+                },
+                {
+                    "name": "Carl Johnson",
+                    "link": "https://www.imdb.com/name/nm0424713/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                },
+                {
+                    "name": "Michael Kelsh",
+                    "link": "https://www.imdb.com/name/nm1074858/?ref_=ttfc_fc_cr",
+                    "credit": "grip production assistant: Nashville",
+                    "normalized_credit": [
+                        "grip production assistant"
+                    ]
+                },
+                {
+                    "name": "John Koth",
+                    "link": "https://www.imdb.com/name/nm0467673/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Kip McDonald",
+                    "link": "https://www.imdb.com/name/nm0567858/?ref_=ttfc_fc_cr",
+                    "credit": "camera loader: Nashville",
+                    "normalized_credit": [
+                        "camera loader"
+                    ]
+                },
+                {
+                    "name": "Geary McLeod",
+                    "link": "https://www.imdb.com/name/nm0004500/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator: \"b\" camera",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Diallo McLinn",
+                    "link": "https://www.imdb.com/name/nm0572910/?ref_=ttfc_fc_cr",
+                    "credit": "camera loader: Los Angeles",
+                    "normalized_credit": [
+                        "camera loader"
+                    ]
+                },
+                {
+                    "name": "Anthony Q. Palmer",
+                    "link": "https://www.imdb.com/name/nm0658117/?ref_=ttfc_fc_cr",
+                    "credit": "electrician: Los Angeles (as Anthony Palmer)",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Gerard Sava",
+                    "link": "https://www.imdb.com/name/nm0767218/?ref_=ttfc_fc_cr",
+                    "credit": "steadicam assistant: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "steadicam assistant"
+                    ]
+                },
+                {
+                    "name": "Sonia Singleton",
+                    "link": "https://www.imdb.com/name/nm1074962/?ref_=ttfc_fc_cr",
+                    "credit": "electrician: Virginia and Washington D.C. (as Sonia 'Sun' Singleton)",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Lester Sloan",
+                    "link": "https://www.imdb.com/name/nm1074963/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                },
+                {
+                    "name": "Shane Smiley",
+                    "link": "https://www.imdb.com/name/nm1074964/?ref_=ttfc_fc_cr",
+                    "credit": "rigging grip: Nashville",
+                    "normalized_credit": [
+                        "rigging grip"
+                    ]
+                },
+                {
+                    "name": "Wells A. Smith",
+                    "link": "https://www.imdb.com/name/nm0810325/?ref_=ttfc_fc_cr",
+                    "credit": "rigging grip: Nashville (as Wells Smith)",
+                    "normalized_credit": [
+                        "rigging grip"
+                    ]
+                },
+                {
+                    "name": "Bobby Spalding",
+                    "link": "https://www.imdb.com/name/nm0816711/?ref_=ttfc_fc_cr",
+                    "credit": "electrician: Nashville",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Rusty Spann",
+                    "link": "https://www.imdb.com/name/nm1073675/?ref_=ttfc_fc_cr",
+                    "credit": "rigging electric: Nashville",
+                    "normalized_credit": [
+                        "rigging electric"
+                    ]
+                },
+                {
+                    "name": "Jeff Stewart",
+                    "link": "https://www.imdb.com/name/nm0829495/?ref_=ttfc_fc_cr",
+                    "credit": "best boy grip",
+                    "normalized_credit": [
+                        "best boy grip"
+                    ]
+                },
+                {
+                    "name": "Harold B. Taylor",
+                    "link": "https://www.imdb.com/name/nm1079451/?ref_=ttfc_fc_cr",
+                    "credit": "grip: Los Angeles (as Harold Taylor)",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Richard Teasely",
+                    "link": "https://www.imdb.com/name/nm1073738/?ref_=ttfc_fc_cr",
+                    "credit": "generator operator",
+                    "normalized_credit": [
+                        "generator operator"
+                    ]
+                },
+                {
+                    "name": "Joseph Dean Tinnin",
+                    "link": "https://www.imdb.com/name/nm1073750/?ref_=ttfc_fc_cr",
+                    "credit": "electrician: Nashville",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Kent C. Tramel",
+                    "link": "https://www.imdb.com/name/nm0870775/?ref_=ttfc_fc_cr",
+                    "credit": "electrician: Los Angeles",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Renee Treyball",
+                    "link": "https://www.imdb.com/name/nm0872505/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera: \"a\" camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "Derek Wells",
+                    "link": "https://www.imdb.com/name/nm0920180/?ref_=ttfc_fc_cr",
+                    "credit": "key grip",
+                    "normalized_credit": [
+                        "key grip"
+                    ]
+                },
+                {
+                    "name": "Danny Whitstone",
+                    "link": "https://www.imdb.com/name/nm1073857/?ref_=ttfc_fc_cr",
+                    "credit": "rigging electric: Nashville",
+                    "normalized_credit": [
+                        "rigging electric"
+                    ]
+                },
+                {
+                    "name": "Kerrec 'K-Man' Williams",
+                    "link": "https://www.imdb.com/name/nm0931064/?ref_=ttfc_fc_cr",
+                    "credit": "dolly grip: Los Angeles (as Kerreck William)",
+                    "normalized_credit": [
+                        "dolly grip"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Casting Department",
+            "crew": [
+                {
+                    "name": "Cherisse Gardner",
+                    "link": "https://www.imdb.com/name/nm1079263/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "extras casting"
+                    ]
+                },
+                {
+                    "name": "Winsome Sinclair",
+                    "link": "https://www.imdb.com/name/nm0801742/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "extras casting"
+                    ]
+                },
+                {
+                    "name": "Theron Smith",
+                    "link": "https://www.imdb.com/name/nm0810144/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting: Virginia and Washington D.C. (as Theron 'T' Smith)",
+                    "normalized_credit": [
+                        "extras casting"
+                    ]
+                }
+            ],
+            "normalized role": "Casting Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Nmadilaka Ahaghotu",
+                    "link": "https://www.imdb.com/name/nm1072500/?ref_=ttfc_fc_cr",
+                    "credit": "wardrobe intern: Los Angeles",
+                    "normalized_credit": [
+                        "wardrobe intern"
+                    ]
+                },
+                {
+                    "name": "Tina Boayue",
+                    "link": "https://www.imdb.com/name/nm1074743/?ref_=ttfc_fc_cr",
+                    "credit": "wardrobe intern: Los Angeles",
+                    "normalized_credit": [
+                        "wardrobe intern"
+                    ]
+                },
+                {
+                    "name": "Danielle Hollowell",
+                    "link": "https://www.imdb.com/name/nm0391377/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to costume designer",
+                    "normalized_credit": [
+                        "assistant to costume designer"
+                    ]
+                },
+                {
+                    "name": "Julie Tidwell",
+                    "link": "https://www.imdb.com/name/nm0862770/?ref_=ttfc_fc_cr",
+                    "credit": "wardrobe assistant: Los Angeles",
+                    "normalized_credit": [
+                        "wardrobe assistant"
+                    ]
+                },
+                {
+                    "name": "Cassandra Williams Dickerson",
+                    "link": "https://www.imdb.com/name/nm1073860/?ref_=ttfc_fc_cr",
+                    "credit": "wardrobe assistant",
+                    "normalized_credit": [
+                        "wardrobe assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Gershon Hinkson",
+                    "link": "https://www.imdb.com/name/nm0385815/?ref_=ttfc_fc_cr",
+                    "credit": "apprentice editor",
+                    "normalized_credit": [
+                        "apprentice editor"
+                    ]
+                },
+                {
+                    "name": "Dave Pultz",
+                    "link": "https://www.imdb.com/name/nm0700500/?ref_=ttfc_fc_cr",
+                    "credit": "color timer (as David Pultz)",
+                    "normalized_credit": [
+                        "color timer"
+                    ]
+                },
+                {
+                    "name": "Greg Speed",
+                    "link": "https://www.imdb.com/name/nm0817517/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant editor",
+                    "normalized_credit": [
+                        "first assistant editor"
+                    ]
+                },
+                {
+                    "name": "Shane Strickland",
+                    "link": "https://www.imdb.com/name/nm5222296/?ref_=ttfc_fc_cr",
+                    "credit": "Junior Colorist",
+                    "normalized_credit": [
+                        "junior colorist"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Christopher Buchanan",
+                    "link": "https://www.imdb.com/name/nm1074065/?ref_=ttfc_fc_cr",
+                    "credit": "location assistant: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "location assistant"
+                    ]
+                },
+                {
+                    "name": "Michael Gregg",
+                    "link": "https://www.imdb.com/name/nm1074821/?ref_=ttfc_fc_cr",
+                    "credit": "location assistant: Los Angeles",
+                    "normalized_credit": [
+                        "location assistant"
+                    ]
+                },
+                {
+                    "name": "Jamal Henry",
+                    "link": "https://www.imdb.com/name/nm0377857/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                },
+                {
+                    "name": "Patrick Kennedy",
+                    "link": "https://www.imdb.com/name/nm1074082/?ref_=ttfc_fc_cr",
+                    "credit": "location assistant: Nashville",
+                    "normalized_credit": [
+                        "location assistant"
+                    ]
+                },
+                {
+                    "name": "George Norfleet",
+                    "link": "https://www.imdb.com/name/nm0635286/?ref_=ttfc_fc_cr",
+                    "credit": "location manager: East Coast",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Sanford Allen",
+                    "link": "https://www.imdb.com/name/nm0021032/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin, concert master",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Julien Barber",
+                    "link": "https://www.imdb.com/name/nm0053417/?ref_=ttfc_fc_cr",
+                    "credit": "musician: viola",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Terence Blanchard",
+                    "link": "https://www.imdb.com/name/nm0005966/?ref_=ttfc_fc_cr",
+                    "credit": "conductor / score producer",
+                    "normalized_credit": [
+                        "conductor",
+                        "score producer"
+                    ]
+                },
+                {
+                    "name": "Richard Brice",
+                    "link": "https://www.imdb.com/name/nm0108524/?ref_=ttfc_fc_cr",
+                    "credit": "musician: viola (as Richard Price)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Alfred Brown",
+                    "link": "https://www.imdb.com/name/nm0112984/?ref_=ttfc_fc_cr",
+                    "credit": "musician: viola",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Milton Cardona",
+                    "link": "https://www.imdb.com/name/nm1074763/?ref_=ttfc_fc_cr",
+                    "credit": "musician: percussion",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Marshall Coid",
+                    "link": "https://www.imdb.com/name/nm1074772/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Troy Davis",
+                    "link": "https://www.imdb.com/name/nm0205595/?ref_=ttfc_fc_cr",
+                    "credit": "musician: drums",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Winterton Garvey",
+                    "link": "https://www.imdb.com/name/nm0308785/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Corrin Huddleston",
+                    "link": "https://www.imdb.com/name/nm1073038/?ref_=ttfc_fc_cr",
+                    "credit": "musician: harmonica",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Stanley G. Hunte",
+                    "link": "https://www.imdb.com/name/nm0402685/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin (as Stanley Runte)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Peter Levin",
+                    "link": "https://www.imdb.com/name/nm0505698/?ref_=ttfc_fc_cr",
+                    "credit": "music copyist",
+                    "normalized_credit": [
+                        "music copyist"
+                    ]
+                },
+                {
+                    "name": "Jesse Levine",
+                    "link": "https://www.imdb.com/name/nm0505843/?ref_=ttfc_fc_cr",
+                    "credit": "musician: viola",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "L. Londell McMillan",
+                    "link": "https://www.imdb.com/name/nm1073318/?ref_=ttfc_fc_cr",
+                    "credit": "music clearance (as Londell McMillan)",
+                    "normalized_credit": [
+                        "music clearance"
+                    ]
+                },
+                {
+                    "name": "David Pulphus",
+                    "link": "https://www.imdb.com/name/nm1073508/?ref_=ttfc_fc_cr",
+                    "credit": "musician: bass",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Al Regni",
+                    "link": "https://www.imdb.com/name/nm0716683/?ref_=ttfc_fc_cr",
+                    "credit": "musician: clarinet (as Albert Regni)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Edward Simon",
+                    "link": "https://www.imdb.com/name/nm1020659/?ref_=ttfc_fc_cr",
+                    "credit": "musician: piano",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Alex Steyermark",
+                    "link": "https://www.imdb.com/name/nm0829925/?ref_=ttfc_fc_cr",
+                    "credit": "music supervisor / score producer",
+                    "normalized_credit": [
+                        "music supervisor",
+                        "score producer"
+                    ]
+                },
+                {
+                    "name": "Dale Stuckenbruck",
+                    "link": "https://www.imdb.com/name/nm0835990/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Gerald Tarack",
+                    "link": "https://www.imdb.com/name/nm0850165/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Yuri Vodovoz",
+                    "link": "https://www.imdb.com/name/nm0900792/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Alexander Vselensky",
+                    "link": "https://www.imdb.com/name/nm0904179/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Maisie Weissman",
+                    "link": "https://www.imdb.com/name/nm0919306/?ref_=ttfc_fc_cr",
+                    "credit": "assistant music editor",
+                    "normalized_credit": [
+                        "assistant music editor"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Teresa Weissman",
+                    "link": "https://www.imdb.com/name/nm0919314/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Transportation Department",
+            "crew": [
+                {
+                    "name": "Pedro Amaya",
+                    "link": "https://www.imdb.com/name/nm0024226/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Don Anderson",
+                    "link": "https://www.imdb.com/name/nm1075648/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "John Blackwell",
+                    "link": "https://www.imdb.com/name/nm1074062/?ref_=ttfc_fc_cr",
+                    "credit": "additional driver: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "additional driver"
+                    ]
+                },
+                {
+                    "name": "John Blenkhorn",
+                    "link": "https://www.imdb.com/name/nm0088237/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Steve Blenkhorn",
+                    "link": "https://www.imdb.com/name/nm0088240/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles (as Steven Blenkhorn)",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Amanda Bonner",
+                    "link": "https://www.imdb.com/name/nm0094881/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Edwin Bowden",
+                    "link": "https://www.imdb.com/name/nm0100700/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville (as Edwin Bowden Jr.)",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Ed Brooks",
+                    "link": "https://www.imdb.com/name/nm1080172/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Donald Diggs",
+                    "link": "https://www.imdb.com/name/nm0226516/?ref_=ttfc_fc_cr",
+                    "credit": "additional driver: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "additional driver"
+                    ]
+                },
+                {
+                    "name": "Bob Ellis",
+                    "link": "https://www.imdb.com/name/nm0254728/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles (as Robert Ellis)",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Duke Foster",
+                    "link": "https://www.imdb.com/name/nm0287784/?ref_=ttfc_fc_cr",
+                    "credit": "transportation coordinator (as Walter 'Duke' Foster)",
+                    "normalized_credit": [
+                        "transportation coordinator"
+                    ]
+                },
+                {
+                    "name": "Spencer Foster",
+                    "link": "https://www.imdb.com/name/nm0288052/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Cody Frost",
+                    "link": "https://www.imdb.com/name/nm0296479/?ref_=ttfc_fc_cr",
+                    "credit": "transportation captain",
+                    "normalized_credit": [
+                        "transportation captain"
+                    ]
+                },
+                {
+                    "name": "Michael Granata",
+                    "link": "https://www.imdb.com/name/nm1074820/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Dave Hodgin Jr.",
+                    "link": "https://www.imdb.com/name/nm1074841/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Jimmy Humphreys",
+                    "link": "https://www.imdb.com/name/nm0401998/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville (as Jim Humphreys)",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Mark A. James",
+                    "link": "https://www.imdb.com/name/nm0416740/?ref_=ttfc_fc_cr",
+                    "credit": "transportation coordinator",
+                    "normalized_credit": [
+                        "transportation coordinator"
+                    ]
+                },
+                {
+                    "name": "William Jefferson",
+                    "link": "https://www.imdb.com/name/nm1074079/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "D.J. Jones",
+                    "link": "https://www.imdb.com/name/nm0427822/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles (as DJ Jones)",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Mark W. Jones",
+                    "link": "https://www.imdb.com/name/nm1183601/?ref_=ttfc_fc_cr",
+                    "credit": "transportation coordinator: East Coast (as Mark Jones)",
+                    "normalized_credit": [
+                        "transportation coordinator"
+                    ]
+                },
+                {
+                    "name": "David Joseph",
+                    "link": "https://www.imdb.com/name/nm0430570/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles (as Dave Joseph)",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "E. Othell King",
+                    "link": "https://www.imdb.com/name/nm1073130/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Donene Kistler",
+                    "link": "https://www.imdb.com/name/nm0457458/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles (as Donene 'Doe' Kistler)",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Arnie Knapp",
+                    "link": "https://www.imdb.com/name/nm1074864/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Don Light",
+                    "link": "https://www.imdb.com/name/nm1074880/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Lester Louise",
+                    "link": "https://www.imdb.com/name/nm1074884/?ref_=ttfc_fc_cr",
+                    "credit": "additional driver: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "additional driver"
+                    ]
+                },
+                {
+                    "name": "John E. Mitchell",
+                    "link": "https://www.imdb.com/name/nm0593464/?ref_=ttfc_fc_cr",
+                    "credit": "additional driver: Virginia and Washington D.C. (as John Mitchell Jr.)",
+                    "normalized_credit": [
+                        "additional driver"
+                    ]
+                },
+                {
+                    "name": "Jackie Newell",
+                    "link": "https://www.imdb.com/name/nm1074091/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Frank Perrotti",
+                    "link": "https://www.imdb.com/name/nm0674914/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Jose Reynoso",
+                    "link": "https://www.imdb.com/name/nm0722030/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles (as Jose 'Little Joe' Reynoso)",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Lamar Salley",
+                    "link": "https://www.imdb.com/name/nm1074951/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Greg Stancil",
+                    "link": "https://www.imdb.com/name/nm0821995/?ref_=ttfc_fc_cr",
+                    "credit": "transportation captain: East Coast",
+                    "normalized_credit": [
+                        "transportation captain"
+                    ]
+                },
+                {
+                    "name": "Don Stubblefield",
+                    "link": "https://www.imdb.com/name/nm1074975/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Nashville",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Richard Teasely",
+                    "link": "https://www.imdb.com/name/nm1073738/?ref_=ttfc_fc_cr",
+                    "credit": "driver: insert car",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                },
+                {
+                    "name": "Bob Williams",
+                    "link": "https://www.imdb.com/name/nm1074111/?ref_=ttfc_fc_cr",
+                    "credit": "additional driver: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "additional driver"
+                    ]
+                },
+                {
+                    "name": "Oscar Wood",
+                    "link": "https://www.imdb.com/name/nm1075009/?ref_=ttfc_fc_cr",
+                    "credit": "additional driver: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "additional driver"
+                    ]
+                },
+                {
+                    "name": "Joseph D. Woodward",
+                    "link": "https://www.imdb.com/name/nm0940951/?ref_=ttfc_fc_cr",
+                    "credit": "additional driver: Virginia and Washington D.C. (as Joseph Woodward)",
+                    "normalized_credit": [
+                        "additional driver"
+                    ]
+                },
+                {
+                    "name": "Bill Worthey",
+                    "link": "https://www.imdb.com/name/nm1075011/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Los Angeles",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                }
+            ],
+            "normalized role": "Transportation Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Alan Aguilar",
+                    "link": "https://www.imdb.com/name/nm1225834/?ref_=ttfc_fc_cr",
+                    "credit": "chef",
+                    "normalized_credit": [
+                        "chef"
+                    ]
+                },
+                {
+                    "name": "Randall Balsmeyer",
+                    "link": "https://www.imdb.com/name/nm0051157/?ref_=ttfc_fc_cr",
+                    "credit": "title designer",
+                    "normalized_credit": [
+                        "title designer"
+                    ]
+                },
+                {
+                    "name": "William Barillaro",
+                    "link": "https://www.imdb.com/name/nm0054663/?ref_=ttfc_fc_cr",
+                    "credit": "bus consultant (as William 'Bus Bill' Barillaro)",
+                    "normalized_credit": [
+                        "bus consultant"
+                    ]
+                },
+                {
+                    "name": "Zelmer Bothic",
+                    "link": "https://www.imdb.com/name/nm0098531/?ref_=ttfc_fc_cr",
+                    "credit": "assistant: Mr. Lee",
+                    "normalized_credit": [
+                        "assistant"
+                    ]
+                },
+                {
+                    "name": "Hosea Brown III",
+                    "link": "https://www.imdb.com/name/nm1072651/?ref_=ttfc_fc_cr",
+                    "credit": "set doctor (as Dr. Hosea Brown III)",
+                    "normalized_credit": [
+                        "set doctor"
+                    ]
+                },
+                {
+                    "name": "Rasheed Ali Brown",
+                    "link": "https://www.imdb.com/name/nm0114472/?ref_=ttfc_fc_cr",
+                    "credit": "office assistant: 40 Acres and a Mule (as Rasheed Brown)",
+                    "normalized_credit": [
+                        "office assistant"
+                    ]
+                },
+                {
+                    "name": "Reuben Cannon Jr.",
+                    "link": "https://www.imdb.com/name/nm0991001/?ref_=ttfc_fc_cr",
+                    "credit": "intern: Los Angeles",
+                    "normalized_credit": [
+                        "intern"
+                    ]
+                },
+                {
+                    "name": "Jossette Cooke",
+                    "link": "https://www.imdb.com/name/nm1072727/?ref_=ttfc_fc_cr",
+                    "credit": "assistant: Mr. Bythewood",
+                    "normalized_credit": [
+                        "assistant"
+                    ]
+                },
+                {
+                    "name": "Stacie N. Davis",
+                    "link": "https://www.imdb.com/name/nm1074784/?ref_=ttfc_fc_cr",
+                    "credit": "additional set production assistant: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "additional set production assistant"
+                    ]
+                },
+                {
+                    "name": "Carlos De La Torre",
+                    "link": "https://www.imdb.com/name/nm0209410/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant: Los Angeles",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Lena Drobot",
+                    "link": "https://www.imdb.com/name/nm1072806/?ref_=ttfc_fc_cr",
+                    "credit": "assistant chef: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "assistant chef"
+                    ]
+                },
+                {
+                    "name": "Michael F. Dunn",
+                    "link": "https://www.imdb.com/name/nm0242696/?ref_=ttfc_fc_cr",
+                    "credit": "craft service: Virginia and Washington D.C. (as Michael Dunn)",
+                    "normalized_credit": [
+                        "craft service"
+                    ]
+                },
+                {
+                    "name": "Anna Fuson",
+                    "link": "https://www.imdb.com/name/nm0816059/?ref_=ttfc_fc_cr",
+                    "credit": "unit publicist (as Anna Southall)",
+                    "normalized_credit": [
+                        "unit publicist"
+                    ]
+                },
+                {
+                    "name": "Scott A. Hale",
+                    "link": "https://www.imdb.com/name/nm0355007/?ref_=ttfc_fc_cr",
+                    "credit": "additional set production assistant: Los Angeles (as Scott Hale)",
+                    "normalized_credit": [
+                        "additional set production assistant"
+                    ]
+                },
+                {
+                    "name": "Creighton T. Harris",
+                    "link": "https://www.imdb.com/name/nm1072994/?ref_=ttfc_fc_cr",
+                    "credit": "intern: Los Angeles",
+                    "normalized_credit": [
+                        "intern"
+                    ]
+                },
+                {
+                    "name": "George Harvell",
+                    "link": "https://www.imdb.com/name/nm0364092/?ref_=ttfc_fc_cr",
+                    "credit": "caterer: Nashville",
+                    "normalized_credit": [
+                        "caterer"
+                    ]
+                },
+                {
+                    "name": "Patricia Ann Holmes",
+                    "link": "https://www.imdb.com/name/nm0391988/?ref_=ttfc_fc_cr",
+                    "credit": "production accountant (as Patricia Holmes)",
+                    "normalized_credit": [
+                        "production accountant"
+                    ]
+                },
+                {
+                    "name": "Mark Jackson",
+                    "link": "https://www.imdb.com/name/nm0413831/?ref_=ttfc_fc_cr",
+                    "credit": "production runner: Nashville",
+                    "normalized_credit": [
+                        "production runner"
+                    ]
+                },
+                {
+                    "name": "Tim Jameson",
+                    "link": "https://www.imdb.com/name/nm1074849/?ref_=ttfc_fc_cr",
+                    "credit": "caterer: Nashville",
+                    "normalized_credit": [
+                        "caterer"
+                    ]
+                },
+                {
+                    "name": "Kathy McDonald Jones",
+                    "link": "https://www.imdb.com/name/nm0428513/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                },
+                {
+                    "name": "Susan Jones",
+                    "link": "https://www.imdb.com/name/nm0429306/?ref_=ttfc_fc_cr",
+                    "credit": "production runner: Virginia and Washingtion D.C.",
+                    "normalized_credit": [
+                        "production runner"
+                    ]
+                },
+                {
+                    "name": "Steven Kates",
+                    "link": "https://www.imdb.com/name/nm0441247/?ref_=ttfc_fc_cr",
+                    "credit": "craft service: Los Angeles / office production assistant",
+                    "normalized_credit": [
+                        "craft service",
+                        "office production assistant"
+                    ]
+                },
+                {
+                    "name": "Jason Lampkin",
+                    "link": "https://www.imdb.com/name/nm0006505/?ref_=ttfc_fc_cr",
+                    "credit": "administrative director: 40 Acres and a Mule",
+                    "normalized_credit": [
+                        "administrative director"
+                    ]
+                },
+                {
+                    "name": "Farrah Landry",
+                    "link": "https://www.imdb.com/name/nm1073195/?ref_=ttfc_fc_cr",
+                    "credit": "intern: Los Angeles",
+                    "normalized_credit": [
+                        "intern"
+                    ]
+                },
+                {
+                    "name": "Tendaji Lathan",
+                    "link": "https://www.imdb.com/name/nm0490134/?ref_=ttfc_fc_cr",
+                    "credit": "key set production assistant",
+                    "normalized_credit": [
+                        "key set production assistant"
+                    ]
+                },
+                {
+                    "name": "Katherine Leatherwood",
+                    "link": "https://www.imdb.com/name/nm0495336/?ref_=ttfc_fc_cr",
+                    "credit": "office production assistant: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "office production assistant"
+                    ]
+                },
+                {
+                    "name": "Melissa Lundgren",
+                    "link": "https://www.imdb.com/name/nm0526454/?ref_=ttfc_fc_cr",
+                    "credit": "assistant production coordinator",
+                    "normalized_credit": [
+                        "assistant production coordinator"
+                    ]
+                },
+                {
+                    "name": "Jenny Manriquez",
+                    "link": "https://www.imdb.com/name/nm0543696/?ref_=ttfc_fc_cr",
+                    "credit": "production associate",
+                    "normalized_credit": [
+                        "production associate"
+                    ]
+                },
+                {
+                    "name": "Guy Margo",
+                    "link": "https://www.imdb.com/name/nm0546717/?ref_=ttfc_fc_cr",
+                    "credit": "set production assistant",
+                    "normalized_credit": [
+                        "set production assistant"
+                    ]
+                },
+                {
+                    "name": "Keegan Martin",
+                    "link": "https://www.imdb.com/name/nm1860626/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Richard Martinez",
+                    "link": "https://www.imdb.com/name/nm0553680/?ref_=ttfc_fc_cr",
+                    "credit": "synthesizer programmer",
+                    "normalized_credit": [
+                        "synthesizer programmer"
+                    ]
+                },
+                {
+                    "name": "Jadi McCurdy",
+                    "link": "https://www.imdb.com/name/nm0567293/?ref_=ttfc_fc_cr",
+                    "credit": "set production assistant",
+                    "normalized_credit": [
+                        "set production assistant"
+                    ]
+                },
+                {
+                    "name": "Patt McCurdy",
+                    "link": "https://www.imdb.com/name/nm0567300/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                },
+                {
+                    "name": "Gabriel McKail",
+                    "link": "https://www.imdb.com/name/nm1074894/?ref_=ttfc_fc_cr",
+                    "credit": "film runner: Los Angeles",
+                    "normalized_credit": [
+                        "film runner"
+                    ]
+                },
+                {
+                    "name": "L. Londell McMillan",
+                    "link": "https://www.imdb.com/name/nm1073318/?ref_=ttfc_fc_cr",
+                    "credit": "associate album producer (as Londell McMillan)",
+                    "normalized_credit": [
+                        "associate album producer"
+                    ]
+                },
+                {
+                    "name": "Kene Jon Norton",
+                    "link": "https://www.imdb.com/name/nm1073409/?ref_=ttfc_fc_cr",
+                    "credit": "intern: Los Angeles",
+                    "normalized_credit": [
+                        "intern"
+                    ]
+                },
+                {
+                    "name": "Lori Dawn Perkins",
+                    "link": "https://www.imdb.com/name/nm1073470/?ref_=ttfc_fc_cr",
+                    "credit": "intern: Los Angeles",
+                    "normalized_credit": [
+                        "intern"
+                    ]
+                },
+                {
+                    "name": "Sherri Porter",
+                    "link": "https://www.imdb.com/name/nm1074927/?ref_=ttfc_fc_cr",
+                    "credit": "intern: Los Angeles",
+                    "normalized_credit": [
+                        "intern"
+                    ]
+                },
+                {
+                    "name": "Brett Ramsey",
+                    "link": "https://www.imdb.com/name/nm1074932/?ref_=ttfc_fc_cr",
+                    "credit": "caterer: Nashville",
+                    "normalized_credit": [
+                        "caterer"
+                    ]
+                },
+                {
+                    "name": "Floyd A.B. Rance III",
+                    "link": "https://www.imdb.com/name/nm1063877/?ref_=ttfc_fc_cr",
+                    "credit": "additional footage: Million Man March (as Floyd Rance)",
+                    "normalized_credit": [
+                        "additional footage"
+                    ]
+                },
+                {
+                    "name": "Donna Randall",
+                    "link": "https://www.imdb.com/name/nm1074933/?ref_=ttfc_fc_cr",
+                    "credit": "assistant accountant",
+                    "normalized_credit": [
+                        "assistant accountant"
+                    ]
+                },
+                {
+                    "name": "Robert Roach",
+                    "link": "https://www.imdb.com/name/nm1074939/?ref_=ttfc_fc_cr",
+                    "credit": "set production assistant",
+                    "normalized_credit": [
+                        "set production assistant"
+                    ]
+                },
+                {
+                    "name": "Tanesa Singleton",
+                    "link": "https://www.imdb.com/name/nm1073656/?ref_=ttfc_fc_cr",
+                    "credit": "intern: Los Angeles",
+                    "normalized_credit": [
+                        "intern"
+                    ]
+                },
+                {
+                    "name": "Kimberly Steger",
+                    "link": "https://www.imdb.com/name/nm1074971/?ref_=ttfc_fc_cr",
+                    "credit": "production runner: Nashville",
+                    "normalized_credit": [
+                        "production runner"
+                    ]
+                },
+                {
+                    "name": "Rebecca Stripling",
+                    "link": "https://www.imdb.com/name/nm1073700/?ref_=ttfc_fc_cr",
+                    "credit": "office executive assistant: 40 Acres and a Mule",
+                    "normalized_credit": [
+                        "office executive assistant"
+                    ]
+                },
+                {
+                    "name": "Jennie Tavares",
+                    "link": "https://www.imdb.com/name/nm1073733/?ref_=ttfc_fc_cr",
+                    "credit": "office production assistant: Los Angeles",
+                    "normalized_credit": [
+                        "office production assistant"
+                    ]
+                },
+                {
+                    "name": "David Thergood",
+                    "link": "https://www.imdb.com/name/nm1074983/?ref_=ttfc_fc_cr",
+                    "credit": "intern: Los Angeles",
+                    "normalized_credit": [
+                        "intern"
+                    ]
+                },
+                {
+                    "name": "Tammy Thomas-Garnes",
+                    "link": "https://www.imdb.com/name/nm0859672/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to producers (as Tammy K. Thomas)",
+                    "normalized_credit": [
+                        "assistant to producers"
+                    ]
+                },
+                {
+                    "name": "Phil Tinnin",
+                    "link": "https://www.imdb.com/name/nm1073751/?ref_=ttfc_fc_cr",
+                    "credit": "additional set production assistant: Virginia and Washington D.C.",
+                    "normalized_credit": [
+                        "additional set production assistant"
+                    ]
+                },
+                {
+                    "name": "Gary A. Watson",
+                    "link": "https://www.imdb.com/name/nm1074995/?ref_=ttfc_fc_cr",
+                    "credit": "production legal services",
+                    "normalized_credit": [
+                        "production legal services"
+                    ]
+                },
+                {
+                    "name": "Coati Mundi",
+                    "link": "https://www.imdb.com/name/nm0612734/?ref_=ttfc_fc_cr",
+                    "credit": "adr voice (uncredited)",
+                    "normalized_credit": [
+                        "adr voice"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

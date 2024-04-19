@@ -1,0 +1,75 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0138403/fullcredits/",
+    "title": "The Dirk Diggler Story (1988)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_dr1",
+                    "credit": "(as Paul Anderson)"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Shane Conrad",
+                    "link": "https://www.imdb.com/name/nm0175723/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Johann Ben\u00e9t",
+                    "link": "https://www.imdb.com/name/nm2829788/?ref_=ttfc_fc_cr",
+                    "credit": "key makeup artist",
+                    "normalized_credit": [
+                        "key makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        }
+    ],
+    "imdb_details": {}
+}

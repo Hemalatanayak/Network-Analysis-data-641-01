@@ -1,0 +1,62 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0272776/fullcredits/",
+    "title": "Pavarotti & Friends 99 for Guatemala and Kosovo (1999)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Lee",
+                    "link": "https://www.imdb.com/name/nm0000490/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "David Greenwald",
+                    "link": "https://www.imdb.com/name/nm0339237/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Adam Lichtenstein",
+                    "link": "https://www.imdb.com/name/nm0509025/?ref_=ttfc_fc_cr",
+                    "credit": "additional editor",
+                    "normalized_credit": [
+                        "additional editor"
+                    ]
+                },
+                {
+                    "name": "Simon Thorne",
+                    "link": "https://www.imdb.com/name/nm1510016/?ref_=ttfc_fc_cr",
+                    "credit": "on-line editor",
+                    "normalized_credit": [
+                        "on-line editor"
+                    ]
+                },
+                {
+                    "name": "Kenneth Wachtel",
+                    "link": "https://www.imdb.com/name/nm1182739/?ref_=ttfc_fc_cr",
+                    "credit": "associate editor",
+                    "normalized_credit": [
+                        "associate editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        }
+    ],
+    "imdb_details": {}
+}

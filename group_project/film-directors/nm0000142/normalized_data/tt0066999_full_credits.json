@@ -1,0 +1,926 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0066999/fullcredits/",
+    "title": "Dirty Harry (1971)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Don Siegel",
+                    "link": "https://www.imdb.com/name/nm0796923/?ref_=ttfc_fc_dr1",
+                    "credit": "(directed by)",
+                    "normalized_credit": [
+                        "directed by"
+                    ]
+                },
+                {
+                    "name": "Clint Eastwood",
+                    "link": "https://www.imdb.com/name/nm0000142/?ref_=ttfc_fc_dr2",
+                    "credit": "(segment \"suicide jumper sequence at night\") (uncredited)"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Harry Julian Fink",
+                    "link": "https://www.imdb.com/name/nm0277807/?ref_=ttfc_fc_wr1",
+                    "credit": "(screenplay) &",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                },
+                {
+                    "name": "Rita M. Fink",
+                    "link": "https://www.imdb.com/name/nm0277849/?ref_=ttfc_fc_wr2",
+                    "credit": "(screenplay) (as R.M. Fink) and",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                },
+                {
+                    "name": "Dean Riesner",
+                    "link": "https://www.imdb.com/name/nm0718466/?ref_=ttfc_fc_wr3",
+                    "credit": "(screenplay)",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                },
+                {
+                    "name": "Harry Julian Fink",
+                    "link": "https://www.imdb.com/name/nm0277807/?ref_=ttfc_fc_wr4",
+                    "credit": "(story) &",
+                    "normalized_credit": [
+                        "story"
+                    ]
+                },
+                {
+                    "name": "Rita M. Fink",
+                    "link": "https://www.imdb.com/name/nm0277849/?ref_=ttfc_fc_wr5",
+                    "credit": "(story) (as R.M. Fink)",
+                    "normalized_credit": [
+                        "story"
+                    ]
+                },
+                {
+                    "name": "Terrence Malick",
+                    "link": "https://www.imdb.com/name/nm0000517/?ref_=ttfc_fc_wr6",
+                    "credit": "(screenplay) (uncredited)",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                },
+                {
+                    "name": "Jo Heims",
+                    "link": "https://www.imdb.com/name/nm0374268/?ref_=ttfc_fc_wr7",
+                    "credit": "(story) (uncredited)",
+                    "normalized_credit": [
+                        "story"
+                    ]
+                },
+                {
+                    "name": "John Milius",
+                    "link": "https://www.imdb.com/name/nm0587518/?ref_=ttfc_fc_wr8",
+                    "credit": "(screenplay) (uncredited)",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) verified as complete",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Robert Daley",
+                    "link": "https://www.imdb.com/name/nm0197883/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Clint Eastwood",
+                    "link": "https://www.imdb.com/name/nm0000142/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer (uncredited)",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Carl Pingitore",
+                    "link": "https://www.imdb.com/name/nm0684173/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Don Siegel",
+                    "link": "https://www.imdb.com/name/nm0796923/?ref_=ttfc_fc_cr",
+                    "credit": "producer (produced by)",
+                    "normalized_credit": [
+                        "producer produced by"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Lalo Schifrin",
+                    "link": "https://www.imdb.com/name/nm0006277/?ref_=ttfc_fc_cr",
+                    "credit": "(music)",
+                    "normalized_credit": [
+                        "music"
+                    ]
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Bruce Surtees",
+                    "link": "https://www.imdb.com/name/nm0839732/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Carl Pingitore",
+                    "link": "https://www.imdb.com/name/nm0684173/?ref_=ttfc_fc_cr",
+                    "credit": "film editor",
+                    "normalized_credit": [
+                        "film editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Dale Hennesy",
+                    "link": "https://www.imdb.com/name/nm0377322/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Set Decoration by",
+            "crew": [
+                {
+                    "name": "Robert De Vestel",
+                    "link": "https://www.imdb.com/name/nm0212113/?ref_=ttfc_fc_cr",
+                    "credit": "(as Robert DeVestel)"
+                }
+            ],
+            "normalized role": "Set Decoration by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Gordon Bau",
+                    "link": "https://www.imdb.com/name/nm0061620/?ref_=ttfc_fc_cr",
+                    "credit": "makeup supervisor",
+                    "normalized_credit": [
+                        "makeup supervisor"
+                    ]
+                },
+                {
+                    "name": "Jean Burt Reilly",
+                    "link": "https://www.imdb.com/name/nm0123437/?ref_=ttfc_fc_cr",
+                    "credit": "supervising hair stylist",
+                    "normalized_credit": [
+                        "supervising hair stylist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Jim Henderling",
+                    "link": "https://www.imdb.com/name/nm0376292/?ref_=ttfc_fc_cr",
+                    "credit": "unit production manager",
+                    "normalized_credit": [
+                        "unit production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Robert Rubin",
+                    "link": "https://www.imdb.com/name/nm0748149/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                },
+                {
+                    "name": "Paul Samuelson",
+                    "link": "https://www.imdb.com/name/nm0760558/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director (uncredited)",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                },
+                {
+                    "name": "Barry Stern",
+                    "link": "https://www.imdb.com/name/nm0827641/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director (uncredited)",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                },
+                {
+                    "name": "Charles Washburn",
+                    "link": "https://www.imdb.com/name/nm0913343/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director (uncredited)",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Frank L. Brown",
+                    "link": "https://www.imdb.com/name/nm0113575/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser (uncredited)",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Bill Gold",
+                    "link": "https://www.imdb.com/name/nm5589863/?ref_=ttfc_fc_cr",
+                    "credit": "poster designer (uncredited)",
+                    "normalized_credit": [
+                        "poster designer"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "William Randall",
+                    "link": "https://www.imdb.com/name/nm0709522/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                },
+                {
+                    "name": "Alan Robert Murray",
+                    "link": "https://www.imdb.com/name/nm0614812/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor: remastered version (uncredited)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Sergio Reyes",
+                    "link": "https://www.imdb.com/name/nm0721421/?ref_=ttfc_fc_cr",
+                    "credit": "additional sound re-recording mixer (uncredited)",
+                    "normalized_credit": [
+                        "additional sound re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Dan Wallin",
+                    "link": "https://www.imdb.com/name/nm0909163/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer (uncredited)",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Jane Aull",
+                    "link": "https://www.imdb.com/name/nm0042064/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Alex Brown",
+                    "link": "https://www.imdb.com/name/nm0112978/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Bill Couch",
+                    "link": "https://www.imdb.com/name/nm0183228/?ref_=ttfc_fc_cr",
+                    "credit": "stunt double (uncredited)",
+                    "normalized_credit": [
+                        "stunt double"
+                    ]
+                },
+                {
+                    "name": "Everett Creach",
+                    "link": "https://www.imdb.com/name/nm0187083/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Dick Crockett",
+                    "link": "https://www.imdb.com/name/nm0188398/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Billy Curtis",
+                    "link": "https://www.imdb.com/name/nm0193260/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Vince Deadrick Sr.",
+                    "link": "https://www.imdb.com/name/nm0212605/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Cody Diamond",
+                    "link": "https://www.imdb.com/name/nm5626967/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Bennie E. Dobbins",
+                    "link": "https://www.imdb.com/name/nm0229609/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Larry Duran",
+                    "link": "https://www.imdb.com/name/nm0243705/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Clint Eastwood",
+                    "link": "https://www.imdb.com/name/nm0000142/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer (uncredited)",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "Joe Finnegan",
+                    "link": "https://www.imdb.com/name/nm0278200/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Bob Harris",
+                    "link": "https://www.imdb.com/name/nm0364483/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Willie Harris",
+                    "link": "https://www.imdb.com/name/nm4355365/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Chuck Hicks",
+                    "link": "https://www.imdb.com/name/nm0382820/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Raylene Holliday",
+                    "link": "https://www.imdb.com/name/nm4818154/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "John Hudkins",
+                    "link": "https://www.imdb.com/name/nm0399734/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Julie Ann Johnson",
+                    "link": "https://www.imdb.com/name/nm0425464/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "William T. Lane",
+                    "link": "https://www.imdb.com/name/nm0485614/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Fred Lerner",
+                    "link": "https://www.imdb.com/name/nm0503610/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Jerry Maren",
+                    "link": "https://www.imdb.com/name/nm0546439/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Paula Martin",
+                    "link": "https://www.imdb.com/name/nm4817845/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Troy Melton",
+                    "link": "https://www.imdb.com/name/nm0578415/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Bob Miles",
+                    "link": "https://www.imdb.com/name/nm0587067/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Boyd 'Red' Morgan",
+                    "link": "https://www.imdb.com/name/nm0604508/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Regina Parton",
+                    "link": "https://www.imdb.com/name/nm0664016/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Victor Paul",
+                    "link": "https://www.imdb.com/name/nm0667029/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Karl Rizzo",
+                    "link": "https://www.imdb.com/name/nm0729903/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Ernest Robinson",
+                    "link": "https://www.imdb.com/name/nm0732610/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "George Sawaya",
+                    "link": "https://www.imdb.com/name/nm0768070/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Walter Scott",
+                    "link": "https://www.imdb.com/name/nm0778780/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Alex Sharp",
+                    "link": "https://www.imdb.com/name/nm0788994/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Eddie Smith",
+                    "link": "https://www.imdb.com/name/nm0808083/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Emory Souza",
+                    "link": "https://www.imdb.com/name/nm0816254/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Fred Stromsoe",
+                    "link": "https://www.imdb.com/name/nm0834931/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Mark Thomas",
+                    "link": "https://www.imdb.com/name/nm0859210/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Buddy Van Horn",
+                    "link": "https://www.imdb.com/name/nm0887174/?ref_=ttfc_fc_cr",
+                    "credit": "stunt coordinator (uncredited) / stunt double (uncredited)",
+                    "normalized_credit": [
+                        "stunt coordinator",
+                        "stunt double"
+                    ]
+                },
+                {
+                    "name": "Richard Washington",
+                    "link": "https://www.imdb.com/name/nm0913526/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "William N. Clark",
+                    "link": "https://www.imdb.com/name/nm0164618/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Bernie Abramson",
+                    "link": "https://www.imdb.com/name/nm0003130/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer (uncredited)",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                },
+                {
+                    "name": "Thomas Del Ruth",
+                    "link": "https://www.imdb.com/name/nm0215878/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera (uncredited)",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                },
+                {
+                    "name": "Jon Guterres",
+                    "link": "https://www.imdb.com/name/nm0349187/?ref_=ttfc_fc_cr",
+                    "credit": "lamp operator (uncredited)",
+                    "normalized_credit": [
+                        "lamp operator"
+                    ]
+                },
+                {
+                    "name": "Kyle T. MacDowell",
+                    "link": "https://www.imdb.com/name/nm0532046/?ref_=ttfc_fc_cr",
+                    "credit": "electrician (uncredited)",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Glenn Wright",
+                    "link": "https://www.imdb.com/name/nm0942416/?ref_=ttfc_fc_cr",
+                    "credit": "wardrobe",
+                    "normalized_credit": [
+                        "wardrobe"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Israel Baker",
+                    "link": "https://www.imdb.com/name/nm1876240/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Mike Deasy",
+                    "link": "https://www.imdb.com/name/nm1285697/?ref_=ttfc_fc_cr",
+                    "credit": "musician (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "The Hollywood Studio Symphony",
+                    "link": "https://www.imdb.com/name/nm3049582/?ref_=ttfc_fc_cr",
+                    "credit": "music performed by (uncredited)",
+                    "normalized_credit": [
+                        "music performed by"
+                    ]
+                },
+                {
+                    "name": "Emil Richards",
+                    "link": "https://www.imdb.com/name/nm0724079/?ref_=ttfc_fc_cr",
+                    "credit": "musician: percussion (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Lalo Schifrin",
+                    "link": "https://www.imdb.com/name/nm0006277/?ref_=ttfc_fc_cr",
+                    "credit": "conductor (uncredited)",
+                    "normalized_credit": [
+                        "conductor"
+                    ]
+                },
+                {
+                    "name": "Sally Stevens",
+                    "link": "https://www.imdb.com/name/nm0828755/?ref_=ttfc_fc_cr",
+                    "credit": "singer/soloist (uncredited)",
+                    "normalized_credit": [
+                        "singer",
+                        "soloist"
+                    ]
+                },
+                {
+                    "name": "Dan Wallin",
+                    "link": "https://www.imdb.com/name/nm0909163/?ref_=ttfc_fc_cr",
+                    "credit": "score mixer (uncredited)",
+                    "normalized_credit": [
+                        "score mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Tom Moore",
+                    "link": "https://www.imdb.com/name/nm0601968/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "George Fargo",
+                    "link": "https://www.imdb.com/name/nm0267308/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to producer",
+                    "normalized_credit": [
+                        "assistant to producer"
+                    ]
+                },
+                {
+                    "name": "Scott Hale",
+                    "link": "https://www.imdb.com/name/nm0355005/?ref_=ttfc_fc_cr",
+                    "credit": "dialogue supervisor",
+                    "normalized_credit": [
+                        "dialogue supervisor"
+                    ]
+                },
+                {
+                    "name": "Philip L. Clarke",
+                    "link": "https://www.imdb.com/name/nm0164950/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Carl Combs",
+                    "link": "https://www.imdb.com/name/nm0173635/?ref_=ttfc_fc_cr",
+                    "credit": "unit publicist (uncredited)",
+                    "normalized_credit": [
+                        "unit publicist"
+                    ]
+                },
+                {
+                    "name": "Carlene Connelly",
+                    "link": "https://www.imdb.com/name/nm5114189/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Fred Draper",
+                    "link": "https://www.imdb.com/name/nm0237134/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Clint Eastwood",
+                    "link": "https://www.imdb.com/name/nm0000142/?ref_=ttfc_fc_cr",
+                    "credit": "fill-in director (uncredited)",
+                    "normalized_credit": [
+                        "fill-in director"
+                    ]
+                },
+                {
+                    "name": "John Finnegan",
+                    "link": "https://www.imdb.com/name/nm0278201/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Michael Freeman",
+                    "link": "https://www.imdb.com/name/nm0293524/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Don Haggerty",
+                    "link": "https://www.imdb.com/name/nm0353628/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Joanne Moore Jordan",
+                    "link": "https://www.imdb.com/name/nm0430020/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Darren Patrick Moloney",
+                    "link": "https://www.imdb.com/name/nm0540542/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Jill Riha",
+                    "link": "https://www.imdb.com/name/nm5113404/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Leon Russom",
+                    "link": "https://www.imdb.com/name/nm0751762/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Michele Tobin",
+                    "link": "https://www.imdb.com/name/nm0864953/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Wendy Tochi",
+                    "link": "https://www.imdb.com/name/nm1496347/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                },
+                {
+                    "name": "Arnold F. Turner",
+                    "link": "https://www.imdb.com/name/nm0877390/?ref_=ttfc_fc_cr",
+                    "credit": "voice (uncredited)",
+                    "normalized_credit": [
+                        "voice"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

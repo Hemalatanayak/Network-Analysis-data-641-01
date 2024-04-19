@@ -1,0 +1,100 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt7359888/fullcredits/",
+    "title": "Punch",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Daniel P. Collins",
+                    "link": "https://www.imdb.com/name/nm0172254/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer (as Dan Collins)",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Daniel Lupi",
+                    "link": "https://www.imdb.com/name/nm0526917/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "JoAnne Sellar",
+                    "link": "https://www.imdb.com/name/nm0783280/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Jon Brion",
+                    "link": "https://www.imdb.com/name/nm0109726/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Robert Elswit",
+                    "link": "https://www.imdb.com/name/nm0005696/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Leslie Jones",
+                    "link": "https://www.imdb.com/name/nm0428655/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        }
+    ],
+    "imdb_details": {}
+}

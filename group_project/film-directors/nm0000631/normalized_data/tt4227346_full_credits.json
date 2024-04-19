@@ -1,0 +1,154 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt4227346/fullcredits/",
+    "title": "Apple Mac: 1984 (Video 1983)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Ridley Scott",
+                    "link": "https://www.imdb.com/name/nm0000631/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Steve Hayden",
+                    "link": "https://www.imdb.com/name/nm2181946/?ref_=ttfc_fc_wr1",
+                    "credit": "(creator) &",
+                    "normalized_credit": [
+                        "creator"
+                    ]
+                },
+                {
+                    "name": "Lee Clow",
+                    "link": "https://www.imdb.com/name/nm1676090/?ref_=ttfc_fc_wr2",
+                    "credit": "(creator)",
+                    "normalized_credit": [
+                        "creator"
+                    ]
+                },
+                {
+                    "name": "George Orwell",
+                    "link": "https://www.imdb.com/name/nm0000567/?ref_=ttfc_fc_wr3",
+                    "credit": "(novel)",
+                    "normalized_credit": [
+                        "novel"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Jay Chiat",
+                    "link": "https://www.imdb.com/name/nm6937144/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Lee Clow",
+                    "link": "https://www.imdb.com/name/nm1676090/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Guy Day",
+                    "link": "https://www.imdb.com/name/nm3487884/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "John Sculley",
+                    "link": "https://www.imdb.com/name/nm0780249/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Max Modray",
+                    "link": "https://www.imdb.com/name/nm12803242/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Pamela Power",
+                    "link": "https://www.imdb.com/name/nm0694441/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Lee Clow",
+                    "link": "https://www.imdb.com/name/nm1676090/?ref_=ttfc_fc_cr",
+                    "credit": "(creative director)",
+                    "normalized_credit": [
+                        "creative director"
+                    ]
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Lee Clow",
+                    "link": "https://www.imdb.com/name/nm1676090/?ref_=ttfc_fc_cr",
+                    "credit": "creative director",
+                    "normalized_credit": [
+                        "creative director"
+                    ]
+                },
+                {
+                    "name": "Fred Goldberg",
+                    "link": "https://www.imdb.com/name/nm6937231/?ref_=ttfc_fc_cr",
+                    "credit": "account manager",
+                    "normalized_credit": [
+                        "account manager"
+                    ]
+                },
+                {
+                    "name": "Steve Hayden",
+                    "link": "https://www.imdb.com/name/nm2181946/?ref_=ttfc_fc_cr",
+                    "credit": "copywriter",
+                    "normalized_credit": [
+                        "copywriter"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

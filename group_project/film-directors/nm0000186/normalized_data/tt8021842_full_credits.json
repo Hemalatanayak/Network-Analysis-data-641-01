@@ -1,0 +1,98 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt8021842/fullcredits/",
+    "title": "Laura Palmer (2002)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_dr1",
+                    "credit": "(uncredited)"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_wr1",
+                    "credit": "(uncredited)"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr",
+                    "credit": "producer (uncredited)",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Angelo Badalamenti",
+                    "link": "https://www.imdb.com/name/nm0000823/?ref_=ttfc_fc_cr",
+                    "credit": "(uncredited)"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr",
+                    "credit": "(uncredited)"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr",
+                    "credit": "sound designer (uncredited)",
+                    "normalized_credit": [
+                        "sound designer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Sheryl Lee",
+                    "link": "https://www.imdb.com/name/nm0498247/?ref_=ttfc_fc_cr",
+                    "credit": "photographic model: Laura Palmer (uncredited)",
+                    "normalized_credit": [
+                        "photographic model"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

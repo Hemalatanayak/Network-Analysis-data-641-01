@@ -1,0 +1,126 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0367553/fullcredits/",
+    "title": "Punch",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Laura D. Smith Ireland",
+                    "link": "https://www.imdb.com/name/nm1413530/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer (as Laura D. Smith)",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "Aaron Ali Tichenor",
+                    "link": "https://www.imdb.com/name/nm0862661/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Jon Brion",
+                    "link": "https://www.imdb.com/name/nm0109726/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Robert Elswit",
+                    "link": "https://www.imdb.com/name/nm0005696/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Leslie Jones",
+                    "link": "https://www.imdb.com/name/nm0428655/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Jeremy Blake",
+                    "link": "https://www.imdb.com/name/nm0086591/?ref_=ttfc_fc_cr",
+                    "credit": "artwork",
+                    "normalized_credit": [
+                        "artwork"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Jonathan Karp",
+                    "link": "https://www.imdb.com/name/nm0439931/?ref_=ttfc_fc_cr",
+                    "credit": "music editor",
+                    "normalized_credit": [
+                        "music editor"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Sissy Lake",
+                    "link": "https://www.imdb.com/name/nm1260936/?ref_=ttfc_fc_cr",
+                    "credit": "dance",
+                    "normalized_credit": [
+                        "dance"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,60 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt7497058/fullcredits/",
+    "title": "Talking Heads: The Lady Don't Mind (Music Video 1986)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Jim Jarmusch",
+                    "link": "https://www.imdb.com/name/nm0000464/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Alan Kleinberg",
+                    "link": "https://www.imdb.com/name/nm0459038/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "James Hayman",
+                    "link": "https://www.imdb.com/name/nm0371348/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "David Waterston",
+                    "link": "https://www.imdb.com/name/nm0914208/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

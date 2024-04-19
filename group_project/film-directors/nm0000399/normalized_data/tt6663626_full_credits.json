@@ -1,0 +1,188 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6663626/fullcredits/",
+    "title": "Madonna: Bad Girl (Music Video 1993)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Fincher",
+                    "link": "https://www.imdb.com/name/nm0000399/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Oliver Fuselier",
+                    "link": "https://www.imdb.com/name/nm0299336/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Madonna",
+                    "link": "https://www.imdb.com/name/nm0000187/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Shep Pettibone",
+                    "link": "https://www.imdb.com/name/nm1398889/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Tony Shimkin",
+                    "link": "https://www.imdb.com/name/nm1866747/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Juan Ruiz Anch\u00eda",
+                    "link": "https://www.imdb.com/name/nm0005851/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Bob Jenkis",
+                    "link": "https://www.imdb.com/name/nm0421025/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Jeffrey Beecroft",
+                    "link": "https://www.imdb.com/name/nm0066360/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Greg Ross",
+                    "link": "https://www.imdb.com/name/nm8933546/?ref_=ttfc_fc_cr",
+                    "credit": "(single artwork design)",
+                    "normalized_credit": [
+                        "single artwork design"
+                    ]
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Steven Meisel",
+                    "link": "https://www.imdb.com/name/nm1071373/?ref_=ttfc_fc_cr",
+                    "credit": "single artwork photography",
+                    "normalized_credit": [
+                        "single artwork photography"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Robin Hancock",
+                    "link": "https://www.imdb.com/name/nm0359424/?ref_=ttfc_fc_cr",
+                    "credit": "recording engineer",
+                    "normalized_credit": [
+                        "recording engineer"
+                    ]
+                },
+                {
+                    "name": "Goh Hotoda",
+                    "link": "https://www.imdb.com/name/nm0396243/?ref_=ttfc_fc_cr",
+                    "credit": "mix engineer",
+                    "normalized_credit": [
+                        "mix engineer"
+                    ]
+                },
+                {
+                    "name": "Madonna",
+                    "link": "https://www.imdb.com/name/nm0000187/?ref_=ttfc_fc_cr",
+                    "credit": "music producer",
+                    "normalized_credit": [
+                        "music producer"
+                    ]
+                },
+                {
+                    "name": "Dennis Mitchell",
+                    "link": "https://www.imdb.com/name/nm0593276/?ref_=ttfc_fc_cr",
+                    "credit": "recording engineer",
+                    "normalized_credit": [
+                        "recording engineer"
+                    ]
+                },
+                {
+                    "name": "Joe Moskowitz",
+                    "link": "https://www.imdb.com/name/nm1975633/?ref_=ttfc_fc_cr",
+                    "credit": "additional keyboards",
+                    "normalized_credit": [
+                        "additional keyboards"
+                    ]
+                },
+                {
+                    "name": "Shep Pettibone",
+                    "link": "https://www.imdb.com/name/nm1398889/?ref_=ttfc_fc_cr",
+                    "credit": "music producer, songwriter, sequencing, keyboards, programming",
+                    "normalized_credit": [
+                        "music producer, songwriter, sequencing, keyboards, programming"
+                    ]
+                },
+                {
+                    "name": "Tony Shimkin",
+                    "link": "https://www.imdb.com/name/nm1866747/?ref_=ttfc_fc_cr",
+                    "credit": "songwriter, sequencing, keyboards, programming",
+                    "normalized_credit": [
+                        "songwriter, sequencing, keyboards, programming"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Freddy De Mann",
+                    "link": "https://www.imdb.com/name/nm0210041/?ref_=ttfc_fc_cr",
+                    "credit": "management",
+                    "normalized_credit": [
+                        "management"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

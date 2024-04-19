@@ -1,0 +1,477 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt29731320/fullcredits/",
+    "title": "The Beatles: Now and Then (Music Video 2023)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Peter Jackson",
+                    "link": "https://www.imdb.com/name/nm0001392/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Jonathan Clyde",
+                    "link": "https://www.imdb.com/name/nm2096242/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Peter Jackson",
+                    "link": "https://www.imdb.com/name/nm0001392/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Clare Olssen",
+                    "link": "https://www.imdb.com/name/nm1161680/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "John Lennon",
+                    "link": "https://www.imdb.com/name/nm0006168/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Jabez Olssen",
+                    "link": "https://www.imdb.com/name/nm1288150/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Emile de la Rey",
+                    "link": "https://www.imdb.com/name/nm3245344/?ref_=ttfc_fc_cr",
+                    "credit": "head of machine learning",
+                    "normalized_credit": [
+                        "head of machine learning"
+                    ]
+                },
+                {
+                    "name": "Geoff Emerick",
+                    "link": "https://www.imdb.com/name/nm0256169/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineer",
+                    "normalized_credit": [
+                        "sound engineer"
+                    ]
+                },
+                {
+                    "name": "Steve Genewick",
+                    "link": "https://www.imdb.com/name/nm1103887/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineer",
+                    "normalized_credit": [
+                        "sound engineer"
+                    ]
+                },
+                {
+                    "name": "Jon Jacobs",
+                    "link": "https://www.imdb.com/name/nm15428392/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineer",
+                    "normalized_credit": [
+                        "sound engineer"
+                    ]
+                },
+                {
+                    "name": "Giles Martin",
+                    "link": "https://www.imdb.com/name/nm3112230/?ref_=ttfc_fc_cr",
+                    "credit": "atmos mixer / stereo mixer",
+                    "normalized_credit": [
+                        "atmos mixer",
+                        "stereo mixer"
+                    ]
+                },
+                {
+                    "name": "Greg McAllister",
+                    "link": "https://www.imdb.com/name/nm6557769/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineer",
+                    "normalized_credit": [
+                        "sound engineer"
+                    ]
+                },
+                {
+                    "name": "Oli Morgan",
+                    "link": "https://www.imdb.com/name/nm12907917/?ref_=ttfc_fc_cr",
+                    "credit": "atmos mastering",
+                    "normalized_credit": [
+                        "atmos mastering"
+                    ]
+                },
+                {
+                    "name": "Sam Okell",
+                    "link": "https://www.imdb.com/name/nm1084138/?ref_=ttfc_fc_cr",
+                    "credit": "atmos mixer / stereo mixer",
+                    "normalized_credit": [
+                        "atmos mixer",
+                        "stereo mixer"
+                    ]
+                },
+                {
+                    "name": "Steve Orchard",
+                    "link": "https://www.imdb.com/name/nm0649448/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineer",
+                    "normalized_credit": [
+                        "sound engineer"
+                    ]
+                },
+                {
+                    "name": "Keith Smith",
+                    "link": "https://www.imdb.com/name/nm15428391/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineer",
+                    "normalized_credit": [
+                        "sound engineer"
+                    ]
+                },
+                {
+                    "name": "Mark Stent",
+                    "link": "https://www.imdb.com/name/nm0826704/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineer (as Spike Stent)",
+                    "normalized_credit": [
+                        "sound engineer"
+                    ]
+                },
+                {
+                    "name": "Bruce Sugar",
+                    "link": "https://www.imdb.com/name/nm4052779/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineer",
+                    "normalized_credit": [
+                        "sound engineer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Marcus Karamanolis",
+                    "link": "https://www.imdb.com/name/nm13124972/?ref_=ttfc_fc_cr",
+                    "credit": "senior roto artist: Weta FX",
+                    "normalized_credit": [
+                        "senior roto artist"
+                    ]
+                },
+                {
+                    "name": "Charles Tait",
+                    "link": "https://www.imdb.com/name/nm0846880/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects supervisor",
+                    "normalized_credit": [
+                        "visual effects supervisor"
+                    ]
+                },
+                {
+                    "name": "Elliot Travers",
+                    "link": "https://www.imdb.com/name/nm4206156/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects editor",
+                    "normalized_credit": [
+                        "visual effects editor"
+                    ]
+                },
+                {
+                    "name": "Kynan Voyeaud",
+                    "link": "https://www.imdb.com/name/nm8427368/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Brent Carpenter",
+                    "link": "https://www.imdb.com/name/nm0139285/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator: Ringo Starr Footage",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Elliot Travers",
+                    "link": "https://www.imdb.com/name/nm4206156/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Mia Barcia-Colombo",
+                    "link": "https://www.imdb.com/name/nm15446246/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: cello",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "The Beatles",
+                    "link": "https://www.imdb.com/name/nm1397313/?ref_=ttfc_fc_cr",
+                    "credit": "performer",
+                    "normalized_credit": [
+                        "performer"
+                    ]
+                },
+                {
+                    "name": "Charlie Bisharat",
+                    "link": "https://www.imdb.com/name/nm1338460/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: violin",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Caroline Buckman",
+                    "link": "https://www.imdb.com/name/nm2243550/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: viola",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Andrew Bulbrook",
+                    "link": "https://www.imdb.com/name/nm5578824/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: violin",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Giovana Clayton",
+                    "link": "https://www.imdb.com/name/nm3263268/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: cello",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Drew Forde",
+                    "link": "https://www.imdb.com/name/nm8177117/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: viola",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Ben Foster",
+                    "link": "https://www.imdb.com/name/nm1440540/?ref_=ttfc_fc_cr",
+                    "credit": "string arrangement",
+                    "normalized_credit": [
+                        "string arrangement"
+                    ]
+                },
+                {
+                    "name": "Neel Hammond",
+                    "link": "https://www.imdb.com/name/nm2191655/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: violin",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Ayvren Harrison",
+                    "link": "https://www.imdb.com/name/nm15446248/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: viola",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "George Harrison",
+                    "link": "https://www.imdb.com/name/nm0365600/?ref_=ttfc_fc_cr",
+                    "credit": "backing vocals / musician: guitar",
+                    "normalized_credit": [
+                        "backing vocals",
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Songa Lee",
+                    "link": "https://www.imdb.com/name/nm1340772/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: violin",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "John Lennon",
+                    "link": "https://www.imdb.com/name/nm0006168/?ref_=ttfc_fc_cr",
+                    "credit": "lyricist / singer",
+                    "normalized_credit": [
+                        "lyricist",
+                        "singer"
+                    ]
+                },
+                {
+                    "name": "J\u00e9r\u00f4me Leroy",
+                    "link": "https://www.imdb.com/name/nm2108688/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: conductor",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Jeff Lynne",
+                    "link": "https://www.imdb.com/name/nm0528855/?ref_=ttfc_fc_cr",
+                    "credit": "additional music producer",
+                    "normalized_credit": [
+                        "additional music producer"
+                    ]
+                },
+                {
+                    "name": "Giles Martin",
+                    "link": "https://www.imdb.com/name/nm3112230/?ref_=ttfc_fc_cr",
+                    "credit": "music producer / string arrangement",
+                    "normalized_credit": [
+                        "music producer",
+                        "string arrangement"
+                    ]
+                },
+                {
+                    "name": "Paul McCartney",
+                    "link": "https://www.imdb.com/name/nm0005200/?ref_=ttfc_fc_cr",
+                    "credit": "additional lyrics / backing vocals / music producer / musician: bass / musician: electric harpsichord / musician: guitar / musician: piano / musician: shaker / string arrangement / vocals",
+                    "normalized_credit": [
+                        "additional lyrics",
+                        "backing vocals",
+                        "music producer",
+                        "musician",
+                        "musician",
+                        "musician",
+                        "musician",
+                        "musician",
+                        "string arrangement",
+                        "vocals"
+                    ]
+                },
+                {
+                    "name": "Serena McKinney",
+                    "link": "https://www.imdb.com/name/nm3419289/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: violin",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Adrianne Pope",
+                    "link": "https://www.imdb.com/name/nm8505778/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: violin",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Linnea Powell",
+                    "link": "https://www.imdb.com/name/nm12969299/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: viola",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Miles Showell",
+                    "link": "https://www.imdb.com/name/nm2320707/?ref_=ttfc_fc_cr",
+                    "credit": "music mastering",
+                    "normalized_credit": [
+                        "music mastering"
+                    ]
+                },
+                {
+                    "name": "Hillary Smith",
+                    "link": "https://www.imdb.com/name/nm15446247/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: cello",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                },
+                {
+                    "name": "Ringo Starr",
+                    "link": "https://www.imdb.com/name/nm0823592/?ref_=ttfc_fc_cr",
+                    "credit": "backing vocals / musician: drums / musician: shaker / musician: tambourine",
+                    "normalized_credit": [
+                        "backing vocals",
+                        "musician",
+                        "musician",
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Mark Stent",
+                    "link": "https://www.imdb.com/name/nm0826704/?ref_=ttfc_fc_cr",
+                    "credit": "music mixer (as Spike Stent)",
+                    "normalized_credit": [
+                        "music mixer"
+                    ]
+                },
+                {
+                    "name": "Michael Valerio",
+                    "link": "https://www.imdb.com/name/nm1321490/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra: bass",
+                    "normalized_credit": [
+                        "orchestra"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Pete Best",
+                    "link": "https://www.imdb.com/name/nm0078983/?ref_=ttfc_fc_cr",
+                    "credit": "clips",
+                    "normalized_credit": [
+                        "clips"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

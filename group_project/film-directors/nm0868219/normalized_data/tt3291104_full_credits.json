@@ -1,0 +1,101 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt3291104/fullcredits/",
+    "title": "P.T. (Video Game 2014)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Guillermo del Toro",
+                    "link": "https://www.imdb.com/name/nm0868219/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Hideo Kojima",
+                    "link": "https://www.imdb.com/name/nm0463620/?ref_=ttfc_fc_dr2"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Keiichiro Toyama",
+                    "link": "https://www.imdb.com/name/nm1596678/?ref_=ttfc_fc_wr1",
+                    "credit": "(characters)",
+                    "normalized_credit": [
+                        "characters"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Hideo Kojima",
+                    "link": "https://www.imdb.com/name/nm0463620/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Ludvig Forssell",
+                    "link": "https://www.imdb.com/name/nm5603882/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Junji Ito",
+                    "link": "https://www.imdb.com/name/nm0411702/?ref_=ttfc_fc_cr",
+                    "credit": "creature artist",
+                    "normalized_credit": [
+                        "creature artist"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Anthony L. Kennedy",
+                    "link": "https://www.imdb.com/name/nm13490830/?ref_=ttfc_fc_cr",
+                    "credit": "social media director",
+                    "normalized_credit": [
+                        "social media director"
+                    ]
+                },
+                {
+                    "name": "Norman Reedus",
+                    "link": "https://www.imdb.com/name/nm0005342/?ref_=ttfc_fc_cr",
+                    "credit": "3d scan model / motion capture",
+                    "normalized_credit": [
+                        "3d scan model",
+                        "motion capture"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

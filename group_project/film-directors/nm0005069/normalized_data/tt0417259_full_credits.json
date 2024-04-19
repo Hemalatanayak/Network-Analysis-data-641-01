@@ -1,0 +1,102 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0417259/fullcredits/",
+    "title": "What's Up, Fatlip? (Video 2003)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Jonze",
+                    "link": "https://www.imdb.com/name/nm0005069/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Megan Bee",
+                    "link": "https://www.imdb.com/name/nm1659932/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Benzo",
+                    "link": "https://www.imdb.com/name/nm1605930/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Sofia Coppola",
+                    "link": "https://www.imdb.com/name/nm0001068/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Sofia)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Fatlip",
+                    "link": "https://www.imdb.com/name/nm1175970/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Dan Field",
+                    "link": "https://www.imdb.com/name/nm2060850/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Vincent Landay",
+                    "link": "https://www.imdb.com/name/nm0484504/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Vince Landay)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Michael Ross",
+                    "link": "https://www.imdb.com/name/nm0743687/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks (as Mike Ross)",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Rick Ross",
+                    "link": "https://www.imdb.com/name/nm0743781/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Eric Z.",
+                    "link": "https://www.imdb.com/name/nm1660833/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

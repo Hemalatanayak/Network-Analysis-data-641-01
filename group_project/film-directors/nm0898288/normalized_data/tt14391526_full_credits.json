@@ -1,0 +1,88 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt14391526/fullcredits/",
+    "title": "Daniel B\u00e9langer: Ensorcel\u00e9e (Music Video 1994)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Denis Villeneuve",
+                    "link": "https://www.imdb.com/name/nm0898288/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Judy Servay",
+                    "link": "https://www.imdb.com/name/nm1636933/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Andr\u00e9 Turpin",
+                    "link": "https://www.imdb.com/name/nm0878031/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Andr\u00e9 Turpin",
+                    "link": "https://www.imdb.com/name/nm0878031/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Denis Villeneuve",
+                    "link": "https://www.imdb.com/name/nm0898288/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "St\u00e9phane Dufour",
+                    "link": "https://www.imdb.com/name/nm0240716/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Gilles Legare",
+                    "link": "https://www.imdb.com/name/nm0499179/?ref_=ttfc_fc_cr",
+                    "credit": "directeur de production",
+                    "normalized_credit": [
+                        "directeur de production"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        }
+    ],
+    "imdb_details": {}
+}

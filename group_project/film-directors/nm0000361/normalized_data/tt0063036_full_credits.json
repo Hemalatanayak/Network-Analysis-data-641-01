@@ -1,0 +1,261 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0063036/fullcredits/",
+    "title": "Greetings (1968)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Brian De Palma",
+                    "link": "https://www.imdb.com/name/nm0000361/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Charles Hirsch",
+                    "link": "https://www.imdb.com/name/nm0386451/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by) and",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                },
+                {
+                    "name": "Brian De Palma",
+                    "link": "https://www.imdb.com/name/nm0000361/?ref_=ttfc_fc_wr2",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) complete, awaiting verification",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Charles Hirsch",
+                    "link": "https://www.imdb.com/name/nm0386451/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Eric Kaz",
+                    "link": "https://www.imdb.com/name/nm0443523/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "J. Stephen Soles",
+                    "link": "https://www.imdb.com/name/nm0813011/?ref_=ttfc_fc_cr",
+                    "credit": "(as Stephen Soles)"
+                },
+                {
+                    "name": "Artie Traum",
+                    "link": "https://www.imdb.com/name/nm0871197/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Robert Fiore",
+                    "link": "https://www.imdb.com/name/nm0278447/?ref_=ttfc_fc_cr",
+                    "credit": "(cameraman)",
+                    "normalized_credit": [
+                        "cameraman"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Brian De Palma",
+                    "link": "https://www.imdb.com/name/nm0000361/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "George Manasse",
+                    "link": "https://www.imdb.com/name/nm0541304/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Jeffrey Lesser",
+                    "link": "https://www.imdb.com/name/nm0504331/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                },
+                {
+                    "name": "Charles Pitts",
+                    "link": "https://www.imdb.com/name/nm13538899/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                },
+                {
+                    "name": "Stephane Werner",
+                    "link": "https://www.imdb.com/name/nm0921480/?ref_=ttfc_fc_cr",
+                    "credit": "french dubbing recorder and mixer",
+                    "normalized_credit": [
+                        "french dubbing recorder mixer"
+                    ]
+                },
+                {
+                    "name": "Bill Daly",
+                    "link": "https://www.imdb.com/name/nm1064172/?ref_=ttfc_fc_cr",
+                    "credit": "sound transferer (uncredited)",
+                    "normalized_credit": [
+                        "sound transferer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Ronald Roose",
+                    "link": "https://www.imdb.com/name/nm0740462/?ref_=ttfc_fc_cr",
+                    "credit": "lighting",
+                    "normalized_credit": [
+                        "lighting"
+                    ]
+                },
+                {
+                    "name": "Daniel Weiss",
+                    "link": "https://www.imdb.com/name/nm0918951/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Chuck Shields",
+                    "link": "https://www.imdb.com/name/nm0793180/?ref_=ttfc_fc_cr",
+                    "credit": "costumes",
+                    "normalized_credit": [
+                        "costumes"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Jeffrey Lesser",
+                    "link": "https://www.imdb.com/name/nm0504331/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Lee Harrison",
+                    "link": "https://www.imdb.com/name/nm0365705/?ref_=ttfc_fc_cr",
+                    "credit": "script girl",
+                    "normalized_credit": [
+                        "script girl"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Stephen Day",
+                    "link": "https://www.imdb.com/name/nm2541160/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to producer",
+                    "normalized_credit": [
+                        "assistant to producer"
+                    ]
+                },
+                {
+                    "name": "Chuck Shields",
+                    "link": "https://www.imdb.com/name/nm0793180/?ref_=ttfc_fc_cr",
+                    "credit": "titles",
+                    "normalized_credit": [
+                        "titles"
+                    ]
+                },
+                {
+                    "name": "Karen Gilbert",
+                    "link": "https://www.imdb.com/name/nm1707671/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant (uncredited)",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Mary Imperato",
+                    "link": "https://www.imdb.com/name/nm2736377/?ref_=ttfc_fc_cr",
+                    "credit": "thanks",
+                    "normalized_credit": [
+                        "thanks"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

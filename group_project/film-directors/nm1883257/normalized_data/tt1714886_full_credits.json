@@ -1,0 +1,350 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt1714886/fullcredits/",
+    "title": "Post Mortem (2010)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Pablo Larra\u00edn",
+                    "link": "https://www.imdb.com/name/nm1883257/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Eliseo Altunaga",
+                    "link": "https://www.imdb.com/name/nm1505557/?ref_=ttfc_fc_wr1",
+                    "credit": "(screenplay advisor)",
+                    "normalized_credit": [
+                        "screenplay advisor"
+                    ]
+                },
+                {
+                    "name": "Mateo Iribarren",
+                    "link": "https://www.imdb.com/name/nm0409942/?ref_=ttfc_fc_wr2",
+                    "credit": "(writer)",
+                    "normalized_credit": [
+                        "writer"
+                    ]
+                },
+                {
+                    "name": "Pablo Larra\u00edn",
+                    "link": "https://www.imdb.com/name/nm1883257/?ref_=ttfc_fc_wr3"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Andrea Carrasco Stuven",
+                    "link": "https://www.imdb.com/name/nm5513375/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Juan Ignacio Correa",
+                    "link": "https://www.imdb.com/name/nm5495286/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Mariane Hartard",
+                    "link": "https://www.imdb.com/name/nm5495231/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Juan de Dios Larra\u00edn",
+                    "link": "https://www.imdb.com/name/nm2213147/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Francesc Morales",
+                    "link": "https://www.imdb.com/name/nm2781881/?ref_=ttfc_fc_cr",
+                    "credit": "assistant producer",
+                    "normalized_credit": [
+                        "assistant producer"
+                    ]
+                },
+                {
+                    "name": "Ruth Orellana",
+                    "link": "https://www.imdb.com/name/nm3999983/?ref_=ttfc_fc_cr",
+                    "credit": "line producer",
+                    "normalized_credit": [
+                        "line producer"
+                    ]
+                },
+                {
+                    "name": "Geminiano Pineda",
+                    "link": "https://www.imdb.com/name/nm2703765/?ref_=ttfc_fc_cr",
+                    "credit": "co-executive producer",
+                    "normalized_credit": [
+                        "co-executive producer"
+                    ]
+                },
+                {
+                    "name": "Paolo Tamburini",
+                    "link": "https://www.imdb.com/name/nm5305293/?ref_=ttfc_fc_cr",
+                    "credit": "assistant location producer",
+                    "normalized_credit": [
+                        "assistant location producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Juan Crist\u00f3bal Meza",
+                    "link": "https://www.imdb.com/name/nm0583763/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Sergio Armstrong",
+                    "link": "https://www.imdb.com/name/nm1471654/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Andrea Chignoli",
+                    "link": "https://www.imdb.com/name/nm0157368/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Paula Leoncini",
+                    "link": "https://www.imdb.com/name/nm0502856/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Polin Garbizu",
+                    "link": "https://www.imdb.com/name/nm1441428/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Costume Design by",
+            "crew": [
+                {
+                    "name": "Muriel Parra",
+                    "link": "https://www.imdb.com/name/nm3157774/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Alejandro Atenas",
+                    "link": "https://www.imdb.com/name/nm5560694/?ref_=ttfc_fc_cr",
+                    "credit": "post-production manager",
+                    "normalized_credit": [
+                        "post-production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Juan Pedro Esponda",
+                    "link": "https://www.imdb.com/name/nm4230466/?ref_=ttfc_fc_cr",
+                    "credit": "third assistant director",
+                    "normalized_credit": [
+                        "third assistant director"
+                    ]
+                },
+                {
+                    "name": "Rosario Onetto",
+                    "link": "https://www.imdb.com/name/nm3143255/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant director",
+                    "normalized_credit": [
+                        "second assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Miguel Hormaz\u00e1bal",
+                    "link": "https://www.imdb.com/name/nm1006215/?ref_=ttfc_fc_cr",
+                    "credit": "sound designer",
+                    "normalized_credit": [
+                        "sound designer"
+                    ]
+                },
+                {
+                    "name": "Ivo Moraga",
+                    "link": "https://www.imdb.com/name/nm3177125/?ref_=ttfc_fc_cr",
+                    "credit": "foley artist",
+                    "normalized_credit": [
+                        "foley artist"
+                    ]
+                },
+                {
+                    "name": "Mat\u00edas Vald\u00e9s",
+                    "link": "https://www.imdb.com/name/nm4191484/?ref_=ttfc_fc_cr",
+                    "credit": "sound editor",
+                    "normalized_credit": [
+                        "sound editor"
+                    ]
+                },
+                {
+                    "name": "Roberto Zu\u00f1iga",
+                    "link": "https://www.imdb.com/name/nm4859504/?ref_=ttfc_fc_cr",
+                    "credit": "foley artist",
+                    "normalized_credit": [
+                        "foley artist"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Jonathan Maldonado",
+                    "link": "https://www.imdb.com/name/nm6061519/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                },
+                {
+                    "name": "Cristi\u00e1n Petit-Laurent",
+                    "link": "https://www.imdb.com/name/nm3556277/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Karin Urrutia Trautmann",
+                    "link": "https://www.imdb.com/name/nm4230572/?ref_=ttfc_fc_cr",
+                    "credit": "costume assistant",
+                    "normalized_credit": [
+                        "costume assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Mauricio Dupuis",
+                    "link": "https://www.imdb.com/name/nm4768053/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Eliseo Altunaga",
+                    "link": "https://www.imdb.com/name/nm1505557/?ref_=ttfc_fc_cr",
+                    "credit": "consultant",
+                    "normalized_credit": [
+                        "consultant"
+                    ]
+                },
+                {
+                    "name": "Jos\u00e9 Ignacio Arancibia",
+                    "link": "https://www.imdb.com/name/nm4920024/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Claudia Di Gir\u00f3lamo",
+                    "link": "https://www.imdb.com/name/nm0223895/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Luis Gnecco",
+                    "link": "https://www.imdb.com/name/nm0323483/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,36 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0365809/fullcredits/",
+    "title": "Supermarket Sweep (1991)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Darren Aronofsky",
+                    "link": "https://www.imdb.com/name/nm0004716/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Darren Aronofsky",
+                    "link": "https://www.imdb.com/name/nm0004716/?ref_=ttfc_fc_wr1",
+                    "credit": "(screenplay)",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        }
+    ],
+    "imdb_details": {}
+}

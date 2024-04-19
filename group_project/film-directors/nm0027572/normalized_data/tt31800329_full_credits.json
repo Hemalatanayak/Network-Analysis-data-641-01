@@ -1,0 +1,122 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt31800329/fullcredits/",
+    "title": "The Wonderful Story of Henry Sugar and Three More (2024)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Wes Anderson",
+                    "link": "https://www.imdb.com/name/nm0027572/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Wes Anderson",
+                    "link": "https://www.imdb.com/name/nm0027572/?ref_=ttfc_fc_wr1",
+                    "credit": "(written for the screen by)",
+                    "normalized_credit": [
+                        "written for the screen by"
+                    ]
+                },
+                {
+                    "name": "Roald Dahl",
+                    "link": "https://www.imdb.com/name/nm0001094/?ref_=ttfc_fc_wr2",
+                    "credit": "(stories)",
+                    "normalized_credit": [
+                        "stories"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Jeremy Dawson",
+                    "link": "https://www.imdb.com/name/nm0206154/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Steven Rales",
+                    "link": "https://www.imdb.com/name/nm2262509/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Barney Pilling",
+                    "link": "https://www.imdb.com/name/nm1306189/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Andrew Weisblum",
+                    "link": "https://www.imdb.com/name/nm0918733/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Nevy Rey",
+                    "link": "https://www.imdb.com/name/nm7031305/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director: Miniatures and Animation Unit",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Klara Jogalla",
+                    "link": "https://www.imdb.com/name/nm15483598/?ref_=ttfc_fc_cr",
+                    "credit": "Art Dept Trainee",
+                    "normalized_credit": [
+                        "art dept trainee"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Robert Davies",
+                    "link": "https://www.imdb.com/name/nm6121823/?ref_=ttfc_fc_cr",
+                    "credit": "finishing coordinator",
+                    "normalized_credit": [
+                        "finishing coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        }
+    ],
+    "imdb_details": {}
+}

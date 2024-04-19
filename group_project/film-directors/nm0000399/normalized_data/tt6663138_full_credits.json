@@ -1,0 +1,44 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6663138/fullcredits/",
+    "title": "Mark Knopfler & Willy DeVille: Storybook Love (Music Video 1987)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Fincher",
+                    "link": "https://www.imdb.com/name/nm0000399/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Jim Evans",
+                    "link": "https://www.imdb.com/name/nm0262888/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Howard Woffinden",
+                    "link": "https://www.imdb.com/name/nm0937360/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        }
+    ],
+    "imdb_details": {}
+}

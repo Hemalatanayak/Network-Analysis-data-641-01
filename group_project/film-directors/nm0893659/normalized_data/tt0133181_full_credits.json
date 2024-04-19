@@ -1,0 +1,163 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0133181/fullcredits/",
+    "title": "The Ritual (1996)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Gore Verbinski",
+                    "link": "https://www.imdb.com/name/nm0893659/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Gore Verbinski",
+                    "link": "https://www.imdb.com/name/nm0893659/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Jonathon Ker",
+                    "link": "https://www.imdb.com/name/nm0449170/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Anne-Marie Mackay",
+                    "link": "https://www.imdb.com/name/nm0533129/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Line Postmyr",
+                    "link": "https://www.imdb.com/name/nm0692962/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Don Miller-Robinson",
+                    "link": "https://www.imdb.com/name/nm0589545/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Neil Shapiro",
+                    "link": "https://www.imdb.com/name/nm0788604/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Craig Wood",
+                    "link": "https://www.imdb.com/name/nm0939623/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Paula Good",
+                    "link": "https://www.imdb.com/name/nm0328717/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Costume Design by",
+            "crew": [
+                {
+                    "name": "Lynette Meyer",
+                    "link": "https://www.imdb.com/name/nm0583256/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Benita Allen",
+                    "link": "https://www.imdb.com/name/nm0020298/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Michael Grady",
+                    "link": "https://www.imdb.com/name/nm0004142/?ref_=ttfc_fc_cr",
+                    "credit": "best boy electric",
+                    "normalized_credit": [
+                        "best boy electric"
+                    ]
+                },
+                {
+                    "name": "Dale Obert",
+                    "link": "https://www.imdb.com/name/nm0643365/?ref_=ttfc_fc_cr",
+                    "credit": "best boy electric / rigging gaffer",
+                    "normalized_credit": [
+                        "best boy electric",
+                        "rigging gaffer"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Nadine Bass",
+                    "link": "https://www.imdb.com/name/nm0060091/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        }
+    ],
+    "imdb_details": {}
+}

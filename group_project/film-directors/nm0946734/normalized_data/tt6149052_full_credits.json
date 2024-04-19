@@ -1,0 +1,69 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6149052/fullcredits/",
+    "title": "Fantastic Beasts and Where to Find Them 4",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Yates",
+                    "link": "https://www.imdb.com/name/nm0946734/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "J.K. Rowling",
+                    "link": "https://www.imdb.com/name/nm0746830/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "J.K. Rowling",
+                    "link": "https://www.imdb.com/name/nm0746830/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Stefan Stankowski",
+                    "link": "https://www.imdb.com/name/nm0822409/?ref_=ttfc_fc_cr",
+                    "credit": "A Camera Operator 2nd Unit",
+                    "normalized_credit": [
+                        "a camera operator 2nd unit"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Max Vergara Poeti-Marentini",
+                    "link": "https://www.imdb.com/name/nm9490580/?ref_=ttfc_fc_cr",
+                    "credit": "executive script consultant",
+                    "normalized_credit": [
+                        "executive script consultant"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        }
+    ],
+    "imdb_details": {}
+}

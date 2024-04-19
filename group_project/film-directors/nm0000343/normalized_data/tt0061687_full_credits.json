@@ -1,0 +1,96 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0061687/fullcredits/",
+    "title": "From the Drain (1967)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Cronenberg",
+                    "link": "https://www.imdb.com/name/nm0000343/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "David Cronenberg",
+                    "link": "https://www.imdb.com/name/nm0000343/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Stefan Nosko",
+                    "link": "https://www.imdb.com/name/nm0636470/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer (as Stephen Nosko)",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Mort Ritts",
+                    "link": "https://www.imdb.com/name/nm1526206/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "David Cronenberg",
+                    "link": "https://www.imdb.com/name/nm0000343/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "David Cronenberg",
+                    "link": "https://www.imdb.com/name/nm0000343/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Norma Cole",
+                    "link": "https://www.imdb.com/name/nm0170722/?ref_=ttfc_fc_cr",
+                    "credit": "sound recordist",
+                    "normalized_credit": [
+                        "sound recordist"
+                    ]
+                },
+                {
+                    "name": "Margaret Hindson",
+                    "link": "https://www.imdb.com/name/nm1529795/?ref_=ttfc_fc_cr",
+                    "credit": "sound recordist",
+                    "normalized_credit": [
+                        "sound recordist"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        }
+    ],
+    "imdb_details": {}
+}

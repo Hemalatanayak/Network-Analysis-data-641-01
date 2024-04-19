@@ -1,0 +1,342 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt5637536/fullcredits/",
+    "title": "Avatar 5 (2031)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "James Cameron",
+                    "link": "https://www.imdb.com/name/nm0000116/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "James Cameron",
+                    "link": "https://www.imdb.com/name/nm0000116/?ref_=ttfc_fc_wr1",
+                    "credit": "(characters)",
+                    "normalized_credit": [
+                        "characters"
+                    ]
+                },
+                {
+                    "name": "James Cameron",
+                    "link": "https://www.imdb.com/name/nm0000116/?ref_=ttfc_fc_wr2",
+                    "credit": "(screenplay)",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                },
+                {
+                    "name": "Shane Salerno",
+                    "link": "https://www.imdb.com/name/nm0004307/?ref_=ttfc_fc_wr3",
+                    "credit": "(screenplay)",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "James Cameron",
+                    "link": "https://www.imdb.com/name/nm0000116/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Jon Landau",
+                    "link": "https://www.imdb.com/name/nm0484457/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Simon Franglen",
+                    "link": "https://www.imdb.com/name/nm0290788/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Margery Simkin",
+                    "link": "https://www.imdb.com/name/nm0799557/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Brent Heyning",
+                    "link": "https://www.imdb.com/name/nm0382335/?ref_=ttfc_fc_cr",
+                    "credit": "propshop foreman",
+                    "normalized_credit": [
+                        "propshop foreman"
+                    ]
+                },
+                {
+                    "name": "Natalie Lewis",
+                    "link": "https://www.imdb.com/name/nm8914182/?ref_=ttfc_fc_cr",
+                    "credit": "property coordinator",
+                    "normalized_credit": [
+                        "property coordinator"
+                    ]
+                },
+                {
+                    "name": "John Park",
+                    "link": "https://www.imdb.com/name/nm0661861/?ref_=ttfc_fc_cr",
+                    "credit": "concept designer: art department",
+                    "normalized_credit": [
+                        "concept designer"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Nick Rand",
+                    "link": "https://www.imdb.com/name/nm8614447/?ref_=ttfc_fc_cr",
+                    "credit": "special effects cad designer",
+                    "normalized_credit": [
+                        "special effects cad designer"
+                    ]
+                },
+                {
+                    "name": "Robert Spurlock",
+                    "link": "https://www.imdb.com/name/nm0819941/?ref_=ttfc_fc_cr",
+                    "credit": "special effects cad designer",
+                    "normalized_credit": [
+                        "special effects cad designer"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Justin Knause",
+                    "link": "https://www.imdb.com/name/nm2677959/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects: Lab Artist: Lightstorm Entertainment",
+                    "normalized_credit": [
+                        "visual effects"
+                    ]
+                },
+                {
+                    "name": "Tanner Owen",
+                    "link": "https://www.imdb.com/name/nm2861363/?ref_=ttfc_fc_cr",
+                    "credit": "senior developer: Lightstorm Entertainment",
+                    "normalized_credit": [
+                        "senior developer"
+                    ]
+                },
+                {
+                    "name": "Esdras L. Ribeiro",
+                    "link": "https://www.imdb.com/name/nm9162972/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects",
+                    "normalized_credit": [
+                        "visual effects"
+                    ]
+                },
+                {
+                    "name": "Rohan Satyanand",
+                    "link": "https://www.imdb.com/name/nm3996339/?ref_=ttfc_fc_cr",
+                    "credit": "simulcam video engineer",
+                    "normalized_credit": [
+                        "simulcam video engineer"
+                    ]
+                },
+                {
+                    "name": "Wayne Stables",
+                    "link": "https://www.imdb.com/name/nm1151132/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects supervisor: Weta Digital",
+                    "normalized_credit": [
+                        "visual effects supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Nathan Haugaard",
+                    "link": "https://www.imdb.com/name/nm2798348/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Kevin McGill",
+                    "link": "https://www.imdb.com/name/nm1079361/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Dan Moore",
+                    "link": "https://www.imdb.com/name/nm0601088/?ref_=ttfc_fc_cr",
+                    "credit": "video engineering supervisor",
+                    "normalized_credit": [
+                        "video engineering supervisor"
+                    ]
+                },
+                {
+                    "name": "Michael A. Perry",
+                    "link": "https://www.imdb.com/name/nm3922136/?ref_=ttfc_fc_cr",
+                    "credit": "Reference Camera Operator",
+                    "normalized_credit": [
+                        "reference camera operator"
+                    ]
+                },
+                {
+                    "name": "Emerson Warren",
+                    "link": "https://www.imdb.com/name/nm9880096/?ref_=ttfc_fc_cr",
+                    "credit": "lighting technician",
+                    "normalized_credit": [
+                        "lighting technician"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Casting Department",
+            "crew": [
+                {
+                    "name": "Marisa Freeman",
+                    "link": "https://www.imdb.com/name/nm9810019/?ref_=ttfc_fc_cr",
+                    "credit": "casting assistant",
+                    "normalized_credit": [
+                        "casting assistant"
+                    ]
+                },
+                {
+                    "name": "Katrina Wandel George",
+                    "link": "https://www.imdb.com/name/nm2536612/?ref_=ttfc_fc_cr",
+                    "credit": "casting associate",
+                    "normalized_credit": [
+                        "casting associate"
+                    ]
+                },
+                {
+                    "name": "Jasmine Gutierrez",
+                    "link": "https://www.imdb.com/name/nm5503303/?ref_=ttfc_fc_cr",
+                    "credit": "casting assistant",
+                    "normalized_credit": [
+                        "casting assistant"
+                    ]
+                },
+                {
+                    "name": "Sydney Shircliff",
+                    "link": "https://www.imdb.com/name/nm8484739/?ref_=ttfc_fc_cr",
+                    "credit": "casting assistant",
+                    "normalized_credit": [
+                        "casting assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Casting Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Opie Gruves",
+                    "link": "https://www.imdb.com/name/nm11509039/?ref_=ttfc_fc_cr",
+                    "credit": "music re-mixing coordinator",
+                    "normalized_credit": [
+                        "music re-mixing coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Max Vergara Poeti-Marentini",
+                    "link": "https://www.imdb.com/name/nm9490580/?ref_=ttfc_fc_cr",
+                    "credit": "script consultant",
+                    "normalized_credit": [
+                        "script consultant"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Desiree Desario",
+                    "link": "https://www.imdb.com/name/nm14021887/?ref_=ttfc_fc_cr",
+                    "credit": "software engineer: Lightstorm Entertainment",
+                    "normalized_credit": [
+                        "software engineer"
+                    ]
+                },
+                {
+                    "name": "Luciano Silighini Garagnani",
+                    "link": "https://www.imdb.com/name/nm3156825/?ref_=ttfc_fc_cr",
+                    "credit": "production staff",
+                    "normalized_credit": [
+                        "production staff"
+                    ]
+                },
+                {
+                    "name": "Lisa Rhyne",
+                    "link": "https://www.imdb.com/name/nm0722613/?ref_=ttfc_fc_cr",
+                    "credit": "Legal Affairs",
+                    "normalized_credit": [
+                        "legal affairs"
+                    ]
+                },
+                {
+                    "name": "Danny Shelby",
+                    "link": "https://www.imdb.com/name/nm1461335/?ref_=ttfc_fc_cr",
+                    "credit": "Writers' Assistant",
+                    "normalized_credit": [
+                        "writers' assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,436 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt2220642/fullcredits/",
+    "title": "Bad 25 (2012)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Lee",
+                    "link": "https://www.imdb.com/name/nm0000490/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "John Branca",
+                    "link": "https://www.imdb.com/name/nm1960592/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "John McClain",
+                    "link": "https://www.imdb.com/name/nm3788867/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "L.A. Reid",
+                    "link": "https://www.imdb.com/name/nm1331743/?ref_=ttfc_fc_cr",
+                    "credit": "co-executive producer (as Antonio Reid)",
+                    "normalized_credit": [
+                        "co-executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Kerwin DeVonish",
+                    "link": "https://www.imdb.com/name/nm0222886/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Barry Alexander Brown",
+                    "link": "https://www.imdb.com/name/nm0113084/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Stuart Deutsch",
+                    "link": "https://www.imdb.com/name/nm0222105/?ref_=ttfc_fc_cr",
+                    "credit": "production sound mixer",
+                    "normalized_credit": [
+                        "production sound mixer"
+                    ]
+                },
+                {
+                    "name": "Chris Fielder",
+                    "link": "https://www.imdb.com/name/nm0276088/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "Paul Hsu",
+                    "link": "https://www.imdb.com/name/nm0398843/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Reza Moosavi",
+                    "link": "https://www.imdb.com/name/nm1894043/?ref_=ttfc_fc_cr",
+                    "credit": "production sound mixer",
+                    "normalized_credit": [
+                        "production sound mixer"
+                    ]
+                },
+                {
+                    "name": "Philip Stockton",
+                    "link": "https://www.imdb.com/name/nm0830958/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "Michael E. Wood",
+                    "link": "https://www.imdb.com/name/nm3975456/?ref_=ttfc_fc_cr",
+                    "credit": "production sound mixer",
+                    "normalized_credit": [
+                        "production sound mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Marq Edwards",
+                    "link": "https://www.imdb.com/name/nm0250192/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Freddy A. Fernandez",
+                    "link": "https://www.imdb.com/name/nm4938089/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera (as Freddy Fernandez)",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "ManSee Kong",
+                    "link": "https://www.imdb.com/name/nm3348255/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                },
+                {
+                    "name": "Cinqu\u00e9 Lee",
+                    "link": "https://www.imdb.com/name/nm0497046/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Tommy Maddox-Upshaw",
+                    "link": "https://www.imdb.com/name/nm1368219/?ref_=ttfc_fc_cr",
+                    "credit": "cinematographer: Los Angeles unit",
+                    "normalized_credit": [
+                        "cinematographer"
+                    ]
+                },
+                {
+                    "name": "Von Thomas",
+                    "link": "https://www.imdb.com/name/nm3677398/?ref_=ttfc_fc_cr",
+                    "credit": "digital imaging technician",
+                    "normalized_credit": [
+                        "digital imaging technician"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Allie Ames",
+                    "link": "https://www.imdb.com/name/nm5359974/?ref_=ttfc_fc_cr",
+                    "credit": "assistant conform editor",
+                    "normalized_credit": [
+                        "assistant conform editor"
+                    ]
+                },
+                {
+                    "name": "Dyani Douze",
+                    "link": "https://www.imdb.com/name/nm5224306/?ref_=ttfc_fc_cr",
+                    "credit": "editorial apprentice",
+                    "normalized_credit": [
+                        "editorial apprentice"
+                    ]
+                },
+                {
+                    "name": "Ryan McMahon",
+                    "link": "https://www.imdb.com/name/nm3928925/?ref_=ttfc_fc_cr",
+                    "credit": "supervising conform editor",
+                    "normalized_credit": [
+                        "supervising conform editor"
+                    ]
+                },
+                {
+                    "name": "Benjamin Murray",
+                    "link": "https://www.imdb.com/name/nm1877605/?ref_=ttfc_fc_cr",
+                    "credit": "colorist",
+                    "normalized_credit": [
+                        "colorist"
+                    ]
+                },
+                {
+                    "name": "Richie Roefaro",
+                    "link": "https://www.imdb.com/name/nm2193737/?ref_=ttfc_fc_cr",
+                    "credit": "post-production assistant",
+                    "normalized_credit": [
+                        "post-production assistant"
+                    ]
+                },
+                {
+                    "name": "Michael E. Wood",
+                    "link": "https://www.imdb.com/name/nm3975456/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                },
+                {
+                    "name": "Charles Herzfeld",
+                    "link": "https://www.imdb.com/name/nm0381270/?ref_=ttfc_fc_cr",
+                    "credit": "post facility supervisor (uncredited)",
+                    "normalized_credit": [
+                        "post facility supervisor"
+                    ]
+                },
+                {
+                    "name": "Kettie Jean",
+                    "link": "https://www.imdb.com/name/nm5118768/?ref_=ttfc_fc_cr",
+                    "credit": "editorial intern (uncredited)",
+                    "normalized_credit": [
+                        "editorial intern"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Craig Huxley",
+                    "link": "https://www.imdb.com/name/nm0402137/?ref_=ttfc_fc_cr",
+                    "credit": "Producer Synclavier Sound Package, synth, Blaster Beam",
+                    "normalized_credit": [
+                        "producer synclavier sound package, synth, blaster beam"
+                    ]
+                },
+                {
+                    "name": "Marvin R. Morris",
+                    "link": "https://www.imdb.com/name/nm0606782/?ref_=ttfc_fc_cr",
+                    "credit": "music editor",
+                    "normalized_credit": [
+                        "music editor"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Judy Aley",
+                    "link": "https://www.imdb.com/name/nm0019020/?ref_=ttfc_fc_cr",
+                    "credit": "archival research and clearances",
+                    "normalized_credit": [
+                        "archival research clearances"
+                    ]
+                },
+                {
+                    "name": "Randall Balsmeyer",
+                    "link": "https://www.imdb.com/name/nm0051157/?ref_=ttfc_fc_cr",
+                    "credit": "title designer",
+                    "normalized_credit": [
+                        "title designer"
+                    ]
+                },
+                {
+                    "name": "Christopher T. Brown",
+                    "link": "https://www.imdb.com/name/nm6531140/?ref_=ttfc_fc_cr",
+                    "credit": "Set Intern",
+                    "normalized_credit": [
+                        "set intern"
+                    ]
+                },
+                {
+                    "name": "Ernest Dickerson Jr.",
+                    "link": "https://www.imdb.com/name/nm0225392/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Yves Hofer",
+                    "link": "https://www.imdb.com/name/nm1698843/?ref_=ttfc_fc_cr",
+                    "credit": "key production assistant: Los Angeles",
+                    "normalized_credit": [
+                        "key production assistant"
+                    ]
+                },
+                {
+                    "name": "Kettie Jean",
+                    "link": "https://www.imdb.com/name/nm5118768/?ref_=ttfc_fc_cr",
+                    "credit": "research intern",
+                    "normalized_credit": [
+                        "research intern"
+                    ]
+                },
+                {
+                    "name": "Jason Lampkin",
+                    "link": "https://www.imdb.com/name/nm0006505/?ref_=ttfc_fc_cr",
+                    "credit": "administrative supervisor",
+                    "normalized_credit": [
+                        "administrative supervisor"
+                    ]
+                },
+                {
+                    "name": "Tim Merrill",
+                    "link": "https://www.imdb.com/name/nm3011263/?ref_=ttfc_fc_cr",
+                    "credit": "archival researcher",
+                    "normalized_credit": [
+                        "archival researcher"
+                    ]
+                },
+                {
+                    "name": "Thessa Mooij",
+                    "link": "https://www.imdb.com/name/nm3586969/?ref_=ttfc_fc_cr",
+                    "credit": "festival publicist",
+                    "normalized_credit": [
+                        "festival publicist"
+                    ]
+                },
+                {
+                    "name": "Claudine Mulard",
+                    "link": "https://www.imdb.com/name/nm1566590/?ref_=ttfc_fc_cr",
+                    "credit": "translator: French subtitles",
+                    "normalized_credit": [
+                        "translator"
+                    ]
+                },
+                {
+                    "name": "Laila Petrone",
+                    "link": "https://www.imdb.com/name/nm3135095/?ref_=ttfc_fc_cr",
+                    "credit": "key production assistant: Los Angeles",
+                    "normalized_credit": [
+                        "key production assistant"
+                    ]
+                },
+                {
+                    "name": "Bob Pfeifer",
+                    "link": "https://www.imdb.com/name/nm1895056/?ref_=ttfc_fc_cr",
+                    "credit": "archival researcher",
+                    "normalized_credit": [
+                        "archival researcher"
+                    ]
+                },
+                {
+                    "name": "Eden Marie Picazo",
+                    "link": "https://www.imdb.com/name/nm3052353/?ref_=ttfc_fc_cr",
+                    "credit": "archival researcher",
+                    "normalized_credit": [
+                        "archival researcher"
+                    ]
+                },
+                {
+                    "name": "Sharon A. Williams",
+                    "link": "https://www.imdb.com/name/nm9365243/?ref_=ttfc_fc_cr",
+                    "credit": "production accountant",
+                    "normalized_credit": [
+                        "production accountant"
+                    ]
+                },
+                {
+                    "name": "Erena Willis",
+                    "link": "https://www.imdb.com/name/nm4888824/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Robert Zimmerman",
+                    "link": "https://www.imdb.com/name/nm0956675/?ref_=ttfc_fc_cr",
+                    "credit": "original behind the scenes footage cinematography by",
+                    "normalized_credit": [
+                        "original behind the scenes footage cinematography by"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "James Bates",
+                    "link": "https://www.imdb.com/name/nm3791277/?ref_=ttfc_fc_cr",
+                    "credit": "thanks",
+                    "normalized_credit": [
+                        "thanks"
+                    ]
+                },
+                {
+                    "name": "Mark Gillespie",
+                    "link": "https://www.imdb.com/name/nm6038200/?ref_=ttfc_fc_cr",
+                    "credit": "thanks",
+                    "normalized_credit": [
+                        "thanks"
+                    ]
+                },
+                {
+                    "name": "Jeff Jampol",
+                    "link": "https://www.imdb.com/name/nm1069405/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

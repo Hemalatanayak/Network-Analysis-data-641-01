@@ -1,0 +1,56 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt13912774/fullcredits/",
+    "title": "Sleigh Bells: Rill Rill (Video 2011)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Jon Watts",
+                    "link": "https://www.imdb.com/name/nm1218281/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Sleigh Bells",
+                    "link": "https://www.imdb.com/name/nm4891860/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Sleigh Bells",
+                    "link": "https://www.imdb.com/name/nm4891860/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Sal Malfitano",
+                    "link": "https://www.imdb.com/name/nm3298828/?ref_=ttfc_fc_cr",
+                    "credit": "colorist",
+                    "normalized_credit": [
+                        "colorist"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        }
+    ],
+    "imdb_details": {}
+}

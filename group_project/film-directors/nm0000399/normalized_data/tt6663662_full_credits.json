@@ -1,0 +1,97 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6663662/fullcredits/",
+    "title": "The Rolling Stones: Love Is Strong (Music Video 1994)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Fincher",
+                    "link": "https://www.imdb.com/name/nm0000399/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Michael Trim",
+                    "link": "https://www.imdb.com/name/nm0872841/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Garry Waller",
+                    "link": "https://www.imdb.com/name/nm0909045/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Robert Duffy",
+                    "link": "https://www.imdb.com/name/nm0240609/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Fred Raimondi",
+                    "link": "https://www.imdb.com/name/nm0706912/?ref_=ttfc_fc_cr",
+                    "credit": "special effects",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Ed Ulbrich",
+                    "link": "https://www.imdb.com/name/nm1261724/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects executive producer",
+                    "normalized_credit": [
+                        "visual effects executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Dana Perry",
+                    "link": "https://www.imdb.com/name/nm0988540/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "David Mugridge",
+                    "link": "https://www.imdb.com/name/nm0611192/?ref_=ttfc_fc_cr",
+                    "credit": "3/4 inch deck operator (uncredited)",
+                    "normalized_credit": [
+                        "3",
+                        "4 inch deck operator"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,66 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0347840/fullcredits/",
+    "title": "Rabbits (2002)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Angelo Badalamenti",
+                    "link": "https://www.imdb.com/name/nm0000823/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Costume Design by",
+            "crew": [
+                {
+                    "name": "Tony Candelaria",
+                    "link": "https://www.imdb.com/name/nm2217469/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Jeremy Alter",
+                    "link": "https://www.imdb.com/name/nm0022741/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        }
+    ],
+    "imdb_details": {}
+}

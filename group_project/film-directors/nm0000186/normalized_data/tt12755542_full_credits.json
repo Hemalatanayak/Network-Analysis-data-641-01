@@ -1,0 +1,86 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt12755542/fullcredits/",
+    "title": "David Lynch: I Have a Radio (Music Video 2011)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_dr1",
+                    "credit": "(uncredited)"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_wr1",
+                    "credit": "(uncredited)"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr",
+                    "credit": "producer (uncredited)",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Animation Department",
+            "crew": [
+                {
+                    "name": "Noriko Miyakawa",
+                    "link": "https://www.imdb.com/name/nm0594373/?ref_=ttfc_fc_cr",
+                    "credit": "animator (uncredited)",
+                    "normalized_credit": [
+                        "animator"
+                    ]
+                }
+            ],
+            "normalized role": "Animation Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr",
+                    "credit": "lyricist (uncredited)",
+                    "normalized_credit": [
+                        "lyricist"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

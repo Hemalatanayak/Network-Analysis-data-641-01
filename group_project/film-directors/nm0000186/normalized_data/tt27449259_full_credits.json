@@ -1,0 +1,136 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt27449259/fullcredits/",
+    "title": "Twin Peaks (Video 1989)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Mark Frost",
+                    "link": "https://www.imdb.com/name/nm0004111/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by) &",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                },
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_wr2",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Mark Frost",
+                    "link": "https://www.imdb.com/name/nm0004111/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "David J. Latt",
+                    "link": "https://www.imdb.com/name/nm0490374/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Monty Montgomery",
+                    "link": "https://www.imdb.com/name/nm0599863/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Angelo Badalamenti",
+                    "link": "https://www.imdb.com/name/nm0000823/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Ronald V\u00edctor Garc\u00eda",
+                    "link": "https://www.imdb.com/name/nm0005715/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography (as Ron Garcia)",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Duwayne Dunham",
+                    "link": "https://www.imdb.com/name/nm0242271/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Johanna Ray",
+                    "link": "https://www.imdb.com/name/nm0712874/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Patricia Norris",
+                    "link": "https://www.imdb.com/name/nm0635876/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        }
+    ],
+    "imdb_details": {}
+}

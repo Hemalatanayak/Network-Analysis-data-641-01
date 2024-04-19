@@ -1,0 +1,117 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt9859582/fullcredits/",
+    "title": "Warcry: The Battle of the Hawk & the Raven (2017)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Sterlin Harjo",
+                    "link": "https://www.imdb.com/name/nm1802161/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Sterlin Harjo",
+                    "link": "https://www.imdb.com/name/nm1802161/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Jack White",
+                    "link": "https://www.imdb.com/name/nm1226421/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Giles Dunning",
+                    "link": "https://www.imdb.com/name/nm0242946/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Krista Perry",
+                    "link": "https://www.imdb.com/name/nm4611192/?ref_=ttfc_fc_cr",
+                    "credit": "key hair stylist / key makeup artist",
+                    "normalized_credit": [
+                        "key hair stylist",
+                        "key makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Dylan Brodie",
+                    "link": "https://www.imdb.com/name/nm3579160/?ref_=ttfc_fc_cr",
+                    "credit": "production manager: Oklahoma",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Ty Dickson",
+                    "link": "https://www.imdb.com/name/nm1658802/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Lance Gill",
+                    "link": "https://www.imdb.com/name/nm3618407/?ref_=ttfc_fc_cr",
+                    "credit": "key grip",
+                    "normalized_credit": [
+                        "key grip"
+                    ]
+                },
+                {
+                    "name": "Scott Sunday",
+                    "link": "https://www.imdb.com/name/nm0839057/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

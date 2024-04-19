@@ -1,0 +1,96 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt9110568/fullcredits/",
+    "title": "Mon Guerlain: Notes of a Woman (2017)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Terrence Malick",
+                    "link": "https://www.imdb.com/name/nm0000517/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Christian Berger",
+                    "link": "https://www.imdb.com/name/nm0074141/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Rehman Nizar Ali",
+                    "link": "https://www.imdb.com/name/nm8347686/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Xavier Box",
+                    "link": "https://www.imdb.com/name/nm3182126/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Marc A. Wilson",
+                    "link": "https://www.imdb.com/name/nm1633574/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Frank Pitussi",
+                    "link": "https://www.imdb.com/name/nm1073488/?ref_=ttfc_fc_cr",
+                    "credit": "Stand-by props",
+                    "normalized_credit": [
+                        "st-by props"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Alessandro Brambilla",
+                    "link": "https://www.imdb.com/name/nm1055156/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Nattawut Urasaeng",
+                    "link": "https://www.imdb.com/name/nm5142970/?ref_=ttfc_fc_cr",
+                    "credit": "drone operator",
+                    "normalized_credit": [
+                        "drone operator"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

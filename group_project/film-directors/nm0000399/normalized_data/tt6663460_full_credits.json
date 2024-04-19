@@ -1,0 +1,188 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6663460/fullcredits/",
+    "title": "Aerosmith: Janie's Got a Gun (Music Video 1989)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Fincher",
+                    "link": "https://www.imdb.com/name/nm0000399/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Kris Mathur",
+                    "link": "https://www.imdb.com/name/nm1876837/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Tom Hamilton",
+                    "link": "https://www.imdb.com/name/nm0358195/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Steven Tyler",
+                    "link": "https://www.imdb.com/name/nm0878911/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Dariusz Wolski",
+                    "link": "https://www.imdb.com/name/nm0003011/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "James Haygood",
+                    "link": "https://www.imdb.com/name/nm0371307/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Alex McDowell",
+                    "link": "https://www.imdb.com/name/nm0568273/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Brian Buongiorno",
+                    "link": "https://www.imdb.com/name/nm2242825/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects",
+                    "normalized_credit": [
+                        "visual effects"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Gary Katsuya Ushino",
+                    "link": "https://www.imdb.com/name/nm0882352/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Kendra Perpich",
+                    "link": "https://www.imdb.com/name/nm10140576/?ref_=ttfc_fc_cr",
+                    "credit": "wardrobe",
+                    "normalized_credit": [
+                        "wardrobe"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Brian Buongiorno",
+                    "link": "https://www.imdb.com/name/nm2242825/?ref_=ttfc_fc_cr",
+                    "credit": "digital editor",
+                    "normalized_credit": [
+                        "digital editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Bruce Fairbairn",
+                    "link": "https://www.imdb.com/name/nm1839095/?ref_=ttfc_fc_cr",
+                    "credit": "music producer",
+                    "normalized_credit": [
+                        "music producer"
+                    ]
+                },
+                {
+                    "name": "Tom Hamilton",
+                    "link": "https://www.imdb.com/name/nm0358195/?ref_=ttfc_fc_cr",
+                    "credit": "musician: bass guitar",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Joe Perry",
+                    "link": "https://www.imdb.com/name/nm0675128/?ref_=ttfc_fc_cr",
+                    "credit": "musician: guitar",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Steven Tyler",
+                    "link": "https://www.imdb.com/name/nm0878911/?ref_=ttfc_fc_cr",
+                    "credit": "lyrics",
+                    "normalized_credit": [
+                        "lyrics"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Stacy Bailey",
+                    "link": "https://www.imdb.com/name/nm5571519/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

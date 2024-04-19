@@ -1,0 +1,60 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0872315/fullcredits/",
+    "title": "Carmen (1985)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Alexander Payne",
+                    "link": "https://www.imdb.com/name/nm0668247/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Alexander Payne",
+                    "link": "https://www.imdb.com/name/nm0668247/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Alexander Payne",
+                    "link": "https://www.imdb.com/name/nm0668247/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Jo\u00e3o Penna",
+                    "link": "https://www.imdb.com/name/nm1233857/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        }
+    ],
+    "imdb_details": {}
+}

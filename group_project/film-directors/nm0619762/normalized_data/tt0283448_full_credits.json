@@ -1,0 +1,109 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0283448/fullcredits/",
+    "title": "The Laughing Club of India (TV Movie 2001)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Mira Nair",
+                    "link": "https://www.imdb.com/name/nm0619762/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Adam Bartos",
+                    "link": "https://www.imdb.com/name/nm0059280/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Nasreen Munni Kabir",
+                    "link": "https://www.imdb.com/name/nm1203083/?ref_=ttfc_fc_cr",
+                    "credit": "line producer",
+                    "normalized_credit": [
+                        "line producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Adam Bartos",
+                    "link": "https://www.imdb.com/name/nm0059280/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Barry Alexander Brown",
+                    "link": "https://www.imdb.com/name/nm0113084/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Daphne McWilliams",
+                    "link": "https://www.imdb.com/name/nm0574802/?ref_=ttfc_fc_cr",
+                    "credit": "post-production supervisor",
+                    "normalized_credit": [
+                        "post-production supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Sabrina Dhawan",
+                    "link": "https://www.imdb.com/name/nm0223526/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                },
+                {
+                    "name": "Ellen Korbonski",
+                    "link": "https://www.imdb.com/name/nm0466055/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Nicholas Renbeck",
+                    "link": "https://www.imdb.com/name/nm0003635/?ref_=ttfc_fc_cr",
+                    "credit": "sound editor",
+                    "normalized_credit": [
+                        "sound editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        }
+    ],
+    "imdb_details": {}
+}

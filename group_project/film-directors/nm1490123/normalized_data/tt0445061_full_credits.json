@@ -1,0 +1,166 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0445061/fullcredits/",
+    "title": "Stygian (1998)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "James Wan",
+                    "link": "https://www.imdb.com/name/nm1490123/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Shannon Young",
+                    "link": "https://www.imdb.com/name/nm1026455/?ref_=ttfc_fc_dr2"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "James Wan",
+                    "link": "https://www.imdb.com/name/nm1490123/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                },
+                {
+                    "name": "Shannon Young",
+                    "link": "https://www.imdb.com/name/nm1026455/?ref_=ttfc_fc_wr2",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Gil Poznanski",
+                    "link": "https://www.imdb.com/name/nm1833405/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Shannon Young",
+                    "link": "https://www.imdb.com/name/nm1026455/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Shane Elevato",
+                    "link": "https://www.imdb.com/name/nm4634303/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Nathan Barnes",
+                    "link": "https://www.imdb.com/name/nm5471640/?ref_=ttfc_fc_cr",
+                    "credit": "makeup artist",
+                    "normalized_credit": [
+                        "makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Emma Bortignon",
+                    "link": "https://www.imdb.com/name/nm0097538/?ref_=ttfc_fc_cr",
+                    "credit": "sound designer",
+                    "normalized_credit": [
+                        "sound designer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Nathan Barnes",
+                    "link": "https://www.imdb.com/name/nm5471640/?ref_=ttfc_fc_cr",
+                    "credit": "special effects makeup",
+                    "normalized_credit": [
+                        "special effects makeup"
+                    ]
+                },
+                {
+                    "name": "John Fox",
+                    "link": "https://www.imdb.com/name/nm0289063/?ref_=ttfc_fc_cr",
+                    "credit": "special effects supervisor",
+                    "normalized_credit": [
+                        "special effects supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Shane Elevato",
+                    "link": "https://www.imdb.com/name/nm4634303/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Gil Poznanski",
+                    "link": "https://www.imdb.com/name/nm1833405/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "John Fox",
+                    "link": "https://www.imdb.com/name/nm0289063/?ref_=ttfc_fc_cr",
+                    "credit": "armorer",
+                    "normalized_credit": [
+                        "armorer"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

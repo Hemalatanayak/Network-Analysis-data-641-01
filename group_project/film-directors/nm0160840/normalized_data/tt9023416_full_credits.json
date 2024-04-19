@@ -1,0 +1,46 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt9023416/fullcredits/",
+    "title": "Somewhere (Video 2018)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Jon M. Chu",
+                    "link": "https://www.imdb.com/name/nm0160840/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Sean Patrick Farrell",
+                    "link": "https://www.imdb.com/name/nm3386021/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Jon M. Chu",
+                    "link": "https://www.imdb.com/name/nm0160840/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        }
+    ],
+    "imdb_details": {}
+}

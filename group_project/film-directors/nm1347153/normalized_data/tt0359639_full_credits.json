@@ -1,0 +1,115 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0359639/fullcredits/",
+    "title": "Madea's Family Reunion (Video 2002)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Tyler Perry",
+                    "link": "https://www.imdb.com/name/nm1347153/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Elvin Ross",
+                    "link": "https://www.imdb.com/name/nm1347316/?ref_=ttfc_fc_dr2"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Tyler Perry",
+                    "link": "https://www.imdb.com/name/nm1347153/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Amy Bolton-Curley",
+                    "link": "https://www.imdb.com/name/nm2354912/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Jim Gorst",
+                    "link": "https://www.imdb.com/name/nm1346289/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Costume Design by",
+            "crew": [
+                {
+                    "name": "Sharon Matthews",
+                    "link": "https://www.imdb.com/name/nm1346843/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Quinton Nixon",
+                    "link": "https://www.imdb.com/name/nm1986727/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "John Forbes",
+                    "link": "https://www.imdb.com/name/nm3088143/?ref_=ttfc_fc_cr",
+                    "credit": "composer: additional music / orchestrator",
+                    "normalized_credit": [
+                        "composer",
+                        "orchestrator"
+                    ]
+                },
+                {
+                    "name": "Ricky Holman",
+                    "link": "https://www.imdb.com/name/nm9597326/?ref_=ttfc_fc_cr",
+                    "credit": "music consultant",
+                    "normalized_credit": [
+                        "music consultant"
+                    ]
+                },
+                {
+                    "name": "Elvin Ross",
+                    "link": "https://www.imdb.com/name/nm1347316/?ref_=ttfc_fc_cr",
+                    "credit": "musical director",
+                    "normalized_credit": [
+                        "musical director"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

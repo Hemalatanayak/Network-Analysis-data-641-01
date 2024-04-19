@@ -1,0 +1,93 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt11297066/fullcredits/",
+    "title": "Terlton (2019)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Sterlin Harjo",
+                    "link": "https://www.imdb.com/name/nm1802161/?ref_=ttfc_fc_dr1",
+                    "credit": "(directed by)",
+                    "normalized_credit": [
+                        "directed by"
+                    ]
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Jeremy Charles",
+                    "link": "https://www.imdb.com/name/nm7887975/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Sterlin Harjo",
+                    "link": "https://www.imdb.com/name/nm1802161/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Bobby Dean Orcutt",
+                    "link": "https://www.imdb.com/name/nm11137995/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "John Calvin Abney",
+                    "link": "https://www.imdb.com/name/nm11137996/?ref_=ttfc_fc_cr",
+                    "credit": "composer",
+                    "normalized_credit": [
+                        "composer"
+                    ]
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Jeremy Charles",
+                    "link": "https://www.imdb.com/name/nm7887975/?ref_=ttfc_fc_cr",
+                    "credit": "(cinematography)",
+                    "normalized_credit": [
+                        "cinematography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Kyle Bell",
+                    "link": "https://www.imdb.com/name/nm8738802/?ref_=ttfc_fc_cr",
+                    "credit": "(edited by)",
+                    "normalized_credit": [
+                        "edited by"
+                    ]
+                }
+            ],
+            "normalized role": "Editing by"
+        }
+    ],
+    "imdb_details": {}
+}

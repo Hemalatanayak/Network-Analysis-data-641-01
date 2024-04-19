@@ -1,0 +1,31 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt8510036/fullcredits/",
+    "title": "Catch and Kill",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Brian De Palma",
+                    "link": "https://www.imdb.com/name/nm0000361/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Brian De Palma",
+                    "link": "https://www.imdb.com/name/nm0000361/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,186 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0397507/fullcredits/",
+    "title": "Lady by the Sea: The Statue of Liberty (TV Movie 2004)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Kent Jones",
+                    "link": "https://www.imdb.com/name/nm2719270/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Martin Scorsese",
+                    "link": "https://www.imdb.com/name/nm0000217/?ref_=ttfc_fc_dr2"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Kent Jones",
+                    "link": "https://www.imdb.com/name/nm2719270/?ref_=ttfc_fc_wr1"
+                },
+                {
+                    "name": "Martin Scorsese",
+                    "link": "https://www.imdb.com/name/nm0000217/?ref_=ttfc_fc_wr2"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Tania Cypriano",
+                    "link": "https://www.imdb.com/name/nm0194243/?ref_=ttfc_fc_cr",
+                    "credit": "line producer",
+                    "normalized_credit": [
+                        "line producer"
+                    ]
+                },
+                {
+                    "name": "Rachel Reichman",
+                    "link": "https://www.imdb.com/name/nm0717116/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "Edwin Schlossberg",
+                    "link": "https://www.imdb.com/name/nm1545700/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Martin Scorsese",
+                    "link": "https://www.imdb.com/name/nm0000217/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Robert Shepard",
+                    "link": "https://www.imdb.com/name/nm0791677/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Rachel Reichman",
+                    "link": "https://www.imdb.com/name/nm0717116/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Erik Sorensen",
+                    "link": "https://www.imdb.com/name/nm11351123/?ref_=ttfc_fc_cr",
+                    "credit": "editor:",
+                    "normalized_credit": [
+                        "editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Michael Yecies",
+                    "link": "https://www.imdb.com/name/nm0947115/?ref_=ttfc_fc_cr",
+                    "credit": "post-production supervisor",
+                    "normalized_credit": [
+                        "post-production supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Tom Fleischman",
+                    "link": "https://www.imdb.com/name/nm0281530/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Roger Phenix",
+                    "link": "https://www.imdb.com/name/nm0679864/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Christine Park",
+                    "link": "https://www.imdb.com/name/nm1139985/?ref_=ttfc_fc_cr",
+                    "credit": "post-production assistant",
+                    "normalized_credit": [
+                        "post-production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Banner Gwin",
+                    "link": "https://www.imdb.com/name/nm1619719/?ref_=ttfc_fc_cr",
+                    "credit": "intern",
+                    "normalized_credit": [
+                        "intern"
+                    ]
+                },
+                {
+                    "name": "Meg McCarthy",
+                    "link": "https://www.imdb.com/name/nm1068314/?ref_=ttfc_fc_cr",
+                    "credit": "assistant: Martin Scorsese",
+                    "normalized_credit": [
+                        "assistant"
+                    ]
+                },
+                {
+                    "name": "Emma Tillinger Koskoff",
+                    "link": "https://www.imdb.com/name/nm0863374/?ref_=ttfc_fc_cr",
+                    "credit": "assistant: Martin Scorsese (as Emma Tillinger)",
+                    "normalized_credit": [
+                        "assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

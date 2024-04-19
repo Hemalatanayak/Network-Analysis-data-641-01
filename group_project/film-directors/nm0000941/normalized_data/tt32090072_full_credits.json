@@ -1,0 +1,52 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt32090072/fullcredits/",
+    "title": "Strange Days: Deleted Scenes (Video 2002)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Kathryn Bigelow",
+                    "link": "https://www.imdb.com/name/nm0000941/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "James Cameron",
+                    "link": "https://www.imdb.com/name/nm0000116/?ref_=ttfc_fc_wr1",
+                    "credit": "(screenplay)",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                },
+                {
+                    "name": "James Cameron",
+                    "link": "https://www.imdb.com/name/nm0000116/?ref_=ttfc_fc_wr2",
+                    "credit": "(story)",
+                    "normalized_credit": [
+                        "story"
+                    ]
+                },
+                {
+                    "name": "Jay Cocks",
+                    "link": "https://www.imdb.com/name/nm0168379/?ref_=ttfc_fc_wr3",
+                    "credit": "(screenplay)",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        }
+    ],
+    "imdb_details": {}
+}

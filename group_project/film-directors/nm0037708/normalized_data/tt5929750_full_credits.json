@@ -1,0 +1,1604 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt5929750/fullcredits/",
+    "title": "Beatriz at Dinner (2017)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Miguel Arteta",
+                    "link": "https://www.imdb.com/name/nm0037708/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (WGA)",
+            "crew": [
+                {
+                    "name": "Mike White",
+                    "link": "https://www.imdb.com/name/nm0925234/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Jason Cloth",
+                    "link": "https://www.imdb.com/name/nm6672783/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Brad Feinstein",
+                    "link": "https://www.imdb.com/name/nm3223094/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Aaron L. Gilbert",
+                    "link": "https://www.imdb.com/name/nm0317943/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Brenda Gilbert",
+                    "link": "https://www.imdb.com/name/nm4677721/?ref_=ttfc_fc_cr",
+                    "credit": "co-executive producer",
+                    "normalized_credit": [
+                        "co-executive producer"
+                    ]
+                },
+                {
+                    "name": "Fiona Walsh Heinz",
+                    "link": "https://www.imdb.com/name/nm0909637/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "Lewis Hendler",
+                    "link": "https://www.imdb.com/name/nm8331156/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "David Hinojosa",
+                    "link": "https://www.imdb.com/name/nm3065267/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Ally Israelson",
+                    "link": "https://www.imdb.com/name/nm6016609/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Pamela Koffler",
+                    "link": "https://www.imdb.com/name/nm0463025/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "William B. Macomber",
+                    "link": "https://www.imdb.com/name/nm2097021/?ref_=ttfc_fc_cr",
+                    "credit": "co-producer",
+                    "normalized_credit": [
+                        "co-producer"
+                    ]
+                },
+                {
+                    "name": "Richard McConnell",
+                    "link": "https://www.imdb.com/name/nm8591978/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Andrew Pollack",
+                    "link": "https://www.imdb.com/name/nm7868258/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Sander Shalinsky",
+                    "link": "https://www.imdb.com/name/nm3886970/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Alan Simpson",
+                    "link": "https://www.imdb.com/name/nm6786659/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Jose Tamez",
+                    "link": "https://www.imdb.com/name/nm1242371/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Paul Tennyson",
+                    "link": "https://www.imdb.com/name/nm8551391/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Steven Thibault",
+                    "link": "https://www.imdb.com/name/nm2608279/?ref_=ttfc_fc_cr",
+                    "credit": "co-executive producer",
+                    "normalized_credit": [
+                        "co-executive producer"
+                    ]
+                },
+                {
+                    "name": "Christine Vachon",
+                    "link": "https://www.imdb.com/name/nm0882927/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Mark Mothersbaugh",
+                    "link": "https://www.imdb.com/name/nm0006205/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Wyatt Garfield",
+                    "link": "https://www.imdb.com/name/nm2452706/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Jay Deuby",
+                    "link": "https://www.imdb.com/name/nm0221995/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Joanna Colbert",
+                    "link": "https://www.imdb.com/name/nm0170283/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Meredith Tucker",
+                    "link": "https://www.imdb.com/name/nm0875950/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Ashley Fenton",
+                    "link": "https://www.imdb.com/name/nm3101361/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Set Decoration by",
+            "crew": [
+                {
+                    "name": "Madelaine Frezza",
+                    "link": "https://www.imdb.com/name/nm3811697/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Set Decoration by"
+        },
+        {
+            "role": "Costume Design by",
+            "crew": [
+                {
+                    "name": "Christina Blackaller",
+                    "link": "https://www.imdb.com/name/nm3512466/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Elena Arroy",
+                    "link": "https://www.imdb.com/name/nm0037405/?ref_=ttfc_fc_cr",
+                    "credit": "key makeup artist",
+                    "normalized_credit": [
+                        "key makeup artist"
+                    ]
+                },
+                {
+                    "name": "Stephen Bettles",
+                    "link": "https://www.imdb.com/name/nm0079384/?ref_=ttfc_fc_cr",
+                    "credit": "prosthetic makeup designer",
+                    "normalized_credit": [
+                        "prosthetic makeup designer"
+                    ]
+                },
+                {
+                    "name": "Sarah Bonnel",
+                    "link": "https://www.imdb.com/name/nm3593762/?ref_=ttfc_fc_cr",
+                    "credit": "key makeup artist",
+                    "normalized_credit": [
+                        "key makeup artist"
+                    ]
+                },
+                {
+                    "name": "Joseph Chase",
+                    "link": "https://www.imdb.com/name/nm8336173/?ref_=ttfc_fc_cr",
+                    "credit": "hair stylist",
+                    "normalized_credit": [
+                        "hair stylist"
+                    ]
+                },
+                {
+                    "name": "Deb Chung",
+                    "link": "https://www.imdb.com/name/nm4306334/?ref_=ttfc_fc_cr",
+                    "credit": "makeup artist",
+                    "normalized_credit": [
+                        "makeup artist"
+                    ]
+                },
+                {
+                    "name": "Jeong-Hwa Fonkalsrud",
+                    "link": "https://www.imdb.com/name/nm1449855/?ref_=ttfc_fc_cr",
+                    "credit": "makeup department head",
+                    "normalized_credit": [
+                        "makeup department head"
+                    ]
+                },
+                {
+                    "name": "Susan Laprelle",
+                    "link": "https://www.imdb.com/name/nm0487820/?ref_=ttfc_fc_cr",
+                    "credit": "special makeup effects artist",
+                    "normalized_credit": [
+                        "special makeup effects artist"
+                    ]
+                },
+                {
+                    "name": "Katy McClintock",
+                    "link": "https://www.imdb.com/name/nm8275810/?ref_=ttfc_fc_cr",
+                    "credit": "hair department head",
+                    "normalized_credit": [
+                        "hair department head"
+                    ]
+                },
+                {
+                    "name": "Fernando Santaella Navarro",
+                    "link": "https://www.imdb.com/name/nm1653381/?ref_=ttfc_fc_cr",
+                    "credit": "hair stylist (as Fernando Navarro)",
+                    "normalized_credit": [
+                        "hair stylist"
+                    ]
+                },
+                {
+                    "name": "Stephanie Rives",
+                    "link": "https://www.imdb.com/name/nm7418661/?ref_=ttfc_fc_cr",
+                    "credit": "key hair stylist",
+                    "normalized_credit": [
+                        "key hair stylist"
+                    ]
+                },
+                {
+                    "name": "Lauren Wilde",
+                    "link": "https://www.imdb.com/name/nm4632212/?ref_=ttfc_fc_cr",
+                    "credit": "wigmaker",
+                    "normalized_credit": [
+                        "wigmaker"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Fiona Walsh Heinz",
+                    "link": "https://www.imdb.com/name/nm0909637/?ref_=ttfc_fc_cr",
+                    "credit": "unit production manager",
+                    "normalized_credit": [
+                        "unit production manager"
+                    ]
+                },
+                {
+                    "name": "Dan Riesser",
+                    "link": "https://www.imdb.com/name/nm1890588/?ref_=ttfc_fc_cr",
+                    "credit": "post-production supervisor",
+                    "normalized_credit": [
+                        "post-production supervisor"
+                    ]
+                },
+                {
+                    "name": "Marina Stabile",
+                    "link": "https://www.imdb.com/name/nm1823526/?ref_=ttfc_fc_cr",
+                    "credit": "line producer",
+                    "normalized_credit": [
+                        "line producer"
+                    ]
+                },
+                {
+                    "name": "Gabriel Ximenez",
+                    "link": "https://www.imdb.com/name/nm2354326/?ref_=ttfc_fc_cr",
+                    "credit": "Unit Production Manager in Mexico",
+                    "normalized_credit": [
+                        "unit production manager in mexico"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Drew Langer",
+                    "link": "https://www.imdb.com/name/nm2427020/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                },
+                {
+                    "name": "Cyndi Martin",
+                    "link": "https://www.imdb.com/name/nm0552120/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant director",
+                    "normalized_credit": [
+                        "second assistant director"
+                    ]
+                },
+                {
+                    "name": "Jennifer S. Milliman",
+                    "link": "https://www.imdb.com/name/nm2088357/?ref_=ttfc_fc_cr",
+                    "credit": "second second assistant director: day player",
+                    "normalized_credit": [
+                        "second second assistant director"
+                    ]
+                },
+                {
+                    "name": "Mike Tsucalas",
+                    "link": "https://www.imdb.com/name/nm1739533/?ref_=ttfc_fc_cr",
+                    "credit": "second second assistant director",
+                    "normalized_credit": [
+                        "second second assistant director"
+                    ]
+                },
+                {
+                    "name": "Rony Ximenez",
+                    "link": "https://www.imdb.com/name/nm3099565/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director mexico / first assistant director unit mexico",
+                    "normalized_credit": [
+                        "first assistant director mexico",
+                        "first assistant director unit mexico"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Joshua Bramer",
+                    "link": "https://www.imdb.com/name/nm3993565/?ref_=ttfc_fc_cr",
+                    "credit": "property master",
+                    "normalized_credit": [
+                        "property master"
+                    ]
+                },
+                {
+                    "name": "Jessie Chaffin",
+                    "link": "https://www.imdb.com/name/nm5423056/?ref_=ttfc_fc_cr",
+                    "credit": "assistant property master",
+                    "normalized_credit": [
+                        "assistant property master"
+                    ]
+                },
+                {
+                    "name": "Terra Espinosa",
+                    "link": "https://www.imdb.com/name/nm4578392/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Troy Gianopoulos",
+                    "link": "https://www.imdb.com/name/nm4104645/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Vanessa Lin",
+                    "link": "https://www.imdb.com/name/nm3735511/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser / shopper",
+                    "normalized_credit": [
+                        "set dresser",
+                        "shopper"
+                    ]
+                },
+                {
+                    "name": "Brian Parada",
+                    "link": "https://www.imdb.com/name/nm4125370/?ref_=ttfc_fc_cr",
+                    "credit": "lead man",
+                    "normalized_credit": [
+                        "lead man"
+                    ]
+                },
+                {
+                    "name": "Cynthia C. Rebman",
+                    "link": "https://www.imdb.com/name/nm0714334/?ref_=ttfc_fc_cr",
+                    "credit": "on-set dresser",
+                    "normalized_credit": [
+                        "on-set dresser"
+                    ]
+                },
+                {
+                    "name": "Brad Salo",
+                    "link": "https://www.imdb.com/name/nm4914352/?ref_=ttfc_fc_cr",
+                    "credit": "assistant property master",
+                    "normalized_credit": [
+                        "assistant property master"
+                    ]
+                },
+                {
+                    "name": "Jackie Trudel",
+                    "link": "https://www.imdb.com/name/nm4912677/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Mark Walbaum",
+                    "link": "https://www.imdb.com/name/nm0906911/?ref_=ttfc_fc_cr",
+                    "credit": "art department coordinator",
+                    "normalized_credit": [
+                        "art department coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Brian Dunlop",
+                    "link": "https://www.imdb.com/name/nm1619159/?ref_=ttfc_fc_cr",
+                    "credit": "dialogue editor / dialogue/adr editor",
+                    "normalized_credit": [
+                        "dialogue editor",
+                        "dialogue",
+                        "adr editor"
+                    ]
+                },
+                {
+                    "name": "Anthony Enns",
+                    "link": "https://www.imdb.com/name/nm2416499/?ref_=ttfc_fc_cr",
+                    "credit": "production sound mixer",
+                    "normalized_credit": [
+                        "production sound mixer"
+                    ]
+                },
+                {
+                    "name": "Ryan Gegenheimer",
+                    "link": "https://www.imdb.com/name/nm3271421/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Sean Higgins",
+                    "link": "https://www.imdb.com/name/nm4297909/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer / supervising sound editor",
+                    "normalized_credit": [
+                        "re-recording mixer",
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "Tim Song Jones",
+                    "link": "https://www.imdb.com/name/nm0429355/?ref_=ttfc_fc_cr",
+                    "credit": "boom operator",
+                    "normalized_credit": [
+                        "boom operator"
+                    ]
+                },
+                {
+                    "name": "Ryan Maguire",
+                    "link": "https://www.imdb.com/name/nm3582965/?ref_=ttfc_fc_cr",
+                    "credit": "foley/adr mixer",
+                    "normalized_credit": [
+                        "foley",
+                        "adr mixer"
+                    ]
+                },
+                {
+                    "name": "Kevin Peters",
+                    "link": "https://www.imdb.com/name/nm4236849/?ref_=ttfc_fc_cr",
+                    "credit": "additional adr recordist",
+                    "normalized_credit": [
+                        "additional adr recordist"
+                    ]
+                },
+                {
+                    "name": "Leah Putlek",
+                    "link": "https://www.imdb.com/name/nm5245210/?ref_=ttfc_fc_cr",
+                    "credit": "foley editor",
+                    "normalized_credit": [
+                        "foley editor"
+                    ]
+                },
+                {
+                    "name": "Will Schulz",
+                    "link": "https://www.imdb.com/name/nm4181057/?ref_=ttfc_fc_cr",
+                    "credit": "boom operator / utility sound technician",
+                    "normalized_credit": [
+                        "boom operator",
+                        "utility sound technician"
+                    ]
+                },
+                {
+                    "name": "Dan Snow",
+                    "link": "https://www.imdb.com/name/nm0811254/?ref_=ttfc_fc_cr",
+                    "credit": "sound supervisor",
+                    "normalized_credit": [
+                        "sound supervisor"
+                    ]
+                },
+                {
+                    "name": "Rowan Widogast",
+                    "link": "https://www.imdb.com/name/nm7776235/?ref_=ttfc_fc_cr",
+                    "credit": "audio post production (as Laura Wilcox)",
+                    "normalized_credit": [
+                        "audio post production"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Culley Bunker",
+                    "link": "https://www.imdb.com/name/nm1260246/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects artist: Skulley Effects",
+                    "normalized_credit": [
+                        "visual effects artist"
+                    ]
+                },
+                {
+                    "name": "Kim Church",
+                    "link": "https://www.imdb.com/name/nm5176670/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects producer: Skulley Effects",
+                    "normalized_credit": [
+                        "visual effects producer"
+                    ]
+                },
+                {
+                    "name": "Evan Ghigliotty",
+                    "link": "https://www.imdb.com/name/nm2746629/?ref_=ttfc_fc_cr",
+                    "credit": "cg supervisor",
+                    "normalized_credit": [
+                        "cg supervisor"
+                    ]
+                },
+                {
+                    "name": "Kritteka Gregory",
+                    "link": "https://www.imdb.com/name/nm6605520/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects artist",
+                    "normalized_credit": [
+                        "visual effects artist"
+                    ]
+                },
+                {
+                    "name": "Matt Hartle",
+                    "link": "https://www.imdb.com/name/nm1549527/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects artist",
+                    "normalized_credit": [
+                        "visual effects artist"
+                    ]
+                },
+                {
+                    "name": "Jim Hillin",
+                    "link": "https://www.imdb.com/name/nm0385016/?ref_=ttfc_fc_cr",
+                    "credit": "compositor: Baked Fx",
+                    "normalized_credit": [
+                        "compositor"
+                    ]
+                },
+                {
+                    "name": "Darshankumar Joshi",
+                    "link": "https://www.imdb.com/name/nm11519226/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects",
+                    "normalized_credit": [
+                        "visual effects"
+                    ]
+                },
+                {
+                    "name": "George Loucas",
+                    "link": "https://www.imdb.com/name/nm1652119/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects supervisor",
+                    "normalized_credit": [
+                        "visual effects supervisor"
+                    ]
+                },
+                {
+                    "name": "Siddhartha Maganti",
+                    "link": "https://www.imdb.com/name/nm5463020/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects producer",
+                    "normalized_credit": [
+                        "visual effects producer"
+                    ]
+                },
+                {
+                    "name": "Gokul Mahajan",
+                    "link": "https://www.imdb.com/name/nm6451106/?ref_=ttfc_fc_cr",
+                    "credit": "compositor",
+                    "normalized_credit": [
+                        "compositor"
+                    ]
+                },
+                {
+                    "name": "Vaibhav Laxman Mahajan",
+                    "link": "https://www.imdb.com/name/nm12660569/?ref_=ttfc_fc_cr",
+                    "credit": "compositor",
+                    "normalized_credit": [
+                        "compositor"
+                    ]
+                },
+                {
+                    "name": "Anjan Mar",
+                    "link": "https://www.imdb.com/name/nm8821357/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                },
+                {
+                    "name": "Scott Mitchell",
+                    "link": "https://www.imdb.com/name/nm4053949/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects supervisor",
+                    "normalized_credit": [
+                        "visual effects supervisor"
+                    ]
+                },
+                {
+                    "name": "Pydi Naidu",
+                    "link": "https://www.imdb.com/name/nm8821361/?ref_=ttfc_fc_cr",
+                    "credit": "digital effects artist",
+                    "normalized_credit": [
+                        "digital effects artist"
+                    ]
+                },
+                {
+                    "name": "Subodh Narwade",
+                    "link": "https://www.imdb.com/name/nm8821363/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                },
+                {
+                    "name": "Hari Prasad",
+                    "link": "https://www.imdb.com/name/nm8821358/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                },
+                {
+                    "name": "Krishna Reddy",
+                    "link": "https://www.imdb.com/name/nm8821359/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                },
+                {
+                    "name": "Narender Reddy",
+                    "link": "https://www.imdb.com/name/nm8821360/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects artist",
+                    "normalized_credit": [
+                        "visual effects artist"
+                    ]
+                },
+                {
+                    "name": "Raja Reddy",
+                    "link": "https://www.imdb.com/name/nm8821362/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects coordinator",
+                    "normalized_credit": [
+                        "visual effects coordinator"
+                    ]
+                },
+                {
+                    "name": "Vamshi Reddy",
+                    "link": "https://www.imdb.com/name/nm8821356/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                },
+                {
+                    "name": "Habbebul Rehman",
+                    "link": "https://www.imdb.com/name/nm8821355/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                },
+                {
+                    "name": "Aaron Rovner",
+                    "link": "https://www.imdb.com/name/nm5181131/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects artist",
+                    "normalized_credit": [
+                        "visual effects artist"
+                    ]
+                },
+                {
+                    "name": "Matthew Dean Russell",
+                    "link": "https://www.imdb.com/name/nm1634071/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects producer",
+                    "normalized_credit": [
+                        "visual effects producer"
+                    ]
+                },
+                {
+                    "name": "Sainath Yadav",
+                    "link": "https://www.imdb.com/name/nm8821354/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Sean Graham",
+                    "link": "https://www.imdb.com/name/nm0334302/?ref_=ttfc_fc_cr",
+                    "credit": "stunt coordinator",
+                    "normalized_credit": [
+                        "stunt coordinator"
+                    ]
+                },
+                {
+                    "name": "M\u00f3nica L\u00f3pez",
+                    "link": "https://www.imdb.com/name/nm3725958/?ref_=ttfc_fc_cr",
+                    "credit": "stunt double: Salma Hayek",
+                    "normalized_credit": [
+                        "stunt double"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Levon Abrahamian",
+                    "link": "https://www.imdb.com/name/nm3501457/?ref_=ttfc_fc_cr",
+                    "credit": "key grip",
+                    "normalized_credit": [
+                        "key grip"
+                    ]
+                },
+                {
+                    "name": "Chase A. Abrams",
+                    "link": "https://www.imdb.com/name/nm4133564/?ref_=ttfc_fc_cr",
+                    "credit": "digital imaging technician",
+                    "normalized_credit": [
+                        "digital imaging technician"
+                    ]
+                },
+                {
+                    "name": "Dan Coplan",
+                    "link": "https://www.imdb.com/name/nm1461355/?ref_=ttfc_fc_cr",
+                    "credit": "drone gimbal operator",
+                    "normalized_credit": [
+                        "drone gimbal operator"
+                    ]
+                },
+                {
+                    "name": "Daniel A. Dougherty",
+                    "link": "https://www.imdb.com/name/nm2338677/?ref_=ttfc_fc_cr",
+                    "credit": "dolly grip (as Daniel Dougherty)",
+                    "normalized_credit": [
+                        "dolly grip"
+                    ]
+                },
+                {
+                    "name": "Walker Forshee",
+                    "link": "https://www.imdb.com/name/nm3896072/?ref_=ttfc_fc_cr",
+                    "credit": "lighting technician",
+                    "normalized_credit": [
+                        "lighting technician"
+                    ]
+                },
+                {
+                    "name": "Giselle Gonzalez",
+                    "link": "https://www.imdb.com/name/nm5542271/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera: \"b\" camera / second assistant camera: b camera",
+                    "normalized_credit": [
+                        "second assistant camera",
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "Roberto Hurko",
+                    "link": "https://www.imdb.com/name/nm8854160/?ref_=ttfc_fc_cr",
+                    "credit": "drone operator: Mexico",
+                    "normalized_credit": [
+                        "drone operator"
+                    ]
+                },
+                {
+                    "name": "Scott Johnson",
+                    "link": "https://www.imdb.com/name/nm2051790/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera: a camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Nate Labruzza",
+                    "link": "https://www.imdb.com/name/nm6477514/?ref_=ttfc_fc_cr",
+                    "credit": "drone tech (as Nathan Labruzza)",
+                    "normalized_credit": [
+                        "drone tech"
+                    ]
+                },
+                {
+                    "name": "Greg LeFevre",
+                    "link": "https://www.imdb.com/name/nm2817331/?ref_=ttfc_fc_cr",
+                    "credit": "chief lighting technician",
+                    "normalized_credit": [
+                        "chief lighting technician"
+                    ]
+                },
+                {
+                    "name": "Luke Little",
+                    "link": "https://www.imdb.com/name/nm0514620/?ref_=ttfc_fc_cr",
+                    "credit": "lighting technician",
+                    "normalized_credit": [
+                        "lighting technician"
+                    ]
+                },
+                {
+                    "name": "Aram Martirosyan",
+                    "link": "https://www.imdb.com/name/nm7180549/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Michael B. McGee",
+                    "link": "https://www.imdb.com/name/nm4699729/?ref_=ttfc_fc_cr",
+                    "credit": "digital utility",
+                    "normalized_credit": [
+                        "digital utility"
+                    ]
+                },
+                {
+                    "name": "Nathan Meade",
+                    "link": "https://www.imdb.com/name/nm3715631/?ref_=ttfc_fc_cr",
+                    "credit": "additional first assistant camera",
+                    "normalized_credit": [
+                        "additional first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Erin Naifeh",
+                    "link": "https://www.imdb.com/name/nm4216877/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera: a camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "Theodore Rysz III",
+                    "link": "https://www.imdb.com/name/nm5759132/?ref_=ttfc_fc_cr",
+                    "credit": "assistant chief lighting technician",
+                    "normalized_credit": [
+                        "assistant chief lighting technician"
+                    ]
+                },
+                {
+                    "name": "Otis Sherman",
+                    "link": "https://www.imdb.com/name/nm5941870/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera: b camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "Seva Shybkou",
+                    "link": "https://www.imdb.com/name/nm3824113/?ref_=ttfc_fc_cr",
+                    "credit": "additional lighting technician",
+                    "normalized_credit": [
+                        "additional lighting technician"
+                    ]
+                },
+                {
+                    "name": "Casey Slade",
+                    "link": "https://www.imdb.com/name/nm0805160/?ref_=ttfc_fc_cr",
+                    "credit": "dolly grip",
+                    "normalized_credit": [
+                        "dolly grip"
+                    ]
+                },
+                {
+                    "name": "Hillary Spera",
+                    "link": "https://www.imdb.com/name/nm1629321/?ref_=ttfc_fc_cr",
+                    "credit": "cinematographer: mexico unit",
+                    "normalized_credit": [
+                        "cinematographer"
+                    ]
+                },
+                {
+                    "name": "Jacqueline Stahl",
+                    "link": "https://www.imdb.com/name/nm3229512/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera: b camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "David Stragmeister",
+                    "link": "https://www.imdb.com/name/nm2128181/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Stephen Taylor-Wehr",
+                    "link": "https://www.imdb.com/name/nm2695781/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera: \"b\" camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Lacey Terrell",
+                    "link": "https://www.imdb.com/name/nm1267197/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                },
+                {
+                    "name": "Jacob Watts",
+                    "link": "https://www.imdb.com/name/nm6001384/?ref_=ttfc_fc_cr",
+                    "credit": "best boy electric",
+                    "normalized_credit": [
+                        "best boy electric"
+                    ]
+                },
+                {
+                    "name": "Jacob Watts",
+                    "link": "https://www.imdb.com/name/nm8875331/?ref_=ttfc_fc_cr",
+                    "credit": "best boy electric",
+                    "normalized_credit": [
+                        "best boy electric"
+                    ]
+                },
+                {
+                    "name": "Evan Wilhelm",
+                    "link": "https://www.imdb.com/name/nm2397797/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera: additional",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Esther Woodworth",
+                    "link": "https://www.imdb.com/name/nm2935358/?ref_=ttfc_fc_cr",
+                    "credit": "additional b camera first assistant camera",
+                    "normalized_credit": [
+                        "additional b camera first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Colin Burgess",
+                    "link": "https://www.imdb.com/name/nm6557315/?ref_=ttfc_fc_cr",
+                    "credit": "drone pilot (uncredited)",
+                    "normalized_credit": [
+                        "drone pilot"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Casting Department",
+            "crew": [
+                {
+                    "name": "Jessica Gee-George",
+                    "link": "https://www.imdb.com/name/nm1219018/?ref_=ttfc_fc_cr",
+                    "credit": "adr voice casting",
+                    "normalized_credit": [
+                        "adr voice casting"
+                    ]
+                },
+                {
+                    "name": "Rich King",
+                    "link": "https://www.imdb.com/name/nm0455182/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting",
+                    "normalized_credit": [
+                        "extras casting"
+                    ]
+                }
+            ],
+            "normalized role": "Casting Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Bridget Chapman",
+                    "link": "https://www.imdb.com/name/nm8760817/?ref_=ttfc_fc_cr",
+                    "credit": "set costumer",
+                    "normalized_credit": [
+                        "set costumer"
+                    ]
+                },
+                {
+                    "name": "Rocelia Evans",
+                    "link": "https://www.imdb.com/name/nm9419999/?ref_=ttfc_fc_cr",
+                    "credit": "wardrobe supervisor: Mexican unit",
+                    "normalized_credit": [
+                        "wardrobe supervisor"
+                    ]
+                },
+                {
+                    "name": "Petra Larsen",
+                    "link": "https://www.imdb.com/name/nm7900145/?ref_=ttfc_fc_cr",
+                    "credit": "key costumer",
+                    "normalized_credit": [
+                        "key costumer"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Ryan Patrick Brennan",
+                    "link": "https://www.imdb.com/name/nm4103189/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                },
+                {
+                    "name": "Paul A. Byrne",
+                    "link": "https://www.imdb.com/name/nm2280611/?ref_=ttfc_fc_cr",
+                    "credit": "colorist",
+                    "normalized_credit": [
+                        "colorist"
+                    ]
+                },
+                {
+                    "name": "Ayanna Hart",
+                    "link": "https://www.imdb.com/name/nm0366149/?ref_=ttfc_fc_cr",
+                    "credit": "Finishing Supervisor",
+                    "normalized_credit": [
+                        "finishing supervisor"
+                    ]
+                },
+                {
+                    "name": "Matthew Nordby",
+                    "link": "https://www.imdb.com/name/nm8348413/?ref_=ttfc_fc_cr",
+                    "credit": "on-line editor",
+                    "normalized_credit": [
+                        "on-line editor"
+                    ]
+                },
+                {
+                    "name": "Tony Shek",
+                    "link": "https://www.imdb.com/name/nm2804436/?ref_=ttfc_fc_cr",
+                    "credit": "on-line editor",
+                    "normalized_credit": [
+                        "on-line editor"
+                    ]
+                },
+                {
+                    "name": "Andria Spring",
+                    "link": "https://www.imdb.com/name/nm2101544/?ref_=ttfc_fc_cr",
+                    "credit": "head of post production",
+                    "normalized_credit": [
+                        "head of post production"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Kieron Estrada",
+                    "link": "https://www.imdb.com/name/nm0261837/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                },
+                {
+                    "name": "Audrey Ruth",
+                    "link": "https://www.imdb.com/name/nm4472939/?ref_=ttfc_fc_cr",
+                    "credit": "locations",
+                    "normalized_credit": [
+                        "locations"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Peter Afterman",
+                    "link": "https://www.imdb.com/name/nm0012782/?ref_=ttfc_fc_cr",
+                    "credit": "music consultant",
+                    "normalized_credit": [
+                        "music consultant"
+                    ]
+                },
+                {
+                    "name": "Bradley Hugh Denniston",
+                    "link": "https://www.imdb.com/name/nm4350072/?ref_=ttfc_fc_cr",
+                    "credit": "additional engineering",
+                    "normalized_credit": [
+                        "additional engineering"
+                    ]
+                },
+                {
+                    "name": "John Enroth",
+                    "link": "https://www.imdb.com/name/nm2137952/?ref_=ttfc_fc_cr",
+                    "credit": "orchestrator / score & mix engineer",
+                    "normalized_credit": [
+                        "orchestrator",
+                        "score mix engineer"
+                    ]
+                },
+                {
+                    "name": "Alison Litton",
+                    "link": "https://www.imdb.com/name/nm1980163/?ref_=ttfc_fc_cr",
+                    "credit": "associate music supervisor",
+                    "normalized_credit": [
+                        "associate music supervisor"
+                    ]
+                },
+                {
+                    "name": "Oriana Pedone",
+                    "link": "https://www.imdb.com/name/nm7182628/?ref_=ttfc_fc_cr",
+                    "credit": "music coordinator",
+                    "normalized_credit": [
+                        "music coordinator"
+                    ]
+                },
+                {
+                    "name": "Ray Plaza",
+                    "link": "https://www.imdb.com/name/nm6346320/?ref_=ttfc_fc_cr",
+                    "credit": "additional engineering",
+                    "normalized_credit": [
+                        "additional engineering"
+                    ]
+                },
+                {
+                    "name": "Mikael Sandgren",
+                    "link": "https://www.imdb.com/name/nm0761875/?ref_=ttfc_fc_cr",
+                    "credit": "composer: additional music / music editor",
+                    "normalized_credit": [
+                        "composer",
+                        "music editor"
+                    ]
+                },
+                {
+                    "name": "Margaret Yen",
+                    "link": "https://www.imdb.com/name/nm0947455/?ref_=ttfc_fc_cr",
+                    "credit": "music supervisor",
+                    "normalized_credit": [
+                        "music supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Elena Antzon",
+                    "link": "https://www.imdb.com/name/nm1630578/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                },
+                {
+                    "name": "Maxine Bergen",
+                    "link": "https://www.imdb.com/name/nm0074055/?ref_=ttfc_fc_cr",
+                    "credit": "additional script supervisor",
+                    "normalized_credit": [
+                        "additional script supervisor"
+                    ]
+                },
+                {
+                    "name": "Simon\u00e9 Gallon-Langton",
+                    "link": "https://www.imdb.com/name/nm6457396/?ref_=ttfc_fc_cr",
+                    "credit": "additional script supervisor",
+                    "normalized_credit": [
+                        "additional script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Chrissie S. Vides Alvarado",
+                    "link": "https://www.imdb.com/name/nm2599747/?ref_=ttfc_fc_cr",
+                    "credit": "executive assistant: Aaron L. Gilbert (as Chrissie Vides Alvarado)",
+                    "normalized_credit": [
+                        "executive assistant"
+                    ]
+                },
+                {
+                    "name": "Todd S Bittner",
+                    "link": "https://www.imdb.com/name/nm8360523/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Teddy Blanks",
+                    "link": "https://www.imdb.com/name/nm2688443/?ref_=ttfc_fc_cr",
+                    "credit": "title designer",
+                    "normalized_credit": [
+                        "title designer"
+                    ]
+                },
+                {
+                    "name": "Chas Dabby",
+                    "link": "https://www.imdb.com/name/nm7105330/?ref_=ttfc_fc_cr",
+                    "credit": "travel agent",
+                    "normalized_credit": [
+                        "travel agent"
+                    ]
+                },
+                {
+                    "name": "Emily Dahm",
+                    "link": "https://www.imdb.com/name/nm3084452/?ref_=ttfc_fc_cr",
+                    "credit": "stand-in",
+                    "normalized_credit": [
+                        "st-in"
+                    ]
+                },
+                {
+                    "name": "Adam Davids",
+                    "link": "https://www.imdb.com/name/nm2775808/?ref_=ttfc_fc_cr",
+                    "credit": "finance attorney / legal and business affairs: bron studios",
+                    "normalized_credit": [
+                        "finance attorney",
+                        "legal business affairs"
+                    ]
+                },
+                {
+                    "name": "David Davoli",
+                    "link": "https://www.imdb.com/name/nm1756807/?ref_=ttfc_fc_cr",
+                    "credit": "legal and business affairs: bron studios",
+                    "normalized_credit": [
+                        "legal business affairs"
+                    ]
+                },
+                {
+                    "name": "Kelly Donelson",
+                    "link": "https://www.imdb.com/name/nm4200658/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                },
+                {
+                    "name": "Ami Francis",
+                    "link": "https://www.imdb.com/name/nm1716331/?ref_=ttfc_fc_cr",
+                    "credit": "completion bond: Film Finances (as Ami Francis)",
+                    "normalized_credit": [
+                        "completion bond"
+                    ]
+                },
+                {
+                    "name": "Jacquelyn A. Gibbons",
+                    "link": "https://www.imdb.com/name/nm0316558/?ref_=ttfc_fc_cr",
+                    "credit": "Clearance/product Placement Coordinator",
+                    "normalized_credit": [
+                        "clearance",
+                        "product placement coordinator"
+                    ]
+                },
+                {
+                    "name": "Alexander Glua",
+                    "link": "https://www.imdb.com/name/nm3020881/?ref_=ttfc_fc_cr",
+                    "credit": "business affairs associate",
+                    "normalized_credit": [
+                        "business affairs associate"
+                    ]
+                },
+                {
+                    "name": "Joel Guralnick",
+                    "link": "https://www.imdb.com/name/nm2764218/?ref_=ttfc_fc_cr",
+                    "credit": "legal executive: Bron",
+                    "normalized_credit": [
+                        "legal executive"
+                    ]
+                },
+                {
+                    "name": "Johnny Holland",
+                    "link": "https://www.imdb.com/name/nm3431227/?ref_=ttfc_fc_cr",
+                    "credit": "post production accountant",
+                    "normalized_credit": [
+                        "post production accountant"
+                    ]
+                },
+                {
+                    "name": "Sean Jefferson",
+                    "link": "https://www.imdb.com/name/nm8644357/?ref_=ttfc_fc_cr",
+                    "credit": "business affairs associate",
+                    "normalized_credit": [
+                        "business affairs associate"
+                    ]
+                },
+                {
+                    "name": "Jonathan Kier",
+                    "link": "https://www.imdb.com/name/nm2469566/?ref_=ttfc_fc_cr",
+                    "credit": "International Sales",
+                    "normalized_credit": [
+                        "international sales"
+                    ]
+                },
+                {
+                    "name": "Eloy Lara",
+                    "link": "https://www.imdb.com/name/nm2090343/?ref_=ttfc_fc_cr",
+                    "credit": "key set medic",
+                    "normalized_credit": [
+                        "key set medic"
+                    ]
+                },
+                {
+                    "name": "Colby Leopard",
+                    "link": "https://www.imdb.com/name/nm11531533/?ref_=ttfc_fc_cr",
+                    "credit": "manager, marketing, publicity and distribution",
+                    "normalized_credit": [
+                        "manager, marketing, publicity distribution"
+                    ]
+                },
+                {
+                    "name": "Max LoParco",
+                    "link": "https://www.imdb.com/name/nm9246290/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Daniel Lupa-Chazan",
+                    "link": "https://www.imdb.com/name/nm5174408/?ref_=ttfc_fc_cr",
+                    "credit": "site rep",
+                    "normalized_credit": [
+                        "site rep"
+                    ]
+                },
+                {
+                    "name": "Samantha MacLeod",
+                    "link": "https://www.imdb.com/name/nm7843302/?ref_=ttfc_fc_cr",
+                    "credit": "accounting clerk",
+                    "normalized_credit": [
+                        "accounting clerk"
+                    ]
+                },
+                {
+                    "name": "Liz Martin",
+                    "link": "https://www.imdb.com/name/nm5534142/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Michael Neipris",
+                    "link": "https://www.imdb.com/name/nm1630350/?ref_=ttfc_fc_cr",
+                    "credit": "marine coordinator",
+                    "normalized_credit": [
+                        "marine coordinator"
+                    ]
+                },
+                {
+                    "name": "Holland Ninow",
+                    "link": "https://www.imdb.com/name/nm9712839/?ref_=ttfc_fc_cr",
+                    "credit": "production finance analyst",
+                    "normalized_credit": [
+                        "production finance analyst"
+                    ]
+                },
+                {
+                    "name": "Phineas Palmer",
+                    "link": "https://www.imdb.com/name/nm5086451/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Zac Pendergrass",
+                    "link": "https://www.imdb.com/name/nm9126549/?ref_=ttfc_fc_cr",
+                    "credit": "accountant assistant",
+                    "normalized_credit": [
+                        "accountant assistant"
+                    ]
+                },
+                {
+                    "name": "Allison Scott II",
+                    "link": "https://www.imdb.com/name/nm4175248/?ref_=ttfc_fc_cr",
+                    "credit": "production accountant",
+                    "normalized_credit": [
+                        "production accountant"
+                    ]
+                },
+                {
+                    "name": "Logan Steinhardt",
+                    "link": "https://www.imdb.com/name/nm3725667/?ref_=ttfc_fc_cr",
+                    "credit": "coordinator: killer films",
+                    "normalized_credit": [
+                        "coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Richard Brenin",
+                    "link": "https://www.imdb.com/name/nm0107221/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Mark Duplass",
+                    "link": "https://www.imdb.com/name/nm0243233/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Mel Eslyn",
+                    "link": "https://www.imdb.com/name/nm2400555/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Caroline Kaplan",
+                    "link": "https://www.imdb.com/name/nm0438210/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Robert Messinger",
+                    "link": "https://www.imdb.com/name/nm2219953/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Michael Raisler",
+                    "link": "https://www.imdb.com/name/nm2086948/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Elliott Whitton",
+                    "link": "https://www.imdb.com/name/nm6253203/?ref_=ttfc_fc_cr",
+                    "credit": "thanks",
+                    "normalized_credit": [
+                        "thanks"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,64 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt1210315/fullcredits/",
+    "title": "Access All Areas (Video 1985)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Steven Soderbergh",
+                    "link": "https://www.imdb.com/name/nm0001752/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Larry Blake",
+                    "link": "https://www.imdb.com/name/nm0086626/?ref_=ttfc_fc_cr",
+                    "credit": "(shot by)",
+                    "normalized_credit": [
+                        "shot by"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Larry Blake",
+                    "link": "https://www.imdb.com/name/nm0086626/?ref_=ttfc_fc_cr",
+                    "credit": "sound recordist",
+                    "normalized_credit": [
+                        "sound recordist"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Steven Soderbergh",
+                    "link": "https://www.imdb.com/name/nm0001752/?ref_=ttfc_fc_cr",
+                    "credit": "photographer",
+                    "normalized_credit": [
+                        "photographer"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

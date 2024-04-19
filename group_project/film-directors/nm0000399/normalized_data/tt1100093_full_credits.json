@@ -1,0 +1,77 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt1100093/fullcredits/",
+    "title": "George Michael: Twenty Five (Video 2006)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Fincher",
+                    "link": "https://www.imdb.com/name/nm0000399/?ref_=ttfc_fc_dr1",
+                    "credit": "(video \": \"Freedom '90\")"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "George Michael",
+                    "link": "https://www.imdb.com/name/nm0584117/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Toby Alington",
+                    "link": "https://www.imdb.com/name/nm0019661/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer: sound recordist (2007)",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Julian Bucknall",
+                    "link": "https://www.imdb.com/name/nm0007078/?ref_=ttfc_fc_cr",
+                    "credit": "clapper loader: \"Freedom '90\" video",
+                    "normalized_credit": [
+                        "clapper loader"
+                    ]
+                },
+                {
+                    "name": "Dennis Gardner",
+                    "link": "https://www.imdb.com/name/nm1121027/?ref_=ttfc_fc_cr",
+                    "credit": "lighting programmer",
+                    "normalized_credit": [
+                        "lighting programmer"
+                    ]
+                },
+                {
+                    "name": "Niall Ogilvy",
+                    "link": "https://www.imdb.com/name/nm2854404/?ref_=ttfc_fc_cr",
+                    "credit": "electrician",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

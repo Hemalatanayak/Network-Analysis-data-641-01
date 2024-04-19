@@ -1,0 +1,1478 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt2608220/fullcredits/",
+    "title": "The Vatican (TV Movie 2013)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Ridley Scott",
+                    "link": "https://www.imdb.com/name/nm0000631/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Paul Attanasio",
+                    "link": "https://www.imdb.com/name/nm0001921/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Paul Attanasio",
+                    "link": "https://www.imdb.com/name/nm0001921/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Teresa Kelly",
+                    "link": "https://www.imdb.com/name/nm0446894/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Marco Valerio Pugini",
+                    "link": "https://www.imdb.com/name/nm0700081/?ref_=ttfc_fc_cr",
+                    "credit": "line producer",
+                    "normalized_credit": [
+                        "line producer"
+                    ]
+                },
+                {
+                    "name": "Ridley Scott",
+                    "link": "https://www.imdb.com/name/nm0000631/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "David W. Zucker",
+                    "link": "https://www.imdb.com/name/nm0958379/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Daniel Pemberton",
+                    "link": "https://www.imdb.com/name/nm1207404/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "John Mathieson",
+                    "link": "https://www.imdb.com/name/nm0558822/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Billy Rich",
+                    "link": "https://www.imdb.com/name/nm1093387/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Nina Gold",
+                    "link": "https://www.imdb.com/name/nm0002274/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Cristina Onori",
+                    "link": "https://www.imdb.com/name/nm0648863/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Roberto Caruso",
+                    "link": "https://www.imdb.com/name/nm0142342/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Maurizio Leonardi",
+                    "link": "https://www.imdb.com/name/nm0502815/?ref_=ttfc_fc_cr",
+                    "credit": "supervising art director",
+                    "normalized_credit": [
+                        "supervising art director"
+                    ]
+                },
+                {
+                    "name": "Gianpaolo Rifino",
+                    "link": "https://www.imdb.com/name/nm1618795/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Set Decoration by",
+            "crew": [
+                {
+                    "name": "Letizia Santucci",
+                    "link": "https://www.imdb.com/name/nm1142601/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Set Decoration by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Barbara De Leonardis",
+                    "link": "https://www.imdb.com/name/nm1135841/?ref_=ttfc_fc_cr",
+                    "credit": "assistant hair stylist",
+                    "normalized_credit": [
+                        "assistant hair stylist"
+                    ]
+                },
+                {
+                    "name": "Maria Federico",
+                    "link": "https://www.imdb.com/name/nm2294369/?ref_=ttfc_fc_cr",
+                    "credit": "hair stylist",
+                    "normalized_credit": [
+                        "hair stylist"
+                    ]
+                },
+                {
+                    "name": "Susan Howard",
+                    "link": "https://www.imdb.com/name/nm0397625/?ref_=ttfc_fc_cr",
+                    "credit": "makeup artist",
+                    "normalized_credit": [
+                        "makeup artist"
+                    ]
+                },
+                {
+                    "name": "Melissa Mazzocco",
+                    "link": "https://www.imdb.com/name/nm4706122/?ref_=ttfc_fc_cr",
+                    "credit": "makeup artist: Italy",
+                    "normalized_credit": [
+                        "makeup artist"
+                    ]
+                },
+                {
+                    "name": "Lidia Min\u00ec",
+                    "link": "https://www.imdb.com/name/nm3848817/?ref_=ttfc_fc_cr",
+                    "credit": "assistant makeup artist",
+                    "normalized_credit": [
+                        "assistant makeup artist"
+                    ]
+                },
+                {
+                    "name": "Stefano Nigro",
+                    "link": "https://www.imdb.com/name/nm0631529/?ref_=ttfc_fc_cr",
+                    "credit": "hair stylist",
+                    "normalized_credit": [
+                        "hair stylist"
+                    ]
+                },
+                {
+                    "name": "Carla Vicenzino",
+                    "link": "https://www.imdb.com/name/nm1429694/?ref_=ttfc_fc_cr",
+                    "credit": "makeup designer",
+                    "normalized_credit": [
+                        "makeup designer"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Francesca Cingolani",
+                    "link": "https://www.imdb.com/name/nm0162438/?ref_=ttfc_fc_cr",
+                    "credit": "unit production manager",
+                    "normalized_credit": [
+                        "unit production manager"
+                    ]
+                },
+                {
+                    "name": "Davide Lucarelli",
+                    "link": "https://www.imdb.com/name/nm3460654/?ref_=ttfc_fc_cr",
+                    "credit": "assistant unit manager",
+                    "normalized_credit": [
+                        "assistant unit manager"
+                    ]
+                },
+                {
+                    "name": "Alessandro Persia",
+                    "link": "https://www.imdb.com/name/nm2309974/?ref_=ttfc_fc_cr",
+                    "credit": "additional assistant production",
+                    "normalized_credit": [
+                        "additional assistant production"
+                    ]
+                },
+                {
+                    "name": "Ernek Reder",
+                    "link": "https://www.imdb.com/name/nm3170650/?ref_=ttfc_fc_cr",
+                    "credit": "unit manager",
+                    "normalized_credit": [
+                        "unit manager"
+                    ]
+                },
+                {
+                    "name": "Cynthia Stegner",
+                    "link": "https://www.imdb.com/name/nm0825256/?ref_=ttfc_fc_cr",
+                    "credit": "post production executive (uncredited)",
+                    "normalized_credit": [
+                        "post production executive"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Fabrizio Bava",
+                    "link": "https://www.imdb.com/name/nm0062565/?ref_=ttfc_fc_cr",
+                    "credit": "co-first assistant director",
+                    "normalized_credit": [
+                        "co-first assistant director"
+                    ]
+                },
+                {
+                    "name": "Giulio Cupperi",
+                    "link": "https://www.imdb.com/name/nm4343931/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                },
+                {
+                    "name": "Stella Delleani",
+                    "link": "https://www.imdb.com/name/nm3796626/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                },
+                {
+                    "name": "Fiorenzani Elena",
+                    "link": "https://www.imdb.com/name/nm2565252/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                },
+                {
+                    "name": "Gianluca Mangiasciutti",
+                    "link": "https://www.imdb.com/name/nm2297217/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                },
+                {
+                    "name": "Federico Nuti",
+                    "link": "https://www.imdb.com/name/nm1849076/?ref_=ttfc_fc_cr",
+                    "credit": "third assistant director",
+                    "normalized_credit": [
+                        "third assistant director"
+                    ]
+                },
+                {
+                    "name": "Edoardo Petti",
+                    "link": "https://www.imdb.com/name/nm1150469/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant director",
+                    "normalized_credit": [
+                        "second assistant director"
+                    ]
+                },
+                {
+                    "name": "Andrea Pugini",
+                    "link": "https://www.imdb.com/name/nm5716853/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant director: attached",
+                    "normalized_credit": [
+                        "second assistant director"
+                    ]
+                },
+                {
+                    "name": "Luca John Rosati",
+                    "link": "https://www.imdb.com/name/nm2894512/?ref_=ttfc_fc_cr",
+                    "credit": "additional daily assistant director",
+                    "normalized_credit": [
+                        "additional daily assistant director"
+                    ]
+                },
+                {
+                    "name": "Sara Rosato",
+                    "link": "https://www.imdb.com/name/nm3044626/?ref_=ttfc_fc_cr",
+                    "credit": "second second assistant director",
+                    "normalized_credit": [
+                        "second second assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Rosalia Maria Lia Canino",
+                    "link": "https://www.imdb.com/name/nm3472825/?ref_=ttfc_fc_cr",
+                    "credit": "buyer (as Rosalia Maria Canino)",
+                    "normalized_credit": [
+                        "buyer"
+                    ]
+                },
+                {
+                    "name": "Stefano Carbonaro",
+                    "link": "https://www.imdb.com/name/nm2768069/?ref_=ttfc_fc_cr",
+                    "credit": "leadman",
+                    "normalized_credit": [
+                        "leadman"
+                    ]
+                },
+                {
+                    "name": "Massimiliano Ciamei",
+                    "link": "https://www.imdb.com/name/nm2702117/?ref_=ttfc_fc_cr",
+                    "credit": "assistant on-set dresser / swing gang: Italy",
+                    "normalized_credit": [
+                        "assistant on-set dresser",
+                        "swing gang"
+                    ]
+                },
+                {
+                    "name": "Federico Ciommo",
+                    "link": "https://www.imdb.com/name/nm2971746/?ref_=ttfc_fc_cr",
+                    "credit": "property master",
+                    "normalized_credit": [
+                        "property master"
+                    ]
+                },
+                {
+                    "name": "Adonay Marin Conde",
+                    "link": "https://www.imdb.com/name/nm3478006/?ref_=ttfc_fc_cr",
+                    "credit": "set dresser",
+                    "normalized_credit": [
+                        "set dresser"
+                    ]
+                },
+                {
+                    "name": "Alessandro De Angelis",
+                    "link": "https://www.imdb.com/name/nm8178666/?ref_=ttfc_fc_cr",
+                    "credit": "swing gang",
+                    "normalized_credit": [
+                        "swing gang"
+                    ]
+                },
+                {
+                    "name": "Beatrice Della Porta",
+                    "link": "https://www.imdb.com/name/nm6677241/?ref_=ttfc_fc_cr",
+                    "credit": "buyer",
+                    "normalized_credit": [
+                        "buyer"
+                    ]
+                },
+                {
+                    "name": "Sandro Ercolini",
+                    "link": "https://www.imdb.com/name/nm1096510/?ref_=ttfc_fc_cr",
+                    "credit": "painter (as Sandro Erdolini)",
+                    "normalized_credit": [
+                        "painter"
+                    ]
+                },
+                {
+                    "name": "Maria Francesca Fogagnolo",
+                    "link": "https://www.imdb.com/name/nm2057682/?ref_=ttfc_fc_cr",
+                    "credit": "assistant set decorator",
+                    "normalized_credit": [
+                        "assistant set decorator"
+                    ]
+                },
+                {
+                    "name": "Silvia Fontana",
+                    "link": "https://www.imdb.com/name/nm2899408/?ref_=ttfc_fc_cr",
+                    "credit": "graphic designer",
+                    "normalized_credit": [
+                        "graphic designer"
+                    ]
+                },
+                {
+                    "name": "Cinzia Iademarco",
+                    "link": "https://www.imdb.com/name/nm5522230/?ref_=ttfc_fc_cr",
+                    "credit": "art dept. trainee",
+                    "normalized_credit": [
+                        "art dept. trainee"
+                    ]
+                },
+                {
+                    "name": "Marco Lo Russo",
+                    "link": "https://www.imdb.com/name/nm3442635/?ref_=ttfc_fc_cr",
+                    "credit": "swing gang",
+                    "normalized_credit": [
+                        "swing gang"
+                    ]
+                },
+                {
+                    "name": "Viviana Lo Russo",
+                    "link": "https://www.imdb.com/name/nm2703638/?ref_=ttfc_fc_cr",
+                    "credit": "key painter",
+                    "normalized_credit": [
+                        "key painter"
+                    ]
+                },
+                {
+                    "name": "Stefano Nagni",
+                    "link": "https://www.imdb.com/name/nm3267035/?ref_=ttfc_fc_cr",
+                    "credit": "swing gang",
+                    "normalized_credit": [
+                        "swing gang"
+                    ]
+                },
+                {
+                    "name": "Sandro Piccarozzi",
+                    "link": "https://www.imdb.com/name/nm4025102/?ref_=ttfc_fc_cr",
+                    "credit": "assistant set decorator",
+                    "normalized_credit": [
+                        "assistant set decorator"
+                    ]
+                },
+                {
+                    "name": "Glauco Trasselli",
+                    "link": "https://www.imdb.com/name/nm4042234/?ref_=ttfc_fc_cr",
+                    "credit": "assistant property master",
+                    "normalized_credit": [
+                        "assistant property master"
+                    ]
+                },
+                {
+                    "name": "Alfred Zhuo",
+                    "link": "https://www.imdb.com/name/nm5488443/?ref_=ttfc_fc_cr",
+                    "credit": "concept illustrator",
+                    "normalized_credit": [
+                        "concept illustrator"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Maximiliano Angelieri",
+                    "link": "https://www.imdb.com/name/nm4736081/?ref_=ttfc_fc_cr",
+                    "credit": "boom operator",
+                    "normalized_credit": [
+                        "boom operator"
+                    ]
+                },
+                {
+                    "name": "Maurizio Argentieri",
+                    "link": "https://www.imdb.com/name/nm0002635/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                },
+                {
+                    "name": "Joe Cappelletti",
+                    "link": "https://www.imdb.com/name/nm1028496/?ref_=ttfc_fc_cr",
+                    "credit": "group adr director",
+                    "normalized_credit": [
+                        "group adr director"
+                    ]
+                },
+                {
+                    "name": "Mark DeSimone",
+                    "link": "https://www.imdb.com/name/nm0221262/?ref_=ttfc_fc_cr",
+                    "credit": "adr mixer",
+                    "normalized_credit": [
+                        "adr mixer"
+                    ]
+                },
+                {
+                    "name": "Robert Getty",
+                    "link": "https://www.imdb.com/name/nm0315274/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "Luca Gizzi",
+                    "link": "https://www.imdb.com/name/nm5321439/?ref_=ttfc_fc_cr",
+                    "credit": "boom operator",
+                    "normalized_credit": [
+                        "boom operator"
+                    ]
+                },
+                {
+                    "name": "Jonathan Golodner",
+                    "link": "https://www.imdb.com/name/nm1107699/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "James Hyde",
+                    "link": "https://www.imdb.com/name/nm3854267/?ref_=ttfc_fc_cr",
+                    "credit": "adr recordist",
+                    "normalized_credit": [
+                        "adr recordist"
+                    ]
+                },
+                {
+                    "name": "Bill Jackson",
+                    "link": "https://www.imdb.com/name/nm0413302/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Mark Lanza",
+                    "link": "https://www.imdb.com/name/nm0487293/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Kevin Nanaumi",
+                    "link": "https://www.imdb.com/name/nm3066126/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "Dante Reynolds",
+                    "link": "https://www.imdb.com/name/nm4045209/?ref_=ttfc_fc_cr",
+                    "credit": "sound recordist",
+                    "normalized_credit": [
+                        "sound recordist"
+                    ]
+                },
+                {
+                    "name": "Fred Tator",
+                    "link": "https://www.imdb.com/name/nm0851282/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Oskar von Unge",
+                    "link": "https://www.imdb.com/name/nm5246646/?ref_=ttfc_fc_cr",
+                    "credit": "adr recordist",
+                    "normalized_credit": [
+                        "adr recordist"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Stefano Corridori",
+                    "link": "https://www.imdb.com/name/nm0180940/?ref_=ttfc_fc_cr",
+                    "credit": "special effects supervisor",
+                    "normalized_credit": [
+                        "special effects supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Michael John Baker",
+                    "link": "https://www.imdb.com/name/nm5557176/?ref_=ttfc_fc_cr",
+                    "credit": "roto artist: Double Negative",
+                    "normalized_credit": [
+                        "roto artist"
+                    ]
+                },
+                {
+                    "name": "Max Jin Yaw Chan",
+                    "link": "https://www.imdb.com/name/nm4313870/?ref_=ttfc_fc_cr",
+                    "credit": "compositor: Double Negative (as Max Chan)",
+                    "normalized_credit": [
+                        "compositor"
+                    ]
+                },
+                {
+                    "name": "Lai Lok Chau",
+                    "link": "https://www.imdb.com/name/nm4596894/?ref_=ttfc_fc_cr",
+                    "credit": "animator: Double Negative",
+                    "normalized_credit": [
+                        "animator"
+                    ]
+                },
+                {
+                    "name": "Kunal Chindarkar",
+                    "link": "https://www.imdb.com/name/nm2872144/?ref_=ttfc_fc_cr",
+                    "credit": "compositor: Double Negative Visual Effects",
+                    "normalized_credit": [
+                        "compositor"
+                    ]
+                },
+                {
+                    "name": "Kenneth Chua",
+                    "link": "https://www.imdb.com/name/nm4585379/?ref_=ttfc_fc_cr",
+                    "credit": "matchmove artist: Double Negative",
+                    "normalized_credit": [
+                        "matchmove artist"
+                    ]
+                },
+                {
+                    "name": "Dominic Drane",
+                    "link": "https://www.imdb.com/name/nm4920044/?ref_=ttfc_fc_cr",
+                    "credit": "creature/crowd effects",
+                    "normalized_credit": [
+                        "creature",
+                        "crowd effects"
+                    ]
+                },
+                {
+                    "name": "Andrew Edmondson",
+                    "link": "https://www.imdb.com/name/nm5108662/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects editor",
+                    "normalized_credit": [
+                        "visual effects editor"
+                    ]
+                },
+                {
+                    "name": "Moriah Etherington-Sparks",
+                    "link": "https://www.imdb.com/name/nm1156450/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects producer",
+                    "normalized_credit": [
+                        "visual effects producer"
+                    ]
+                },
+                {
+                    "name": "Mike Gaines",
+                    "link": "https://www.imdb.com/name/nm1140539/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects producer",
+                    "normalized_credit": [
+                        "visual effects producer"
+                    ]
+                },
+                {
+                    "name": "Andras Ikladi",
+                    "link": "https://www.imdb.com/name/nm4379342/?ref_=ttfc_fc_cr",
+                    "credit": "lead fx",
+                    "normalized_credit": [
+                        "lead fx"
+                    ]
+                },
+                {
+                    "name": "Chris Jestico",
+                    "link": "https://www.imdb.com/name/nm3754980/?ref_=ttfc_fc_cr",
+                    "credit": "vfx company scheduler",
+                    "normalized_credit": [
+                        "vfx company scheduler"
+                    ]
+                },
+                {
+                    "name": "Dong Hun Kang",
+                    "link": "https://www.imdb.com/name/nm5488836/?ref_=ttfc_fc_cr",
+                    "credit": "matte painter",
+                    "normalized_credit": [
+                        "matte painter"
+                    ]
+                },
+                {
+                    "name": "Cindy Khoo",
+                    "link": "https://www.imdb.com/name/nm4149592/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects line producer",
+                    "normalized_credit": [
+                        "visual effects line producer"
+                    ]
+                },
+                {
+                    "name": "Matthew Leach",
+                    "link": "https://www.imdb.com/name/nm3196551/?ref_=ttfc_fc_cr",
+                    "credit": "studio assistant",
+                    "normalized_credit": [
+                        "studio assistant"
+                    ]
+                },
+                {
+                    "name": "Francis Leong",
+                    "link": "https://www.imdb.com/name/nm3937884/?ref_=ttfc_fc_cr",
+                    "credit": "effects technical director: Double Negative",
+                    "normalized_credit": [
+                        "effects technical director"
+                    ]
+                },
+                {
+                    "name": "Amit Narwani",
+                    "link": "https://www.imdb.com/name/nm5605290/?ref_=ttfc_fc_cr",
+                    "credit": "matchmove artist: Double Negative",
+                    "normalized_credit": [
+                        "matchmove artist"
+                    ]
+                },
+                {
+                    "name": "Evan Ng",
+                    "link": "https://www.imdb.com/name/nm5555185/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects",
+                    "normalized_credit": [
+                        "visual effects"
+                    ]
+                },
+                {
+                    "name": "Francisco Palomares Pozas",
+                    "link": "https://www.imdb.com/name/nm4152142/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                },
+                {
+                    "name": "Xinyi Puah",
+                    "link": "https://www.imdb.com/name/nm1755503/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects editor: Double Negative",
+                    "normalized_credit": [
+                        "visual effects editor"
+                    ]
+                },
+                {
+                    "name": "Alex John Tan",
+                    "link": "https://www.imdb.com/name/nm2370917/?ref_=ttfc_fc_cr",
+                    "credit": "lighting td: double negative",
+                    "normalized_credit": [
+                        "lighting td"
+                    ]
+                },
+                {
+                    "name": "Gabriel Tan",
+                    "link": "https://www.imdb.com/name/nm5591276/?ref_=ttfc_fc_cr",
+                    "credit": "matchmove artist: Double Negative",
+                    "normalized_credit": [
+                        "matchmove artist"
+                    ]
+                },
+                {
+                    "name": "Yang Ki Tay",
+                    "link": "https://www.imdb.com/name/nm5679403/?ref_=ttfc_fc_cr",
+                    "credit": "matchmove artist",
+                    "normalized_credit": [
+                        "matchmove artist"
+                    ]
+                },
+                {
+                    "name": "Zelda Tinska",
+                    "link": "https://www.imdb.com/name/nm0864046/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator: Double Negative",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                },
+                {
+                    "name": "Victor Wagner",
+                    "link": "https://www.imdb.com/name/nm3333705/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects",
+                    "normalized_credit": [
+                        "visual effects"
+                    ]
+                },
+                {
+                    "name": "Mengdi Wang",
+                    "link": "https://www.imdb.com/name/nm3991385/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects",
+                    "normalized_credit": [
+                        "visual effects"
+                    ]
+                },
+                {
+                    "name": "Ruiting Wang",
+                    "link": "https://www.imdb.com/name/nm5623078/?ref_=ttfc_fc_cr",
+                    "credit": "roto artist",
+                    "normalized_credit": [
+                        "roto artist"
+                    ]
+                },
+                {
+                    "name": "Ged Wright",
+                    "link": "https://www.imdb.com/name/nm2261997/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects supervisor",
+                    "normalized_credit": [
+                        "visual effects supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Roberto Angelelli",
+                    "link": "https://www.imdb.com/name/nm5358002/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Emiliano Bambusi",
+                    "link": "https://www.imdb.com/name/nm1872272/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant \"c\" camera: additional photography"
+                },
+                {
+                    "name": "Alessandro Brambilla",
+                    "link": "https://www.imdb.com/name/nm1055156/?ref_=ttfc_fc_cr",
+                    "credit": "steadicam/camera operator",
+                    "normalized_credit": [
+                        "steadicam",
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Luigi Calvitti",
+                    "link": "https://www.imdb.com/name/nm3481383/?ref_=ttfc_fc_cr",
+                    "credit": "rigging grip",
+                    "normalized_credit": [
+                        "rigging grip"
+                    ]
+                },
+                {
+                    "name": "Simona De Lullo",
+                    "link": "https://www.imdb.com/name/nm1884201/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera: \"b\" camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "Claudio Del Gobbo",
+                    "link": "https://www.imdb.com/name/nm0215576/?ref_=ttfc_fc_cr",
+                    "credit": "dolly grip",
+                    "normalized_credit": [
+                        "dolly grip"
+                    ]
+                },
+                {
+                    "name": "Stefano Di Pasquali",
+                    "link": "https://www.imdb.com/name/nm2055806/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Gastone Ferrante",
+                    "link": "https://www.imdb.com/name/nm4811065/?ref_=ttfc_fc_cr",
+                    "credit": "data manager",
+                    "normalized_credit": [
+                        "data manager"
+                    ]
+                },
+                {
+                    "name": "Fabio Ferrantini",
+                    "link": "https://www.imdb.com/name/nm3712081/?ref_=ttfc_fc_cr",
+                    "credit": "digital imaging technician: visual effects unit",
+                    "normalized_credit": [
+                        "digital imaging technician"
+                    ]
+                },
+                {
+                    "name": "Doriano Forti",
+                    "link": "https://www.imdb.com/name/nm2329822/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Luca Gennari",
+                    "link": "https://www.imdb.com/name/nm5962359/?ref_=ttfc_fc_cr",
+                    "credit": "camera trainee",
+                    "normalized_credit": [
+                        "camera trainee"
+                    ]
+                },
+                {
+                    "name": "Francesco Luigi Giardiello",
+                    "link": "https://www.imdb.com/name/nm3357012/?ref_=ttfc_fc_cr",
+                    "credit": "digital imaging technician",
+                    "normalized_credit": [
+                        "digital imaging technician"
+                    ]
+                },
+                {
+                    "name": "Fabio Lucheroni",
+                    "link": "https://www.imdb.com/name/nm1515236/?ref_=ttfc_fc_cr",
+                    "credit": "rigging electrician",
+                    "normalized_credit": [
+                        "rigging electrician"
+                    ]
+                },
+                {
+                    "name": "Luca Martis",
+                    "link": "https://www.imdb.com/name/nm1068310/?ref_=ttfc_fc_cr",
+                    "credit": "bestboy",
+                    "normalized_credit": [
+                        "bestboy"
+                    ]
+                },
+                {
+                    "name": "Giacomo Mele",
+                    "link": "https://www.imdb.com/name/nm10192402/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Shaun O'Dell",
+                    "link": "https://www.imdb.com/name/nm0640677/?ref_=ttfc_fc_cr",
+                    "credit": "additional cinematographer",
+                    "normalized_credit": [
+                        "additional cinematographer"
+                    ]
+                },
+                {
+                    "name": "Lorenzo Peyrone",
+                    "link": "https://www.imdb.com/name/nm6894258/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Giorgio Pezzotti",
+                    "link": "https://www.imdb.com/name/nm1217611/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Francesco Pintore",
+                    "link": "https://www.imdb.com/name/nm1142414/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant \"a\" camera (as Francisco Pintore)"
+                },
+                {
+                    "name": "Dominic Rau",
+                    "link": "https://www.imdb.com/name/nm3237674/?ref_=ttfc_fc_cr",
+                    "credit": "video assist operator: main unit",
+                    "normalized_credit": [
+                        "video assist operator"
+                    ]
+                },
+                {
+                    "name": "Marco Sacerdoti",
+                    "link": "https://www.imdb.com/name/nm0004064/?ref_=ttfc_fc_cr",
+                    "credit": "a camera operator",
+                    "normalized_credit": [
+                        "a camera operator"
+                    ]
+                },
+                {
+                    "name": "Lorenzo Sardini",
+                    "link": "https://www.imdb.com/name/nm2679075/?ref_=ttfc_fc_cr",
+                    "credit": "grip",
+                    "normalized_credit": [
+                        "grip"
+                    ]
+                },
+                {
+                    "name": "Luca Sardini",
+                    "link": "https://www.imdb.com/name/nm0764995/?ref_=ttfc_fc_cr",
+                    "credit": "electrician",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Fulvio Sergianni",
+                    "link": "https://www.imdb.com/name/nm2333209/?ref_=ttfc_fc_cr",
+                    "credit": "key grip rigger",
+                    "normalized_credit": [
+                        "key grip rigger"
+                    ]
+                },
+                {
+                    "name": "Martino Tagliaferri",
+                    "link": "https://www.imdb.com/name/nm1869375/?ref_=ttfc_fc_cr",
+                    "credit": "focus puller: \"c\" camera main unit dailies",
+                    "normalized_credit": [
+                        "focus puller"
+                    ]
+                },
+                {
+                    "name": "Emiliano Topai",
+                    "link": "https://www.imdb.com/name/nm0867608/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera: \"c\" camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Alberto Torrecilla",
+                    "link": "https://www.imdb.com/name/nm1146402/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant camera: \"b\" camera",
+                    "normalized_credit": [
+                        "first assistant camera"
+                    ]
+                },
+                {
+                    "name": "Davide Ulissi",
+                    "link": "https://www.imdb.com/name/nm4737552/?ref_=ttfc_fc_cr",
+                    "credit": "data manager",
+                    "normalized_credit": [
+                        "data manager"
+                    ]
+                },
+                {
+                    "name": "Esther Venanzi",
+                    "link": "https://www.imdb.com/name/nm3224087/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                },
+                {
+                    "name": "Fabrizio Vicari",
+                    "link": "https://www.imdb.com/name/nm0895837/?ref_=ttfc_fc_cr",
+                    "credit": "b camera operator",
+                    "normalized_credit": [
+                        "b camera operator"
+                    ]
+                },
+                {
+                    "name": "Francesco Zaccaria",
+                    "link": "https://www.imdb.com/name/nm0951507/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                },
+                {
+                    "name": "Giacomo Zampieri",
+                    "link": "https://www.imdb.com/name/nm2582196/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant: B cam: additional photography",
+                    "normalized_credit": [
+                        "second assistant"
+                    ]
+                },
+                {
+                    "name": "Cristiano Sergioli",
+                    "link": "https://www.imdb.com/name/nm1306524/?ref_=ttfc_fc_cr",
+                    "credit": "flight head technician: italy (uncredited)",
+                    "normalized_credit": [
+                        "flight head technician"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Casting Department",
+            "crew": [
+                {
+                    "name": "Lauren Evans",
+                    "link": "https://www.imdb.com/name/nm5488382/?ref_=ttfc_fc_cr",
+                    "credit": "casting assistant",
+                    "normalized_credit": [
+                        "casting assistant"
+                    ]
+                },
+                {
+                    "name": "Amy McIntyre Britt",
+                    "link": "https://www.imdb.com/name/nm0570704/?ref_=ttfc_fc_cr",
+                    "credit": "executive in charge of casting",
+                    "normalized_credit": [
+                        "executive in charge of casting"
+                    ]
+                },
+                {
+                    "name": "Lilia Trapani",
+                    "link": "https://www.imdb.com/name/nm0871079/?ref_=ttfc_fc_cr",
+                    "credit": "casting: Italy",
+                    "normalized_credit": [
+                        "casting"
+                    ]
+                }
+            ],
+            "normalized role": "Casting Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Matteo Maria Alessandri",
+                    "link": "https://www.imdb.com/name/nm6492812/?ref_=ttfc_fc_cr",
+                    "credit": "additional costumer",
+                    "normalized_credit": [
+                        "additional costumer"
+                    ]
+                },
+                {
+                    "name": "Costanza Bastanti",
+                    "link": "https://www.imdb.com/name/nm2046170/?ref_=ttfc_fc_cr",
+                    "credit": "set costumer",
+                    "normalized_credit": [
+                        "set costumer"
+                    ]
+                },
+                {
+                    "name": "Johanna Bronner",
+                    "link": "https://www.imdb.com/name/nm0111467/?ref_=ttfc_fc_cr",
+                    "credit": "buyer / costume designer assistant",
+                    "normalized_credit": [
+                        "buyer",
+                        "costume designer assistant"
+                    ]
+                },
+                {
+                    "name": "Stefano De Nardis",
+                    "link": "https://www.imdb.com/name/nm0210518/?ref_=ttfc_fc_cr",
+                    "credit": "costume supervisor",
+                    "normalized_credit": [
+                        "costume supervisor"
+                    ]
+                },
+                {
+                    "name": "Elena Taborra",
+                    "link": "https://www.imdb.com/name/nm5154821/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant: costume designer",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Maurizio Torti",
+                    "link": "https://www.imdb.com/name/nm0869021/?ref_=ttfc_fc_cr",
+                    "credit": "key costumer",
+                    "normalized_credit": [
+                        "key costumer"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Paolo Buzzetti",
+                    "link": "https://www.imdb.com/name/nm3178794/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant editor",
+                    "normalized_credit": [
+                        "second assistant editor"
+                    ]
+                },
+                {
+                    "name": "Ann Dingeman",
+                    "link": "https://www.imdb.com/name/nm3936402/?ref_=ttfc_fc_cr",
+                    "credit": "post-production coordinator",
+                    "normalized_credit": [
+                        "post-production coordinator"
+                    ]
+                },
+                {
+                    "name": "Bernie E. Gomez",
+                    "link": "https://www.imdb.com/name/nm3129459/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                },
+                {
+                    "name": "David Marks",
+                    "link": "https://www.imdb.com/name/nm1940019/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant editor",
+                    "normalized_credit": [
+                        "first assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Marzia Coltellacci",
+                    "link": "https://www.imdb.com/name/nm5873735/?ref_=ttfc_fc_cr",
+                    "credit": "location coordinator",
+                    "normalized_credit": [
+                        "location coordinator"
+                    ]
+                },
+                {
+                    "name": "Enrico Latella",
+                    "link": "https://www.imdb.com/name/nm0490029/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                },
+                {
+                    "name": "Gianni Eduardo Librobuono",
+                    "link": "https://www.imdb.com/name/nm3705187/?ref_=ttfc_fc_cr",
+                    "credit": "assistant location manager",
+                    "normalized_credit": [
+                        "assistant location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Transportation Department",
+            "crew": [
+                {
+                    "name": "Mario Ghinassi",
+                    "link": "https://www.imdb.com/name/nm2770609/?ref_=ttfc_fc_cr",
+                    "credit": "transportation captain",
+                    "normalized_credit": [
+                        "transportation captain"
+                    ]
+                },
+                {
+                    "name": "Giuseppe Santoni",
+                    "link": "https://www.imdb.com/name/nm3477212/?ref_=ttfc_fc_cr",
+                    "credit": "transportation manager",
+                    "normalized_credit": [
+                        "transportation manager"
+                    ]
+                },
+                {
+                    "name": "Marco Taglioni",
+                    "link": "https://www.imdb.com/name/nm6608079/?ref_=ttfc_fc_cr",
+                    "credit": "driver: Ridley Scott",
+                    "normalized_credit": [
+                        "driver"
+                    ]
+                }
+            ],
+            "normalized role": "Transportation Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Giacomo R. Bartocci",
+                    "link": "https://www.imdb.com/name/nm2808962/?ref_=ttfc_fc_cr",
+                    "credit": "additional set production assistant",
+                    "normalized_credit": [
+                        "additional set production assistant"
+                    ]
+                },
+                {
+                    "name": "Mona Bernal",
+                    "link": "https://www.imdb.com/name/nm0076090/?ref_=ttfc_fc_cr",
+                    "credit": "production coordinator",
+                    "normalized_credit": [
+                        "production coordinator"
+                    ]
+                },
+                {
+                    "name": "Rino Bonavita",
+                    "link": "https://www.imdb.com/name/nm1428191/?ref_=ttfc_fc_cr",
+                    "credit": "assistant: financial controller",
+                    "normalized_credit": [
+                        "assistant"
+                    ]
+                },
+                {
+                    "name": "Rebecca Booth",
+                    "link": "https://www.imdb.com/name/nm1556848/?ref_=ttfc_fc_cr",
+                    "credit": "assistant: Ridley Scott",
+                    "normalized_credit": [
+                        "assistant"
+                    ]
+                },
+                {
+                    "name": "Carmela Compagnone",
+                    "link": "https://www.imdb.com/name/nm1125586/?ref_=ttfc_fc_cr",
+                    "credit": "production accountant: Italy",
+                    "normalized_credit": [
+                        "production accountant"
+                    ]
+                },
+                {
+                    "name": "Valentina Crimi",
+                    "link": "https://www.imdb.com/name/nm3376984/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to producers",
+                    "normalized_credit": [
+                        "assistant to producers"
+                    ]
+                },
+                {
+                    "name": "Maurizio Cusano",
+                    "link": "https://www.imdb.com/name/nm0193675/?ref_=ttfc_fc_cr",
+                    "credit": "crowd marshall: Rome",
+                    "normalized_credit": [
+                        "crowd marshall"
+                    ]
+                },
+                {
+                    "name": "Simona De Angelis",
+                    "link": "https://www.imdb.com/name/nm3359634/?ref_=ttfc_fc_cr",
+                    "credit": "additional production assistant",
+                    "normalized_credit": [
+                        "additional production assistant"
+                    ]
+                },
+                {
+                    "name": "Flavio De Simone",
+                    "link": "https://www.imdb.com/name/nm1304620/?ref_=ttfc_fc_cr",
+                    "credit": "cashier",
+                    "normalized_credit": [
+                        "cashier"
+                    ]
+                },
+                {
+                    "name": "Federica Durigon",
+                    "link": "https://www.imdb.com/name/nm1870698/?ref_=ttfc_fc_cr",
+                    "credit": "set production assistant",
+                    "normalized_credit": [
+                        "set production assistant"
+                    ]
+                },
+                {
+                    "name": "Emily Eckert",
+                    "link": "https://www.imdb.com/name/nm2313712/?ref_=ttfc_fc_cr",
+                    "credit": "assistant: Ridley Scott",
+                    "normalized_credit": [
+                        "assistant"
+                    ]
+                },
+                {
+                    "name": "Ilaria Fiordelmondo",
+                    "link": "https://www.imdb.com/name/nm8611194/?ref_=ttfc_fc_cr",
+                    "credit": "key office pa",
+                    "normalized_credit": [
+                        "key office pa"
+                    ]
+                },
+                {
+                    "name": "Dianne Mapp-Cheek",
+                    "link": "https://www.imdb.com/name/nm0087666/?ref_=ttfc_fc_cr",
+                    "credit": "financial controller",
+                    "normalized_credit": [
+                        "financial controller"
+                    ]
+                },
+                {
+                    "name": "Marcela Marambio",
+                    "link": "https://www.imdb.com/name/nm3478581/?ref_=ttfc_fc_cr",
+                    "credit": "dialogue coach",
+                    "normalized_credit": [
+                        "dialogue coach"
+                    ]
+                },
+                {
+                    "name": "Alessandro Minisola",
+                    "link": "https://www.imdb.com/name/nm3659495/?ref_=ttfc_fc_cr",
+                    "credit": "unit publicity coordinator",
+                    "normalized_credit": [
+                        "unit publicity coordinator"
+                    ]
+                },
+                {
+                    "name": "Romani Nadia",
+                    "link": "https://www.imdb.com/name/nm3360187/?ref_=ttfc_fc_cr",
+                    "credit": "crowd marshall assistant",
+                    "normalized_credit": [
+                        "crowd marshall assistant"
+                    ]
+                },
+                {
+                    "name": "Nadezda Petrovic",
+                    "link": "https://www.imdb.com/name/nm4850498/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "Dusan Simonovic",
+                    "link": "https://www.imdb.com/name/nm4722970/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to Paul Attanasio",
+                    "normalized_credit": [
+                        "assistant to paul attanasio"
+                    ]
+                },
+                {
+                    "name": "Carola Terradura",
+                    "link": "https://www.imdb.com/name/nm9162225/?ref_=ttfc_fc_cr",
+                    "credit": "Crowd Assistant",
+                    "normalized_credit": [
+                        "crowd assistant"
+                    ]
+                },
+                {
+                    "name": "Andrea Tolomei",
+                    "link": "https://www.imdb.com/name/nm1541696/?ref_=ttfc_fc_cr",
+                    "credit": "IT Data Entry",
+                    "normalized_credit": [
+                        "it data entry"
+                    ]
+                },
+                {
+                    "name": "Benjamin Benedetti",
+                    "link": "https://www.imdb.com/name/nm0070689/?ref_=ttfc_fc_cr",
+                    "credit": "post facilities manager (uncredited)",
+                    "normalized_credit": [
+                        "post facilities manager"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

@@ -1,0 +1,161 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt8093730/fullcredits/",
+    "title": "Walmart: The Box (Video 2018)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Dee Rees",
+                    "link": "https://www.imdb.com/name/nm2011696/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Dee Rees",
+                    "link": "https://www.imdb.com/name/nm2011696/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Rachel Morrison",
+                    "link": "https://www.imdb.com/name/nm1121126/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Hannah Beachler",
+                    "link": "https://www.imdb.com/name/nm1667545/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "D'Andre Michael",
+                    "link": "https://www.imdb.com/name/nm5081758/?ref_=ttfc_fc_cr",
+                    "credit": "personal makeup artist: Mary J. Blige",
+                    "normalized_credit": [
+                        "personal makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Aliya Brooks",
+                    "link": "https://www.imdb.com/name/nm6767040/?ref_=ttfc_fc_cr",
+                    "credit": "Director's Assistant",
+                    "normalized_credit": [
+                        "director's assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Tyler Gibb",
+                    "link": "https://www.imdb.com/name/nm2699146/?ref_=ttfc_fc_cr",
+                    "credit": "concept designer",
+                    "normalized_credit": [
+                        "concept designer"
+                    ]
+                },
+                {
+                    "name": "Aaron Higgins",
+                    "link": "https://www.imdb.com/name/nm2711107/?ref_=ttfc_fc_cr",
+                    "credit": "on-set dresser",
+                    "normalized_credit": [
+                        "on-set dresser"
+                    ]
+                },
+                {
+                    "name": "Kevin Dee Watson",
+                    "link": "https://www.imdb.com/name/nm3328939/?ref_=ttfc_fc_cr",
+                    "credit": "construction coordinator",
+                    "normalized_credit": [
+                        "construction coordinator"
+                    ]
+                },
+                {
+                    "name": "Stacy Watson",
+                    "link": "https://www.imdb.com/name/nm3330194/?ref_=ttfc_fc_cr",
+                    "credit": "paint foreman / paint foreperson",
+                    "normalized_credit": [
+                        "paint foreman",
+                        "paint foreperson"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Doug Coleman",
+                    "link": "https://www.imdb.com/name/nm0171018/?ref_=ttfc_fc_cr",
+                    "credit": "stunt coordinator",
+                    "normalized_credit": [
+                        "stunt coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Andrew Korner",
+                    "link": "https://www.imdb.com/name/nm0466443/?ref_=ttfc_fc_cr",
+                    "credit": "chief lighting technician",
+                    "normalized_credit": [
+                        "chief lighting technician"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Emma Walz",
+                    "link": "https://www.imdb.com/name/nm4261177/?ref_=ttfc_fc_cr",
+                    "credit": "script supervisor (as Emma Anne Black)",
+                    "normalized_credit": [
+                        "script supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        }
+    ],
+    "imdb_details": {}
+}

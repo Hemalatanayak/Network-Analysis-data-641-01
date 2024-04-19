@@ -1,0 +1,895 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt1194238/fullcredits/",
+    "title": "Polytechnique (2009)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Denis Villeneuve",
+                    "link": "https://www.imdb.com/name/nm0898288/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Jacques Davidts",
+                    "link": "https://www.imdb.com/name/nm1802530/?ref_=ttfc_fc_wr1",
+                    "credit": "(scenario and dialogue)",
+                    "normalized_credit": [
+                        "scenario dialogue"
+                    ]
+                },
+                {
+                    "name": "Denis Villeneuve",
+                    "link": "https://www.imdb.com/name/nm0898288/?ref_=ttfc_fc_wr2",
+                    "credit": "(collaboration) &",
+                    "normalized_credit": [
+                        "collaboration"
+                    ]
+                },
+                {
+                    "name": "Eric Leca",
+                    "link": "https://www.imdb.com/name/nm1266316/?ref_=ttfc_fc_wr3",
+                    "credit": "(collaboration)",
+                    "normalized_credit": [
+                        "collaboration"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) complete, awaiting verification",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Nathalie Brigitte Bustos",
+                    "link": "https://www.imdb.com/name/nm1393238/?ref_=ttfc_fc_cr",
+                    "credit": "associate producer",
+                    "normalized_credit": [
+                        "associate producer"
+                    ]
+                },
+                {
+                    "name": "Don Carmody",
+                    "link": "https://www.imdb.com/name/nm0138502/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Julien Remillard",
+                    "link": "https://www.imdb.com/name/nm1066394/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Andr\u00e9 Rouleau",
+                    "link": "https://www.imdb.com/name/nm0745689/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Maxime R\u00e9millard",
+                    "link": "https://www.imdb.com/name/nm0753708/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Karine Vanasse",
+                    "link": "https://www.imdb.com/name/nm0888468/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Beno\u00eet Charest",
+                    "link": "https://www.imdb.com/name/nm0152844/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Pierre Gill",
+                    "link": "https://www.imdb.com/name/nm0005602/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Richard Comeau",
+                    "link": "https://www.imdb.com/name/nm0003518/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Casting By",
+            "crew": [
+                {
+                    "name": "Nathalie Boutrie",
+                    "link": "https://www.imdb.com/name/nm1644950/?ref_=ttfc_fc_cr",
+                    "credit": "casting co-director",
+                    "normalized_credit": [
+                        "casting co-director"
+                    ]
+                }
+            ],
+            "normalized role": "Casting By"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Roger Martin",
+                    "link": "https://www.imdb.com/name/nm4018514/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Martin Tessier",
+                    "link": "https://www.imdb.com/name/nm1613219/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Set Decoration by",
+            "crew": [
+                {
+                    "name": "Elisabeth Williams",
+                    "link": "https://www.imdb.com/name/nm3296268/?ref_=ttfc_fc_cr",
+                    "credit": "(as \u00c9lisabeth Williams)"
+                }
+            ],
+            "normalized role": "Set Decoration by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Lizane La Salle",
+                    "link": "https://www.imdb.com/name/nm0479035/?ref_=ttfc_fc_cr",
+                    "credit": "assistant makeup artist: extras",
+                    "normalized_credit": [
+                        "assistant makeup artist"
+                    ]
+                },
+                {
+                    "name": "Martin Rivest",
+                    "link": "https://www.imdb.com/name/nm1019515/?ref_=ttfc_fc_cr",
+                    "credit": "key hair stylist",
+                    "normalized_credit": [
+                        "key hair stylist"
+                    ]
+                },
+                {
+                    "name": "Ronald J. Rolfe",
+                    "link": "https://www.imdb.com/name/nm0738221/?ref_=ttfc_fc_cr",
+                    "credit": "hair stylist",
+                    "normalized_credit": [
+                        "hair stylist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Danny Rossner",
+                    "link": "https://www.imdb.com/name/nm0744465/?ref_=ttfc_fc_cr",
+                    "credit": "production manager",
+                    "normalized_credit": [
+                        "production manager"
+                    ]
+                },
+                {
+                    "name": "Joe Yared",
+                    "link": "https://www.imdb.com/name/nm0946427/?ref_=ttfc_fc_cr",
+                    "credit": "post-production manager",
+                    "normalized_credit": [
+                        "post-production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Yanick DiVito",
+                    "link": "https://www.imdb.com/name/nm0228668/?ref_=ttfc_fc_cr",
+                    "credit": "co-third assistant director",
+                    "normalized_credit": [
+                        "co-third assistant director"
+                    ]
+                },
+                {
+                    "name": "Julie Gamache-Maher",
+                    "link": "https://www.imdb.com/name/nm1209760/?ref_=ttfc_fc_cr",
+                    "credit": "third assistant director",
+                    "normalized_credit": [
+                        "third assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Jocelyn Bonnier",
+                    "link": "https://www.imdb.com/name/nm6119524/?ref_=ttfc_fc_cr",
+                    "credit": "storyboard artist",
+                    "normalized_credit": [
+                        "storyboard artist"
+                    ]
+                },
+                {
+                    "name": "Vincent Brabant",
+                    "link": "https://www.imdb.com/name/nm2180441/?ref_=ttfc_fc_cr",
+                    "credit": "on-set props",
+                    "normalized_credit": [
+                        "on-set props"
+                    ]
+                },
+                {
+                    "name": "Dominique Brunel",
+                    "link": "https://www.imdb.com/name/nm1278699/?ref_=ttfc_fc_cr",
+                    "credit": "assistant property master",
+                    "normalized_credit": [
+                        "assistant property master"
+                    ]
+                },
+                {
+                    "name": "Martin Gauthier",
+                    "link": "https://www.imdb.com/name/nm6283695/?ref_=ttfc_fc_cr",
+                    "credit": "property master",
+                    "normalized_credit": [
+                        "property master"
+                    ]
+                },
+                {
+                    "name": "Marceline Gonin",
+                    "link": "https://www.imdb.com/name/nm0327336/?ref_=ttfc_fc_cr",
+                    "credit": "property master",
+                    "normalized_credit": [
+                        "property master"
+                    ]
+                },
+                {
+                    "name": "Sophie Grenier",
+                    "link": "https://www.imdb.com/name/nm3706215/?ref_=ttfc_fc_cr",
+                    "credit": "graphic artist",
+                    "normalized_credit": [
+                        "graphic artist"
+                    ]
+                },
+                {
+                    "name": "Maurice Roy",
+                    "link": "https://www.imdb.com/name/nm3126667/?ref_=ttfc_fc_cr",
+                    "credit": "graphic artist",
+                    "normalized_credit": [
+                        "graphic artist"
+                    ]
+                },
+                {
+                    "name": "Louisa Schabas",
+                    "link": "https://www.imdb.com/name/nm2977637/?ref_=ttfc_fc_cr",
+                    "credit": "assistant art director",
+                    "normalized_credit": [
+                        "assistant art director"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Claude Beaugrand",
+                    "link": "https://www.imdb.com/name/nm0064487/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "St\u00e9phane Bergeron",
+                    "link": "https://www.imdb.com/name/nm0074474/?ref_=ttfc_fc_cr",
+                    "credit": "re-recording mixer",
+                    "normalized_credit": [
+                        "re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Pierre Blain",
+                    "link": "https://www.imdb.com/name/nm0086130/?ref_=ttfc_fc_cr",
+                    "credit": "sound recordist",
+                    "normalized_credit": [
+                        "sound recordist"
+                    ]
+                },
+                {
+                    "name": "Jo Caron",
+                    "link": "https://www.imdb.com/name/nm0139123/?ref_=ttfc_fc_cr",
+                    "credit": "adr and foley recordist (as Jocelyn Caron)",
+                    "normalized_credit": [
+                        "adr foley recordist"
+                    ]
+                },
+                {
+                    "name": "Guy Francoeur",
+                    "link": "https://www.imdb.com/name/nm0290662/?ref_=ttfc_fc_cr",
+                    "credit": "foley artist",
+                    "normalized_credit": [
+                        "foley artist"
+                    ]
+                },
+                {
+                    "name": "Benoit Leduc",
+                    "link": "https://www.imdb.com/name/nm0496659/?ref_=ttfc_fc_cr",
+                    "credit": "adr recordist",
+                    "normalized_credit": [
+                        "adr recordist"
+                    ]
+                },
+                {
+                    "name": "Isabelle Lussier",
+                    "link": "https://www.imdb.com/name/nm3046605/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound re-recording mixer",
+                    "normalized_credit": [
+                        "assistant sound re-recording mixer"
+                    ]
+                },
+                {
+                    "name": "Olivier L\u00e9ger",
+                    "link": "https://www.imdb.com/name/nm1825914/?ref_=ttfc_fc_cr",
+                    "credit": "additional sound",
+                    "normalized_credit": [
+                        "additional sound"
+                    ]
+                },
+                {
+                    "name": "Marie-Lou Morin",
+                    "link": "https://www.imdb.com/name/nm3861689/?ref_=ttfc_fc_cr",
+                    "credit": "assistant post-synchronization",
+                    "normalized_credit": [
+                        "assistant post-synchronization"
+                    ]
+                },
+                {
+                    "name": "Guy Pelletier",
+                    "link": "https://www.imdb.com/name/nm0671107/?ref_=ttfc_fc_cr",
+                    "credit": "adr editor",
+                    "normalized_credit": [
+                        "adr editor"
+                    ]
+                },
+                {
+                    "name": "Christian Rivest",
+                    "link": "https://www.imdb.com/name/nm0729607/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Carmelle Beaudoin",
+                    "link": "https://www.imdb.com/name/nm1028034/?ref_=ttfc_fc_cr",
+                    "credit": "special effects coordinator",
+                    "normalized_credit": [
+                        "special effects coordinator"
+                    ]
+                },
+                {
+                    "name": "Jacques Godbout",
+                    "link": "https://www.imdb.com/name/nm0323745/?ref_=ttfc_fc_cr",
+                    "credit": "special effects supervisor",
+                    "normalized_credit": [
+                        "special effects supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Adam Goldstein",
+                    "link": "https://www.imdb.com/name/nm5617523/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects artist",
+                    "normalized_credit": [
+                        "visual effects artist"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Maxime Allard",
+                    "link": "https://www.imdb.com/name/nm2061859/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "Francesca Barcenas",
+                    "link": "https://www.imdb.com/name/nm2883264/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "Alain B\u00e9rard",
+                    "link": "https://www.imdb.com/name/nm1006251/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "Eve Duranceau",
+                    "link": "https://www.imdb.com/name/nm1833753/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "Mary-Pier Gaudet",
+                    "link": "https://www.imdb.com/name/nm2794054/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "Nathalie Girard",
+                    "link": "https://www.imdb.com/name/nm0320702/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "Tyler Hall",
+                    "link": "https://www.imdb.com/name/nm1427991/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "St\u00e9phane Julien",
+                    "link": "https://www.imdb.com/name/nm1122584/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "H\u00e9l\u00e9na Lalibert\u00e9",
+                    "link": "https://www.imdb.com/name/nm0482389/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "Gilbert Larose Jr.",
+                    "link": "https://www.imdb.com/name/nm0488489/?ref_=ttfc_fc_cr",
+                    "credit": "stunt coordinator",
+                    "normalized_credit": [
+                        "stunt coordinator"
+                    ]
+                },
+                {
+                    "name": "Yan Lecomte",
+                    "link": "https://www.imdb.com/name/nm2206506/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                },
+                {
+                    "name": "Mathieu Ledoux",
+                    "link": "https://www.imdb.com/name/nm1122732/?ref_=ttfc_fc_cr",
+                    "credit": "stunt performer",
+                    "normalized_credit": [
+                        "stunt performer"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Ren\u00e9 Guillard",
+                    "link": "https://www.imdb.com/name/nm0346997/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                },
+                {
+                    "name": "St\u00e9phane Leblanc",
+                    "link": "https://www.imdb.com/name/nm0495762/?ref_=ttfc_fc_cr",
+                    "credit": "best boy electric",
+                    "normalized_credit": [
+                        "best boy electric"
+                    ]
+                },
+                {
+                    "name": "Boris Roy",
+                    "link": "https://www.imdb.com/name/nm0746951/?ref_=ttfc_fc_cr",
+                    "credit": "a camera",
+                    "normalized_credit": [
+                        "a camera"
+                    ]
+                },
+                {
+                    "name": "Mathilde Savard-Cloutier",
+                    "link": "https://www.imdb.com/name/nm2760287/?ref_=ttfc_fc_cr",
+                    "credit": "second assistant camera",
+                    "normalized_credit": [
+                        "second assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Casting Department",
+            "crew": [
+                {
+                    "name": "Mike Migliara",
+                    "link": "https://www.imdb.com/name/nm1155888/?ref_=ttfc_fc_cr",
+                    "credit": "additional casting",
+                    "normalized_credit": [
+                        "additional casting"
+                    ]
+                },
+                {
+                    "name": "Stephanie Patrick",
+                    "link": "https://www.imdb.com/name/nm2997907/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting assistant",
+                    "normalized_credit": [
+                        "extras casting assistant"
+                    ]
+                },
+                {
+                    "name": "Bruno Rosato",
+                    "link": "https://www.imdb.com/name/nm1235467/?ref_=ttfc_fc_cr",
+                    "credit": "additional casting",
+                    "normalized_credit": [
+                        "additional casting"
+                    ]
+                },
+                {
+                    "name": "Debbie Santelli",
+                    "link": "https://www.imdb.com/name/nm2892167/?ref_=ttfc_fc_cr",
+                    "credit": "extras casting assistant",
+                    "normalized_credit": [
+                        "extras casting assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Casting Department"
+        },
+        {
+            "role": "Costume and Wardrobe Department",
+            "crew": [
+                {
+                    "name": "Jean-Fran\u00e7ois Desjardins",
+                    "link": "https://www.imdb.com/name/nm1029031/?ref_=ttfc_fc_cr",
+                    "credit": "key costumer",
+                    "normalized_credit": [
+                        "key costumer"
+                    ]
+                }
+            ],
+            "normalized role": "Costume and Wardrobe Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Serge Harvey",
+                    "link": "https://www.imdb.com/name/nm0367713/?ref_=ttfc_fc_cr",
+                    "credit": "di editor",
+                    "normalized_credit": [
+                        "di editor"
+                    ]
+                },
+                {
+                    "name": "Charlotte Mazzinghi",
+                    "link": "https://www.imdb.com/name/nm1998385/?ref_=ttfc_fc_cr",
+                    "credit": "colorist",
+                    "normalized_credit": [
+                        "colorist"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Location Management",
+            "crew": [
+                {
+                    "name": "Suzanne De Carufel",
+                    "link": "https://www.imdb.com/name/nm0207791/?ref_=ttfc_fc_cr",
+                    "credit": "location manager",
+                    "normalized_credit": [
+                        "location manager"
+                    ]
+                }
+            ],
+            "normalized role": "Location Management"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Lucie Bourgouin",
+                    "link": "https://www.imdb.com/name/nm1866201/?ref_=ttfc_fc_cr",
+                    "credit": "music rights clearance",
+                    "normalized_credit": [
+                        "music rights clearance"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Script and Continuity Department",
+            "crew": [
+                {
+                    "name": "Adam Kelly Morton",
+                    "link": "https://www.imdb.com/name/nm3611169/?ref_=ttfc_fc_cr",
+                    "credit": "script consultant",
+                    "normalized_credit": [
+                        "script consultant"
+                    ]
+                }
+            ],
+            "normalized role": "Script and Continuity Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Val\u00e9rie d'Auteuil",
+                    "link": "https://www.imdb.com/name/nm3278504/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to producer",
+                    "normalized_credit": [
+                        "assistant to producer"
+                    ]
+                },
+                {
+                    "name": "Maximilien Dion",
+                    "link": "https://www.imdb.com/name/nm2665090/?ref_=ttfc_fc_cr",
+                    "credit": "set runner",
+                    "normalized_credit": [
+                        "set runner"
+                    ]
+                },
+                {
+                    "name": "Pierre Guevremont",
+                    "link": "https://www.imdb.com/name/nm0346505/?ref_=ttfc_fc_cr",
+                    "credit": "production accountant",
+                    "normalized_credit": [
+                        "production accountant"
+                    ]
+                },
+                {
+                    "name": "Jean-Francois Hall",
+                    "link": "https://www.imdb.com/name/nm2876261/?ref_=ttfc_fc_cr",
+                    "credit": "figurant",
+                    "normalized_credit": [
+                        "figurant"
+                    ]
+                },
+                {
+                    "name": "Sarah Jene",
+                    "link": "https://www.imdb.com/name/nm1116484/?ref_=ttfc_fc_cr",
+                    "credit": "assistant to executive producer",
+                    "normalized_credit": [
+                        "assistant to executive producer"
+                    ]
+                },
+                {
+                    "name": "Frederic Moreau",
+                    "link": "https://www.imdb.com/name/nm2785093/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "Genevi\u00e8ve Bergeron",
+                    "link": "https://www.imdb.com/name/nm7500202/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "H\u00e9l\u00e8ne Colgan",
+                    "link": "https://www.imdb.com/name/nm7500203/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Nathalie Croteau",
+                    "link": "https://www.imdb.com/name/nm7500204/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Barbara Daigneault",
+                    "link": "https://www.imdb.com/name/nm7500205/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Anne-Marie Edward",
+                    "link": "https://www.imdb.com/name/nm7500206/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Maud Haviernick",
+                    "link": "https://www.imdb.com/name/nm7500207/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Barbara Klucznik-Widajewicz",
+                    "link": "https://www.imdb.com/name/nm7500208/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Maryse Lagani\u00e8re",
+                    "link": "https://www.imdb.com/name/nm7500209/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Maryse Leclair",
+                    "link": "https://www.imdb.com/name/nm7500210/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Anne-Marie Lemay",
+                    "link": "https://www.imdb.com/name/nm7500211/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Adam Kelly Morton",
+                    "link": "https://www.imdb.com/name/nm3611169/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Sonia Pelletier",
+                    "link": "https://www.imdb.com/name/nm7500212/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Mich\u00e8le Richard",
+                    "link": "https://www.imdb.com/name/nm7500213/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Annie St-Arneault",
+                    "link": "https://www.imdb.com/name/nm7500214/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                },
+                {
+                    "name": "Annie Turcotte",
+                    "link": "https://www.imdb.com/name/nm7500215/?ref_=ttfc_fc_cr",
+                    "credit": "dedicatee",
+                    "normalized_credit": [
+                        "dedicatee"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

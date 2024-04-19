@@ -1,0 +1,140 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt8150920/fullcredits/",
+    "title": "Haim: Valentine (Music Video 2017)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Albert Chi",
+                    "link": "https://www.imdb.com/name/nm1479274/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Erica Frauman",
+                    "link": "https://www.imdb.com/name/nm0292396/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Sara Murphy",
+                    "link": "https://www.imdb.com/name/nm2072976/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Andy Jurgensen",
+                    "link": "https://www.imdb.com/name/nm1425140/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Carmen Ruiz de Huidobro",
+                    "link": "https://www.imdb.com/name/nm1618705/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Deanna Barillari",
+                    "link": "https://www.imdb.com/name/nm1147753/?ref_=ttfc_fc_cr",
+                    "credit": "unit production manager",
+                    "normalized_credit": [
+                        "unit production manager"
+                    ]
+                },
+                {
+                    "name": "Kat Barnette",
+                    "link": "https://www.imdb.com/name/nm6405320/?ref_=ttfc_fc_cr",
+                    "credit": "unit production manager",
+                    "normalized_credit": [
+                        "unit production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Joe Chouchanian",
+                    "link": "https://www.imdb.com/name/nm1774410/?ref_=ttfc_fc_cr",
+                    "credit": "best boy grip",
+                    "normalized_credit": [
+                        "best boy grip"
+                    ]
+                },
+                {
+                    "name": "Jeff Kunkel",
+                    "link": "https://www.imdb.com/name/nm0475203/?ref_=ttfc_fc_cr",
+                    "credit": "key grip",
+                    "normalized_credit": [
+                        "key grip"
+                    ]
+                },
+                {
+                    "name": "Anna Rybchenkov",
+                    "link": "https://www.imdb.com/name/nm5926527/?ref_=ttfc_fc_cr",
+                    "credit": "camera production assistant",
+                    "normalized_credit": [
+                        "camera production assistant"
+                    ]
+                },
+                {
+                    "name": "Peter Rybchenkov",
+                    "link": "https://www.imdb.com/name/nm5745528/?ref_=ttfc_fc_cr",
+                    "credit": "electrician",
+                    "normalized_credit": [
+                        "electrician"
+                    ]
+                },
+                {
+                    "name": "Drey Jordan Singer",
+                    "link": "https://www.imdb.com/name/nm4351649/?ref_=ttfc_fc_cr",
+                    "credit": "film loader",
+                    "normalized_credit": [
+                        "film loader"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

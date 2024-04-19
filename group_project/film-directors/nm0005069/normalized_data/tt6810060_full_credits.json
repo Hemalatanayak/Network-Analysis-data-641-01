@@ -1,0 +1,76 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6810060/fullcredits/",
+    "title": "MC 900 Ft. Jesus: If I Only Had a Brain (Music Video 1994)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Spike Jonze",
+                    "link": "https://www.imdb.com/name/nm0005069/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "David Thorne",
+                    "link": "https://www.imdb.com/name/nm0861366/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "MC 900 Ft. Jesus",
+                    "link": "https://www.imdb.com/name/nm2412291/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Michael Bonvillain",
+                    "link": "https://www.imdb.com/name/nm0095272/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Rick Pearson",
+                    "link": "https://www.imdb.com/name/nm2199811/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Teri Whittaker",
+                    "link": "https://www.imdb.com/name/nm0924311/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        }
+    ],
+    "imdb_details": {}
+}

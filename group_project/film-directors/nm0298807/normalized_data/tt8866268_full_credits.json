@@ -1,0 +1,50 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt8866268/fullcredits/",
+    "title": "Various Artists: Freedom (Music Video 1995)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Antoine Fuqua",
+                    "link": "https://www.imdb.com/name/nm0298807/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Dallas Austin",
+                    "link": "https://www.imdb.com/name/nm0042356/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Joi Gilliam",
+                    "link": "https://www.imdb.com/name/nm4920346/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Dallas Austin",
+                    "link": "https://www.imdb.com/name/nm0042356/?ref_=ttfc_fc_cr",
+                    "credit": "song producer",
+                    "normalized_credit": [
+                        "song producer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

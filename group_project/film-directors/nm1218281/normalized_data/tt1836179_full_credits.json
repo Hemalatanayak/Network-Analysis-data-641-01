@@ -1,0 +1,183 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt1836179/fullcredits/",
+    "title": "The Fuzz (TV Series 2011)",
+    "full_credits": [
+        {
+            "role": "Series Directed by",
+            "crew": [
+                {
+                    "name": "Duncan Skiles",
+                    "link": "https://www.imdb.com/name/nm1892658/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Jon Watts",
+                    "link": "https://www.imdb.com/name/nm1218281/?ref_=ttfc_fc_dr2"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Series Writing Credits",
+            "crew": [
+                {
+                    "name": "Christopher Ford",
+                    "link": "https://www.imdb.com/name/nm1755986/?ref_=ttfc_fc_wr1",
+                    "credit": "(as Christopher D. Ford)"
+                },
+                {
+                    "name": "Duncan Skiles",
+                    "link": "https://www.imdb.com/name/nm1892658/?ref_=ttfc_fc_wr2"
+                },
+                {
+                    "name": "Jon Watts",
+                    "link": "https://www.imdb.com/name/nm1218281/?ref_=ttfc_fc_wr3"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Series Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Series Music by",
+            "crew": [
+                {
+                    "name": "Matt Veligdan",
+                    "link": "https://www.imdb.com/name/nm1672712/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Series Cinematography by",
+            "crew": [
+                {
+                    "name": "Matthew Santo",
+                    "link": "https://www.imdb.com/name/nm1177700/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Series Production Design by",
+            "crew": [
+                {
+                    "name": "John Furgason",
+                    "link": "https://www.imdb.com/name/nm2531574/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Series Art Direction by",
+            "crew": [
+                {
+                    "name": "Max Isaacson",
+                    "link": "https://www.imdb.com/name/nm1362059/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Series Costume Design by",
+            "crew": [
+                {
+                    "name": "Abby Walton",
+                    "link": "https://www.imdb.com/name/nm3878134/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Costume Design by"
+        },
+        {
+            "role": "Series Art Department",
+            "crew": [
+                {
+                    "name": "Nhu-Anh Le",
+                    "link": "https://www.imdb.com/name/nm4053751/?ref_=ttfc_fc_cr",
+                    "credit": "assistant art director (as Annie Le)",
+                    "normalized_credit": [
+                        "assistant art director"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Series Visual Effects by",
+            "crew": [
+                {
+                    "name": "Tad Ericson",
+                    "link": "https://www.imdb.com/name/nm2460024/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                },
+                {
+                    "name": "Brian Houlihan",
+                    "link": "https://www.imdb.com/name/nm3673493/?ref_=ttfc_fc_cr",
+                    "credit": "lead compositor",
+                    "normalized_credit": [
+                        "lead compositor"
+                    ]
+                },
+                {
+                    "name": "Marci Ichimura",
+                    "link": "https://www.imdb.com/name/nm3252314/?ref_=ttfc_fc_cr",
+                    "credit": "visual effects artist",
+                    "normalized_credit": [
+                        "visual effects artist"
+                    ]
+                },
+                {
+                    "name": "Franz Kol",
+                    "link": "https://www.imdb.com/name/nm4656336/?ref_=ttfc_fc_cr",
+                    "credit": "lead compositor",
+                    "normalized_credit": [
+                        "lead compositor"
+                    ]
+                },
+                {
+                    "name": "Lenz Kol",
+                    "link": "https://www.imdb.com/name/nm4036179/?ref_=ttfc_fc_cr",
+                    "credit": "digital compositor",
+                    "normalized_credit": [
+                        "digital compositor"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Series Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Holly Hosman",
+                    "link": "https://www.imdb.com/name/nm3268346/?ref_=ttfc_fc_cr",
+                    "credit": "gaffer",
+                    "normalized_credit": [
+                        "gaffer"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Series Music Department",
+            "crew": [
+                {
+                    "name": "Ashley Waldron",
+                    "link": "https://www.imdb.com/name/nm1027472/?ref_=ttfc_fc_cr",
+                    "credit": "music supervisor",
+                    "normalized_credit": [
+                        "music supervisor"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        }
+    ],
+    "imdb_details": {}
+}

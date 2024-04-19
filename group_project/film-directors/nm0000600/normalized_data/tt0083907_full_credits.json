@@ -1,0 +1,486 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0083907/fullcredits/",
+    "title": "The Evil Dead (1981)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_wr1",
+                    "credit": "(written by)",
+                    "normalized_credit": [
+                        "written by"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) verified as complete",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Bruce Campbell",
+                    "link": "https://www.imdb.com/name/nm0132257/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Gary Holt",
+                    "link": "https://www.imdb.com/name/nm0392428/?ref_=ttfc_fc_cr",
+                    "credit": "assistant producer",
+                    "normalized_credit": [
+                        "assistant producer"
+                    ]
+                },
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer",
+                    "normalized_credit": [
+                        "executive producer"
+                    ]
+                },
+                {
+                    "name": "Irvin Shapiro",
+                    "link": "https://www.imdb.com/name/nm0788523/?ref_=ttfc_fc_cr",
+                    "credit": "producer (uncredited)",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Rob Tapert",
+                    "link": "https://www.imdb.com/name/nm0849964/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer (as Robert Tapert) / producer (as Robert Tapert) (produced by)",
+                    "normalized_credit": [
+                        "executive producer",
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Joseph LoDuca",
+                    "link": "https://www.imdb.com/name/nm0006173/?ref_=ttfc_fc_cr",
+                    "credit": "(as Joe Loduca) (music composed by)"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Tim Philo",
+                    "link": "https://www.imdb.com/name/nm0680924/?ref_=ttfc_fc_cr",
+                    "credit": "(photography)",
+                    "normalized_credit": [
+                        "photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Edna Ruth Paul",
+                    "link": "https://www.imdb.com/name/nm0666819/?ref_=ttfc_fc_cr",
+                    "credit": "film editor",
+                    "normalized_credit": [
+                        "film editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Tom Sullivan",
+                    "link": "https://www.imdb.com/name/nm0838385/?ref_=ttfc_fc_cr",
+                    "credit": "(uncredited)"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Tom Sullivan",
+                    "link": "https://www.imdb.com/name/nm0838385/?ref_=ttfc_fc_cr",
+                    "credit": "special makeup effects",
+                    "normalized_credit": [
+                        "special makeup effects"
+                    ]
+                },
+                {
+                    "name": "Bruce Campbell",
+                    "link": "https://www.imdb.com/name/nm0132257/?ref_=ttfc_fc_cr",
+                    "credit": "makeup artist (uncredited)",
+                    "normalized_credit": [
+                        "makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Steve Frankel",
+                    "link": "https://www.imdb.com/name/nm0291249/?ref_=ttfc_fc_cr",
+                    "credit": "construction supervisor",
+                    "normalized_credit": [
+                        "construction supervisor"
+                    ]
+                },
+                {
+                    "name": "Tom Sullivan",
+                    "link": "https://www.imdb.com/name/nm0838385/?ref_=ttfc_fc_cr",
+                    "credit": "illustrator (uncredited) / props (uncredited)",
+                    "normalized_credit": [
+                        "illustrator",
+                        "props"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Josh Becker",
+                    "link": "https://www.imdb.com/name/nm0065471/?ref_=ttfc_fc_cr",
+                    "credit": "sound: second unit",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                },
+                {
+                    "name": "Dolores Elliott",
+                    "link": "https://www.imdb.com/name/nm0254428/?ref_=ttfc_fc_cr",
+                    "credit": "assistant sound editor",
+                    "normalized_credit": [
+                        "assistant sound editor"
+                    ]
+                },
+                {
+                    "name": "Jerrell Frederick",
+                    "link": "https://www.imdb.com/name/nm0292792/?ref_=ttfc_fc_cr",
+                    "credit": "dialogue re-recordist (as Jerry Frederick)",
+                    "normalized_credit": [
+                        "dialogue re-recordist"
+                    ]
+                },
+                {
+                    "name": "Lou Kleinman",
+                    "link": "https://www.imdb.com/name/nm0459117/?ref_=ttfc_fc_cr",
+                    "credit": "dialogue editor",
+                    "normalized_credit": [
+                        "dialogue editor"
+                    ]
+                },
+                {
+                    "name": "Joe Masefield",
+                    "link": "https://www.imdb.com/name/nm0556240/?ref_=ttfc_fc_cr",
+                    "credit": "supervising sound editor",
+                    "normalized_credit": [
+                        "supervising sound editor"
+                    ]
+                },
+                {
+                    "name": "John Mason",
+                    "link": "https://www.imdb.com/name/nm0556780/?ref_=ttfc_fc_cr",
+                    "credit": "location sound recordist",
+                    "normalized_credit": [
+                        "location sound recordist"
+                    ]
+                },
+                {
+                    "name": "Mel Zelniker",
+                    "link": "https://www.imdb.com/name/nm0954676/?ref_=ttfc_fc_cr",
+                    "credit": "sound mixer",
+                    "normalized_credit": [
+                        "sound mixer"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Special Effects by",
+            "crew": [
+                {
+                    "name": "Tom Sullivan",
+                    "link": "https://www.imdb.com/name/nm0838385/?ref_=ttfc_fc_cr",
+                    "credit": "special makeup effects",
+                    "normalized_credit": [
+                        "special makeup effects"
+                    ]
+                },
+                {
+                    "name": "Bart Pierce",
+                    "link": "https://www.imdb.com/name/nm0682291/?ref_=ttfc_fc_cr",
+                    "credit": "special effects (uncredited)",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                },
+                {
+                    "name": "Sam Raimi",
+                    "link": "https://www.imdb.com/name/nm0000600/?ref_=ttfc_fc_cr",
+                    "credit": "special effects (uncredited)",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                },
+                {
+                    "name": "Kurt Rauf",
+                    "link": "https://www.imdb.com/name/nm0712049/?ref_=ttfc_fc_cr",
+                    "credit": "special effects technician (uncredited)",
+                    "normalized_credit": [
+                        "special effects technician"
+                    ]
+                },
+                {
+                    "name": "Tom Sullivan",
+                    "link": "https://www.imdb.com/name/nm0838385/?ref_=ttfc_fc_cr",
+                    "credit": "special effects (uncredited)",
+                    "normalized_credit": [
+                        "special effects"
+                    ]
+                }
+            ],
+            "normalized role": "Special Effects by"
+        },
+        {
+            "role": "Visual Effects by",
+            "crew": [
+                {
+                    "name": "Bart Pierce",
+                    "link": "https://www.imdb.com/name/nm0682291/?ref_=ttfc_fc_cr",
+                    "credit": "photographic special effects",
+                    "normalized_credit": [
+                        "photographic special effects"
+                    ]
+                },
+                {
+                    "name": "Alastor Arnold",
+                    "link": "https://www.imdb.com/name/nm2548891/?ref_=ttfc_fc_cr",
+                    "credit": "digital intermediate remastering colorist (uncredited)",
+                    "normalized_credit": [
+                        "digital intermediate remastering colorist"
+                    ]
+                }
+            ],
+            "normalized role": "Visual Effects by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Josh Becker",
+                    "link": "https://www.imdb.com/name/nm0065471/?ref_=ttfc_fc_cr",
+                    "credit": "lighting: second unit",
+                    "normalized_credit": [
+                        "lighting"
+                    ]
+                },
+                {
+                    "name": "Mike Ditz",
+                    "link": "https://www.imdb.com/name/nm0228602/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                },
+                {
+                    "name": "Tim Philo",
+                    "link": "https://www.imdb.com/name/nm0680924/?ref_=ttfc_fc_cr",
+                    "credit": "lighting",
+                    "normalized_credit": [
+                        "lighting"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Animation Department",
+            "crew": [
+                {
+                    "name": "Tom Sullivan",
+                    "link": "https://www.imdb.com/name/nm0838385/?ref_=ttfc_fc_cr",
+                    "credit": "animator (uncredited)",
+                    "normalized_credit": [
+                        "animator"
+                    ]
+                }
+            ],
+            "normalized role": "Animation Department"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Joel Coen",
+                    "link": "https://www.imdb.com/name/nm0001054/?ref_=ttfc_fc_cr",
+                    "credit": "assistant film editor",
+                    "normalized_credit": [
+                        "assistant film editor"
+                    ]
+                },
+                {
+                    "name": "Chris Innis",
+                    "link": "https://www.imdb.com/name/nm0409197/?ref_=ttfc_fc_cr",
+                    "credit": "16mm original negative restoration and conformation (2010 version)",
+                    "normalized_credit": [
+                        "16mm original negative restoration conformation 2010 version"
+                    ]
+                },
+                {
+                    "name": "Bob Murawski",
+                    "link": "https://www.imdb.com/name/nm0613657/?ref_=ttfc_fc_cr",
+                    "credit": "16mm original negative restoration and conformation (2010 version)",
+                    "normalized_credit": [
+                        "16mm original negative restoration conformation 2010 version"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Joseph LoDuca",
+                    "link": "https://www.imdb.com/name/nm0006173/?ref_=ttfc_fc_cr",
+                    "credit": "conductor (as Joe Loduca)",
+                    "normalized_credit": [
+                        "conductor"
+                    ]
+                },
+                {
+                    "name": "Ed Wolfrum",
+                    "link": "https://www.imdb.com/name/nm0938405/?ref_=ttfc_fc_cr",
+                    "credit": "music engineer",
+                    "normalized_credit": [
+                        "music engineer"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Transportation Department",
+            "crew": [
+                {
+                    "name": "David M. Goodman",
+                    "link": "https://www.imdb.com/name/nm0329049/?ref_=ttfc_fc_cr",
+                    "credit": "transportation captain (as David Goodman)",
+                    "normalized_credit": [
+                        "transportation captain"
+                    ]
+                }
+            ],
+            "normalized role": "Transportation Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Don Campbell",
+                    "link": "https://www.imdb.com/name/nm0132394/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                },
+                {
+                    "name": "John A. Gallagher",
+                    "link": "https://www.imdb.com/name/nm0302410/?ref_=ttfc_fc_cr",
+                    "credit": "publicist (uncredited)",
+                    "normalized_credit": [
+                        "publicist"
+                    ]
+                },
+                {
+                    "name": "Bridget Hoffman",
+                    "link": "https://www.imdb.com/name/nm0033977/?ref_=ttfc_fc_cr",
+                    "credit": "photographic model (uncredited)",
+                    "normalized_credit": [
+                        "photographic model"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        },
+        {
+            "role": "Thanks",
+            "crew": [
+                {
+                    "name": "John A. Gallagher",
+                    "link": "https://www.imdb.com/name/nm0302410/?ref_=ttfc_fc_cr",
+                    "credit": "special thanks",
+                    "normalized_credit": [
+                        "special thanks"
+                    ]
+                },
+                {
+                    "name": "Simon Nuchtern",
+                    "link": "https://www.imdb.com/name/nm0637726/?ref_=ttfc_fc_cr",
+                    "credit": "with special thanks to",
+                    "normalized_credit": [
+                        "with special thanks to"
+                    ]
+                },
+                {
+                    "name": "Sheila Roberts",
+                    "link": "https://www.imdb.com/name/nm0731578/?ref_=ttfc_fc_cr",
+                    "credit": "with special thanks to",
+                    "normalized_credit": [
+                        "with special thanks to"
+                    ]
+                },
+                {
+                    "name": "Carol Valenti",
+                    "link": "https://www.imdb.com/name/nm0884106/?ref_=ttfc_fc_cr",
+                    "credit": "with special thanks to",
+                    "normalized_credit": [
+                        "with special thanks to"
+                    ]
+                }
+            ],
+            "normalized role": "Thanks"
+        }
+    ],
+    "imdb_details": {}
+}

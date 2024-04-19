@@ -1,0 +1,114 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt6656616/fullcredits/",
+    "title": "George Michael: Freedom! '90 (Music Video 1990)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "David Fincher",
+                    "link": "https://www.imdb.com/name/nm0000399/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Jeff Cronenweth",
+                    "link": "https://www.imdb.com/name/nm0188729/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "James Haygood",
+                    "link": "https://www.imdb.com/name/nm0371307/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "George Michael",
+                    "link": "https://www.imdb.com/name/nm0584117/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "John Beard",
+                    "link": "https://www.imdb.com/name/nm0063905/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Guido Palau",
+                    "link": "https://www.imdb.com/name/nm7828858/?ref_=ttfc_fc_cr",
+                    "credit": "hair stylist",
+                    "normalized_credit": [
+                        "hair stylist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Julian Bucknall",
+                    "link": "https://www.imdb.com/name/nm0007078/?ref_=ttfc_fc_cr",
+                    "credit": "clapper loader",
+                    "normalized_credit": [
+                        "clapper loader"
+                    ]
+                },
+                {
+                    "name": "Eddie Dias",
+                    "link": "https://www.imdb.com/name/nm2745027/?ref_=ttfc_fc_cr",
+                    "credit": "Lighting Coordinator",
+                    "normalized_credit": [
+                        "lighting coordinator"
+                    ]
+                },
+                {
+                    "name": "Mike Southon",
+                    "link": "https://www.imdb.com/name/nm0005881/?ref_=ttfc_fc_cr",
+                    "credit": "still photographer",
+                    "normalized_credit": [
+                        "still photographer"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Richard Styles",
+                    "link": "https://www.imdb.com/name/nm0836574/?ref_=ttfc_fc_cr",
+                    "credit": "runner",
+                    "normalized_credit": [
+                        "runner"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

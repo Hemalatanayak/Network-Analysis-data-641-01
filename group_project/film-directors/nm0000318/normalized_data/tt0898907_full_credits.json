@@ -1,0 +1,88 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0898907/fullcredits/",
+    "title": "Doctor of Doom (1979)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Tim Burton",
+                    "link": "https://www.imdb.com/name/nm0000318/?ref_=ttfc_fc_dr1"
+                },
+                {
+                    "name": "Jerry Rees",
+                    "link": "https://www.imdb.com/name/nm0715916/?ref_=ttfc_fc_dr2"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Tim Burton",
+                    "link": "https://www.imdb.com/name/nm0000318/?ref_=ttfc_fc_wr1",
+                    "credit": "(writer)",
+                    "normalized_credit": [
+                        "writer"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Jerry Rees",
+                    "link": "https://www.imdb.com/name/nm0715916/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Jerry Rees",
+                    "link": "https://www.imdb.com/name/nm0715916/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Randy Cartwright",
+                    "link": "https://www.imdb.com/name/nm0142200/?ref_=ttfc_fc_cr",
+                    "credit": "sound engineering",
+                    "normalized_credit": [
+                        "sound engineering"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Jerry Rees",
+                    "link": "https://www.imdb.com/name/nm0715916/?ref_=ttfc_fc_cr",
+                    "credit": "camera",
+                    "normalized_credit": [
+                        "camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        }
+    ],
+    "imdb_details": {}
+}

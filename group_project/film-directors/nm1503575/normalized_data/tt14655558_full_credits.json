@@ -1,0 +1,42 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt14655558/fullcredits/",
+    "title": "The Gaze (Video 2021)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Barry Jenkins",
+                    "link": "https://www.imdb.com/name/nm1503575/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Nicholas Britell",
+                    "link": "https://www.imdb.com/name/nm1615109/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Daniel Morfesis",
+                    "link": "https://www.imdb.com/name/nm2710952/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        }
+    ],
+    "imdb_details": {}
+}

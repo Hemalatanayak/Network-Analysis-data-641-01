@@ -1,0 +1,114 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0363069/fullcredits/",
+    "title": "Silent Beats (2001)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Jon M. Chu",
+                    "link": "https://www.imdb.com/name/nm0160840/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Jon M. Chu",
+                    "link": "https://www.imdb.com/name/nm0160840/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Christopher Browne",
+                    "link": "https://www.imdb.com/name/nm1358613/?ref_=ttfc_fc_cr",
+                    "credit": "producer (as Chris Browne)",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Jon M. Chu",
+                    "link": "https://www.imdb.com/name/nm0160840/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Christopher Browne",
+                    "link": "https://www.imdb.com/name/nm1358613/?ref_=ttfc_fc_cr",
+                    "credit": "(as Chris Browne)"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Christopher Browne",
+                    "link": "https://www.imdb.com/name/nm1358613/?ref_=ttfc_fc_cr",
+                    "credit": "(as Chris Browne)"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Production Design by",
+            "crew": [
+                {
+                    "name": "Jon M. Chu",
+                    "link": "https://www.imdb.com/name/nm0160840/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Production Design by"
+        },
+        {
+            "role": "Makeup Department",
+            "crew": [
+                {
+                    "name": "Supranee",
+                    "link": "https://www.imdb.com/name/nm1360930/?ref_=ttfc_fc_cr",
+                    "credit": "key makeup artist",
+                    "normalized_credit": [
+                        "key makeup artist"
+                    ]
+                }
+            ],
+            "normalized role": "Makeup Department"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Jon M. Chu",
+                    "link": "https://www.imdb.com/name/nm0160840/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        }
+    ],
+    "imdb_details": {}
+}

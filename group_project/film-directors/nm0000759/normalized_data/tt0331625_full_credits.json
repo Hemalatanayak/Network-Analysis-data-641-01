@@ -1,0 +1,70 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0331625/fullcredits/",
+    "title": "SNL Fanatic (TV Short 2000)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Paul Thomas Anderson",
+                    "link": "https://www.imdb.com/name/nm0000759/?ref_=ttfc_fc_wr1"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Alexander Buono",
+                    "link": "https://www.imdb.com/name/nm0120645/?ref_=ttfc_fc_cr"
+                },
+                {
+                    "name": "Daniel B. Gold",
+                    "link": "https://www.imdb.com/name/nm1096915/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "John Laskas",
+                    "link": "https://www.imdb.com/name/nm0489603/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Editorial Department",
+            "crew": [
+                {
+                    "name": "Alexander Serpico",
+                    "link": "https://www.imdb.com/name/nm0785350/?ref_=ttfc_fc_cr",
+                    "credit": "assistant editor",
+                    "normalized_credit": [
+                        "assistant editor"
+                    ]
+                }
+            ],
+            "normalized role": "Editorial Department"
+        }
+    ],
+    "imdb_details": {}
+}

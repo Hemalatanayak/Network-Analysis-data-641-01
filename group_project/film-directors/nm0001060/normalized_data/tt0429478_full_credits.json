@@ -1,0 +1,134 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0429478/fullcredits/",
+    "title": "3",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Chris Columbus",
+                    "link": "https://www.imdb.com/name/nm0001060/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Chris Columbus",
+                    "link": "https://www.imdb.com/name/nm0001060/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Wesley Hicks",
+                    "link": "https://www.imdb.com/name/nm1955314/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Laurann Lento Black",
+                    "link": "https://www.imdb.com/name/nm0085393/?ref_=ttfc_fc_cr",
+                    "credit": "unit production manager",
+                    "normalized_credit": [
+                        "unit production manager"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "Wesley Hicks",
+                    "link": "https://www.imdb.com/name/nm1955314/?ref_=ttfc_fc_cr",
+                    "credit": "first assistant director: second unit",
+                    "normalized_credit": [
+                        "first assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Maria Luisa Gambale",
+                    "link": "https://www.imdb.com/name/nm0303678/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Wayne Kimball",
+                    "link": "https://www.imdb.com/name/nm0453833/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                },
+                {
+                    "name": "Colleen Nowers",
+                    "link": "https://www.imdb.com/name/nm1825650/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                },
+                {
+                    "name": "Zachary S. Taylor",
+                    "link": "https://www.imdb.com/name/nm1971592/?ref_=ttfc_fc_cr",
+                    "credit": "assistant camera",
+                    "normalized_credit": [
+                        "assistant camera"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Stefani Patch",
+                    "link": "https://www.imdb.com/name/nm1948866/?ref_=ttfc_fc_cr",
+                    "credit": "talent handler",
+                    "normalized_credit": [
+                        "talent hler"
+                    ]
+                },
+                {
+                    "name": "Adam Raia",
+                    "link": "https://www.imdb.com/name/nm1935425/?ref_=ttfc_fc_cr",
+                    "credit": "production assistant",
+                    "normalized_credit": [
+                        "production assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}

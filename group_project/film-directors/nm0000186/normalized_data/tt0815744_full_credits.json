@@ -1,0 +1,54 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0815744/fullcredits/",
+    "title": "DumbLand (TV Mini Series 2002)",
+    "full_credits": [
+        {
+            "role": "Series Directed by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_dr1",
+                    "credit": "(8 episodes, 2002)",
+                    "normalized_credit": [
+                        "8 episodes, 2002"
+                    ]
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Series Writing Credits",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_wr1",
+                    "credit": "(unknown episodes)",
+                    "normalized_credit": [
+                        "unknown episodes"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Series Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Series Produced by",
+            "crew": [
+                {
+                    "name": "David Lynch",
+                    "link": "https://www.imdb.com/name/nm0000186/?ref_=ttfc_fc_cr",
+                    "credit": "producer (unknown episodes)",
+                    "normalized_credit": [
+                        "producer unknown episodes"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        }
+    ],
+    "imdb_details": {}
+}

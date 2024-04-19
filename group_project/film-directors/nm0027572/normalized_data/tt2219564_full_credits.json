@@ -1,0 +1,60 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt2219564/fullcredits/",
+    "title": "Cousin Ben Troop Screening with Jason Schwartzman (2012)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Wes Anderson",
+                    "link": "https://www.imdb.com/name/nm0027572/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Wes Anderson",
+                    "link": "https://www.imdb.com/name/nm0027572/?ref_=ttfc_fc_wr1"
+                },
+                {
+                    "name": "Roman Coppola",
+                    "link": "https://www.imdb.com/name/nm0178910/?ref_=ttfc_fc_wr2"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Edward Bursch",
+                    "link": "https://www.imdb.com/name/nm3266699/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Department",
+            "crew": [
+                {
+                    "name": "Cat Spilman",
+                    "link": "https://www.imdb.com/name/nm5132810/?ref_=ttfc_fc_cr",
+                    "credit": "assistant set decorator (as Cat Green)",
+                    "normalized_credit": [
+                        "assistant set decorator"
+                    ]
+                }
+            ],
+            "normalized role": "Art Department"
+        }
+    ],
+    "imdb_details": {}
+}

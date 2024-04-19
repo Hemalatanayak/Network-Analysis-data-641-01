@@ -1,0 +1,74 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt24018408/fullcredits/",
+    "title": "Joy is made",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Taika Waititi",
+                    "link": "https://www.imdb.com/name/nm0169806/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Cast",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Taika Waititi",
+                    "link": "https://www.imdb.com/name/nm0169806/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Mike Berlucchi",
+                    "link": "https://www.imdb.com/name/nm2406922/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Richard Elworthy",
+                    "link": "https://www.imdb.com/name/nm1959898/?ref_=ttfc_fc_cr",
+                    "credit": "1st assistant: A camera",
+                    "normalized_credit": [
+                        "1st assistant"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "Tom Brink",
+                    "link": "https://www.imdb.com/name/nm14166842/?ref_=ttfc_fc_cr",
+                    "credit": "Title Animation",
+                    "normalized_credit": [
+                        "title animation"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}
