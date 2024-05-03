@@ -17,7 +17,11 @@ The repository contains code for extracting director and movie information from 
 
 `get_crew_data.py` - This script scrapes all the IMDb movie links (e.g., https://www.imdb.com/title/tt5104604/) from the ***credit.json*** file. It then stores all the crew details for each movie in separate files (***e.g., \film-directors\nm0000095\tt0061177_full_credits.json***).
 
-`normalization.py` - This script standardizes all variations of cast and writing credits to their root roles. It saves these normalized credits in a directory named ***normalized_data*** inside each director's directory. The files inside normalized_data (***e.g., film-directors\nm0000095\normalized_data\tt0061177_full_credits.json***) contain all the normalized information.
+`normalization.py` - This script standardizes all variations of cast and writing credits to their root roles. It saves these normalized credits in a directory named ***normalized_data*** inside each director's directory. The files inside normalized_data (***e.g., film-directors\nm0000095\normalized_data\tt0061177_full_credits.json***) contain all the normalized information. 
+
+**Note:** This script also filters out the movie which are short and keeps only those movies which are longer than 70 min. The ***normalized_data*** directory contains only featured movies and the normalized crew information.
+
+`sanity_check.ipynb` - This notebook contains answers to some of the research question. It is just to check whether data has been extracted correctly or not. The notebook is self explanatory.
 
 
 ## Getting Started

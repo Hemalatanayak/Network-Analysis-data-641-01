@@ -1,0 +1,44 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0054670/fullcredits/",
+    "title": "Fighter Squad (1961)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_dr1"
+                }
+            ]
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_wr1"
+                }
+            ]
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_cr",
+                    "credit": "producer"
+                }
+            ]
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_cr"
+                }
+            ]
+        }
+    ],
+    "imdb_details": {}
+}

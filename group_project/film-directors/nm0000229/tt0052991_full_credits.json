@@ -1,0 +1,39 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0052991/fullcredits/",
+    "title": "The Last Gun (1959)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_dr1"
+                }
+            ]
+        },
+        {
+            "role": "Cast",
+            "crew": []
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_cr",
+                    "credit": "producer"
+                }
+            ]
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_cr"
+                }
+            ]
+        }
+    ],
+    "imdb_details": {}
+}

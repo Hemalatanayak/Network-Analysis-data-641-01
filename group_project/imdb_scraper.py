@@ -397,7 +397,7 @@ def normalize_movie_subrole(mov_crew):
         if( 'credit' not in mov_crew[j] ):
             continue
 
-        norm_subroles = re.split('\(segment|\/', mov_crew[j]['credit'])
+        norm_subroles = re.split(r'\(segment|\/', mov_crew[j]['credit'])
         norm_subroles = [normalize_crew_credit(nsub).strip() for nsub in norm_subroles]
         norm_subroles = [nsub for nsub in norm_subroles if nsub != '']
         

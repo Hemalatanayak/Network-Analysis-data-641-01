@@ -1,0 +1,66 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0100876/fullcredits/",
+    "title": "The Visionary (Video 1990)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_dr1",
+                    "credit": "(segment \"Par for the Course\")"
+                },
+                {
+                    "name": "Douglas Day Stewart",
+                    "link": "https://www.imdb.com/name/nm0829343/?ref_=ttfc_fc_dr2",
+                    "credit": "(segment \"The Longer Trail\")"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "T.Y. Drake",
+                    "link": "https://www.imdb.com/name/nm0237021/?ref_=ttfc_fc_wr1",
+                    "credit": "(segment) (segment \"Par for the Course\") (as Thomas Y. Drake)"
+                },
+                {
+                    "name": "Charles E. Israel",
+                    "link": "https://www.imdb.com/name/nm0411445/?ref_=ttfc_fc_wr2",
+                    "credit": "(segment) (segment \"The Longer Trail\")"
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order)",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Norman Felton",
+                    "link": "https://www.imdb.com/name/nm0271653/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                },
+                {
+                    "name": "Jerrold Freedman",
+                    "link": "https://www.imdb.com/name/nm0293197/?ref_=ttfc_fc_cr",
+                    "credit": "producer (as Jerald Freedman)",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        }
+    ],
+    "imdb_details": {}
+}

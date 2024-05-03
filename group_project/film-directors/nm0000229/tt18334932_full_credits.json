@@ -1,0 +1,60 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt18334932/fullcredits/",
+    "title": "Untitled Frank Bullitt Project",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_dr1"
+                }
+            ]
+        },
+        {
+            "role": "Writing Credits (in alphabetical order)",
+            "crew": [
+                {
+                    "name": "Josh Singer",
+                    "link": "https://www.imdb.com/name/nm1802857/?ref_=ttfc_fc_wr1",
+                    "credit": "(screenplay)"
+                }
+            ]
+        },
+        {
+            "role": "Cast",
+            "crew": []
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "Bradley Cooper",
+                    "link": "https://www.imdb.com/name/nm0177896/?ref_=ttfc_fc_cr",
+                    "credit": "producer"
+                },
+                {
+                    "name": "Kristie Macosko Krieger",
+                    "link": "https://www.imdb.com/name/nm1069736/?ref_=ttfc_fc_cr",
+                    "credit": "producer"
+                },
+                {
+                    "name": "Chad McQueen",
+                    "link": "https://www.imdb.com/name/nm0574337/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer"
+                },
+                {
+                    "name": "Molly McQueen",
+                    "link": "https://www.imdb.com/name/nm4158547/?ref_=ttfc_fc_cr",
+                    "credit": "executive producer"
+                },
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_cr",
+                    "credit": "producer"
+                }
+            ]
+        }
+    ],
+    "imdb_details": {}
+}
