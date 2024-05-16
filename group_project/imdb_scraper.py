@@ -12,6 +12,7 @@ Requirements:
 '''
 import json
 import re
+import requests
 
 from bs4 import BeautifulSoup
 from datetime import timedelta
@@ -81,7 +82,7 @@ def get_full_credits_for_director(dir_id):
         
     return dir_credits
 
-def get_full_crew_for_movie(title_id, set_imdb_details=False):
+def get_full_crew_for_movie(title_id, set_imdb_details=True, timeout = 30):
 
     def get_crew_table_dets(crew_tab):
     
@@ -120,9 +121,18 @@ def get_full_crew_for_movie(title_id, set_imdb_details=False):
     html_pg = derefURI(uri)
 
     try:
+        response = requests.get(uri, timeout=timeout)
+        response.raise_for_status()
+        html_pg = response.text
         soup = BeautifulSoup(html_pg, 'html.parser')
         title = getPgTitleFrmHTML(html_pg)
         title = title.split('-')[0].strip()
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching data for {title_id}: {e}")
+        return {}
+    except Exception as e:
+        print(f"Error processing data for {title_id}: {e}")
+        return {}
     except:
         genericErrorInfo()
         return {}

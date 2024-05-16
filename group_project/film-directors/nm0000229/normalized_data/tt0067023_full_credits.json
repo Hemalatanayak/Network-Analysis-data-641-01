@@ -1,0 +1,562 @@
+{
+    "title_uri": "https://www.imdb.com/title/tt0067023/fullcredits/",
+    "title": "Duel (TV Movie 1971)",
+    "full_credits": [
+        {
+            "role": "Directed by",
+            "crew": [
+                {
+                    "name": "Steven Spielberg",
+                    "link": "https://www.imdb.com/name/nm0000229/?ref_=ttfc_fc_dr1"
+                }
+            ],
+            "normalized role": "Directed by"
+        },
+        {
+            "role": "Writing Credits",
+            "crew": [
+                {
+                    "name": "Richard Matheson",
+                    "link": "https://www.imdb.com/name/nm0558577/?ref_=ttfc_fc_wr1",
+                    "credit": "(screenplay)",
+                    "normalized_credit": [
+                        "screenplay"
+                    ]
+                },
+                {
+                    "name": "Richard Matheson",
+                    "link": "https://www.imdb.com/name/nm0558577/?ref_=ttfc_fc_wr2",
+                    "credit": "(story)",
+                    "normalized_credit": [
+                        "story"
+                    ]
+                }
+            ],
+            "normalized role": "Writing Credits"
+        },
+        {
+            "role": "Cast (in credits order) verified as complete",
+            "crew": [],
+            "normalized role": "Cast"
+        },
+        {
+            "role": "Produced by",
+            "crew": [
+                {
+                    "name": "George Eckstein",
+                    "link": "https://www.imdb.com/name/nm0248740/?ref_=ttfc_fc_cr",
+                    "credit": "producer",
+                    "normalized_credit": [
+                        "producer"
+                    ]
+                }
+            ],
+            "normalized role": "Produced by"
+        },
+        {
+            "role": "Music by",
+            "crew": [
+                {
+                    "name": "Billy Goldenberg",
+                    "link": "https://www.imdb.com/name/nm0006105/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Music by"
+        },
+        {
+            "role": "Cinematography by",
+            "crew": [
+                {
+                    "name": "Jack A. Marta",
+                    "link": "https://www.imdb.com/name/nm0005785/?ref_=ttfc_fc_cr",
+                    "credit": "director of photography",
+                    "normalized_credit": [
+                        "director of photography"
+                    ]
+                }
+            ],
+            "normalized role": "Cinematography by"
+        },
+        {
+            "role": "Editing by",
+            "crew": [
+                {
+                    "name": "Frank Morriss",
+                    "link": "https://www.imdb.com/name/nm0607359/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Editing by"
+        },
+        {
+            "role": "Art Direction by",
+            "crew": [
+                {
+                    "name": "Robert S. Smith",
+                    "link": "https://www.imdb.com/name/nm0809764/?ref_=ttfc_fc_cr"
+                }
+            ],
+            "normalized role": "Art Direction by"
+        },
+        {
+            "role": "Set Decoration by",
+            "crew": [
+                {
+                    "name": "Sal Blydenburgh",
+                    "link": "https://www.imdb.com/name/nm0089981/?ref_=ttfc_fc_cr",
+                    "credit": "(as S. Blydenburgh)"
+                }
+            ],
+            "normalized role": "Set Decoration by"
+        },
+        {
+            "role": "Production Management",
+            "crew": [
+                {
+                    "name": "Wallace Worsley Jr.",
+                    "link": "https://www.imdb.com/name/nm0941623/?ref_=ttfc_fc_cr",
+                    "credit": "unit production manager (as Wallace Worsley)",
+                    "normalized_credit": [
+                        "unit production manager"
+                    ]
+                },
+                {
+                    "name": "Charles Clement",
+                    "link": "https://www.imdb.com/name/nm0166069/?ref_=ttfc_fc_cr",
+                    "credit": "post production operations head (uncredited)",
+                    "normalized_credit": [
+                        "post production operations head"
+                    ]
+                }
+            ],
+            "normalized role": "Production Management"
+        },
+        {
+            "role": "Second Unit Director or Assistant Director",
+            "crew": [
+                {
+                    "name": "James Fargo",
+                    "link": "https://www.imdb.com/name/nm0267309/?ref_=ttfc_fc_cr",
+                    "credit": "assistant director (as Jim Fargo)",
+                    "normalized_credit": [
+                        "assistant director"
+                    ]
+                }
+            ],
+            "normalized role": "Second Unit Director or Assistant Director"
+        },
+        {
+            "role": "Sound Department",
+            "crew": [
+                {
+                    "name": "Jerry Christian",
+                    "link": "https://www.imdb.com/name/nm4640685/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Edwin S. Hall",
+                    "link": "https://www.imdb.com/name/nm0355543/?ref_=ttfc_fc_cr",
+                    "credit": "sound",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                },
+                {
+                    "name": "Sam Caylor",
+                    "link": "https://www.imdb.com/name/nm0147300/?ref_=ttfc_fc_cr",
+                    "credit": "sound (uncredited)",
+                    "normalized_credit": [
+                        "sound"
+                    ]
+                },
+                {
+                    "name": "Dale Johnston",
+                    "link": "https://www.imdb.com/name/nm0426582/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor (uncredited)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Jack Kirschner",
+                    "link": "https://www.imdb.com/name/nm0456951/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor (uncredited)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Ronald LaVine",
+                    "link": "https://www.imdb.com/name/nm0492110/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor (uncredited)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Sid Lubow",
+                    "link": "https://www.imdb.com/name/nm0523970/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor (uncredited)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "Richard Raderman",
+                    "link": "https://www.imdb.com/name/nm0705483/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor (uncredited)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                },
+                {
+                    "name": "John Stacy",
+                    "link": "https://www.imdb.com/name/nm0821089/?ref_=ttfc_fc_cr",
+                    "credit": "sound effects editor (uncredited)",
+                    "normalized_credit": [
+                        "sound effects editor"
+                    ]
+                }
+            ],
+            "normalized role": "Sound Department"
+        },
+        {
+            "role": "Stunts",
+            "crew": [
+                {
+                    "name": "Carey Loftin",
+                    "link": "https://www.imdb.com/name/nm0517444/?ref_=ttfc_fc_cr",
+                    "credit": "stunt coordinator (as Cary Loftin)",
+                    "normalized_credit": [
+                        "stunt coordinator"
+                    ]
+                },
+                {
+                    "name": "Carol Daniels",
+                    "link": "https://www.imdb.com/name/nm0199859/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                },
+                {
+                    "name": "Carey Loftin",
+                    "link": "https://www.imdb.com/name/nm0517444/?ref_=ttfc_fc_cr",
+                    "credit": "stunt driver (uncredited)",
+                    "normalized_credit": [
+                        "stunt driver"
+                    ]
+                },
+                {
+                    "name": "Dale Van Sickel",
+                    "link": "https://www.imdb.com/name/nm0887975/?ref_=ttfc_fc_cr",
+                    "credit": "stunts (uncredited)",
+                    "normalized_credit": [
+                        "stunts"
+                    ]
+                }
+            ],
+            "normalized role": "Stunts"
+        },
+        {
+            "role": "Camera and Electrical Department",
+            "crew": [
+                {
+                    "name": "Pat Eustis",
+                    "link": "https://www.imdb.com/name/nm2836365/?ref_=ttfc_fc_cr",
+                    "credit": "camera car operator (uncredited)",
+                    "normalized_credit": [
+                        "camera car operator"
+                    ]
+                },
+                {
+                    "name": "Sherman Kunkel",
+                    "link": "https://www.imdb.com/name/nm0475215/?ref_=ttfc_fc_cr",
+                    "credit": "camera operator (uncredited)",
+                    "normalized_credit": [
+                        "camera operator"
+                    ]
+                }
+            ],
+            "normalized role": "Camera and Electrical Department"
+        },
+        {
+            "role": "Music Department",
+            "crew": [
+                {
+                    "name": "Paul Beaver",
+                    "link": "https://www.imdb.com/name/nm0064775/?ref_=ttfc_fc_cr",
+                    "credit": "musician: keyboards (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Bob Bornstein",
+                    "link": "https://www.imdb.com/name/nm0097131/?ref_=ttfc_fc_cr",
+                    "credit": "music copyist (uncredited)",
+                    "normalized_credit": [
+                        "music copyist"
+                    ]
+                },
+                {
+                    "name": "Dennis Budimir",
+                    "link": "https://www.imdb.com/name/nm0119006/?ref_=ttfc_fc_cr",
+                    "credit": "musician: guitar (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Larry Bunker",
+                    "link": "https://www.imdb.com/name/nm0120488/?ref_=ttfc_fc_cr",
+                    "credit": "musician: drums, percussion (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Al Casey",
+                    "link": "https://www.imdb.com/name/nm3470715/?ref_=ttfc_fc_cr",
+                    "credit": "musician: guitar (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Sandy De Crescent",
+                    "link": "https://www.imdb.com/name/nm0214010/?ref_=ttfc_fc_cr",
+                    "credit": "orchestra manager (uncredited)",
+                    "normalized_credit": [
+                        "orchestra manager"
+                    ]
+                },
+                {
+                    "name": "Mike Deasy",
+                    "link": "https://www.imdb.com/name/nm1285697/?ref_=ttfc_fc_cr",
+                    "credit": "musician: guitar (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Victor Feldman",
+                    "link": "https://www.imdb.com/name/nm0991674/?ref_=ttfc_fc_cr",
+                    "credit": "musician: drums, percussion (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Sam Freed Jr.",
+                    "link": "https://www.imdb.com/name/nm0293094/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Billy Goldenberg",
+                    "link": "https://www.imdb.com/name/nm0006105/?ref_=ttfc_fc_cr",
+                    "credit": "conductor (uncredited)",
+                    "normalized_credit": [
+                        "conductor"
+                    ]
+                },
+                {
+                    "name": "Milt Holland",
+                    "link": "https://www.imdb.com/name/nm0390783/?ref_=ttfc_fc_cr",
+                    "credit": "musician: drums, percussion (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Anatol Kaminsky",
+                    "link": "https://www.imdb.com/name/nm4830758/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Artie Kane",
+                    "link": "https://www.imdb.com/name/nm0437260/?ref_=ttfc_fc_cr",
+                    "credit": "musician: keyboards (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Armand Kaproff",
+                    "link": "https://www.imdb.com/name/nm1880860/?ref_=ttfc_fc_cr",
+                    "credit": "musician: cello (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Nathan Kaproff",
+                    "link": "https://www.imdb.com/name/nm0438586/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Carol Kaye",
+                    "link": "https://www.imdb.com/name/nm0443269/?ref_=ttfc_fc_cr",
+                    "credit": "musician: guitar (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Edgar Lustgarten",
+                    "link": "https://www.imdb.com/name/nm7251432/?ref_=ttfc_fc_cr",
+                    "credit": "musician: cello (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Virginia Majewski",
+                    "link": "https://www.imdb.com/name/nm0538112/?ref_=ttfc_fc_cr",
+                    "credit": "musician: viola (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Hal Mooney",
+                    "link": "https://www.imdb.com/name/nm0600727/?ref_=ttfc_fc_cr",
+                    "credit": "music supervisor (uncredited)",
+                    "normalized_credit": [
+                        "music supervisor"
+                    ]
+                },
+                {
+                    "name": "Erno Neufeld",
+                    "link": "https://www.imdb.com/name/nm2993756/?ref_=ttfc_fc_cr",
+                    "credit": "musician: violin (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Dorothy Remsen",
+                    "link": "https://www.imdb.com/name/nm1882416/?ref_=ttfc_fc_cr",
+                    "credit": "musician: harp (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Emil Richards",
+                    "link": "https://www.imdb.com/name/nm0724079/?ref_=ttfc_fc_cr",
+                    "credit": "musician: drums, percussion (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Frederick Seykora",
+                    "link": "https://www.imdb.com/name/nm11821708/?ref_=ttfc_fc_cr",
+                    "credit": "musician: cello (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Eleanor Slatkin",
+                    "link": "https://www.imdb.com/name/nm5910649/?ref_=ttfc_fc_cr",
+                    "credit": "musician: cello (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                },
+                {
+                    "name": "Milton Thomas",
+                    "link": "https://www.imdb.com/name/nm1153851/?ref_=ttfc_fc_cr",
+                    "credit": "musician: viola (uncredited)",
+                    "normalized_credit": [
+                        "musician"
+                    ]
+                }
+            ],
+            "normalized role": "Music Department"
+        },
+        {
+            "role": "Transportation Department",
+            "crew": [
+                {
+                    "name": "Donald P. Desmond",
+                    "link": "https://www.imdb.com/name/nm0221435/?ref_=ttfc_fc_cr",
+                    "credit": "transportation (uncredited)",
+                    "normalized_credit": [
+                        "transportation"
+                    ]
+                },
+                {
+                    "name": "Alfred Schultz",
+                    "link": "https://www.imdb.com/name/nm4558452/?ref_=ttfc_fc_cr",
+                    "credit": "transportation captain (uncredited)",
+                    "normalized_credit": [
+                        "transportation captain"
+                    ]
+                },
+                {
+                    "name": "Alby Thomas",
+                    "link": "https://www.imdb.com/name/nm0858449/?ref_=ttfc_fc_cr",
+                    "credit": "transportation coordinator (uncredited)",
+                    "normalized_credit": [
+                        "transportation coordinator"
+                    ]
+                }
+            ],
+            "normalized role": "Transportation Department"
+        },
+        {
+            "role": "Additional Crew",
+            "crew": [
+                {
+                    "name": "James W. Gavin",
+                    "link": "https://www.imdb.com/name/nm0310542/?ref_=ttfc_fc_cr",
+                    "credit": "helicopter pilot (uncredited)",
+                    "normalized_credit": [
+                        "helicopter pilot"
+                    ]
+                },
+                {
+                    "name": "Gerry Lewis",
+                    "link": "https://www.imdb.com/name/nm6180127/?ref_=ttfc_fc_cr",
+                    "credit": "publicist (uncredited)",
+                    "normalized_credit": [
+                        "publicist"
+                    ]
+                },
+                {
+                    "name": "Junior Newman",
+                    "link": "https://www.imdb.com/name/nm0628153/?ref_=ttfc_fc_cr",
+                    "credit": "mechanic (uncredited)",
+                    "normalized_credit": [
+                        "mechanic"
+                    ]
+                },
+                {
+                    "name": "Michael Parkhurst",
+                    "link": "https://www.imdb.com/name/nm0662774/?ref_=ttfc_fc_cr",
+                    "credit": "marketing consultant (uncredited) / technical advisor (uncredited)",
+                    "normalized_credit": [
+                        "marketing consultant",
+                        "technical advisor"
+                    ]
+                }
+            ],
+            "normalized role": "Additional Crew"
+        }
+    ],
+    "imdb_details": {}
+}
