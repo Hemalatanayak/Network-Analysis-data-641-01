@@ -3,7 +3,7 @@
 ## Getting Started
 1. Clone this repository.
 2. Ensure you have Python and the required packages installed (listed in `requirements.txt`).
-3. Run the scripts *extract_directors.py*, *get_crew_data.py*, *normalization.py* to perform their respective task as explained above.
+3. Run the scripts *extract_directors.py*, *get_crew_data.py*, *normalization.py* to perform their respective task as explained below.
 
 ## Overview
 This project aims to analyze collaborative networks among renowned film directors, focusing on key collaborators and their roles. By examining patterns of collaboration and diversity in hiring practices, we seek to understand how these factors influence the U.S. film industry's creative landscape.
